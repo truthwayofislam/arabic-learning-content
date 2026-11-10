@@ -1,0 +1,702 @@
+{
+  "schemaVersion": 1,
+  "translationLanguages": ["en", "ur", "id", "tr", "fr"],
+  "levels": [
+    {
+      "id": "conversation",
+      "order": 3,
+      "title": "Everyday Conversation",
+      "lessons": [
+        {
+          "title": "Greetings and farewells",
+          "items": [
+            ["hello", "phrase", "مَرْحَبًا", "marḥaban", "Hello."],
+            ["peace-greeting", "phrase", "السَّلَامُ عَلَيْكُمْ", "as-salāmu ʿalaykum", "Peace be upon you."],
+            ["farewell", "phrase", "إِلَى اللِّقَاءِ", "ilā l-liqāʾ", "Goodbye; until we meet."]
+          ]
+        },
+        {
+          "title": "Asking names",
+          "items": [
+            ["what-your-name-m", "question", "مَا اسْمُكَ؟", "mā ismuka?", "What is your name? (to a man)"],
+            ["what-your-name-f", "question", "مَا اسْمُكِ؟", "mā ismuki?", "What is your name? (to a woman)"],
+            ["my-name", "sentence", "اِسْمِي عَلِيٌّ", "ismī ʿAliyyun", "My name is Ali."]
+          ]
+        },
+        {
+          "title": "How are you?",
+          "items": [
+            ["how-are-you-m", "question", "كَيْفَ حَالُكَ؟", "kayfa ḥāluka?", "How are you? (to a man)"],
+            ["how-are-you-f", "question", "كَيْفَ حَالُكِ؟", "kayfa ḥāluki?", "How are you? (to a woman)"],
+            ["i-am-well", "sentence", "أَنَا بِخَيْرٍ، شُكْرًا", "anā bikhayrin, shukran", "I am well, thank you."]
+          ]
+        },
+        {
+          "title": "Introducing yourself",
+          "items": [
+            ["i-am-student-m", "sentence", "أَنَا طَالِبٌ", "anā ṭālibun", "I am a male student."],
+            ["i-am-student-f", "sentence", "أَنَا طَالِبَةٌ", "anā ṭālibatun", "I am a female student."],
+            ["i-learn-arabic", "sentence", "أَتَعَلَّمُ الْعَرَبِيَّةَ", "ataʿallamu l-ʿarabiyyata", "I am learning Arabic."]
+          ]
+        },
+        {
+          "title": "Countries and languages",
+          "items": [
+            ["where-from-m", "question", "مِنْ أَيْنَ أَنْتَ؟", "min ayna anta?", "Where are you from? (to a man)"],
+            ["i-am-from-egypt", "sentence", "أَنَا مِنْ مِصْرَ", "anā min Miṣra", "I am from Egypt."],
+            ["do-you-speak-arabic", "question", "هَلْ تَتَكَلَّمُ الْعَرَبِيَّةَ؟", "hal tatakallamu l-ʿarabiyyata?", "Do you speak Arabic? (to a man)"]
+          ]
+        },
+        {
+          "title": "Polite requests",
+          "items": [
+            ["please-m", "phrase", "مِنْ فَضْلِكَ", "min faḍlika", "Please. (to a man)"],
+            ["speak-slowly", "request", "تَكَلَّمْ بِبُطْءٍ، مِنْ فَضْلِكَ", "takallam bibutʾin, min faḍlika", "Please speak slowly. (to a man)"],
+            ["repeat-please", "request", "أَعِدْ ذَلِكَ، مِنْ فَضْلِكَ", "aʿid dhālika, min faḍlika", "Please repeat that. (to a man)"]
+          ]
+        },
+        {
+          "title": "Thanks and apologies",
+          "items": [
+            ["thank-you", "phrase", "شُكْرًا جَزِيلًا", "shukran jazīlan", "Thank you very much."],
+            ["you-are-welcome", "phrase", "عَفْوًا", "ʿafwan", "You are welcome."],
+            ["excuse-me", "phrase", "عُذْرًا", "ʿudhran", "Excuse me; I am sorry."]
+          ]
+        },
+        {
+          "title": "Asking for help",
+          "items": [
+            ["can-you-help-m", "question", "هَلْ يُمْكِنُكَ مُسَاعَدَتِي؟", "hal yumkinuka musāʿadatī?", "Can you help me? (to a man)"],
+            ["i-do-not-understand", "sentence", "لَا أَفْهَمُ", "lā afhamu", "I do not understand."],
+            ["what-does-this-mean", "question", "مَاذَا يَعْنِي هَذَا؟", "mādhā yaʿnī hādhā?", "What does this mean?"]
+          ]
+        },
+        {
+          "title": "Meeting people",
+          "items": [
+            ["nice-to-meet-you-m", "phrase", "سُرِرْتُ بِلِقَائِكَ", "surirtu biliqāʾika", "Nice to meet you. (to a man)"],
+            ["where-do-you-live", "question", "أَيْنَ تَسْكُنُ؟", "ayna taskunu?", "Where do you live? (to a man)"],
+            ["i-live-in-cairo", "sentence", "أَسْكُنُ فِي الْقَاهِرَةِ", "askunu fī l-Qāhirati", "I live in Cairo."]
+          ]
+        },
+        {
+          "title": "A short conversation",
+          "items": [
+            ["conversation-name", "sentence", "اِسْمِي فَاطِمَةُ، وَأَنَا مِنْ مِصْرَ", "ismī Fāṭimatu, wa-anā min Miṣra", "My name is Fatima, and I am from Egypt."],
+            ["conversation-student", "sentence", "أَنَا طَالِبَةٌ وَأَتَعَلَّمُ الْعَرَبِيَّةَ", "anā ṭālibatun wa-ataʿallamu l-ʿarabiyyata", "I am a student, and I am learning Arabic."],
+            ["conversation-thanks", "sentence", "سُرِرْتُ بِلِقَائِكِ، شُكْرًا", "surirtu biliqāʾiki, shukran", "Nice to meet you; thank you. (to a woman)"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "places",
+      "order": 4,
+      "title": "Home, Family and Places",
+      "lessons": [
+        {
+          "title": "Rooms at home",
+          "items": [
+            ["bedroom", "word", "غُرْفَةُ النَّوْمِ", "ghurfatu n-nawmi", "bedroom"],
+            ["kitchen", "word", "الْمَطْبَخُ", "al-maṭbakhu", "the kitchen"],
+            ["living-room", "word", "غُرْفَةُ الْجُلُوسِ", "ghurfatu l-julūsi", "living room"]
+          ]
+        },
+        {
+          "title": "Things in the house",
+          "items": [
+            ["window", "word", "النَّافِذَةُ", "an-nāfidhatu", "the window"],
+            ["chair", "word", "الْكُرْسِيُّ", "al-kursiyyu", "the chair"],
+            ["table", "word", "الطَّاوِلَةُ", "aṭ-ṭāwilatu", "the table"]
+          ]
+        },
+        {
+          "title": "Family members",
+          "items": [
+            ["father", "word", "أَبِي", "abī", "my father"],
+            ["mother", "word", "أُمِّي", "ummī", "my mother"],
+            ["brother", "word", "أَخِي", "akhī", "my brother"]
+          ]
+        },
+        {
+          "title": "More family",
+          "items": [
+            ["sister", "word", "أُخْتِي", "ukhtī", "my sister"],
+            ["son", "word", "اِبْنِي", "ibnī", "my son"],
+            ["daughter", "word", "اِبْنَتِي", "ibnatī", "my daughter"]
+          ]
+        },
+        {
+          "title": "At school",
+          "items": [
+            ["classroom", "word", "الْفَصْلُ", "al-faṣlu", "the classroom"],
+            ["library", "word", "الْمَكْتَبَةُ", "al-maktabatu", "the library"],
+            ["school", "word", "الْمَدْرَسَةُ", "al-madrasatu", "the school"]
+          ]
+        },
+        {
+          "title": "At the mosque",
+          "items": [
+            ["mosque", "word", "الْمَسْجِدُ", "al-masjidu", "the mosque"],
+            ["entrance", "word", "الْمَدْخَلُ", "al-madkhalu", "the entrance"],
+            ["prayer-hall", "word", "مُصَلَّى الْمَسْجِدِ", "muṣallā l-masjidi", "the mosque prayer hall"]
+          ]
+        },
+        {
+          "title": "At the market",
+          "items": [
+            ["market", "word", "السُّوقُ", "as-sūqu", "the market"],
+            ["shop", "word", "الْمَتْجَرُ", "al-matjaru", "the shop"],
+            ["price", "word", "السِّعْرُ", "as-siʿru", "the price"]
+          ]
+        },
+        {
+          "title": "Around town",
+          "items": [
+            ["hospital", "word", "الْمُسْتَشْفَى", "al-mustashfā", "the hospital"],
+            ["park", "word", "الْحَدِيقَةُ", "al-ḥadīqatu", "the park"],
+            ["street", "word", "الشَّارِعُ", "ash-shāriʿu", "the street"]
+          ]
+        },
+        {
+          "title": "Where is it?",
+          "items": [
+            ["where-is-the-book", "question", "أَيْنَ الْكِتَابُ؟", "ayna l-kitābu?", "Where is the book?"],
+            ["book-on-table", "sentence", "الْكِتَابُ عَلَى الطَّاوِلَةِ", "al-kitābu ʿalā ṭ-ṭāwilati", "The book is on the table."],
+            ["key-in-room", "sentence", "الْمِفْتَاحُ فِي الْغُرْفَةِ", "al-miftāḥu fī l-ghurfati", "The key is in the room."]
+          ]
+        },
+        {
+          "title": "Asking for a place",
+          "items": [
+            ["where-is-mosque", "question", "أَيْنَ الْمَسْجِدُ؟", "ayna l-masjidu?", "Where is the mosque?"],
+            ["near-here", "sentence", "الْمَسْجِدُ قَرِيبٌ مِنْ هُنَا", "al-masjidu qarībun min hunā", "The mosque is near here."],
+            ["go-straight", "request", "اِذْهَبْ إِلَى الْأَمَامِ", "idhhab ilā l-amāmi", "Go straight ahead. (to a man)"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "descriptions",
+      "order": 5,
+      "title": "Descriptions and Colors",
+      "lessons": [
+        {
+          "title": "Common colors",
+          "items": [
+            ["red-m", "word", "أَحْمَرُ", "aḥmaru", "red (masculine)"],
+            ["blue-m", "word", "أَزْرَقُ", "azraqu", "blue (masculine)"],
+            ["green-m", "word", "أَخْضَرُ", "akhḍaru", "green (masculine)"]
+          ]
+        },
+        {
+          "title": "More colors",
+          "items": [
+            ["white-m", "word", "أَبْيَضُ", "abyaḍu", "white (masculine)"],
+            ["black-m", "word", "أَسْوَدُ", "aswadu", "black (masculine)"],
+            ["yellow-m", "word", "أَصْفَرُ", "aṣfaru", "yellow (masculine)"]
+          ]
+        },
+        {
+          "title": "Big and small",
+          "items": [
+            ["big-m", "adjective", "كَبِيرٌ", "kabīrun", "big (masculine)"],
+            ["small-m", "adjective", "صَغِيرٌ", "ṣaghīrun", "small (masculine)"],
+            ["long-m", "adjective", "طَوِيلٌ", "ṭawīlun", "long (masculine)"]
+          ]
+        },
+        {
+          "title": "Describing feminine nouns",
+          "items": [
+            ["big-f", "adjective", "كَبِيرَةٌ", "kabīratun", "big (feminine)"],
+            ["small-f", "adjective", "صَغِيرَةٌ", "ṣaghīratun", "small (feminine)"],
+            ["beautiful-f", "adjective", "جَمِيلَةٌ", "jamīlatun", "beautiful (feminine)"]
+          ]
+        },
+        {
+          "title": "Useful qualities",
+          "items": [
+            ["new-m", "adjective", "جَدِيدٌ", "jadīdun", "new (masculine)"],
+            ["old-m", "adjective", "قَدِيمٌ", "qadīmun", "old (masculine)"],
+            ["clean-m", "adjective", "نَظِيفٌ", "naẓīfun", "clean (masculine)"]
+          ]
+        },
+        {
+          "title": "Describing objects",
+          "items": [
+            ["red-book", "sentence", "الْكِتَابُ أَحْمَرُ", "al-kitābu aḥmaru", "The book is red."],
+            ["new-house", "sentence", "الْبَيْتُ جَدِيدٌ", "al-baytu jadīdun", "The house is new."],
+            ["clean-room", "sentence", "الْغُرْفَةُ نَظِيفَةٌ", "al-ghurfatu naẓīfatun", "The room is clean."]
+          ]
+        },
+        {
+          "title": "Describing people",
+          "items": [
+            ["tall-man", "sentence", "الرَّجُلُ طَوِيلٌ", "ar-rajulu ṭawīlun", "The man is tall."],
+            ["beautiful-garden", "sentence", "الْحَدِيقَةُ جَمِيلَةٌ", "al-ḥadīqatu jamīlatun", "The garden is beautiful."],
+            ["small-child", "sentence", "الطِّفْلُ صَغِيرٌ", "aṭ-ṭiflu ṣaghīrun", "The child is small."]
+          ]
+        },
+        {
+          "title": "This and that",
+          "items": [
+            ["this-red-book", "sentence", "هَذَا كِتَابٌ أَحْمَرُ", "hādhā kitābun aḥmaru", "This is a red book."],
+            ["this-beautiful-car", "sentence", "هَذِهِ سَيَّارَةٌ جَمِيلَةٌ", "hādhihi sayyāratun jamīlatun", "This is a beautiful car."],
+            ["that-big-house", "sentence", "ذَلِكَ بَيْتٌ كَبِيرٌ", "dhālika baytun kabīrun", "That is a big house."]
+          ]
+        },
+        {
+          "title": "Comparing things",
+          "items": [
+            ["this-house-bigger", "sentence", "هَذَا الْبَيْتُ أَكْبَرُ", "hādhā l-baytu akbaru", "This house is bigger."],
+            ["car-is-fast", "sentence", "السَّيَّارَةُ سَرِيعَةٌ", "as-sayyāratu sarīʿatun", "The car is fast."],
+            ["room-is-quieter", "sentence", "الْغُرْفَةُ هَادِئَةٌ", "al-ghurfatu hādiʾatun", "The room is quiet."]
+          ]
+        },
+        {
+          "title": "Reviewing descriptions",
+          "items": [
+            ["blue-door", "sentence", "الْبَابُ أَزْرَقُ", "al-bābu azraqu", "The door is blue."],
+            ["white-flower", "sentence", "الزَّهْرَةُ بَيْضَاءُ", "az-zahratu bayḍāʾu", "The flower is white."],
+            ["small-beautiful-room", "sentence", "هَذِهِ غُرْفَةٌ صَغِيرَةٌ وَجَمِيلَةٌ", "hādhihi ghurfatun ṣaghīratun wa-jamīlatun", "This is a small and beautiful room."]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sentences",
+      "order": 6,
+      "title": "Building Simple Sentences",
+      "lessons": [
+        {
+          "title": "I, you and he",
+          "items": [
+            ["i-am-teacher", "sentence", "أَنَا مُعَلِّمٌ", "anā muʿallimun", "I am a male teacher."],
+            ["you-are-student-m", "sentence", "أَنْتَ طَالِبٌ", "anta ṭālibun", "You are a male student."],
+            ["he-is-doctor", "sentence", "هُوَ طَبِيبٌ", "huwa ṭabībun", "He is a doctor."]
+          ]
+        },
+        {
+          "title": "She, we and they",
+          "items": [
+            ["she-is-teacher", "sentence", "هِيَ مُعَلِّمَةٌ", "hiya muʿallimatun", "She is a teacher."],
+            ["we-are-students", "sentence", "نَحْنُ طُلَّابٌ", "naḥnu ṭullābun", "We are students."],
+            ["they-are-friends", "sentence", "هُمْ أَصْدِقَاءُ", "hum aṣdiqāʾu", "They are friends."]
+          ]
+        },
+        {
+          "title": "My and your belongings",
+          "items": [
+            ["my-book", "phrase", "كِتَابِي", "kitābī", "my book"],
+            ["your-book-m", "phrase", "كِتَابُكَ", "kitābuka", "your book (to a man)"],
+            ["her-house", "phrase", "بَيْتُهَا", "baytuhā", "her house"]
+          ]
+        },
+        {
+          "title": "Possessions in sentences",
+          "items": [
+            ["this-is-my-book", "sentence", "هَذَا كِتَابِي", "hādhā kitābī", "This is my book."],
+            ["his-house-is-big", "sentence", "بَيْتُهُ كَبِيرٌ", "baytuhu kabīrun", "His house is big."],
+            ["our-school-is-near", "sentence", "مَدْرَسَتُنَا قَرِيبَةٌ", "madrasatunā qarībatun", "Our school is nearby."]
+          ]
+        },
+        {
+          "title": "And and but",
+          "items": [
+            ["book-and-pen", "phrase", "كِتَابٌ وَقَلَمٌ", "kitābun wa-qalamun", "a book and a pen"],
+            ["student-but-tired", "sentence", "الطَّالِبُ مُجْتَهِدٌ وَلَكِنَّهُ مُتْعَبٌ", "aṭ-ṭālibu mujtahidun wa-lākinnahu mutʿabun", "The student is hardworking, but he is tired."],
+            ["house-and-garden", "sentence", "لِلْبَيْتِ حَدِيقَةٌ وَاسِعَةٌ", "li-l-bayti ḥadīqatun wāsiʿatun", "The house has a spacious garden."]
+          ]
+        },
+        {
+          "title": "Making a sentence negative",
+          "items": [
+            ["not-a-teacher", "sentence", "أَنَا لَسْتُ مُعَلِّمًا", "anā lastu muʿalliman", "I am not a teacher."],
+            ["not-big", "sentence", "الْبَيْتُ لَيْسَ كَبِيرًا", "al-baytu laysa kabīran", "The house is not big."],
+            ["not-here", "sentence", "الْمُعَلِّمَةُ لَيْسَتْ هُنَا", "al-muʿallimatu laysat hunā", "The teacher (female) is not here."]
+          ]
+        },
+        {
+          "title": "Yes-or-no questions",
+          "items": [
+            ["are-you-student-m", "question", "هَلْ أَنْتَ طَالِبٌ؟", "hal anta ṭālibun?", "Are you a student? (to a man)"],
+            ["is-this-your-book", "question", "هَلْ هَذَا كِتَابُكَ؟", "hal hādhā kitābuka?", "Is this your book? (to a man)"],
+            ["is-school-near", "question", "هَلِ الْمَدْرَسَةُ قَرِيبَةٌ؟", "hali l-madrasatu qarībatun?", "Is the school nearby?"]
+          ]
+        },
+        {
+          "title": "Who and what questions",
+          "items": [
+            ["who-is-he", "question", "مَنْ هُوَ؟", "man huwa?", "Who is he?"],
+            ["what-is-this", "question", "مَا هَذَا؟", "mā hādhā?", "What is this?"],
+            ["whose-book", "question", "لِمَنْ هَذَا الْكِتَابُ؟", "liman hādhā l-kitābu?", "Whose book is this?"]
+          ]
+        },
+        {
+          "title": "Where and when questions",
+          "items": [
+            ["where-do-you-work", "question", "أَيْنَ تَعْمَلُ؟", "ayna taʿmalu?", "Where do you work? (to a man)"],
+            ["when-is-class", "question", "مَتَى الدَّرْسُ؟", "matā d-darsu?", "When is the lesson?"],
+            ["why-are-you-here", "question", "لِمَاذَا أَنْتَ هُنَا؟", "limādhā anta hunā?", "Why are you here? (to a man)"]
+          ]
+        },
+        {
+          "title": "Putting it all together",
+          "items": [
+            ["i-am-new-student", "sentence", "أَنَا طَالِبٌ جَدِيدٌ وَهَذَا كِتَابِي", "anā ṭālibun jadīdun wa-hādhā kitābī", "I am a new student, and this is my book."],
+            ["she-lives-near-school", "sentence", "هِيَ تَسْكُنُ قَرِيبًا مِنَ الْمَدْرَسَةِ", "hiya taskunu qarīban mina l-madrasati", "She lives near the school."],
+            ["we-are-learning", "sentence", "نَحْنُ نَتَعَلَّمُ الْعَرَبِيَّةَ مَعًا", "naḥnu nataʿallamu l-ʿarabiyyata maʿan", "We are learning Arabic together."]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verbs",
+      "order": 7,
+      "title": "Everyday Actions",
+      "lessons": [
+        {
+          "title": "Studying and learning",
+          "items": [
+            ["i-study", "sentence", "أَدْرُسُ اللُّغَةَ الْعَرَبِيَّةَ", "adrusu l-lughata l-ʿarabiyyata", "I study the Arabic language."],
+            ["he-learns", "sentence", "هُوَ يَتَعَلَّمُ كُلَّ يَوْمٍ", "huwa yataʿallamu kulla yawmin", "He learns every day."],
+            ["she-studies", "sentence", "هِيَ تَدْرُسُ فِي الْمَكْتَبَةِ", "hiya tadrusu fī l-maktabati", "She studies in the library."]
+          ]
+        },
+        {
+          "title": "Reading and writing",
+          "items": [
+            ["i-read-book", "sentence", "أَقْرَأُ كِتَابًا جَدِيدًا", "aqraʾu kitāban jadīdan", "I read a new book."],
+            ["he-writes-lesson", "sentence", "هُوَ يَكْتُبُ الدَّرْسَ", "huwa yaktubu d-darsa", "He writes the lesson."],
+            ["she-reads-arabic", "sentence", "هِيَ تَقْرَأُ الْعَرَبِيَّةَ", "hiya taqraʾu l-ʿarabiyyata", "She reads Arabic."]
+          ]
+        },
+        {
+          "title": "Going and coming",
+          "items": [
+            ["i-go-school", "sentence", "أَذْهَبُ إِلَى الْمَدْرَسَةِ", "adhhabu ilā l-madrasati", "I go to school."],
+            ["he-comes-home", "sentence", "هُوَ يَأْتِي إِلَى الْبَيْتِ", "huwa yaʾtī ilā l-bayti", "He comes home."],
+            ["we-go-mosque", "sentence", "نَذْهَبُ إِلَى الْمَسْجِدِ", "nadhhabu ilā l-masjidi", "We go to the mosque."]
+          ]
+        },
+        {
+          "title": "Eating and drinking",
+          "items": [
+            ["i-drink-water", "sentence", "أَشْرَبُ الْمَاءَ", "ashrabu l-māʾa", "I drink water."],
+            ["he-eats-breakfast", "sentence", "هُوَ يَأْكُلُ الْفَطُورَ", "huwa yaʾkulu l-faṭūra", "He eats breakfast."],
+            ["they-drink-tea", "sentence", "هُمْ يَشْرَبُونَ الشَّايَ", "hum yashrabūna sh-shāya", "They drink tea."]
+          ]
+        },
+        {
+          "title": "Work and study",
+          "items": [
+            ["father-works", "sentence", "أَبِي يَعْمَلُ فِي الْمَكْتَبِ", "abī yaʿmalu fī l-maktabi", "My father works in the office."],
+            ["mother-teaches", "sentence", "أُمِّي تُعَلِّمُ الْأَطْفَالَ", "ummī tuʿallimu l-aṭfāla", "My mother teaches the children."],
+            ["student-studies", "sentence", "الطَّالِبُ يَدْرُسُ كَثِيرًا", "aṭ-ṭālibu yadrusu kathīran", "The student studies a lot."]
+          ]
+        },
+        {
+          "title": "Daily routines",
+          "items": [
+            ["i-wake-early", "sentence", "أَسْتَيْقِظُ مُبَكِّرًا", "astayqiẓu mubakkiran", "I wake up early."],
+            ["she-sleeps-early", "sentence", "هِيَ تَنَامُ مُبَكِّرًا", "hiya tanāmu mubakkiran", "She sleeps early."],
+            ["we-pray-together", "sentence", "نُصَلِّي مَعًا", "nuṣallī maʿan", "We pray together."]
+          ]
+        },
+        {
+          "title": "Likes and preferences",
+          "items": [
+            ["i-like-reading", "sentence", "أُحِبُّ الْقِرَاءَةَ", "uḥibbu l-qirāʾata", "I like reading."],
+            ["he-likes-coffee", "sentence", "هُوَ يُحِبُّ الْقَهْوَةَ", "huwa yuḥibbu l-qahwata", "He likes coffee."],
+            ["she-likes-arabic", "sentence", "هِيَ تُحِبُّ اللُّغَةَ الْعَرَبِيَّةَ", "hiya tuḥibbu l-lughata l-ʿarabiyyata", "She likes the Arabic language."]
+          ]
+        },
+        {
+          "title": "Can and cannot",
+          "items": [
+            ["i-can-read", "sentence", "أَسْتَطِيعُ أَنْ أَقْرَأَ", "astaṭīʿu an aqraʾa", "I can read."],
+            ["he-cannot-come", "sentence", "لَا يَسْتَطِيعُ أَنْ يَأْتِيَ", "lā yastaṭīʿu an yaʾtiya", "He cannot come."],
+            ["can-you-help", "question", "هَلْ تَسْتَطِيعُ أَنْ تُسَاعِدَنِي؟", "hal tastaṭīʿu an tusāʿidanī?", "Can you help me? (to a man)"]
+          ]
+        },
+        {
+          "title": "Asking about actions",
+          "items": [
+            ["what-do-you-read", "question", "مَاذَا تَقْرَأُ؟", "mādhā taqraʾu?", "What are you reading? (to a man)"],
+            ["where-does-she-work", "question", "أَيْنَ تَعْمَلُ الْمُعَلِّمَةُ؟", "ayna taʿmalu l-muʿallimatu?", "Where does the female teacher work?"],
+            ["when-do-they-come", "question", "مَتَى يَأْتُونَ؟", "matā yaʾtūna?", "When do they come?"]
+          ]
+        },
+        {
+          "title": "Reviewing daily actions",
+          "items": [
+            ["i-read-and-write", "sentence", "أَقْرَأُ وَأَكْتُبُ كُلَّ يَوْمٍ", "aqraʾu wa-aktubu kulla yawmin", "I read and write every day."],
+            ["she-goes-and-studies", "sentence", "تَذْهَبُ وَتَدْرُسُ فِي الْجَامِعَةِ", "tadhhabu wa-tadrusu fī l-jāmiʿati", "She goes and studies at the university."],
+            ["we-eat-at-home", "sentence", "نَأْكُلُ الْعَشَاءَ فِي الْبَيْتِ", "naʾkulu l-ʿashāʾa fī l-bayti", "We eat dinner at home."]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "routine",
+      "order": 8,
+      "title": "Time, Numbers and Daily Routine",
+      "lessons": [
+        {
+          "title": "Counting books",
+          "items": [
+            ["one-book", "phrase", "كِتَابٌ وَاحِدٌ", "kitābun wāḥidun", "one book"],
+            ["two-books", "phrase", "كِتَابَانِ", "kitābāni", "two books"],
+            ["five-books", "phrase", "خَمْسَةُ كُتُبٍ", "khamsatu kutubin", "five books"]
+          ]
+        },
+        {
+          "title": "Numbers in daily life",
+          "items": [
+            ["six-students", "phrase", "سِتَّةُ طُلَّابٍ", "sittatu ṭullābin", "six students"],
+            ["seven-days", "phrase", "سَبْعَةُ أَيَّامٍ", "sabʿatu ayyāmin", "seven days"],
+            ["ten-riyals", "phrase", "عَشَرَةُ رِيَالَاتٍ", "ʿasharatu riyālātin", "ten riyals"]
+          ]
+        },
+        {
+          "title": "Days of the week",
+          "items": [
+            ["today-monday", "sentence", "الْيَوْمُ يَوْمُ الِاثْنَيْنِ", "al-yawmu yawmu l-ithnayni", "Today is Monday."],
+            ["tomorrow-tuesday", "sentence", "غَدًا يَوْمُ الثُّلَاثَاءِ", "ghadan yawmu th-thulāthāʾi", "Tomorrow is Tuesday."],
+            ["week-seven-days", "sentence", "فِي الْأُسْبُوعِ سَبْعَةُ أَيَّامٍ", "fī l-usbūʿi sabʿatu ayyāmin", "There are seven days in a week."]
+          ]
+        },
+        {
+          "title": "Asking the time",
+          "items": [
+            ["what-time-is-it", "question", "كَمِ السَّاعَةُ؟", "kami s-sāʿatu?", "What time is it?"],
+            ["one-oclock", "sentence", "السَّاعَةُ الْوَاحِدَةُ", "as-sāʿatu l-wāḥidatu", "It is one o'clock."],
+            ["three-oclock", "sentence", "السَّاعَةُ الثَّالِثَةُ", "as-sāʿatu th-thālithatu", "It is three o'clock."]
+          ]
+        },
+        {
+          "title": "Morning and evening",
+          "items": [
+            ["in-morning", "phrase", "فِي الصَّبَاحِ", "fī ṣ-ṣabāḥi", "in the morning"],
+            ["in-evening", "phrase", "فِي الْمَسَاءِ", "fī l-masāʾi", "in the evening"],
+            ["i-study-morning", "sentence", "أَدْرُسُ فِي الصَّبَاحِ", "adrusu fī ṣ-ṣabāḥi", "I study in the morning."]
+          ]
+        },
+        {
+          "title": "Daily schedule",
+          "items": [
+            ["i-wake-at-six", "sentence", "أَسْتَيْقِظُ فِي السَّاعَةِ السَّادِسَةِ", "astayqiẓu fī s-sāʿati s-sādisati", "I wake up at six o'clock."],
+            ["class-at-eight", "sentence", "الدَّرْسُ فِي السَّاعَةِ الثَّامِنَةِ", "ad-darsu fī s-sāʿati th-thāminati", "The lesson is at eight o'clock."],
+            ["sleep-at-ten", "sentence", "أَنَامُ فِي السَّاعَةِ الْعَاشِرَةِ", "anāmu fī s-sāʿati l-ʿāshirati", "I go to sleep at ten o'clock."]
+          ]
+        },
+        {
+          "title": "Before and after",
+          "items": [
+            ["before-class", "phrase", "قَبْلَ الدَّرْسِ", "qabla d-darsi", "before the lesson"],
+            ["after-work", "phrase", "بَعْدَ الْعَمَلِ", "baʿda l-ʿamali", "after work"],
+            ["after-prayer", "sentence", "أَقْرَأُ بَعْدَ الصَّلَاةِ", "aqraʾu baʿda ṣ-ṣalāti", "I read after the prayer."]
+          ]
+        },
+        {
+          "title": "How often?",
+          "items": [
+            ["every-day", "phrase", "كُلَّ يَوْمٍ", "kulla yawmin", "every day"],
+            ["once-a-week", "phrase", "مَرَّةً وَاحِدَةً فِي الْأُسْبُوعِ", "marratan wāḥidatan fī l-usbūʿi", "once a week"],
+            ["i-practice-daily", "sentence", "أَتَدَرَّبُ عَلَى الْعَرَبِيَّةِ كُلَّ يَوْمٍ", "atadarrabu ʿalā l-ʿarabiyyati kulla yawmin", "I practice Arabic every day."]
+          ]
+        },
+        {
+          "title": "Making an appointment",
+          "items": [
+            ["meet-tomorrow", "request", "هَلْ نَلْتَقِي غَدًا؟", "hal naltaqī ghadan?", "Shall we meet tomorrow?"],
+            ["at-five", "phrase", "فِي السَّاعَةِ الْخَامِسَةِ", "fī s-sāʿati l-khāmisati", "at five o'clock"],
+            ["see-you-tomorrow", "phrase", "أَرَاكَ غَدًا", "arāka ghadan", "See you tomorrow. (to a man)"]
+          ]
+        },
+        {
+          "title": "Reviewing time and routine",
+          "items": [
+            ["breakfast-at-seven", "sentence", "أَتَنَاوَلُ الْفَطُورَ فِي السَّاعَةِ السَّابِعَةِ", "atanāwalu l-faṭūra fī s-sāʿati s-sābiʿati", "I eat breakfast at seven o'clock."],
+            ["work-from-morning", "sentence", "أَعْمَلُ مِنَ الصَّبَاحِ إِلَى الظُّهْرِ", "aʿmalu mina ṣ-ṣabāḥi ilā ẓ-ẓuhri", "I work from morning until noon."],
+            ["weekend-rest", "sentence", "أَسْتَرِيحُ يَوْمَ الْجُمُعَةِ", "astarīḥu yawma l-jumuʿati", "I rest on Friday."]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tenses",
+      "order": 9,
+      "title": "Past and Future",
+      "lessons": [
+        {
+          "title": "Yesterday and today",
+          "items": [
+            ["yesterday", "word", "أَمْسِ", "amsi", "yesterday"],
+            ["today", "word", "الْيَوْمَ", "al-yawma", "today"],
+            ["i-studied-yesterday", "sentence", "دَرَسْتُ أَمْسِ", "darastu amsi", "I studied yesterday."]
+          ]
+        },
+        {
+          "title": "Past actions",
+          "items": [
+            ["i-read-yesterday", "sentence", "قَرَأْتُ كِتَابًا أَمْسِ", "qaraʾtu kitāban amsi", "I read a book yesterday."],
+            ["he-went-school", "sentence", "ذَهَبَ إِلَى الْمَدْرَسَةِ", "dhahaba ilā l-madrasati", "He went to school."],
+            ["she-wrote-letter", "sentence", "كَتَبَتْ رِسَالَةً", "katabat risālatan", "She wrote a letter."]
+          ]
+        },
+        {
+          "title": "We and they in the past",
+          "items": [
+            ["we-visited", "sentence", "زُرْنَا جَدَّتَنَا", "zurnā jaddatanā", "We visited our grandmother."],
+            ["they-played", "sentence", "لَعِبُوا فِي الْحَدِيقَةِ", "laʿibū fī l-ḥadīqati", "They played in the park."],
+            ["you-learned", "sentence", "تَعَلَّمْتَ كَلِمَاتٍ جَدِيدَةً", "taʿallamta kalimātin jadīdatan", "You learned new words. (to a man)"]
+          ]
+        },
+        {
+          "title": "Asking about the past",
+          "items": [
+            ["what-did-you-do", "question", "مَاذَا فَعَلْتَ أَمْسِ؟", "mādhā faʿalta amsi?", "What did you do yesterday? (to a man)"],
+            ["where-did-you-go", "question", "أَيْنَ ذَهَبْتَ؟", "ayna dhahabta?", "Where did you go? (to a man)"],
+            ["did-you-read", "question", "هَلْ قَرَأْتَ الدَّرْسَ؟", "hal qaraʾta d-darsa?", "Did you read the lesson? (to a man)"]
+          ]
+        },
+        {
+          "title": "Tomorrow and later",
+          "items": [
+            ["tomorrow", "word", "غَدًا", "ghadan", "tomorrow"],
+            ["next-week", "phrase", "الْأُسْبُوعَ الْقَادِمَ", "al-usbūʿa l-qādima", "next week"],
+            ["soon", "word", "قَرِيبًا", "qarīban", "soon"]
+          ]
+        },
+        {
+          "title": "Future with sa",
+          "items": [
+            ["i-will-study", "sentence", "سَأَدْرُسُ غَدًا", "sa-adrusu ghadan", "I will study tomorrow."],
+            ["he-will-travel", "sentence", "سَيُسَافِرُ الْأُسْبُوعَ الْقَادِمَ", "sa-yusāfiru l-usbūʿa l-qādima", "He will travel next week."],
+            ["she-will-visit", "sentence", "سَتَزُورُ جَدَّتَهَا", "sa-tazūru jaddatahā", "She will visit her grandmother."]
+          ]
+        },
+        {
+          "title": "Future with sawfa",
+          "items": [
+            ["we-will-meet", "sentence", "سَوْفَ نَلْتَقِي غَدًا", "sawfa naltaqī ghadan", "We will meet tomorrow."],
+            ["they-will-play", "sentence", "سَوْفَ يَلْعَبُونَ بَعْدَ الدَّرْسِ", "sawfa yalʿabūna baʿda d-darsi", "They will play after the lesson."],
+            ["i-will-call-you", "sentence", "سَوْفَ أُكَلِّمُكَ غَدًا", "sawfa ukallimuka ghadan", "I will speak to you tomorrow. (to a man)"]
+          ]
+        },
+        {
+          "title": "Plans and intentions",
+          "items": [
+            ["i-want-to-travel", "sentence", "أُرِيدُ أَنْ أُسَافِرَ", "urīdu an usāfira", "I want to travel."],
+            ["we-plan-to-study", "sentence", "نُرِيدُ أَنْ نَدْرُسَ مَعًا", "nurīdu an nadrusa maʿan", "We want to study together."],
+            ["what-will-you-do", "question", "مَاذَا سَتَفْعَلُ غَدًا؟", "mādhā satafʿalu ghadan?", "What will you do tomorrow? (to a man)"]
+          ]
+        },
+        {
+          "title": "Past, present and future",
+          "items": [
+            ["i-was-at-home", "sentence", "كُنْتُ فِي الْبَيْتِ أَمْسِ", "kuntu fī l-bayti amsi", "I was at home yesterday."],
+            ["i-am-at-school", "sentence", "أَنَا فِي الْمَدْرَسَةِ الْيَوْمَ", "anā fī l-madrasati l-yawma", "I am at school today."],
+            ["i-will-be-home", "sentence", "سَأَكُونُ فِي الْبَيْتِ غَدًا", "sa-akūnu fī l-bayti ghadan", "I will be at home tomorrow."]
+          ]
+        },
+        {
+          "title": "Reviewing past and future",
+          "items": [
+            ["yesterday-today-tomorrow", "sentence", "دَرَسْتُ أَمْسِ، وَأَدْرُسُ الْيَوْمَ، وَسَأَدْرُسُ غَدًا", "darastu amsi, wa-adrusu l-yawma, wa-sa-adrusu ghadan", "I studied yesterday, I study today, and I will study tomorrow."],
+            ["she-went-will-return", "sentence", "ذَهَبَتْ إِلَى السُّوقِ، وَسَتَرْجِعُ بَعْدَ قَلِيلٍ", "dhahabat ilā s-sūqi, wa-satarjiʿu baʿda qalīlin", "She went to the market and will return soon."],
+            ["we-visited-will-visit", "sentence", "زُرْنَا أُسْرَتَنَا، وَسَنَزُورُهُمْ غَدًا", "zurnā usratanā, wa-sanazūruhum ghadan", "We visited our family, and we will visit them tomorrow."]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dialogues",
+      "order": 10,
+      "title": "Everyday Dialogues and Reading",
+      "lessons": [
+        {
+          "title": "At a café",
+          "items": [
+            ["cafe-welcome", "sentence", "أَهْلًا وَسَهْلًا، مَاذَا تُرِيدُ؟", "ahlan wa-sahlan, mādhā turīdu?", "Welcome. What would you like? (to a man)"],
+            ["cafe-tea-please", "sentence", "أُرِيدُ شَايًا، مِنْ فَضْلِكَ", "urīdu shāyan, min faḍlika", "I would like tea, please. (to a man)"],
+            ["cafe-how-much", "question", "كَمِ الْحِسَابُ؟", "kami l-ḥisābu?", "How much is the bill?"]
+          ]
+        },
+        {
+          "title": "At the market",
+          "items": [
+            ["market-how-much", "question", "بِكَمْ هَذَا؟", "bikam hādhā?", "How much is this?"],
+            ["market-too-expensive", "sentence", "هَذَا غَالٍ جِدًّا", "hādhā ghālin jiddan", "This is very expensive."],
+            ["market-i-will-buy", "sentence", "سَآخُذُ هَذَا، شُكْرًا", "sa-ākhudhu hādhā, shukran", "I will take this, thank you."]
+          ]
+        },
+        {
+          "title": "Asking for directions",
+          "items": [
+            ["directions-excuse-me", "phrase", "عَفْوًا، أَيْنَ الْمَحَطَّةُ؟", "ʿafwan, ayna l-maḥaṭṭatu?", "Excuse me, where is the station?"],
+            ["directions-go-right", "request", "اِنْعَطِفْ يَمِينًا عِنْدَ الْمَسْجِدِ", "inʿaṭif yamīnan ʿinda l-masjidi", "Turn right at the mosque. (to a man)"],
+            ["directions-is-far", "question", "هَلْ هِيَ بَعِيدَةٌ؟", "hal hiya baʿīdatun?", "Is it far?"]
+          ]
+        },
+        {
+          "title": "At the station",
+          "items": [
+            ["station-ticket", "word", "تَذْكِرَةٌ", "tadhkiratun", "a ticket"],
+            ["station-one-ticket", "request", "تَذْكِرَةٌ وَاحِدَةٌ إِلَى الْمَدِينَةِ، مِنْ فَضْلِكَ", "tadhkiratun wāḥidatun ilā l-madīnati, min faḍlika", "One ticket to the city, please. (to a man)"],
+            ["station-when-leaves", "question", "مَتَى يَغَادِرُ الْقِطَارُ؟", "matā yughādiru l-qiṭāru?", "When does the train leave?"]
+          ]
+        },
+        {
+          "title": "At the doctor",
+          "items": [
+            ["doctor-i-feel-tired", "sentence", "أَشْعُرُ بِالتَّعَبِ", "ashʿuru bit-taʿabi", "I feel tired."],
+            ["doctor-my-head-hurts", "sentence", "رَأْسِي يُؤْلِمُنِي", "raʾsī yuʾlimunī", "My head hurts."],
+            ["doctor-need-water", "sentence", "أَحْتَاجُ إِلَى الْمَاءِ وَالرَّاحَةِ", "aḥtāju ilā l-māʾi wa-r-rāḥati", "I need water and rest."]
+          ]
+        },
+        {
+          "title": "Inviting a friend",
+          "items": [
+            ["invite-visit", "question", "هَلْ تُرِيدُ أَنْ تَزُورَنِي؟", "hal turīdu an tazūranī?", "Would you like to visit me? (to a man)"],
+            ["invite-tomorrow-evening", "sentence", "تَعَالَ غَدًا فِي الْمَسَاءِ", "taʿāla ghadan fī l-masāʾi", "Come tomorrow evening. (to a man)"],
+            ["invite-happily", "sentence", "نَعَمْ، بِكُلِّ سُرُورٍ", "naʿam, bikulli surūrin", "Yes, with pleasure."]
+          ]
+        },
+        {
+          "title": "Talking about the weather",
+          "items": [
+            ["weather-today", "question", "كَيْفَ الطَّقْسُ الْيَوْمَ؟", "kayfa ṭ-ṭaqsu l-yawma?", "How is the weather today?"],
+            ["weather-hot", "sentence", "الطَّقْسُ حَارٌّ وَالشَّمْسُ سَاطِعَةٌ", "aṭ-ṭaqsu ḥārrun wa-sh-shamsu sāṭiʿatun", "The weather is hot and the sun is shining."],
+            ["weather-tomorrow-rain", "sentence", "سَيُمْطِرُ غَدًا", "sa-yumṭiru ghadan", "It will rain tomorrow."]
+          ]
+        },
+        {
+          "title": "A day at school",
+          "items": [
+            ["school-start-eight", "sentence", "يَبْدَأُ الدَّرْسُ فِي السَّاعَةِ الثَّامِنَةِ", "yabdaʾu d-darsu fī s-sāʿati th-thāminati", "The lesson starts at eight o'clock."],
+            ["school-study-arabic", "sentence", "أَدْرُسُ الْعَرَبِيَّةَ مَعَ أَصْدِقَائِي", "adrusu l-ʿarabiyyata maʿa aṣdiqāʾī", "I study Arabic with my friends."],
+            ["school-return-home", "sentence", "أَرْجِعُ إِلَى الْبَيْتِ بَعْدَ الظُّهْرِ", "arjiʿu ilā l-bayti baʿda ẓ-ẓuhri", "I return home after noon."]
+          ]
+        },
+        {
+          "title": "Making weekend plans",
+          "items": [
+            ["weekend-what-do", "question", "مَاذَا سَتَفْعَلُ يَوْمَ الْجُمُعَةِ؟", "mādhā satafʿalu yawma l-jumuʿati?", "What will you do on Friday? (to a man)"],
+            ["weekend-visit-family", "sentence", "سَأَزُورُ أُسْرَتِي", "sa-azūru usratī", "I will visit my family."],
+            ["weekend-have-good-time", "phrase", "أَتَمَنَّى لَكَ وَقْتًا مُمْتِعًا", "atamannā laka waqtan mumtiʿan", "I hope you have a pleasant time. (to a man)"]
+          ]
+        },
+        {
+          "title": "A short story",
+          "items": [
+            ["story-name-location", "sentence", "اِسْمِي عُمَرُ، وَأَسْكُنُ فِي مَدِينَةٍ صَغِيرَةٍ", "ismī ʿUmaru, wa-askunu fī madīnatin ṣaghīratin", "My name is Omar, and I live in a small city."],
+            ["story-learns-goes", "sentence", "أَدْرُسُ الْعَرَبِيَّةَ وَأَذْهَبُ إِلَى الْمَكْتَبَةِ كُلَّ يَوْمٍ", "adrusu l-ʿarabiyyata wa-adhhabu ilā l-maktabati kulla yawmin", "I study Arabic and go to the library every day."],
+            ["story-will-visit", "sentence", "زُرْتُ أَسْرَتِي أَمْسِ، وَسَأَزُورُ صَدِيقِي غَدًا", "zurtu usratī amsi, wa-sa-azūru ṣadīqī ghadan", "I visited my family yesterday, and I will visit my friend tomorrow."]
+          ]
+        }
+      ]
+    }
+  ]
+}

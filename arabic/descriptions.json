@@ -1,0 +1,1965 @@
+{
+  "schemaVersion": 1,
+  "courseId": "arabic",
+  "levelId": "descriptions",
+  "unitId": "descriptions",
+  "translationLanguages": [
+    "en",
+    "ur",
+    "id",
+    "tr",
+    "fr"
+  ],
+  "lessons": [
+    {
+      "id": "descriptions-01",
+      "order": 1,
+      "title": {
+        "en": "Common colors",
+        "ur": "عام رنگ",
+        "id": "Warna umum",
+        "tr": "Ortak renkler",
+        "fr": "Couleurs communes"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Common colors.",
+        "ur": "عام رنگوں کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang warna-warna umum.",
+        "tr": "Yaygın renklerle ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les couleurs courantes."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "descriptions-01-review-1",
+          "type": "sentence",
+          "arabic": "الْكِتَابُ عَلَى الطَّاوِلَةِ",
+          "transliteration": "al-kitābu ʿalā ṭ-ṭāwilati",
+          "audioText": "الْكِتَابُ عَلَى الطَّاوِلَةِ",
+          "meaning": {
+            "en": "The book is on the table.",
+            "ur": "کتاب میز پر ہے۔",
+            "id": "Buku itu ada di atas meja.",
+            "tr": "Kitap masanın üstünde.",
+            "fr": "Le livre est sur la table."
+          },
+          "audio": {
+            "path": "audio/places/places-09-book-on-table.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-01-review-2",
+          "type": "sentence",
+          "arabic": "الْمِفْتَاحُ فِي الْغُرْفَةِ",
+          "transliteration": "al-miftāḥu fī l-ghurfati",
+          "audioText": "الْمِفْتَاحُ فِي الْغُرْفَةِ",
+          "meaning": {
+            "en": "The key is in the room.",
+            "ur": "چابی کمرے میں ہے۔",
+            "id": "Kuncinya ada di dalam kamar.",
+            "tr": "Anahtar odada.",
+            "fr": "La clé est dans la chambre."
+          },
+          "audio": {
+            "path": "audio/places/places-09-key-in-room.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-01-review-3",
+          "type": "question",
+          "arabic": "أَيْنَ الْمَسْجِدُ؟",
+          "transliteration": "ayna l-masjidu?",
+          "audioText": "أَيْنَ الْمَسْجِدُ؟",
+          "meaning": {
+            "en": "Where is the mosque?",
+            "ur": "مسجد کہاں ہے؟",
+            "id": "Dimana masjidnya?",
+            "tr": "Cami nerede?",
+            "fr": "Où est la mosquée ?"
+          },
+          "audio": {
+            "path": "audio/places/places-10-where-is-mosque.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-01-review-4",
+          "type": "sentence",
+          "arabic": "الْمَسْجِدُ قَرِيبٌ مِنْ هُنَا",
+          "transliteration": "al-masjidu qarībun min hunā",
+          "audioText": "الْمَسْجِدُ قَرِيبٌ مِنْ هُنَا",
+          "meaning": {
+            "en": "The mosque is near here.",
+            "ur": "مسجد یہاں کے قریب ہے۔",
+            "id": "Masjidnya dekat sini.",
+            "tr": "Cami buraya yakın.",
+            "fr": "La mosquée est près d'ici."
+          },
+          "audio": {
+            "path": "audio/places/places-10-near-here.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-01-review-5",
+          "type": "request",
+          "arabic": "اِذْهَبْ إِلَى الْأَمَامِ",
+          "transliteration": "idhhab ilā l-amāmi",
+          "audioText": "اِذْهَبْ إِلَى الْأَمَامِ",
+          "meaning": {
+            "en": "Go straight ahead. (to a man)",
+            "ur": "سیدھے آگے بڑھیں۔ (ایک آدمی کو)",
+            "id": "Jalan lurus ke depan. (kepada seorang pria)",
+            "tr": "Dümdüz ilerleyin. (bir erkeğe)",
+            "fr": "Allez tout droit. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/places/places-10-go-straight.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-01-red-m",
+          "type": "word",
+          "arabic": "أَحْمَرُ",
+          "transliteration": "aḥmaru",
+          "audioText": "أَحْمَرُ",
+          "meaning": {
+            "en": "red (masculine)",
+            "ur": "سرخ (مرد)",
+            "id": "merah (maskulin)",
+            "tr": "kırmızı (eril)",
+            "fr": "rouge (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-01-red-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-01-blue-m",
+          "type": "word",
+          "arabic": "أَزْرَقُ",
+          "transliteration": "azraqu",
+          "audioText": "أَزْرَقُ",
+          "meaning": {
+            "en": "blue (masculine)",
+            "ur": "نیلا (مرد)",
+            "id": "biru (maskulin)",
+            "tr": "mavi (eril)",
+            "fr": "bleu (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-01-blue-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-01-green-m",
+          "type": "word",
+          "arabic": "أَخْضَرُ",
+          "transliteration": "akhḍaru",
+          "audioText": "أَخْضَرُ",
+          "meaning": {
+            "en": "green (masculine)",
+            "ur": "سبز (مرد)",
+            "id": "hijau (maskulin)",
+            "tr": "yeşil (eril)",
+            "fr": "vert (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-01-green-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "descriptions-02",
+      "order": 2,
+      "title": {
+        "en": "More colors",
+        "ur": "مزید رنگ",
+        "id": "Lebih banyak warna",
+        "tr": "Daha fazla renk",
+        "fr": "Plus de couleurs"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about More colors.",
+        "ur": "مزید رنگوں کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Lebih banyak warna.",
+        "tr": "Daha fazla renk ile ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur Plus de couleurs."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "descriptions-02-review-1",
+          "type": "sentence",
+          "arabic": "الْمَسْجِدُ قَرِيبٌ مِنْ هُنَا",
+          "transliteration": "al-masjidu qarībun min hunā",
+          "audioText": "الْمَسْجِدُ قَرِيبٌ مِنْ هُنَا",
+          "meaning": {
+            "en": "The mosque is near here.",
+            "ur": "مسجد یہاں کے قریب ہے۔",
+            "id": "Masjidnya dekat sini.",
+            "tr": "Cami buraya yakın.",
+            "fr": "La mosquée est près d'ici."
+          },
+          "audio": {
+            "path": "audio/places/places-10-near-here.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-02-review-2",
+          "type": "request",
+          "arabic": "اِذْهَبْ إِلَى الْأَمَامِ",
+          "transliteration": "idhhab ilā l-amāmi",
+          "audioText": "اِذْهَبْ إِلَى الْأَمَامِ",
+          "meaning": {
+            "en": "Go straight ahead. (to a man)",
+            "ur": "سیدھے آگے بڑھیں۔ (ایک آدمی کو)",
+            "id": "Jalan lurus ke depan. (kepada seorang pria)",
+            "tr": "Dümdüz ilerleyin. (bir erkeğe)",
+            "fr": "Allez tout droit. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/places/places-10-go-straight.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-02-review-3",
+          "type": "word",
+          "arabic": "أَحْمَرُ",
+          "transliteration": "aḥmaru",
+          "audioText": "أَحْمَرُ",
+          "meaning": {
+            "en": "red (masculine)",
+            "ur": "سرخ (مرد)",
+            "id": "merah (maskulin)",
+            "tr": "kırmızı (eril)",
+            "fr": "rouge (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-01-red-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-02-review-4",
+          "type": "word",
+          "arabic": "أَزْرَقُ",
+          "transliteration": "azraqu",
+          "audioText": "أَزْرَقُ",
+          "meaning": {
+            "en": "blue (masculine)",
+            "ur": "نیلا (مرد)",
+            "id": "biru (maskulin)",
+            "tr": "mavi (eril)",
+            "fr": "bleu (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-01-blue-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-02-review-5",
+          "type": "word",
+          "arabic": "أَخْضَرُ",
+          "transliteration": "akhḍaru",
+          "audioText": "أَخْضَرُ",
+          "meaning": {
+            "en": "green (masculine)",
+            "ur": "سبز (مرد)",
+            "id": "hijau (maskulin)",
+            "tr": "yeşil (eril)",
+            "fr": "vert (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-01-green-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-02-white-m",
+          "type": "word",
+          "arabic": "أَبْيَضُ",
+          "transliteration": "abyaḍu",
+          "audioText": "أَبْيَضُ",
+          "meaning": {
+            "en": "white (masculine)",
+            "ur": "سفید (مرد)",
+            "id": "putih (maskulin)",
+            "tr": "beyaz (eril)",
+            "fr": "blanc (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-02-white-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-02-black-m",
+          "type": "word",
+          "arabic": "أَسْوَدُ",
+          "transliteration": "aswadu",
+          "audioText": "أَسْوَدُ",
+          "meaning": {
+            "en": "black (masculine)",
+            "ur": "سیاہ (مرد)",
+            "id": "hitam (maskulin)",
+            "tr": "siyah (eril)",
+            "fr": "noir (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-02-black-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-02-yellow-m",
+          "type": "word",
+          "arabic": "أَصْفَرُ",
+          "transliteration": "aṣfaru",
+          "audioText": "أَصْفَرُ",
+          "meaning": {
+            "en": "yellow (masculine)",
+            "ur": "پیلا (مرد)",
+            "id": "kuning (maskulin)",
+            "tr": "sarı (eril)",
+            "fr": "jaune (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-02-yellow-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "descriptions-03",
+      "order": 3,
+      "title": {
+        "en": "Big and small",
+        "ur": "بڑے اور چھوٹے",
+        "id": "Besar dan kecil",
+        "tr": "Büyük ve küçük",
+        "fr": "Grand et petit"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Big and small.",
+        "ur": "بڑے اور چھوٹے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang Besar dan kecil.",
+        "tr": "Büyük ve küçük ile ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les grands et les petits."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "descriptions-03-review-1",
+          "type": "word",
+          "arabic": "أَزْرَقُ",
+          "transliteration": "azraqu",
+          "audioText": "أَزْرَقُ",
+          "meaning": {
+            "en": "blue (masculine)",
+            "ur": "نیلا (مرد)",
+            "id": "biru (maskulin)",
+            "tr": "mavi (eril)",
+            "fr": "bleu (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-01-blue-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-03-review-2",
+          "type": "word",
+          "arabic": "أَخْضَرُ",
+          "transliteration": "akhḍaru",
+          "audioText": "أَخْضَرُ",
+          "meaning": {
+            "en": "green (masculine)",
+            "ur": "سبز (مرد)",
+            "id": "hijau (maskulin)",
+            "tr": "yeşil (eril)",
+            "fr": "vert (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-01-green-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-03-review-3",
+          "type": "word",
+          "arabic": "أَبْيَضُ",
+          "transliteration": "abyaḍu",
+          "audioText": "أَبْيَضُ",
+          "meaning": {
+            "en": "white (masculine)",
+            "ur": "سفید (مرد)",
+            "id": "putih (maskulin)",
+            "tr": "beyaz (eril)",
+            "fr": "blanc (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-02-white-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-03-review-4",
+          "type": "word",
+          "arabic": "أَسْوَدُ",
+          "transliteration": "aswadu",
+          "audioText": "أَسْوَدُ",
+          "meaning": {
+            "en": "black (masculine)",
+            "ur": "سیاہ (مرد)",
+            "id": "hitam (maskulin)",
+            "tr": "siyah (eril)",
+            "fr": "noir (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-02-black-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-03-review-5",
+          "type": "word",
+          "arabic": "أَصْفَرُ",
+          "transliteration": "aṣfaru",
+          "audioText": "أَصْفَرُ",
+          "meaning": {
+            "en": "yellow (masculine)",
+            "ur": "پیلا (مرد)",
+            "id": "kuning (maskulin)",
+            "tr": "sarı (eril)",
+            "fr": "jaune (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-02-yellow-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-03-big-m",
+          "type": "adjective",
+          "arabic": "كَبِيرٌ",
+          "transliteration": "kabīrun",
+          "audioText": "كَبِيرٌ",
+          "meaning": {
+            "en": "big (masculine)",
+            "ur": "بڑا (مردانہ)",
+            "id": "besar (maskulin)",
+            "tr": "büyük (eril)",
+            "fr": "grand (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-03-big-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-03-small-m",
+          "type": "adjective",
+          "arabic": "صَغِيرٌ",
+          "transliteration": "ṣaghīrun",
+          "audioText": "صَغِيرٌ",
+          "meaning": {
+            "en": "small (masculine)",
+            "ur": "چھوٹا (مرد)",
+            "id": "kecil (maskulin)",
+            "tr": "küçük (eril)",
+            "fr": "petit (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-03-small-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-03-long-m",
+          "type": "adjective",
+          "arabic": "طَوِيلٌ",
+          "transliteration": "ṭawīlun",
+          "audioText": "طَوِيلٌ",
+          "meaning": {
+            "en": "long (masculine)",
+            "ur": "لمبی (مردانہ)",
+            "id": "panjang (maskulin)",
+            "tr": "uzun (eril)",
+            "fr": "long (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-03-long-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "descriptions-04",
+      "order": 4,
+      "title": {
+        "en": "Describing feminine nouns",
+        "ur": "نسائی اسم کو بیان کرنا",
+        "id": "Menjelaskan kata benda feminin",
+        "tr": "Dişil isimlerin tanımlanması",
+        "fr": "Décrire les noms féminins"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Describing feminine nouns.",
+        "ur": "نسائی اسم کو بیان کرنے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang Mendeskripsikan kata benda feminin.",
+        "tr": "Dişil isimleri tanımlama konusunda yararlı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Entraînez-vous à des mots arabes utiles et à des phrases courtes pour décrire les noms féminins."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "descriptions-04-review-1",
+          "type": "word",
+          "arabic": "أَسْوَدُ",
+          "transliteration": "aswadu",
+          "audioText": "أَسْوَدُ",
+          "meaning": {
+            "en": "black (masculine)",
+            "ur": "سیاہ (مرد)",
+            "id": "hitam (maskulin)",
+            "tr": "siyah (eril)",
+            "fr": "noir (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-02-black-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-04-review-2",
+          "type": "word",
+          "arabic": "أَصْفَرُ",
+          "transliteration": "aṣfaru",
+          "audioText": "أَصْفَرُ",
+          "meaning": {
+            "en": "yellow (masculine)",
+            "ur": "پیلا (مرد)",
+            "id": "kuning (maskulin)",
+            "tr": "sarı (eril)",
+            "fr": "jaune (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-02-yellow-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-04-review-3",
+          "type": "adjective",
+          "arabic": "كَبِيرٌ",
+          "transliteration": "kabīrun",
+          "audioText": "كَبِيرٌ",
+          "meaning": {
+            "en": "big (masculine)",
+            "ur": "بڑا (مردانہ)",
+            "id": "besar (maskulin)",
+            "tr": "büyük (eril)",
+            "fr": "grand (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-03-big-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-04-review-4",
+          "type": "adjective",
+          "arabic": "صَغِيرٌ",
+          "transliteration": "ṣaghīrun",
+          "audioText": "صَغِيرٌ",
+          "meaning": {
+            "en": "small (masculine)",
+            "ur": "چھوٹا (مرد)",
+            "id": "kecil (maskulin)",
+            "tr": "küçük (eril)",
+            "fr": "petit (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-03-small-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-04-review-5",
+          "type": "adjective",
+          "arabic": "طَوِيلٌ",
+          "transliteration": "ṭawīlun",
+          "audioText": "طَوِيلٌ",
+          "meaning": {
+            "en": "long (masculine)",
+            "ur": "لمبی (مردانہ)",
+            "id": "panjang (maskulin)",
+            "tr": "uzun (eril)",
+            "fr": "long (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-03-long-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-04-big-f",
+          "type": "adjective",
+          "arabic": "كَبِيرَةٌ",
+          "transliteration": "kabīratun",
+          "audioText": "كَبِيرَةٌ",
+          "meaning": {
+            "en": "big (feminine)",
+            "ur": "بڑا (نسائی)",
+            "id": "besar (feminin)",
+            "tr": "büyük (dişi)",
+            "fr": "grand (féminin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-04-big-f.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-04-small-f",
+          "type": "adjective",
+          "arabic": "صَغِيرَةٌ",
+          "transliteration": "ṣaghīratun",
+          "audioText": "صَغِيرَةٌ",
+          "meaning": {
+            "en": "small (feminine)",
+            "ur": "چھوٹا (نسائی)",
+            "id": "kecil (feminin)",
+            "tr": "küçük (dişi)",
+            "fr": "petit (féminin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-04-small-f.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-04-beautiful-f",
+          "type": "adjective",
+          "arabic": "جَمِيلَةٌ",
+          "transliteration": "jamīlatun",
+          "audioText": "جَمِيلَةٌ",
+          "meaning": {
+            "en": "beautiful (feminine)",
+            "ur": "خوبصورت (نسائی)",
+            "id": "cantik (feminin)",
+            "tr": "güzel (kadınsı)",
+            "fr": "beau (féminin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-04-beautiful-f.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "descriptions-05",
+      "order": 5,
+      "title": {
+        "en": "Useful qualities",
+        "ur": "مفید خصوصیات",
+        "id": "Kualitas yang berguna",
+        "tr": "Yararlı nitelikler",
+        "fr": "Qualités utiles"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Useful qualities.",
+        "ur": "مفید خصوصیات کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang Kualitas yang Berguna.",
+        "tr": "Yararlı niteliklerle ilgili faydalı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les qualités utiles."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "descriptions-05-review-1",
+          "type": "adjective",
+          "arabic": "صَغِيرٌ",
+          "transliteration": "ṣaghīrun",
+          "audioText": "صَغِيرٌ",
+          "meaning": {
+            "en": "small (masculine)",
+            "ur": "چھوٹا (مرد)",
+            "id": "kecil (maskulin)",
+            "tr": "küçük (eril)",
+            "fr": "petit (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-03-small-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-05-review-2",
+          "type": "adjective",
+          "arabic": "طَوِيلٌ",
+          "transliteration": "ṭawīlun",
+          "audioText": "طَوِيلٌ",
+          "meaning": {
+            "en": "long (masculine)",
+            "ur": "لمبی (مردانہ)",
+            "id": "panjang (maskulin)",
+            "tr": "uzun (eril)",
+            "fr": "long (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-03-long-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-05-review-3",
+          "type": "adjective",
+          "arabic": "كَبِيرَةٌ",
+          "transliteration": "kabīratun",
+          "audioText": "كَبِيرَةٌ",
+          "meaning": {
+            "en": "big (feminine)",
+            "ur": "بڑا (نسائی)",
+            "id": "besar (feminin)",
+            "tr": "büyük (dişi)",
+            "fr": "grand (féminin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-04-big-f.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-05-review-4",
+          "type": "adjective",
+          "arabic": "صَغِيرَةٌ",
+          "transliteration": "ṣaghīratun",
+          "audioText": "صَغِيرَةٌ",
+          "meaning": {
+            "en": "small (feminine)",
+            "ur": "چھوٹا (نسائی)",
+            "id": "kecil (feminin)",
+            "tr": "küçük (dişi)",
+            "fr": "petit (féminin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-04-small-f.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-05-review-5",
+          "type": "adjective",
+          "arabic": "جَمِيلَةٌ",
+          "transliteration": "jamīlatun",
+          "audioText": "جَمِيلَةٌ",
+          "meaning": {
+            "en": "beautiful (feminine)",
+            "ur": "خوبصورت (نسائی)",
+            "id": "cantik (feminin)",
+            "tr": "güzel (kadınsı)",
+            "fr": "beau (féminin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-04-beautiful-f.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-05-new-m",
+          "type": "adjective",
+          "arabic": "جَدِيدٌ",
+          "transliteration": "jadīdun",
+          "audioText": "جَدِيدٌ",
+          "meaning": {
+            "en": "new (masculine)",
+            "ur": "نیا (مرد)",
+            "id": "baru (maskulin)",
+            "tr": "yeni (erkeksi)",
+            "fr": "nouveau (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-05-new-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-05-old-m",
+          "type": "adjective",
+          "arabic": "قَدِيمٌ",
+          "transliteration": "qadīmun",
+          "audioText": "قَدِيمٌ",
+          "meaning": {
+            "en": "old (masculine)",
+            "ur": "پرانا (مرد)",
+            "id": "tua (maskulin)",
+            "tr": "yaşlı (eril)",
+            "fr": "vieux (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-05-old-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-05-clean-m",
+          "type": "adjective",
+          "arabic": "نَظِيفٌ",
+          "transliteration": "naẓīfun",
+          "audioText": "نَظِيفٌ",
+          "meaning": {
+            "en": "clean (masculine)",
+            "ur": "صاف (مردانہ)",
+            "id": "bersih (maskulin)",
+            "tr": "temiz (erkeksi)",
+            "fr": "propre (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-05-clean-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "descriptions-06",
+      "order": 6,
+      "title": {
+        "en": "Describing objects",
+        "ur": "اشیاء کو بیان کرنا",
+        "id": "Menggambarkan objek",
+        "tr": "Nesneleri tanımlama",
+        "fr": "Décrire des objets"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Describing objects.",
+        "ur": "اشیاء کو بیان کرنے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang Mendeskripsikan objek.",
+        "tr": "Nesneleri tanımlamayla ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur la description d'objets."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "descriptions-06-review-1",
+          "type": "adjective",
+          "arabic": "صَغِيرَةٌ",
+          "transliteration": "ṣaghīratun",
+          "audioText": "صَغِيرَةٌ",
+          "meaning": {
+            "en": "small (feminine)",
+            "ur": "چھوٹا (نسائی)",
+            "id": "kecil (feminin)",
+            "tr": "küçük (dişi)",
+            "fr": "petit (féminin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-04-small-f.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-06-review-2",
+          "type": "adjective",
+          "arabic": "جَمِيلَةٌ",
+          "transliteration": "jamīlatun",
+          "audioText": "جَمِيلَةٌ",
+          "meaning": {
+            "en": "beautiful (feminine)",
+            "ur": "خوبصورت (نسائی)",
+            "id": "cantik (feminin)",
+            "tr": "güzel (kadınsı)",
+            "fr": "beau (féminin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-04-beautiful-f.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-06-review-3",
+          "type": "adjective",
+          "arabic": "جَدِيدٌ",
+          "transliteration": "jadīdun",
+          "audioText": "جَدِيدٌ",
+          "meaning": {
+            "en": "new (masculine)",
+            "ur": "نیا (مرد)",
+            "id": "baru (maskulin)",
+            "tr": "yeni (erkeksi)",
+            "fr": "nouveau (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-05-new-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-06-review-4",
+          "type": "adjective",
+          "arabic": "قَدِيمٌ",
+          "transliteration": "qadīmun",
+          "audioText": "قَدِيمٌ",
+          "meaning": {
+            "en": "old (masculine)",
+            "ur": "پرانا (مرد)",
+            "id": "tua (maskulin)",
+            "tr": "yaşlı (eril)",
+            "fr": "vieux (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-05-old-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-06-review-5",
+          "type": "adjective",
+          "arabic": "نَظِيفٌ",
+          "transliteration": "naẓīfun",
+          "audioText": "نَظِيفٌ",
+          "meaning": {
+            "en": "clean (masculine)",
+            "ur": "صاف (مردانہ)",
+            "id": "bersih (maskulin)",
+            "tr": "temiz (erkeksi)",
+            "fr": "propre (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-05-clean-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-06-red-book",
+          "type": "sentence",
+          "arabic": "الْكِتَابُ أَحْمَرُ",
+          "transliteration": "al-kitābu aḥmaru",
+          "audioText": "الْكِتَابُ أَحْمَرُ",
+          "meaning": {
+            "en": "The book is red.",
+            "ur": "کتاب سرخ ہے۔",
+            "id": "Buku itu berwarna merah.",
+            "tr": "Kitap kırmızıdır.",
+            "fr": "Le livre est rouge."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-06-red-book.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-06-new-house",
+          "type": "sentence",
+          "arabic": "الْبَيْتُ جَدِيدٌ",
+          "transliteration": "al-baytu jadīdun",
+          "audioText": "الْبَيْتُ جَدِيدٌ",
+          "meaning": {
+            "en": "The house is new.",
+            "ur": "گھر نیا ہے۔",
+            "id": "Rumah itu baru.",
+            "tr": "Ev yeni.",
+            "fr": "La maison est neuve."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-06-new-house.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-06-clean-room",
+          "type": "sentence",
+          "arabic": "الْغُرْفَةُ نَظِيفَةٌ",
+          "transliteration": "al-ghurfatu naẓīfatun",
+          "audioText": "الْغُرْفَةُ نَظِيفَةٌ",
+          "meaning": {
+            "en": "The room is clean.",
+            "ur": "کمرہ صاف ستھرا ہے۔",
+            "id": "Kamarnya bersih.",
+            "tr": "Oda temiz.",
+            "fr": "La chambre est propre."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-06-clean-room.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "descriptions-07",
+      "order": 7,
+      "title": {
+        "en": "Describing people",
+        "ur": "لوگوں کو بیان کرنا",
+        "id": "Menggambarkan orang",
+        "tr": "İnsanları tanımlamak",
+        "fr": "Décrire des personnes"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Describing people.",
+        "ur": "لوگوں کو بیان کرنے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang Mendeskripsikan orang.",
+        "tr": "İnsanları Tanımlama ile ilgili faydalı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Entraînez-vous à utiliser des mots arabes utiles et des phrases courtes pour décrire les personnes."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "descriptions-07-review-1",
+          "type": "adjective",
+          "arabic": "قَدِيمٌ",
+          "transliteration": "qadīmun",
+          "audioText": "قَدِيمٌ",
+          "meaning": {
+            "en": "old (masculine)",
+            "ur": "پرانا (مرد)",
+            "id": "tua (maskulin)",
+            "tr": "yaşlı (eril)",
+            "fr": "vieux (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-05-old-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-07-review-2",
+          "type": "adjective",
+          "arabic": "نَظِيفٌ",
+          "transliteration": "naẓīfun",
+          "audioText": "نَظِيفٌ",
+          "meaning": {
+            "en": "clean (masculine)",
+            "ur": "صاف (مردانہ)",
+            "id": "bersih (maskulin)",
+            "tr": "temiz (erkeksi)",
+            "fr": "propre (masculin)"
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-05-clean-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-07-review-3",
+          "type": "sentence",
+          "arabic": "الْكِتَابُ أَحْمَرُ",
+          "transliteration": "al-kitābu aḥmaru",
+          "audioText": "الْكِتَابُ أَحْمَرُ",
+          "meaning": {
+            "en": "The book is red.",
+            "ur": "کتاب سرخ ہے۔",
+            "id": "Buku itu berwarna merah.",
+            "tr": "Kitap kırmızıdır.",
+            "fr": "Le livre est rouge."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-06-red-book.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-07-review-4",
+          "type": "sentence",
+          "arabic": "الْبَيْتُ جَدِيدٌ",
+          "transliteration": "al-baytu jadīdun",
+          "audioText": "الْبَيْتُ جَدِيدٌ",
+          "meaning": {
+            "en": "The house is new.",
+            "ur": "گھر نیا ہے۔",
+            "id": "Rumah itu baru.",
+            "tr": "Ev yeni.",
+            "fr": "La maison est neuve."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-06-new-house.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-07-review-5",
+          "type": "sentence",
+          "arabic": "الْغُرْفَةُ نَظِيفَةٌ",
+          "transliteration": "al-ghurfatu naẓīfatun",
+          "audioText": "الْغُرْفَةُ نَظِيفَةٌ",
+          "meaning": {
+            "en": "The room is clean.",
+            "ur": "کمرہ صاف ستھرا ہے۔",
+            "id": "Kamarnya bersih.",
+            "tr": "Oda temiz.",
+            "fr": "La chambre est propre."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-06-clean-room.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-07-tall-man",
+          "type": "sentence",
+          "arabic": "الرَّجُلُ طَوِيلٌ",
+          "transliteration": "ar-rajulu ṭawīlun",
+          "audioText": "الرَّجُلُ طَوِيلٌ",
+          "meaning": {
+            "en": "The man is tall.",
+            "ur": "آدمی لمبا ہے۔",
+            "id": "Pria itu tinggi.",
+            "tr": "Adam uzun boylu.",
+            "fr": "L'homme est grand."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-07-tall-man.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-07-beautiful-garden",
+          "type": "sentence",
+          "arabic": "الْحَدِيقَةُ جَمِيلَةٌ",
+          "transliteration": "al-ḥadīqatu jamīlatun",
+          "audioText": "الْحَدِيقَةُ جَمِيلَةٌ",
+          "meaning": {
+            "en": "The garden is beautiful.",
+            "ur": "باغ خوبصورت ہے۔",
+            "id": "Tamannya indah.",
+            "tr": "Bahçe çok güzel.",
+            "fr": "Le jardin est magnifique."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-07-beautiful-garden.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-07-small-child",
+          "type": "sentence",
+          "arabic": "الطِّفْلُ صَغِيرٌ",
+          "transliteration": "aṭ-ṭiflu ṣaghīrun",
+          "audioText": "الطِّفْلُ صَغِيرٌ",
+          "meaning": {
+            "en": "The child is small.",
+            "ur": "بچہ چھوٹا ہے۔",
+            "id": "Anak itu kecil.",
+            "tr": "Çocuk küçük.",
+            "fr": "L'enfant est petit."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-07-small-child.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "descriptions-08",
+      "order": 8,
+      "title": {
+        "en": "This and that",
+        "ur": "یہ اور وہ",
+        "id": "Ini dan itu",
+        "tr": "Bu ve bu",
+        "fr": "Ceci et cela"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about This and that.",
+        "ur": "یہ اور اس کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang Ini dan itu.",
+        "tr": "Bu ve şununla ilgili faydalı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur ceci et cela."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "descriptions-08-review-1",
+          "type": "sentence",
+          "arabic": "الْبَيْتُ جَدِيدٌ",
+          "transliteration": "al-baytu jadīdun",
+          "audioText": "الْبَيْتُ جَدِيدٌ",
+          "meaning": {
+            "en": "The house is new.",
+            "ur": "گھر نیا ہے۔",
+            "id": "Rumah itu baru.",
+            "tr": "Ev yeni.",
+            "fr": "La maison est neuve."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-06-new-house.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-08-review-2",
+          "type": "sentence",
+          "arabic": "الْغُرْفَةُ نَظِيفَةٌ",
+          "transliteration": "al-ghurfatu naẓīfatun",
+          "audioText": "الْغُرْفَةُ نَظِيفَةٌ",
+          "meaning": {
+            "en": "The room is clean.",
+            "ur": "کمرہ صاف ستھرا ہے۔",
+            "id": "Kamarnya bersih.",
+            "tr": "Oda temiz.",
+            "fr": "La chambre est propre."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-06-clean-room.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-08-review-3",
+          "type": "sentence",
+          "arabic": "الرَّجُلُ طَوِيلٌ",
+          "transliteration": "ar-rajulu ṭawīlun",
+          "audioText": "الرَّجُلُ طَوِيلٌ",
+          "meaning": {
+            "en": "The man is tall.",
+            "ur": "آدمی لمبا ہے۔",
+            "id": "Pria itu tinggi.",
+            "tr": "Adam uzun boylu.",
+            "fr": "L'homme est grand."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-07-tall-man.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-08-review-4",
+          "type": "sentence",
+          "arabic": "الْحَدِيقَةُ جَمِيلَةٌ",
+          "transliteration": "al-ḥadīqatu jamīlatun",
+          "audioText": "الْحَدِيقَةُ جَمِيلَةٌ",
+          "meaning": {
+            "en": "The garden is beautiful.",
+            "ur": "باغ خوبصورت ہے۔",
+            "id": "Tamannya indah.",
+            "tr": "Bahçe çok güzel.",
+            "fr": "Le jardin est magnifique."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-07-beautiful-garden.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-08-review-5",
+          "type": "sentence",
+          "arabic": "الطِّفْلُ صَغِيرٌ",
+          "transliteration": "aṭ-ṭiflu ṣaghīrun",
+          "audioText": "الطِّفْلُ صَغِيرٌ",
+          "meaning": {
+            "en": "The child is small.",
+            "ur": "بچہ چھوٹا ہے۔",
+            "id": "Anak itu kecil.",
+            "tr": "Çocuk küçük.",
+            "fr": "L'enfant est petit."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-07-small-child.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-08-this-red-book",
+          "type": "sentence",
+          "arabic": "هَذَا كِتَابٌ أَحْمَرُ",
+          "transliteration": "hādhā kitābun aḥmaru",
+          "audioText": "هَذَا كِتَابٌ أَحْمَرُ",
+          "meaning": {
+            "en": "This is a red book.",
+            "ur": "یہ ایک سرخ کتاب ہے۔",
+            "id": "Ini adalah buku merah.",
+            "tr": "Bu kırmızı bir kitap.",
+            "fr": "C'est un livre rouge."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-08-this-red-book.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-08-this-beautiful-car",
+          "type": "sentence",
+          "arabic": "هَذِهِ سَيَّارَةٌ جَمِيلَةٌ",
+          "transliteration": "hādhihi sayyāratun jamīlatun",
+          "audioText": "هَذِهِ سَيَّارَةٌ جَمِيلَةٌ",
+          "meaning": {
+            "en": "This is a beautiful car.",
+            "ur": "یہ ایک خوبصورت کار ہے۔",
+            "id": "Ini adalah mobil yang indah.",
+            "tr": "Bu güzel bir araba.",
+            "fr": "C'est une belle voiture."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-08-this-beautiful-car.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-08-that-big-house",
+          "type": "sentence",
+          "arabic": "ذَلِكَ بَيْتٌ كَبِيرٌ",
+          "transliteration": "dhālika baytun kabīrun",
+          "audioText": "ذَلِكَ بَيْتٌ كَبِيرٌ",
+          "meaning": {
+            "en": "That is a big house.",
+            "ur": "وہ بڑا گھر ہے۔",
+            "id": "Itu adalah rumah yang besar.",
+            "tr": "Bu büyük bir ev.",
+            "fr": "C'est une grande maison."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-08-that-big-house.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "descriptions-09",
+      "order": 9,
+      "title": {
+        "en": "Comparing things",
+        "ur": "چیزوں کا موازنہ کرنا",
+        "id": "Membandingkan berbagai hal",
+        "tr": "Nesneleri karşılaştırma",
+        "fr": "Comparer les choses"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Comparing things.",
+        "ur": "چیزوں کا موازنہ کرنے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Membandingkan sesuatu.",
+        "tr": "Nesneleri Karşılaştırmayla ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur la comparaison de choses."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "descriptions-09-review-1",
+          "type": "sentence",
+          "arabic": "الْحَدِيقَةُ جَمِيلَةٌ",
+          "transliteration": "al-ḥadīqatu jamīlatun",
+          "audioText": "الْحَدِيقَةُ جَمِيلَةٌ",
+          "meaning": {
+            "en": "The garden is beautiful.",
+            "ur": "باغ خوبصورت ہے۔",
+            "id": "Tamannya indah.",
+            "tr": "Bahçe çok güzel.",
+            "fr": "Le jardin est magnifique."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-07-beautiful-garden.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-09-review-2",
+          "type": "sentence",
+          "arabic": "الطِّفْلُ صَغِيرٌ",
+          "transliteration": "aṭ-ṭiflu ṣaghīrun",
+          "audioText": "الطِّفْلُ صَغِيرٌ",
+          "meaning": {
+            "en": "The child is small.",
+            "ur": "بچہ چھوٹا ہے۔",
+            "id": "Anak itu kecil.",
+            "tr": "Çocuk küçük.",
+            "fr": "L'enfant est petit."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-07-small-child.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-09-review-3",
+          "type": "sentence",
+          "arabic": "هَذَا كِتَابٌ أَحْمَرُ",
+          "transliteration": "hādhā kitābun aḥmaru",
+          "audioText": "هَذَا كِتَابٌ أَحْمَرُ",
+          "meaning": {
+            "en": "This is a red book.",
+            "ur": "یہ ایک سرخ کتاب ہے۔",
+            "id": "Ini adalah buku merah.",
+            "tr": "Bu kırmızı bir kitap.",
+            "fr": "C'est un livre rouge."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-08-this-red-book.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-09-review-4",
+          "type": "sentence",
+          "arabic": "هَذِهِ سَيَّارَةٌ جَمِيلَةٌ",
+          "transliteration": "hādhihi sayyāratun jamīlatun",
+          "audioText": "هَذِهِ سَيَّارَةٌ جَمِيلَةٌ",
+          "meaning": {
+            "en": "This is a beautiful car.",
+            "ur": "یہ ایک خوبصورت کار ہے۔",
+            "id": "Ini adalah mobil yang indah.",
+            "tr": "Bu güzel bir araba.",
+            "fr": "C'est une belle voiture."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-08-this-beautiful-car.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-09-review-5",
+          "type": "sentence",
+          "arabic": "ذَلِكَ بَيْتٌ كَبِيرٌ",
+          "transliteration": "dhālika baytun kabīrun",
+          "audioText": "ذَلِكَ بَيْتٌ كَبِيرٌ",
+          "meaning": {
+            "en": "That is a big house.",
+            "ur": "وہ بڑا گھر ہے۔",
+            "id": "Itu adalah rumah yang besar.",
+            "tr": "Bu büyük bir ev.",
+            "fr": "C'est une grande maison."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-08-that-big-house.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-09-this-house-bigger",
+          "type": "sentence",
+          "arabic": "هَذَا الْبَيْتُ أَكْبَرُ",
+          "transliteration": "hādhā l-baytu akbaru",
+          "audioText": "هَذَا الْبَيْتُ أَكْبَرُ",
+          "meaning": {
+            "en": "This house is bigger.",
+            "ur": "یہ گھر بڑا ہے۔",
+            "id": "Rumah ini lebih besar.",
+            "tr": "Bu ev daha büyük.",
+            "fr": "Cette maison est plus grande."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-09-this-house-bigger.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-09-car-is-fast",
+          "type": "sentence",
+          "arabic": "السَّيَّارَةُ سَرِيعَةٌ",
+          "transliteration": "as-sayyāratu sarīʿatun",
+          "audioText": "السَّيَّارَةُ سَرِيعَةٌ",
+          "meaning": {
+            "en": "The car is fast.",
+            "ur": "گاڑی تیز ہے۔",
+            "id": "Mobilnya cepat.",
+            "tr": "Araba hızlı.",
+            "fr": "La voiture est rapide."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-09-car-is-fast.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-09-room-is-quieter",
+          "type": "sentence",
+          "arabic": "الْغُرْفَةُ هَادِئَةٌ",
+          "transliteration": "al-ghurfatu hādiʾatun",
+          "audioText": "الْغُرْفَةُ هَادِئَةٌ",
+          "meaning": {
+            "en": "The room is quiet.",
+            "ur": "کمرہ خاموش ہے۔",
+            "id": "Ruangannya sunyi.",
+            "tr": "Oda sessiz.",
+            "fr": "La chambre est calme."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-09-room-is-quieter.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "descriptions-10",
+      "order": 10,
+      "title": {
+        "en": "Reviewing descriptions",
+        "ur": "تفصیل کا جائزہ لینا",
+        "id": "Meninjau deskripsi",
+        "tr": "Açıklamaları gözden geçirme",
+        "fr": "Révision des descriptions"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Reviewing descriptions.",
+        "ur": "تفصیل کا جائزہ لینے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Meninjau deskripsi.",
+        "tr": "Açıklamaların gözden geçirilmesiyle ilgili faydalı Arapça kelimelerin ve kısa ifadelerin alıştırmasını yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur la révision des descriptions."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "descriptions-10-review-1",
+          "type": "sentence",
+          "arabic": "هَذِهِ سَيَّارَةٌ جَمِيلَةٌ",
+          "transliteration": "hādhihi sayyāratun jamīlatun",
+          "audioText": "هَذِهِ سَيَّارَةٌ جَمِيلَةٌ",
+          "meaning": {
+            "en": "This is a beautiful car.",
+            "ur": "یہ ایک خوبصورت کار ہے۔",
+            "id": "Ini adalah mobil yang indah.",
+            "tr": "Bu güzel bir araba.",
+            "fr": "C'est une belle voiture."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-08-this-beautiful-car.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-10-review-2",
+          "type": "sentence",
+          "arabic": "ذَلِكَ بَيْتٌ كَبِيرٌ",
+          "transliteration": "dhālika baytun kabīrun",
+          "audioText": "ذَلِكَ بَيْتٌ كَبِيرٌ",
+          "meaning": {
+            "en": "That is a big house.",
+            "ur": "وہ بڑا گھر ہے۔",
+            "id": "Itu adalah rumah yang besar.",
+            "tr": "Bu büyük bir ev.",
+            "fr": "C'est une grande maison."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-08-that-big-house.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-10-review-3",
+          "type": "sentence",
+          "arabic": "هَذَا الْبَيْتُ أَكْبَرُ",
+          "transliteration": "hādhā l-baytu akbaru",
+          "audioText": "هَذَا الْبَيْتُ أَكْبَرُ",
+          "meaning": {
+            "en": "This house is bigger.",
+            "ur": "یہ گھر بڑا ہے۔",
+            "id": "Rumah ini lebih besar.",
+            "tr": "Bu ev daha büyük.",
+            "fr": "Cette maison est plus grande."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-09-this-house-bigger.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-10-review-4",
+          "type": "sentence",
+          "arabic": "السَّيَّارَةُ سَرِيعَةٌ",
+          "transliteration": "as-sayyāratu sarīʿatun",
+          "audioText": "السَّيَّارَةُ سَرِيعَةٌ",
+          "meaning": {
+            "en": "The car is fast.",
+            "ur": "گاڑی تیز ہے۔",
+            "id": "Mobilnya cepat.",
+            "tr": "Araba hızlı.",
+            "fr": "La voiture est rapide."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-09-car-is-fast.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-10-review-5",
+          "type": "sentence",
+          "arabic": "الْغُرْفَةُ هَادِئَةٌ",
+          "transliteration": "al-ghurfatu hādiʾatun",
+          "audioText": "الْغُرْفَةُ هَادِئَةٌ",
+          "meaning": {
+            "en": "The room is quiet.",
+            "ur": "کمرہ خاموش ہے۔",
+            "id": "Ruangannya sunyi.",
+            "tr": "Oda sessiz.",
+            "fr": "La chambre est calme."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-09-room-is-quieter.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-10-blue-door",
+          "type": "sentence",
+          "arabic": "الْبَابُ أَزْرَقُ",
+          "transliteration": "al-bābu azraqu",
+          "audioText": "الْبَابُ أَزْرَقُ",
+          "meaning": {
+            "en": "The door is blue.",
+            "ur": "دروازہ نیلا ہے۔",
+            "id": "Pintunya berwarna biru.",
+            "tr": "Kapı mavi.",
+            "fr": "La porte est bleue."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-10-blue-door.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-10-white-flower",
+          "type": "sentence",
+          "arabic": "الزَّهْرَةُ بَيْضَاءُ",
+          "transliteration": "az-zahratu bayḍāʾu",
+          "audioText": "الزَّهْرَةُ بَيْضَاءُ",
+          "meaning": {
+            "en": "The flower is white.",
+            "ur": "پھول سفید ہے۔",
+            "id": "Bunganya berwarna putih.",
+            "tr": "Çiçek beyazdır.",
+            "fr": "La fleur est blanche."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-10-white-flower.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "descriptions-10-small-beautiful-room",
+          "type": "sentence",
+          "arabic": "هَذِهِ غُرْفَةٌ صَغِيرَةٌ وَجَمِيلَةٌ",
+          "transliteration": "hādhihi ghurfatun ṣaghīratun wa-jamīlatun",
+          "audioText": "هَذِهِ غُرْفَةٌ صَغِيرَةٌ وَجَمِيلَةٌ",
+          "meaning": {
+            "en": "This is a small and beautiful room.",
+            "ur": "یہ ایک چھوٹا اور خوبصورت کمرہ ہے۔",
+            "id": "Ini adalah ruangan kecil dan indah.",
+            "tr": "Burası küçük ve güzel bir oda.",
+            "fr": "C'est une petite et belle pièce."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-10-small-beautiful-room.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    }
+  ]
+}

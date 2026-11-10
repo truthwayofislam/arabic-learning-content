@@ -1,0 +1,1965 @@
+{
+  "schemaVersion": 1,
+  "courseId": "arabic",
+  "levelId": "sentences",
+  "unitId": "sentences",
+  "translationLanguages": [
+    "en",
+    "ur",
+    "id",
+    "tr",
+    "fr"
+  ],
+  "lessons": [
+    {
+      "id": "sentences-01",
+      "order": 1,
+      "title": {
+        "en": "I, you and he",
+        "ur": "میں، تم اور وہ",
+        "id": "aku, kamu dan dia",
+        "tr": "ben, sen ve o",
+        "fr": "Moi, toi et lui"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about I, you and he.",
+        "ur": "میں، آپ اور وہ کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang aku, kamu, dan dia.",
+        "tr": "Ben, sen ve o hakkında yararlı Arapça kelimeler ve kısa ifadeler uygulayın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur moi, vous et lui."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "sentences-01-review-1",
+          "type": "sentence",
+          "arabic": "السَّيَّارَةُ سَرِيعَةٌ",
+          "transliteration": "as-sayyāratu sarīʿatun",
+          "audioText": "السَّيَّارَةُ سَرِيعَةٌ",
+          "meaning": {
+            "en": "The car is fast.",
+            "ur": "گاڑی تیز ہے۔",
+            "id": "Mobilnya cepat.",
+            "tr": "Araba hızlı.",
+            "fr": "La voiture est rapide."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-09-car-is-fast.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-01-review-2",
+          "type": "sentence",
+          "arabic": "الْغُرْفَةُ هَادِئَةٌ",
+          "transliteration": "al-ghurfatu hādiʾatun",
+          "audioText": "الْغُرْفَةُ هَادِئَةٌ",
+          "meaning": {
+            "en": "The room is quiet.",
+            "ur": "کمرہ خاموش ہے۔",
+            "id": "Ruangannya sunyi.",
+            "tr": "Oda sessiz.",
+            "fr": "La chambre est calme."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-09-room-is-quieter.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-01-review-3",
+          "type": "sentence",
+          "arabic": "الْبَابُ أَزْرَقُ",
+          "transliteration": "al-bābu azraqu",
+          "audioText": "الْبَابُ أَزْرَقُ",
+          "meaning": {
+            "en": "The door is blue.",
+            "ur": "دروازہ نیلا ہے۔",
+            "id": "Pintunya berwarna biru.",
+            "tr": "Kapı mavi.",
+            "fr": "La porte est bleue."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-10-blue-door.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-01-review-4",
+          "type": "sentence",
+          "arabic": "الزَّهْرَةُ بَيْضَاءُ",
+          "transliteration": "az-zahratu bayḍāʾu",
+          "audioText": "الزَّهْرَةُ بَيْضَاءُ",
+          "meaning": {
+            "en": "The flower is white.",
+            "ur": "پھول سفید ہے۔",
+            "id": "Bunganya berwarna putih.",
+            "tr": "Çiçek beyazdır.",
+            "fr": "La fleur est blanche."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-10-white-flower.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-01-review-5",
+          "type": "sentence",
+          "arabic": "هَذِهِ غُرْفَةٌ صَغِيرَةٌ وَجَمِيلَةٌ",
+          "transliteration": "hādhihi ghurfatun ṣaghīratun wa-jamīlatun",
+          "audioText": "هَذِهِ غُرْفَةٌ صَغِيرَةٌ وَجَمِيلَةٌ",
+          "meaning": {
+            "en": "This is a small and beautiful room.",
+            "ur": "یہ ایک چھوٹا اور خوبصورت کمرہ ہے۔",
+            "id": "Ini adalah ruangan kecil dan indah.",
+            "tr": "Burası küçük ve güzel bir oda.",
+            "fr": "C'est une petite et belle pièce."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-10-small-beautiful-room.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-01-i-am-teacher",
+          "type": "sentence",
+          "arabic": "أَنَا مُعَلِّمٌ",
+          "transliteration": "anā muʿallimun",
+          "audioText": "أَنَا مُعَلِّمٌ",
+          "meaning": {
+            "en": "I am a male teacher.",
+            "ur": "میں ایک مرد استاد ہوں۔",
+            "id": "Saya seorang guru laki-laki.",
+            "tr": "Ben erkek öğretmenim.",
+            "fr": "Je suis un enseignant de sexe masculin."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-01-i-am-teacher.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-01-you-are-student-m",
+          "type": "sentence",
+          "arabic": "أَنْتَ طَالِبٌ",
+          "transliteration": "anta ṭālibun",
+          "audioText": "أَنْتَ طَالِبٌ",
+          "meaning": {
+            "en": "You are a male student.",
+            "ur": "آپ ایک مرد طالب علم ہیں۔",
+            "id": "Anda adalah seorang siswa laki-laki.",
+            "tr": "Erkek öğrencisiniz.",
+            "fr": "Vous êtes un étudiant."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-01-you-are-student-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-01-he-is-doctor",
+          "type": "sentence",
+          "arabic": "هُوَ طَبِيبٌ",
+          "transliteration": "huwa ṭabībun",
+          "audioText": "هُوَ طَبِيبٌ",
+          "meaning": {
+            "en": "He is a doctor.",
+            "ur": "وہ ایک ڈاکٹر ہے۔",
+            "id": "Dia adalah seorang dokter.",
+            "tr": "O bir doktor.",
+            "fr": "Il est médecin."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-01-he-is-doctor.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "sentences-02",
+      "order": 2,
+      "title": {
+        "en": "She, we and they",
+        "ur": "وہ، ہم اور وہ",
+        "id": "Dia, kita dan mereka",
+        "tr": "O, biz ve onlar",
+        "fr": "Elle, nous et eux"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about She, we and they.",
+        "ur": "وہ، ہم اور وہ کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Dia, kami, dan mereka.",
+        "tr": "O, biz ve onlar hakkında yararlı Arapça kelimeler ve kısa ifadeler uygulayın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur Elle, nous et eux."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "sentences-02-review-1",
+          "type": "sentence",
+          "arabic": "الزَّهْرَةُ بَيْضَاءُ",
+          "transliteration": "az-zahratu bayḍāʾu",
+          "audioText": "الزَّهْرَةُ بَيْضَاءُ",
+          "meaning": {
+            "en": "The flower is white.",
+            "ur": "پھول سفید ہے۔",
+            "id": "Bunganya berwarna putih.",
+            "tr": "Çiçek beyazdır.",
+            "fr": "La fleur est blanche."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-10-white-flower.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-02-review-2",
+          "type": "sentence",
+          "arabic": "هَذِهِ غُرْفَةٌ صَغِيرَةٌ وَجَمِيلَةٌ",
+          "transliteration": "hādhihi ghurfatun ṣaghīratun wa-jamīlatun",
+          "audioText": "هَذِهِ غُرْفَةٌ صَغِيرَةٌ وَجَمِيلَةٌ",
+          "meaning": {
+            "en": "This is a small and beautiful room.",
+            "ur": "یہ ایک چھوٹا اور خوبصورت کمرہ ہے۔",
+            "id": "Ini adalah ruangan kecil dan indah.",
+            "tr": "Burası küçük ve güzel bir oda.",
+            "fr": "C'est une petite et belle pièce."
+          },
+          "audio": {
+            "path": "audio/descriptions/descriptions-10-small-beautiful-room.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-02-review-3",
+          "type": "sentence",
+          "arabic": "أَنَا مُعَلِّمٌ",
+          "transliteration": "anā muʿallimun",
+          "audioText": "أَنَا مُعَلِّمٌ",
+          "meaning": {
+            "en": "I am a male teacher.",
+            "ur": "میں ایک مرد استاد ہوں۔",
+            "id": "Saya seorang guru laki-laki.",
+            "tr": "Ben erkek öğretmenim.",
+            "fr": "Je suis un enseignant de sexe masculin."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-01-i-am-teacher.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-02-review-4",
+          "type": "sentence",
+          "arabic": "أَنْتَ طَالِبٌ",
+          "transliteration": "anta ṭālibun",
+          "audioText": "أَنْتَ طَالِبٌ",
+          "meaning": {
+            "en": "You are a male student.",
+            "ur": "آپ ایک مرد طالب علم ہیں۔",
+            "id": "Anda adalah seorang siswa laki-laki.",
+            "tr": "Erkek öğrencisiniz.",
+            "fr": "Vous êtes un étudiant."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-01-you-are-student-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-02-review-5",
+          "type": "sentence",
+          "arabic": "هُوَ طَبِيبٌ",
+          "transliteration": "huwa ṭabībun",
+          "audioText": "هُوَ طَبِيبٌ",
+          "meaning": {
+            "en": "He is a doctor.",
+            "ur": "وہ ایک ڈاکٹر ہے۔",
+            "id": "Dia adalah seorang dokter.",
+            "tr": "O bir doktor.",
+            "fr": "Il est médecin."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-01-he-is-doctor.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-02-she-is-teacher",
+          "type": "sentence",
+          "arabic": "هِيَ مُعَلِّمَةٌ",
+          "transliteration": "hiya muʿallimatun",
+          "audioText": "هِيَ مُعَلِّمَةٌ",
+          "meaning": {
+            "en": "She is a teacher.",
+            "ur": "وہ ایک ٹیچر ہیں۔",
+            "id": "Dia adalah seorang guru.",
+            "tr": "O bir öğretmen.",
+            "fr": "Elle est enseignante."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-02-she-is-teacher.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-02-we-are-students",
+          "type": "sentence",
+          "arabic": "نَحْنُ طُلَّابٌ",
+          "transliteration": "naḥnu ṭullābun",
+          "audioText": "نَحْنُ طُلَّابٌ",
+          "meaning": {
+            "en": "We are students.",
+            "ur": "ہم طالب علم ہیں۔",
+            "id": "Kami adalah pelajar.",
+            "tr": "Biz öğrenciyiz.",
+            "fr": "Nous sommes étudiants."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-02-we-are-students.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-02-they-are-friends",
+          "type": "sentence",
+          "arabic": "هُمْ أَصْدِقَاءُ",
+          "transliteration": "hum aṣdiqāʾu",
+          "audioText": "هُمْ أَصْدِقَاءُ",
+          "meaning": {
+            "en": "They are friends.",
+            "ur": "وہ دوست ہیں۔",
+            "id": "Mereka adalah teman.",
+            "tr": "Onlar arkadaş.",
+            "fr": "Ce sont des amis."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-02-they-are-friends.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "sentences-03",
+      "order": 3,
+      "title": {
+        "en": "My and your belongings",
+        "ur": "میرا اور تمہارا سامان",
+        "id": "Milikku dan milikmu",
+        "tr": "Benim ve senin eşyaların",
+        "fr": "Mes et vos affaires"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about My and your belongings.",
+        "ur": "میرے اور آپ کے سامان کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang Milik Saya dan barang-barang Anda.",
+        "tr": "Benim ve senin eşyaların hakkında yararlı Arapça kelimeler ve kısa ifadeler uygulayın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur Moi et vos biens."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "sentences-03-review-1",
+          "type": "sentence",
+          "arabic": "أَنْتَ طَالِبٌ",
+          "transliteration": "anta ṭālibun",
+          "audioText": "أَنْتَ طَالِبٌ",
+          "meaning": {
+            "en": "You are a male student.",
+            "ur": "آپ ایک مرد طالب علم ہیں۔",
+            "id": "Anda adalah seorang siswa laki-laki.",
+            "tr": "Erkek öğrencisiniz.",
+            "fr": "Vous êtes un étudiant."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-01-you-are-student-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-03-review-2",
+          "type": "sentence",
+          "arabic": "هُوَ طَبِيبٌ",
+          "transliteration": "huwa ṭabībun",
+          "audioText": "هُوَ طَبِيبٌ",
+          "meaning": {
+            "en": "He is a doctor.",
+            "ur": "وہ ایک ڈاکٹر ہے۔",
+            "id": "Dia adalah seorang dokter.",
+            "tr": "O bir doktor.",
+            "fr": "Il est médecin."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-01-he-is-doctor.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-03-review-3",
+          "type": "sentence",
+          "arabic": "هِيَ مُعَلِّمَةٌ",
+          "transliteration": "hiya muʿallimatun",
+          "audioText": "هِيَ مُعَلِّمَةٌ",
+          "meaning": {
+            "en": "She is a teacher.",
+            "ur": "وہ ایک ٹیچر ہیں۔",
+            "id": "Dia adalah seorang guru.",
+            "tr": "O bir öğretmen.",
+            "fr": "Elle est enseignante."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-02-she-is-teacher.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-03-review-4",
+          "type": "sentence",
+          "arabic": "نَحْنُ طُلَّابٌ",
+          "transliteration": "naḥnu ṭullābun",
+          "audioText": "نَحْنُ طُلَّابٌ",
+          "meaning": {
+            "en": "We are students.",
+            "ur": "ہم طالب علم ہیں۔",
+            "id": "Kami adalah pelajar.",
+            "tr": "Biz öğrenciyiz.",
+            "fr": "Nous sommes étudiants."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-02-we-are-students.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-03-review-5",
+          "type": "sentence",
+          "arabic": "هُمْ أَصْدِقَاءُ",
+          "transliteration": "hum aṣdiqāʾu",
+          "audioText": "هُمْ أَصْدِقَاءُ",
+          "meaning": {
+            "en": "They are friends.",
+            "ur": "وہ دوست ہیں۔",
+            "id": "Mereka adalah teman.",
+            "tr": "Onlar arkadaş.",
+            "fr": "Ce sont des amis."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-02-they-are-friends.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-03-my-book",
+          "type": "phrase",
+          "arabic": "كِتَابِي",
+          "transliteration": "kitābī",
+          "audioText": "كِتَابِي",
+          "meaning": {
+            "en": "my book",
+            "ur": "میری کتاب",
+            "id": "buku saya",
+            "tr": "benim kitabım",
+            "fr": "mon livre"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-03-my-book.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-03-your-book-m",
+          "type": "phrase",
+          "arabic": "كِتَابُكَ",
+          "transliteration": "kitābuka",
+          "audioText": "كِتَابُكَ",
+          "meaning": {
+            "en": "your book (to a man)",
+            "ur": "آپ کی کتاب (ایک آدمی کو)",
+            "id": "bukumu (untuk seorang pria)",
+            "tr": "senin kitabın (bir erkeğe)",
+            "fr": "ton livre (à un homme)"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-03-your-book-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-03-her-house",
+          "type": "phrase",
+          "arabic": "بَيْتُهَا",
+          "transliteration": "baytuhā",
+          "audioText": "بَيْتُهَا",
+          "meaning": {
+            "en": "her house",
+            "ur": "اس کا گھر",
+            "id": "rumahnya",
+            "tr": "onun evi",
+            "fr": "sa maison"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-03-her-house.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "sentences-04",
+      "order": 4,
+      "title": {
+        "en": "Possessions in sentences",
+        "ur": "جملوں میں مال",
+        "id": "Kepemilikan dalam kalimat",
+        "tr": "Cümlelerdeki mülkiyetler",
+        "fr": "Possessions dans les phrases"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Possessions in sentences.",
+        "ur": "جملوں میں مال کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Harta dalam kalimat.",
+        "tr": "Cümlelerdeki Eşyalar ile ilgili faydalı Arapça kelimeleri ve kısa ifadeleri uygulayın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les possessions dans des phrases."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "sentences-04-review-1",
+          "type": "sentence",
+          "arabic": "نَحْنُ طُلَّابٌ",
+          "transliteration": "naḥnu ṭullābun",
+          "audioText": "نَحْنُ طُلَّابٌ",
+          "meaning": {
+            "en": "We are students.",
+            "ur": "ہم طالب علم ہیں۔",
+            "id": "Kami adalah pelajar.",
+            "tr": "Biz öğrenciyiz.",
+            "fr": "Nous sommes étudiants."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-02-we-are-students.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-04-review-2",
+          "type": "sentence",
+          "arabic": "هُمْ أَصْدِقَاءُ",
+          "transliteration": "hum aṣdiqāʾu",
+          "audioText": "هُمْ أَصْدِقَاءُ",
+          "meaning": {
+            "en": "They are friends.",
+            "ur": "وہ دوست ہیں۔",
+            "id": "Mereka adalah teman.",
+            "tr": "Onlar arkadaş.",
+            "fr": "Ce sont des amis."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-02-they-are-friends.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-04-review-3",
+          "type": "phrase",
+          "arabic": "كِتَابِي",
+          "transliteration": "kitābī",
+          "audioText": "كِتَابِي",
+          "meaning": {
+            "en": "my book",
+            "ur": "میری کتاب",
+            "id": "buku saya",
+            "tr": "benim kitabım",
+            "fr": "mon livre"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-03-my-book.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-04-review-4",
+          "type": "phrase",
+          "arabic": "كِتَابُكَ",
+          "transliteration": "kitābuka",
+          "audioText": "كِتَابُكَ",
+          "meaning": {
+            "en": "your book (to a man)",
+            "ur": "آپ کی کتاب (ایک آدمی کو)",
+            "id": "bukumu (untuk seorang pria)",
+            "tr": "senin kitabın (bir erkeğe)",
+            "fr": "ton livre (à un homme)"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-03-your-book-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-04-review-5",
+          "type": "phrase",
+          "arabic": "بَيْتُهَا",
+          "transliteration": "baytuhā",
+          "audioText": "بَيْتُهَا",
+          "meaning": {
+            "en": "her house",
+            "ur": "اس کا گھر",
+            "id": "rumahnya",
+            "tr": "onun evi",
+            "fr": "sa maison"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-03-her-house.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-04-this-is-my-book",
+          "type": "sentence",
+          "arabic": "هَذَا كِتَابِي",
+          "transliteration": "hādhā kitābī",
+          "audioText": "هَذَا كِتَابِي",
+          "meaning": {
+            "en": "This is my book.",
+            "ur": "یہ میری کتاب ہے۔",
+            "id": "Ini bukuku.",
+            "tr": "Bu benim kitabım.",
+            "fr": "Ceci est mon livre."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-04-this-is-my-book.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-04-his-house-is-big",
+          "type": "sentence",
+          "arabic": "بَيْتُهُ كَبِيرٌ",
+          "transliteration": "baytuhu kabīrun",
+          "audioText": "بَيْتُهُ كَبِيرٌ",
+          "meaning": {
+            "en": "His house is big.",
+            "ur": "اس کا گھر بڑا ہے۔",
+            "id": "Rumahnya besar.",
+            "tr": "Onun evi büyüktür.",
+            "fr": "Sa maison est grande."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-04-his-house-is-big.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-04-our-school-is-near",
+          "type": "sentence",
+          "arabic": "مَدْرَسَتُنَا قَرِيبَةٌ",
+          "transliteration": "madrasatunā qarībatun",
+          "audioText": "مَدْرَسَتُنَا قَرِيبَةٌ",
+          "meaning": {
+            "en": "Our school is nearby.",
+            "ur": "ہمارا سکول قریب ہی ہے۔",
+            "id": "Sekolah kami dekat.",
+            "tr": "Okulumuz yakındadır.",
+            "fr": "Notre école est à proximité."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-04-our-school-is-near.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "sentences-05",
+      "order": 5,
+      "title": {
+        "en": "And and but",
+        "ur": "اور اور لیکن",
+        "id": "Dan dan tapi",
+        "tr": "Ve ve ama",
+        "fr": "Et et mais"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about And and but.",
+        "ur": "اور اور لیکن کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang Dan dan tetapi.",
+        "tr": "Ve ve ama ile ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur Et et mais."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "sentences-05-review-1",
+          "type": "phrase",
+          "arabic": "كِتَابُكَ",
+          "transliteration": "kitābuka",
+          "audioText": "كِتَابُكَ",
+          "meaning": {
+            "en": "your book (to a man)",
+            "ur": "آپ کی کتاب (ایک آدمی کو)",
+            "id": "bukumu (untuk seorang pria)",
+            "tr": "senin kitabın (bir erkeğe)",
+            "fr": "ton livre (à un homme)"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-03-your-book-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-05-review-2",
+          "type": "phrase",
+          "arabic": "بَيْتُهَا",
+          "transliteration": "baytuhā",
+          "audioText": "بَيْتُهَا",
+          "meaning": {
+            "en": "her house",
+            "ur": "اس کا گھر",
+            "id": "rumahnya",
+            "tr": "onun evi",
+            "fr": "sa maison"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-03-her-house.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-05-review-3",
+          "type": "sentence",
+          "arabic": "هَذَا كِتَابِي",
+          "transliteration": "hādhā kitābī",
+          "audioText": "هَذَا كِتَابِي",
+          "meaning": {
+            "en": "This is my book.",
+            "ur": "یہ میری کتاب ہے۔",
+            "id": "Ini bukuku.",
+            "tr": "Bu benim kitabım.",
+            "fr": "Ceci est mon livre."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-04-this-is-my-book.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-05-review-4",
+          "type": "sentence",
+          "arabic": "بَيْتُهُ كَبِيرٌ",
+          "transliteration": "baytuhu kabīrun",
+          "audioText": "بَيْتُهُ كَبِيرٌ",
+          "meaning": {
+            "en": "His house is big.",
+            "ur": "اس کا گھر بڑا ہے۔",
+            "id": "Rumahnya besar.",
+            "tr": "Onun evi büyüktür.",
+            "fr": "Sa maison est grande."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-04-his-house-is-big.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-05-review-5",
+          "type": "sentence",
+          "arabic": "مَدْرَسَتُنَا قَرِيبَةٌ",
+          "transliteration": "madrasatunā qarībatun",
+          "audioText": "مَدْرَسَتُنَا قَرِيبَةٌ",
+          "meaning": {
+            "en": "Our school is nearby.",
+            "ur": "ہمارا سکول قریب ہی ہے۔",
+            "id": "Sekolah kami dekat.",
+            "tr": "Okulumuz yakındadır.",
+            "fr": "Notre école est à proximité."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-04-our-school-is-near.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-05-book-and-pen",
+          "type": "phrase",
+          "arabic": "كِتَابٌ وَقَلَمٌ",
+          "transliteration": "kitābun wa-qalamun",
+          "audioText": "كِتَابٌ وَقَلَمٌ",
+          "meaning": {
+            "en": "a book and a pen",
+            "ur": "ایک کتاب اور ایک قلم",
+            "id": "sebuah buku dan pena",
+            "tr": "bir kitap ve bir kalem",
+            "fr": "un livre et un stylo"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-05-book-and-pen.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-05-student-but-tired",
+          "type": "sentence",
+          "arabic": "الطَّالِبُ مُجْتَهِدٌ وَلَكِنَّهُ مُتْعَبٌ",
+          "transliteration": "aṭ-ṭālibu mujtahidun wa-lākinnahu mutʿabun",
+          "audioText": "الطَّالِبُ مُجْتَهِدٌ وَلَكِنَّهُ مُتْعَبٌ",
+          "meaning": {
+            "en": "The student is hardworking, but he is tired.",
+            "ur": "طالب علم محنتی ہے، لیکن وہ تھکا ہوا ہے۔",
+            "id": "Siswa itu pekerja keras, tetapi dia lelah.",
+            "tr": "Öğrenci çalışkandır ama yorgundur.",
+            "fr": "L'étudiant travaille dur, mais il est fatigué."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-05-student-but-tired.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-05-house-and-garden",
+          "type": "sentence",
+          "arabic": "لِلْبَيْتِ حَدِيقَةٌ وَاسِعَةٌ",
+          "transliteration": "li-l-bayti ḥadīqatun wāsiʿatun",
+          "audioText": "لِلْبَيْتِ حَدِيقَةٌ وَاسِعَةٌ",
+          "meaning": {
+            "en": "The house has a spacious garden.",
+            "ur": "گھر میں ایک کشادہ باغ ہے۔",
+            "id": "Rumah itu memiliki taman yang luas.",
+            "tr": "Evin geniş bir bahçesi vardır.",
+            "fr": "La maison dispose d'un grand jardin."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-05-house-and-garden.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "sentences-06",
+      "order": 6,
+      "title": {
+        "en": "Making a sentence negative",
+        "ur": "ایک جملہ منفی بنانا",
+        "id": "Membuat kalimat menjadi negatif",
+        "tr": "Bir cümleyi olumsuz yapmak",
+        "fr": "Rendre une phrase négative"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Making a sentence negative.",
+        "ur": "کسی جملے کو منفی بنانے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Membuat kalimat negatif.",
+        "tr": "Bir cümleyi olumsuz yapma konusunda faydalı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Entraînez-vous à utiliser des mots arabes utiles et des phrases courtes pour rendre une phrase négative."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "sentences-06-review-1",
+          "type": "sentence",
+          "arabic": "بَيْتُهُ كَبِيرٌ",
+          "transliteration": "baytuhu kabīrun",
+          "audioText": "بَيْتُهُ كَبِيرٌ",
+          "meaning": {
+            "en": "His house is big.",
+            "ur": "اس کا گھر بڑا ہے۔",
+            "id": "Rumahnya besar.",
+            "tr": "Onun evi büyüktür.",
+            "fr": "Sa maison est grande."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-04-his-house-is-big.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-06-review-2",
+          "type": "sentence",
+          "arabic": "مَدْرَسَتُنَا قَرِيبَةٌ",
+          "transliteration": "madrasatunā qarībatun",
+          "audioText": "مَدْرَسَتُنَا قَرِيبَةٌ",
+          "meaning": {
+            "en": "Our school is nearby.",
+            "ur": "ہمارا سکول قریب ہی ہے۔",
+            "id": "Sekolah kami dekat.",
+            "tr": "Okulumuz yakındadır.",
+            "fr": "Notre école est à proximité."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-04-our-school-is-near.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-06-review-3",
+          "type": "phrase",
+          "arabic": "كِتَابٌ وَقَلَمٌ",
+          "transliteration": "kitābun wa-qalamun",
+          "audioText": "كِتَابٌ وَقَلَمٌ",
+          "meaning": {
+            "en": "a book and a pen",
+            "ur": "ایک کتاب اور ایک قلم",
+            "id": "sebuah buku dan pena",
+            "tr": "bir kitap ve bir kalem",
+            "fr": "un livre et un stylo"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-05-book-and-pen.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-06-review-4",
+          "type": "sentence",
+          "arabic": "الطَّالِبُ مُجْتَهِدٌ وَلَكِنَّهُ مُتْعَبٌ",
+          "transliteration": "aṭ-ṭālibu mujtahidun wa-lākinnahu mutʿabun",
+          "audioText": "الطَّالِبُ مُجْتَهِدٌ وَلَكِنَّهُ مُتْعَبٌ",
+          "meaning": {
+            "en": "The student is hardworking, but he is tired.",
+            "ur": "طالب علم محنتی ہے، لیکن وہ تھکا ہوا ہے۔",
+            "id": "Siswa itu pekerja keras, tetapi dia lelah.",
+            "tr": "Öğrenci çalışkandır ama yorgundur.",
+            "fr": "L'étudiant travaille dur, mais il est fatigué."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-05-student-but-tired.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-06-review-5",
+          "type": "sentence",
+          "arabic": "لِلْبَيْتِ حَدِيقَةٌ وَاسِعَةٌ",
+          "transliteration": "li-l-bayti ḥadīqatun wāsiʿatun",
+          "audioText": "لِلْبَيْتِ حَدِيقَةٌ وَاسِعَةٌ",
+          "meaning": {
+            "en": "The house has a spacious garden.",
+            "ur": "گھر میں ایک کشادہ باغ ہے۔",
+            "id": "Rumah itu memiliki taman yang luas.",
+            "tr": "Evin geniş bir bahçesi vardır.",
+            "fr": "La maison dispose d'un grand jardin."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-05-house-and-garden.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-06-not-a-teacher",
+          "type": "sentence",
+          "arabic": "أَنَا لَسْتُ مُعَلِّمًا",
+          "transliteration": "anā lastu muʿalliman",
+          "audioText": "أَنَا لَسْتُ مُعَلِّمًا",
+          "meaning": {
+            "en": "I am not a teacher.",
+            "ur": "میں استاد نہیں ہوں۔",
+            "id": "Saya bukan seorang guru.",
+            "tr": "Ben öğretmen değilim.",
+            "fr": "Je ne suis pas enseignant."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-06-not-a-teacher.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-06-not-big",
+          "type": "sentence",
+          "arabic": "الْبَيْتُ لَيْسَ كَبِيرًا",
+          "transliteration": "al-baytu laysa kabīran",
+          "audioText": "الْبَيْتُ لَيْسَ كَبِيرًا",
+          "meaning": {
+            "en": "The house is not big.",
+            "ur": "گھر بڑا نہیں ہے۔",
+            "id": "Rumahnya tidak besar.",
+            "tr": "Ev büyük değil.",
+            "fr": "La maison n'est pas grande."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-06-not-big.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-06-not-here",
+          "type": "sentence",
+          "arabic": "الْمُعَلِّمَةُ لَيْسَتْ هُنَا",
+          "transliteration": "al-muʿallimatu laysat hunā",
+          "audioText": "الْمُعَلِّمَةُ لَيْسَتْ هُنَا",
+          "meaning": {
+            "en": "The teacher (female) is not here.",
+            "ur": "ٹیچر (خاتون) یہاں نہیں ہے۔",
+            "id": "Guru (perempuan) tidak ada di sini.",
+            "tr": "Öğretmen (kadın) burada değil.",
+            "fr": "L'enseignante (femme) n'est pas là."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-06-not-here.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "sentences-07",
+      "order": 7,
+      "title": {
+        "en": "Yes-or-no questions",
+        "ur": "ہاں یا نہیں سوالات",
+        "id": "Pertanyaan ya atau tidak",
+        "tr": "Evet-hayır soruları",
+        "fr": "Questions oui ou non"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Yes-or-no questions.",
+        "ur": "ہاں یا نہیں سوالات کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang pertanyaan Ya atau tidak.",
+        "tr": "Evet-hayır sorularıyla ilgili faydalı Arapça kelimelerin ve kısa ifadelerin alıştırmasını yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur des questions oui ou non."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "sentences-07-review-1",
+          "type": "sentence",
+          "arabic": "الطَّالِبُ مُجْتَهِدٌ وَلَكِنَّهُ مُتْعَبٌ",
+          "transliteration": "aṭ-ṭālibu mujtahidun wa-lākinnahu mutʿabun",
+          "audioText": "الطَّالِبُ مُجْتَهِدٌ وَلَكِنَّهُ مُتْعَبٌ",
+          "meaning": {
+            "en": "The student is hardworking, but he is tired.",
+            "ur": "طالب علم محنتی ہے، لیکن وہ تھکا ہوا ہے۔",
+            "id": "Siswa itu pekerja keras, tetapi dia lelah.",
+            "tr": "Öğrenci çalışkandır ama yorgundur.",
+            "fr": "L'étudiant travaille dur, mais il est fatigué."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-05-student-but-tired.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-07-review-2",
+          "type": "sentence",
+          "arabic": "لِلْبَيْتِ حَدِيقَةٌ وَاسِعَةٌ",
+          "transliteration": "li-l-bayti ḥadīqatun wāsiʿatun",
+          "audioText": "لِلْبَيْتِ حَدِيقَةٌ وَاسِعَةٌ",
+          "meaning": {
+            "en": "The house has a spacious garden.",
+            "ur": "گھر میں ایک کشادہ باغ ہے۔",
+            "id": "Rumah itu memiliki taman yang luas.",
+            "tr": "Evin geniş bir bahçesi vardır.",
+            "fr": "La maison dispose d'un grand jardin."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-05-house-and-garden.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-07-review-3",
+          "type": "sentence",
+          "arabic": "أَنَا لَسْتُ مُعَلِّمًا",
+          "transliteration": "anā lastu muʿalliman",
+          "audioText": "أَنَا لَسْتُ مُعَلِّمًا",
+          "meaning": {
+            "en": "I am not a teacher.",
+            "ur": "میں استاد نہیں ہوں۔",
+            "id": "Saya bukan seorang guru.",
+            "tr": "Ben öğretmen değilim.",
+            "fr": "Je ne suis pas enseignant."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-06-not-a-teacher.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-07-review-4",
+          "type": "sentence",
+          "arabic": "الْبَيْتُ لَيْسَ كَبِيرًا",
+          "transliteration": "al-baytu laysa kabīran",
+          "audioText": "الْبَيْتُ لَيْسَ كَبِيرًا",
+          "meaning": {
+            "en": "The house is not big.",
+            "ur": "گھر بڑا نہیں ہے۔",
+            "id": "Rumahnya tidak besar.",
+            "tr": "Ev büyük değil.",
+            "fr": "La maison n'est pas grande."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-06-not-big.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-07-review-5",
+          "type": "sentence",
+          "arabic": "الْمُعَلِّمَةُ لَيْسَتْ هُنَا",
+          "transliteration": "al-muʿallimatu laysat hunā",
+          "audioText": "الْمُعَلِّمَةُ لَيْسَتْ هُنَا",
+          "meaning": {
+            "en": "The teacher (female) is not here.",
+            "ur": "ٹیچر (خاتون) یہاں نہیں ہے۔",
+            "id": "Guru (perempuan) tidak ada di sini.",
+            "tr": "Öğretmen (kadın) burada değil.",
+            "fr": "L'enseignante (femme) n'est pas là."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-06-not-here.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-07-are-you-student-m",
+          "type": "question",
+          "arabic": "هَلْ أَنْتَ طَالِبٌ؟",
+          "transliteration": "hal anta ṭālibun?",
+          "audioText": "هَلْ أَنْتَ طَالِبٌ؟",
+          "meaning": {
+            "en": "Are you a student? (to a man)",
+            "ur": "کیا آپ طالب علم ہیں؟ (ایک آدمی کو)",
+            "id": "Apakah kamu seorang pelajar? (kepada seorang pria)",
+            "tr": "Siz öğrenci misiniz? (bir erkeğe)",
+            "fr": "Êtes-vous un étudiant? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-07-are-you-student-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-07-is-this-your-book",
+          "type": "question",
+          "arabic": "هَلْ هَذَا كِتَابُكَ؟",
+          "transliteration": "hal hādhā kitābuka?",
+          "audioText": "هَلْ هَذَا كِتَابُكَ؟",
+          "meaning": {
+            "en": "Is this your book? (to a man)",
+            "ur": "کیا یہ آپ کی کتاب ہے؟ (ایک آدمی کو)",
+            "id": "Apakah ini bukumu? (kepada seorang pria)",
+            "tr": "Bu senin kitabın mı? (bir erkeğe)",
+            "fr": "Est-ce votre livre ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-07-is-this-your-book.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-07-is-school-near",
+          "type": "question",
+          "arabic": "هَلِ الْمَدْرَسَةُ قَرِيبَةٌ؟",
+          "transliteration": "hali l-madrasatu qarībatun?",
+          "audioText": "هَلِ الْمَدْرَسَةُ قَرِيبَةٌ؟",
+          "meaning": {
+            "en": "Is the school nearby?",
+            "ur": "کیا اسکول آس پاس ہے؟",
+            "id": "Apakah sekolahnya dekat?",
+            "tr": "Okul yakında mı?",
+            "fr": "L'école est-elle à proximité ?"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-07-is-school-near.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "sentences-08",
+      "order": 8,
+      "title": {
+        "en": "Who and what questions",
+        "ur": "کون اور کون سے سوالات",
+        "id": "Siapa dan pertanyaan apa",
+        "tr": "Kim ve hangi sorular",
+        "fr": "Qui et quelles questions"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Who and what questions.",
+        "ur": "کون اور کون سے سوالات کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang pertanyaan Siapa dan apa.",
+        "tr": "Kim ve ne sorularıyla ilgili faydalı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur qui et quelles questions."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "sentences-08-review-1",
+          "type": "sentence",
+          "arabic": "الْبَيْتُ لَيْسَ كَبِيرًا",
+          "transliteration": "al-baytu laysa kabīran",
+          "audioText": "الْبَيْتُ لَيْسَ كَبِيرًا",
+          "meaning": {
+            "en": "The house is not big.",
+            "ur": "گھر بڑا نہیں ہے۔",
+            "id": "Rumahnya tidak besar.",
+            "tr": "Ev büyük değil.",
+            "fr": "La maison n'est pas grande."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-06-not-big.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-08-review-2",
+          "type": "sentence",
+          "arabic": "الْمُعَلِّمَةُ لَيْسَتْ هُنَا",
+          "transliteration": "al-muʿallimatu laysat hunā",
+          "audioText": "الْمُعَلِّمَةُ لَيْسَتْ هُنَا",
+          "meaning": {
+            "en": "The teacher (female) is not here.",
+            "ur": "ٹیچر (خاتون) یہاں نہیں ہے۔",
+            "id": "Guru (perempuan) tidak ada di sini.",
+            "tr": "Öğretmen (kadın) burada değil.",
+            "fr": "L'enseignante (femme) n'est pas là."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-06-not-here.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-08-review-3",
+          "type": "question",
+          "arabic": "هَلْ أَنْتَ طَالِبٌ؟",
+          "transliteration": "hal anta ṭālibun?",
+          "audioText": "هَلْ أَنْتَ طَالِبٌ؟",
+          "meaning": {
+            "en": "Are you a student? (to a man)",
+            "ur": "کیا آپ طالب علم ہیں؟ (ایک آدمی کو)",
+            "id": "Apakah kamu seorang pelajar? (kepada seorang pria)",
+            "tr": "Siz öğrenci misiniz? (bir erkeğe)",
+            "fr": "Êtes-vous un étudiant? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-07-are-you-student-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-08-review-4",
+          "type": "question",
+          "arabic": "هَلْ هَذَا كِتَابُكَ؟",
+          "transliteration": "hal hādhā kitābuka?",
+          "audioText": "هَلْ هَذَا كِتَابُكَ؟",
+          "meaning": {
+            "en": "Is this your book? (to a man)",
+            "ur": "کیا یہ آپ کی کتاب ہے؟ (ایک آدمی کو)",
+            "id": "Apakah ini bukumu? (kepada seorang pria)",
+            "tr": "Bu senin kitabın mı? (bir erkeğe)",
+            "fr": "Est-ce votre livre ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-07-is-this-your-book.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-08-review-5",
+          "type": "question",
+          "arabic": "هَلِ الْمَدْرَسَةُ قَرِيبَةٌ؟",
+          "transliteration": "hali l-madrasatu qarībatun?",
+          "audioText": "هَلِ الْمَدْرَسَةُ قَرِيبَةٌ؟",
+          "meaning": {
+            "en": "Is the school nearby?",
+            "ur": "کیا اسکول آس پاس ہے؟",
+            "id": "Apakah sekolahnya dekat?",
+            "tr": "Okul yakında mı?",
+            "fr": "L'école est-elle à proximité ?"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-07-is-school-near.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-08-who-is-he",
+          "type": "question",
+          "arabic": "مَنْ هُوَ؟",
+          "transliteration": "man huwa?",
+          "audioText": "مَنْ هُوَ؟",
+          "meaning": {
+            "en": "Who is he?",
+            "ur": "وہ کون ہے؟",
+            "id": "Siapa dia?",
+            "tr": "Kim o?",
+            "fr": "Qui est-il ?"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-08-who-is-he.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-08-what-is-this",
+          "type": "question",
+          "arabic": "مَا هَذَا؟",
+          "transliteration": "mā hādhā?",
+          "audioText": "مَا هَذَا؟",
+          "meaning": {
+            "en": "What is this?",
+            "ur": "یہ کیا ہے؟",
+            "id": "Apa ini?",
+            "tr": "Bu nedir?",
+            "fr": "Qu'est-ce que c'est?"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-08-what-is-this.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-08-whose-book",
+          "type": "question",
+          "arabic": "لِمَنْ هَذَا الْكِتَابُ؟",
+          "transliteration": "liman hādhā l-kitābu?",
+          "audioText": "لِمَنْ هَذَا الْكِتَابُ؟",
+          "meaning": {
+            "en": "Whose book is this?",
+            "ur": "یہ کس کی کتاب ہے؟",
+            "id": "Buku siapa ini?",
+            "tr": "Bu kimin kitabı?",
+            "fr": "A qui est ce livre ?"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-08-whose-book.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "sentences-09",
+      "order": 9,
+      "title": {
+        "en": "Where and when questions",
+        "ur": "کہاں اور کب سوالات",
+        "id": "Di mana dan kapan pertanyaan",
+        "tr": "Nerede ve ne zaman soruları",
+        "fr": "Questions où et quand"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Where and when questions.",
+        "ur": "کہاں اور کب سوالات کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang pertanyaan Di mana dan kapan.",
+        "tr": "Nerede ve ne zaman sorularıyla ilgili faydalı Arapça kelimelerin ve kısa ifadelerin alıştırmasını yapın.",
+        "fr": "Entraînez-vous à utiliser des mots arabes utiles et des phrases courtes sur les questions Où et Quand."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "sentences-09-review-1",
+          "type": "question",
+          "arabic": "هَلْ هَذَا كِتَابُكَ؟",
+          "transliteration": "hal hādhā kitābuka?",
+          "audioText": "هَلْ هَذَا كِتَابُكَ؟",
+          "meaning": {
+            "en": "Is this your book? (to a man)",
+            "ur": "کیا یہ آپ کی کتاب ہے؟ (ایک آدمی کو)",
+            "id": "Apakah ini bukumu? (kepada seorang pria)",
+            "tr": "Bu senin kitabın mı? (bir erkeğe)",
+            "fr": "Est-ce votre livre ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-07-is-this-your-book.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-09-review-2",
+          "type": "question",
+          "arabic": "هَلِ الْمَدْرَسَةُ قَرِيبَةٌ؟",
+          "transliteration": "hali l-madrasatu qarībatun?",
+          "audioText": "هَلِ الْمَدْرَسَةُ قَرِيبَةٌ؟",
+          "meaning": {
+            "en": "Is the school nearby?",
+            "ur": "کیا اسکول آس پاس ہے؟",
+            "id": "Apakah sekolahnya dekat?",
+            "tr": "Okul yakında mı?",
+            "fr": "L'école est-elle à proximité ?"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-07-is-school-near.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-09-review-3",
+          "type": "question",
+          "arabic": "مَنْ هُوَ؟",
+          "transliteration": "man huwa?",
+          "audioText": "مَنْ هُوَ؟",
+          "meaning": {
+            "en": "Who is he?",
+            "ur": "وہ کون ہے؟",
+            "id": "Siapa dia?",
+            "tr": "Kim o?",
+            "fr": "Qui est-il ?"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-08-who-is-he.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-09-review-4",
+          "type": "question",
+          "arabic": "مَا هَذَا؟",
+          "transliteration": "mā hādhā?",
+          "audioText": "مَا هَذَا؟",
+          "meaning": {
+            "en": "What is this?",
+            "ur": "یہ کیا ہے؟",
+            "id": "Apa ini?",
+            "tr": "Bu nedir?",
+            "fr": "Qu'est-ce que c'est?"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-08-what-is-this.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-09-review-5",
+          "type": "question",
+          "arabic": "لِمَنْ هَذَا الْكِتَابُ؟",
+          "transliteration": "liman hādhā l-kitābu?",
+          "audioText": "لِمَنْ هَذَا الْكِتَابُ؟",
+          "meaning": {
+            "en": "Whose book is this?",
+            "ur": "یہ کس کی کتاب ہے؟",
+            "id": "Buku siapa ini?",
+            "tr": "Bu kimin kitabı?",
+            "fr": "A qui est ce livre ?"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-08-whose-book.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-09-where-do-you-work",
+          "type": "question",
+          "arabic": "أَيْنَ تَعْمَلُ؟",
+          "transliteration": "ayna taʿmalu?",
+          "audioText": "أَيْنَ تَعْمَلُ؟",
+          "meaning": {
+            "en": "Where do you work? (to a man)",
+            "ur": "آپ کہاں کام کرتے ہیں؟ (ایک آدمی کو)",
+            "id": "Dimana kamu bekerja? (kepada seorang pria)",
+            "tr": "Nerede çalışıyorsun? (bir erkeğe)",
+            "fr": "Où travaillez-vous? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-09-where-do-you-work.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-09-when-is-class",
+          "type": "question",
+          "arabic": "مَتَى الدَّرْسُ؟",
+          "transliteration": "matā d-darsu?",
+          "audioText": "مَتَى الدَّرْسُ؟",
+          "meaning": {
+            "en": "When is the lesson?",
+            "ur": "سبق کب ہے؟",
+            "id": "Kapan pelajarannya?",
+            "tr": "Ders ne zaman?",
+            "fr": "Quand est le cours ?"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-09-when-is-class.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-09-why-are-you-here",
+          "type": "question",
+          "arabic": "لِمَاذَا أَنْتَ هُنَا؟",
+          "transliteration": "limādhā anta hunā?",
+          "audioText": "لِمَاذَا أَنْتَ هُنَا؟",
+          "meaning": {
+            "en": "Why are you here? (to a man)",
+            "ur": "تم یہاں کیوں ہو؟ (ایک آدمی کو)",
+            "id": "Mengapa kamu di sini? (kepada seorang pria)",
+            "tr": "Neden buradasın? (bir erkeğe)",
+            "fr": "Pourquoi es-tu ici ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-09-why-are-you-here.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "sentences-10",
+      "order": 10,
+      "title": {
+        "en": "Putting it all together",
+        "ur": "یہ سب ایک ساتھ ڈالنا",
+        "id": "Menyatukan semuanya",
+        "tr": "Hepsini bir araya getirmek",
+        "fr": "Mettre tout cela ensemble"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Putting it all together.",
+        "ur": "ان سب کو ایک ساتھ رکھنے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Menyatukan semuanya.",
+        "tr": "Hepsini bir araya getirmeyle ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes pour tout mettre ensemble."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "sentences-10-review-1",
+          "type": "question",
+          "arabic": "مَا هَذَا؟",
+          "transliteration": "mā hādhā?",
+          "audioText": "مَا هَذَا؟",
+          "meaning": {
+            "en": "What is this?",
+            "ur": "یہ کیا ہے؟",
+            "id": "Apa ini?",
+            "tr": "Bu nedir?",
+            "fr": "Qu'est-ce que c'est?"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-08-what-is-this.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-10-review-2",
+          "type": "question",
+          "arabic": "لِمَنْ هَذَا الْكِتَابُ؟",
+          "transliteration": "liman hādhā l-kitābu?",
+          "audioText": "لِمَنْ هَذَا الْكِتَابُ؟",
+          "meaning": {
+            "en": "Whose book is this?",
+            "ur": "یہ کس کی کتاب ہے؟",
+            "id": "Buku siapa ini?",
+            "tr": "Bu kimin kitabı?",
+            "fr": "A qui est ce livre ?"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-08-whose-book.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-10-review-3",
+          "type": "question",
+          "arabic": "أَيْنَ تَعْمَلُ؟",
+          "transliteration": "ayna taʿmalu?",
+          "audioText": "أَيْنَ تَعْمَلُ؟",
+          "meaning": {
+            "en": "Where do you work? (to a man)",
+            "ur": "آپ کہاں کام کرتے ہیں؟ (ایک آدمی کو)",
+            "id": "Dimana kamu bekerja? (kepada seorang pria)",
+            "tr": "Nerede çalışıyorsun? (bir erkeğe)",
+            "fr": "Où travaillez-vous? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-09-where-do-you-work.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-10-review-4",
+          "type": "question",
+          "arabic": "مَتَى الدَّرْسُ؟",
+          "transliteration": "matā d-darsu?",
+          "audioText": "مَتَى الدَّرْسُ؟",
+          "meaning": {
+            "en": "When is the lesson?",
+            "ur": "سبق کب ہے؟",
+            "id": "Kapan pelajarannya?",
+            "tr": "Ders ne zaman?",
+            "fr": "Quand est le cours ?"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-09-when-is-class.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-10-review-5",
+          "type": "question",
+          "arabic": "لِمَاذَا أَنْتَ هُنَا؟",
+          "transliteration": "limādhā anta hunā?",
+          "audioText": "لِمَاذَا أَنْتَ هُنَا؟",
+          "meaning": {
+            "en": "Why are you here? (to a man)",
+            "ur": "تم یہاں کیوں ہو؟ (ایک آدمی کو)",
+            "id": "Mengapa kamu di sini? (kepada seorang pria)",
+            "tr": "Neden buradasın? (bir erkeğe)",
+            "fr": "Pourquoi es-tu ici ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-09-why-are-you-here.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-10-i-am-new-student",
+          "type": "sentence",
+          "arabic": "أَنَا طَالِبٌ جَدِيدٌ وَهَذَا كِتَابِي",
+          "transliteration": "anā ṭālibun jadīdun wa-hādhā kitābī",
+          "audioText": "أَنَا طَالِبٌ جَدِيدٌ وَهَذَا كِتَابِي",
+          "meaning": {
+            "en": "I am a new student, and this is my book.",
+            "ur": "میں ایک نیا طالب علم ہوں، اور یہ میری کتاب ہے۔",
+            "id": "Saya seorang siswa baru, dan ini adalah buku saya.",
+            "tr": "Ben yeni bir öğrenciyim ve bu benim kitabım.",
+            "fr": "Je suis un nouvel étudiant et ceci est mon livre."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-10-i-am-new-student.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-10-she-lives-near-school",
+          "type": "sentence",
+          "arabic": "هِيَ تَسْكُنُ قَرِيبًا مِنَ الْمَدْرَسَةِ",
+          "transliteration": "hiya taskunu qarīban mina l-madrasati",
+          "audioText": "هِيَ تَسْكُنُ قَرِيبًا مِنَ الْمَدْرَسَةِ",
+          "meaning": {
+            "en": "She lives near the school.",
+            "ur": "وہ اسکول کے قریب رہتی ہے۔",
+            "id": "Dia tinggal di dekat sekolah.",
+            "tr": "Okulun yakınında yaşıyor.",
+            "fr": "Elle habite près de l'école."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-10-she-lives-near-school.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "sentences-10-we-are-learning",
+          "type": "sentence",
+          "arabic": "نَحْنُ نَتَعَلَّمُ الْعَرَبِيَّةَ مَعًا",
+          "transliteration": "naḥnu nataʿallamu l-ʿarabiyyata maʿan",
+          "audioText": "نَحْنُ نَتَعَلَّمُ الْعَرَبِيَّةَ مَعًا",
+          "meaning": {
+            "en": "We are learning Arabic together.",
+            "ur": "ہم ایک ساتھ عربی سیکھ رہے ہیں۔",
+            "id": "Kami belajar bahasa Arab bersama.",
+            "tr": "Birlikte Arapça öğreniyoruz.",
+            "fr": "Nous apprenons l'arabe ensemble."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-10-we-are-learning.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    }
+  ]
+}

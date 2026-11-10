@@ -1,0 +1,1965 @@
+{
+  "schemaVersion": 1,
+  "courseId": "arabic",
+  "levelId": "tenses",
+  "unitId": "tenses",
+  "translationLanguages": [
+    "en",
+    "ur",
+    "id",
+    "tr",
+    "fr"
+  ],
+  "lessons": [
+    {
+      "id": "tenses-01",
+      "order": 1,
+      "title": {
+        "en": "Yesterday and today",
+        "ur": "کل اور آج",
+        "id": "Kemarin dan hari ini",
+        "tr": "Dün ve bugün",
+        "fr": "Hier et aujourd'hui"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Yesterday and today.",
+        "ur": "کل اور آج کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Kemarin dan hari ini.",
+        "tr": "Dün ve bugün ile ilgili faydalı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur hier et aujourd'hui."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "tenses-01-review-1",
+          "type": "phrase",
+          "arabic": "فِي السَّاعَةِ الْخَامِسَةِ",
+          "transliteration": "fī s-sāʿati l-khāmisati",
+          "audioText": "فِي السَّاعَةِ الْخَامِسَةِ",
+          "meaning": {
+            "en": "at five o'clock",
+            "ur": "پانچ بجے",
+            "id": "pada jam lima",
+            "tr": "saat beşte",
+            "fr": "à cinq heures"
+          },
+          "audio": {
+            "path": "audio/routine/routine-09-at-five.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-01-review-2",
+          "type": "phrase",
+          "arabic": "أَرَاكَ غَدًا",
+          "transliteration": "arāka ghadan",
+          "audioText": "أَرَاكَ غَدًا",
+          "meaning": {
+            "en": "See you tomorrow. (to a man)",
+            "ur": "کل ملتے ہیں۔ (ایک آدمی کو)",
+            "id": "Sampai jumpa besok. (kepada seorang pria)",
+            "tr": "Yarın görüşürüz. (bir erkeğe)",
+            "fr": "A demain. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/routine/routine-09-see-you-tomorrow.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-01-review-3",
+          "type": "sentence",
+          "arabic": "أَتَنَاوَلُ الْفَطُورَ فِي السَّاعَةِ السَّابِعَةِ",
+          "transliteration": "atanāwalu l-faṭūra fī s-sāʿati s-sābiʿati",
+          "audioText": "أَتَنَاوَلُ الْفَطُورَ فِي السَّاعَةِ السَّابِعَةِ",
+          "meaning": {
+            "en": "I eat breakfast at seven o'clock.",
+            "ur": "میں سات بجے ناشتہ کرتا ہوں۔",
+            "id": "Saya sarapan pada jam tujuh.",
+            "tr": "Kahvaltıyı saat yedide yapıyorum.",
+            "fr": "Je prends le petit-déjeuner à sept heures."
+          },
+          "audio": {
+            "path": "audio/routine/routine-10-breakfast-at-seven.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-01-review-4",
+          "type": "sentence",
+          "arabic": "أَعْمَلُ مِنَ الصَّبَاحِ إِلَى الظُّهْرِ",
+          "transliteration": "aʿmalu mina ṣ-ṣabāḥi ilā ẓ-ẓuhri",
+          "audioText": "أَعْمَلُ مِنَ الصَّبَاحِ إِلَى الظُّهْرِ",
+          "meaning": {
+            "en": "I work from morning until noon.",
+            "ur": "میں صبح سے دوپہر تک کام کرتا ہوں۔",
+            "id": "Saya bekerja dari pagi hingga siang hari.",
+            "tr": "Sabahtan öğlene kadar çalışıyorum.",
+            "fr": "Je travaille du matin jusqu'à midi."
+          },
+          "audio": {
+            "path": "audio/routine/routine-10-work-from-morning.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-01-review-5",
+          "type": "sentence",
+          "arabic": "أَسْتَرِيحُ يَوْمَ الْجُمُعَةِ",
+          "transliteration": "astarīḥu yawma l-jumuʿati",
+          "audioText": "أَسْتَرِيحُ يَوْمَ الْجُمُعَةِ",
+          "meaning": {
+            "en": "I rest on Friday.",
+            "ur": "میں جمعہ کو آرام کرتا ہوں۔",
+            "id": "Saya beristirahat pada hari Jumat.",
+            "tr": "Cuma günü dinleniyorum.",
+            "fr": "Je me repose vendredi."
+          },
+          "audio": {
+            "path": "audio/routine/routine-10-weekend-rest.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-01-yesterday",
+          "type": "word",
+          "arabic": "أَمْسِ",
+          "transliteration": "amsi",
+          "audioText": "أَمْسِ",
+          "meaning": {
+            "en": "yesterday",
+            "ur": "کل",
+            "id": "kemarin",
+            "tr": "dün",
+            "fr": "hier"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-01-yesterday.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-01-today",
+          "type": "word",
+          "arabic": "الْيَوْمَ",
+          "transliteration": "al-yawma",
+          "audioText": "الْيَوْمَ",
+          "meaning": {
+            "en": "today",
+            "ur": "آج",
+            "id": "hari ini",
+            "tr": "bugün",
+            "fr": "aujourd'hui"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-01-today.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-01-i-studied-yesterday",
+          "type": "sentence",
+          "arabic": "دَرَسْتُ أَمْسِ",
+          "transliteration": "darastu amsi",
+          "audioText": "دَرَسْتُ أَمْسِ",
+          "meaning": {
+            "en": "I studied yesterday.",
+            "ur": "میں نے کل پڑھا تھا۔",
+            "id": "Saya belajar kemarin.",
+            "tr": "Dün çalıştım.",
+            "fr": "J'ai étudié hier."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-01-i-studied-yesterday.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "tenses-02",
+      "order": 2,
+      "title": {
+        "en": "Past actions",
+        "ur": "ماضی کے اعمال",
+        "id": "Tindakan masa lalu",
+        "tr": "Geçmiş eylemler",
+        "fr": "Actions passées"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Past actions.",
+        "ur": "ماضی کے اعمال کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang tindakan di masa lalu.",
+        "tr": "Geçmiş eylemlerle ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les actions passées."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "tenses-02-review-1",
+          "type": "sentence",
+          "arabic": "أَعْمَلُ مِنَ الصَّبَاحِ إِلَى الظُّهْرِ",
+          "transliteration": "aʿmalu mina ṣ-ṣabāḥi ilā ẓ-ẓuhri",
+          "audioText": "أَعْمَلُ مِنَ الصَّبَاحِ إِلَى الظُّهْرِ",
+          "meaning": {
+            "en": "I work from morning until noon.",
+            "ur": "میں صبح سے دوپہر تک کام کرتا ہوں۔",
+            "id": "Saya bekerja dari pagi hingga siang hari.",
+            "tr": "Sabahtan öğlene kadar çalışıyorum.",
+            "fr": "Je travaille du matin jusqu'à midi."
+          },
+          "audio": {
+            "path": "audio/routine/routine-10-work-from-morning.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-02-review-2",
+          "type": "sentence",
+          "arabic": "أَسْتَرِيحُ يَوْمَ الْجُمُعَةِ",
+          "transliteration": "astarīḥu yawma l-jumuʿati",
+          "audioText": "أَسْتَرِيحُ يَوْمَ الْجُمُعَةِ",
+          "meaning": {
+            "en": "I rest on Friday.",
+            "ur": "میں جمعہ کو آرام کرتا ہوں۔",
+            "id": "Saya beristirahat pada hari Jumat.",
+            "tr": "Cuma günü dinleniyorum.",
+            "fr": "Je me repose vendredi."
+          },
+          "audio": {
+            "path": "audio/routine/routine-10-weekend-rest.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-02-review-3",
+          "type": "word",
+          "arabic": "أَمْسِ",
+          "transliteration": "amsi",
+          "audioText": "أَمْسِ",
+          "meaning": {
+            "en": "yesterday",
+            "ur": "کل",
+            "id": "kemarin",
+            "tr": "dün",
+            "fr": "hier"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-01-yesterday.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-02-review-4",
+          "type": "word",
+          "arabic": "الْيَوْمَ",
+          "transliteration": "al-yawma",
+          "audioText": "الْيَوْمَ",
+          "meaning": {
+            "en": "today",
+            "ur": "آج",
+            "id": "hari ini",
+            "tr": "bugün",
+            "fr": "aujourd'hui"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-01-today.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-02-review-5",
+          "type": "sentence",
+          "arabic": "دَرَسْتُ أَمْسِ",
+          "transliteration": "darastu amsi",
+          "audioText": "دَرَسْتُ أَمْسِ",
+          "meaning": {
+            "en": "I studied yesterday.",
+            "ur": "میں نے کل پڑھا تھا۔",
+            "id": "Saya belajar kemarin.",
+            "tr": "Dün çalıştım.",
+            "fr": "J'ai étudié hier."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-01-i-studied-yesterday.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-02-i-read-yesterday",
+          "type": "sentence",
+          "arabic": "قَرَأْتُ كِتَابًا أَمْسِ",
+          "transliteration": "qaraʾtu kitāban amsi",
+          "audioText": "قَرَأْتُ كِتَابًا أَمْسِ",
+          "meaning": {
+            "en": "I read a book yesterday.",
+            "ur": "میں نے کل ایک کتاب پڑھی۔",
+            "id": "Saya membaca buku kemarin.",
+            "tr": "Dün bir kitap okudum.",
+            "fr": "J'ai lu un livre hier."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-02-i-read-yesterday.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-02-he-went-school",
+          "type": "sentence",
+          "arabic": "ذَهَبَ إِلَى الْمَدْرَسَةِ",
+          "transliteration": "dhahaba ilā l-madrasati",
+          "audioText": "ذَهَبَ إِلَى الْمَدْرَسَةِ",
+          "meaning": {
+            "en": "He went to school.",
+            "ur": "وہ سکول گیا۔",
+            "id": "Dia pergi ke sekolah.",
+            "tr": "Okula gitti.",
+            "fr": "Il est allé à l'école."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-02-he-went-school.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-02-she-wrote-letter",
+          "type": "sentence",
+          "arabic": "كَتَبَتْ رِسَالَةً",
+          "transliteration": "katabat risālatan",
+          "audioText": "كَتَبَتْ رِسَالَةً",
+          "meaning": {
+            "en": "She wrote a letter.",
+            "ur": "اس نے ایک خط لکھا۔",
+            "id": "Dia menulis surat.",
+            "tr": "Bir mektup yazdı.",
+            "fr": "Elle a écrit une lettre."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-02-she-wrote-letter.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "tenses-03",
+      "order": 3,
+      "title": {
+        "en": "We and they in the past",
+        "ur": "ہم اور وہ ماضی میں",
+        "id": "Kita dan mereka di masa lalu",
+        "tr": "Geçmişte biz ve onlar",
+        "fr": "Nous et eux dans le passé"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about We and they in the past.",
+        "ur": "ماضی میں ہم اور وہ کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Kami dan mereka di masa lalu.",
+        "tr": "Geçmişte Biz ve onlar hakkında yararlı Arapça kelimeler ve kısa ifadeler uygulayın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur Nous et eux dans le passé."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "tenses-03-review-1",
+          "type": "word",
+          "arabic": "الْيَوْمَ",
+          "transliteration": "al-yawma",
+          "audioText": "الْيَوْمَ",
+          "meaning": {
+            "en": "today",
+            "ur": "آج",
+            "id": "hari ini",
+            "tr": "bugün",
+            "fr": "aujourd'hui"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-01-today.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-03-review-2",
+          "type": "sentence",
+          "arabic": "دَرَسْتُ أَمْسِ",
+          "transliteration": "darastu amsi",
+          "audioText": "دَرَسْتُ أَمْسِ",
+          "meaning": {
+            "en": "I studied yesterday.",
+            "ur": "میں نے کل پڑھا تھا۔",
+            "id": "Saya belajar kemarin.",
+            "tr": "Dün çalıştım.",
+            "fr": "J'ai étudié hier."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-01-i-studied-yesterday.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-03-review-3",
+          "type": "sentence",
+          "arabic": "قَرَأْتُ كِتَابًا أَمْسِ",
+          "transliteration": "qaraʾtu kitāban amsi",
+          "audioText": "قَرَأْتُ كِتَابًا أَمْسِ",
+          "meaning": {
+            "en": "I read a book yesterday.",
+            "ur": "میں نے کل ایک کتاب پڑھی۔",
+            "id": "Saya membaca buku kemarin.",
+            "tr": "Dün bir kitap okudum.",
+            "fr": "J'ai lu un livre hier."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-02-i-read-yesterday.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-03-review-4",
+          "type": "sentence",
+          "arabic": "ذَهَبَ إِلَى الْمَدْرَسَةِ",
+          "transliteration": "dhahaba ilā l-madrasati",
+          "audioText": "ذَهَبَ إِلَى الْمَدْرَسَةِ",
+          "meaning": {
+            "en": "He went to school.",
+            "ur": "وہ سکول گیا۔",
+            "id": "Dia pergi ke sekolah.",
+            "tr": "Okula gitti.",
+            "fr": "Il est allé à l'école."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-02-he-went-school.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-03-review-5",
+          "type": "sentence",
+          "arabic": "كَتَبَتْ رِسَالَةً",
+          "transliteration": "katabat risālatan",
+          "audioText": "كَتَبَتْ رِسَالَةً",
+          "meaning": {
+            "en": "She wrote a letter.",
+            "ur": "اس نے ایک خط لکھا۔",
+            "id": "Dia menulis surat.",
+            "tr": "Bir mektup yazdı.",
+            "fr": "Elle a écrit une lettre."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-02-she-wrote-letter.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-03-we-visited",
+          "type": "sentence",
+          "arabic": "زُرْنَا جَدَّتَنَا",
+          "transliteration": "zurnā jaddatanā",
+          "audioText": "زُرْنَا جَدَّتَنَا",
+          "meaning": {
+            "en": "We visited our grandmother.",
+            "ur": "ہم اپنی دادی سے ملنے گئے۔",
+            "id": "Kami mengunjungi nenek kami.",
+            "tr": "Büyükannemizi ziyaret ettik.",
+            "fr": "Nous avons rendu visite à notre grand-mère."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-03-we-visited.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-03-they-played",
+          "type": "sentence",
+          "arabic": "لَعِبُوا فِي الْحَدِيقَةِ",
+          "transliteration": "laʿibū fī l-ḥadīqati",
+          "audioText": "لَعِبُوا فِي الْحَدِيقَةِ",
+          "meaning": {
+            "en": "They played in the park.",
+            "ur": "وہ پارک میں کھیلتے تھے۔",
+            "id": "Mereka bermain di taman.",
+            "tr": "Parkta oynadılar.",
+            "fr": "Ils jouaient dans le parc."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-03-they-played.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-03-you-learned",
+          "type": "sentence",
+          "arabic": "تَعَلَّمْتَ كَلِمَاتٍ جَدِيدَةً",
+          "transliteration": "taʿallamta kalimātin jadīdatan",
+          "audioText": "تَعَلَّمْتَ كَلِمَاتٍ جَدِيدَةً",
+          "meaning": {
+            "en": "You learned new words. (to a man)",
+            "ur": "آپ نے نئے الفاظ سیکھے۔ (ایک آدمی کو)",
+            "id": "Anda belajar kata-kata baru. (kepada seorang pria)",
+            "tr": "Yeni kelimeler öğrendin. (bir erkeğe)",
+            "fr": "Vous avez appris de nouveaux mots. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-03-you-learned.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "tenses-04",
+      "order": 4,
+      "title": {
+        "en": "Asking about the past",
+        "ur": "ماضی کے بارے میں پوچھنا",
+        "id": "Menanyakan tentang masa lalu",
+        "tr": "Geçmişi sormak",
+        "fr": "S'interroger sur le passé"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Asking about the past.",
+        "ur": "ماضی کے بارے میں پوچھنے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Bertanya tentang masa lalu.",
+        "tr": "Geçmişi sormakla ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Entraînez-vous à utiliser des mots arabes utiles et des phrases courtes pour poser des questions sur le passé."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "tenses-04-review-1",
+          "type": "sentence",
+          "arabic": "ذَهَبَ إِلَى الْمَدْرَسَةِ",
+          "transliteration": "dhahaba ilā l-madrasati",
+          "audioText": "ذَهَبَ إِلَى الْمَدْرَسَةِ",
+          "meaning": {
+            "en": "He went to school.",
+            "ur": "وہ سکول گیا۔",
+            "id": "Dia pergi ke sekolah.",
+            "tr": "Okula gitti.",
+            "fr": "Il est allé à l'école."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-02-he-went-school.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-04-review-2",
+          "type": "sentence",
+          "arabic": "كَتَبَتْ رِسَالَةً",
+          "transliteration": "katabat risālatan",
+          "audioText": "كَتَبَتْ رِسَالَةً",
+          "meaning": {
+            "en": "She wrote a letter.",
+            "ur": "اس نے ایک خط لکھا۔",
+            "id": "Dia menulis surat.",
+            "tr": "Bir mektup yazdı.",
+            "fr": "Elle a écrit une lettre."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-02-she-wrote-letter.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-04-review-3",
+          "type": "sentence",
+          "arabic": "زُرْنَا جَدَّتَنَا",
+          "transliteration": "zurnā jaddatanā",
+          "audioText": "زُرْنَا جَدَّتَنَا",
+          "meaning": {
+            "en": "We visited our grandmother.",
+            "ur": "ہم اپنی دادی سے ملنے گئے۔",
+            "id": "Kami mengunjungi nenek kami.",
+            "tr": "Büyükannemizi ziyaret ettik.",
+            "fr": "Nous avons rendu visite à notre grand-mère."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-03-we-visited.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-04-review-4",
+          "type": "sentence",
+          "arabic": "لَعِبُوا فِي الْحَدِيقَةِ",
+          "transliteration": "laʿibū fī l-ḥadīqati",
+          "audioText": "لَعِبُوا فِي الْحَدِيقَةِ",
+          "meaning": {
+            "en": "They played in the park.",
+            "ur": "وہ پارک میں کھیلتے تھے۔",
+            "id": "Mereka bermain di taman.",
+            "tr": "Parkta oynadılar.",
+            "fr": "Ils jouaient dans le parc."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-03-they-played.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-04-review-5",
+          "type": "sentence",
+          "arabic": "تَعَلَّمْتَ كَلِمَاتٍ جَدِيدَةً",
+          "transliteration": "taʿallamta kalimātin jadīdatan",
+          "audioText": "تَعَلَّمْتَ كَلِمَاتٍ جَدِيدَةً",
+          "meaning": {
+            "en": "You learned new words. (to a man)",
+            "ur": "آپ نے نئے الفاظ سیکھے۔ (ایک آدمی کو)",
+            "id": "Anda belajar kata-kata baru. (kepada seorang pria)",
+            "tr": "Yeni kelimeler öğrendin. (bir erkeğe)",
+            "fr": "Vous avez appris de nouveaux mots. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-03-you-learned.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-04-what-did-you-do",
+          "type": "question",
+          "arabic": "مَاذَا فَعَلْتَ أَمْسِ؟",
+          "transliteration": "mādhā faʿalta amsi?",
+          "audioText": "مَاذَا فَعَلْتَ أَمْسِ؟",
+          "meaning": {
+            "en": "What did you do yesterday? (to a man)",
+            "ur": "تم نے کل کیا کیا؟ (ایک آدمی کو)",
+            "id": "Apa yang kamu lakukan kemarin? (kepada seorang pria)",
+            "tr": "Dün ne yaptın? (bir erkeğe)",
+            "fr": "Qu'as-tu fait hier ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-04-what-did-you-do.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-04-where-did-you-go",
+          "type": "question",
+          "arabic": "أَيْنَ ذَهَبْتَ؟",
+          "transliteration": "ayna dhahabta?",
+          "audioText": "أَيْنَ ذَهَبْتَ؟",
+          "meaning": {
+            "en": "Where did you go? (to a man)",
+            "ur": "کہاں گئے تھے؟ (ایک آدمی کو)",
+            "id": "Kemana kamu pergi? (kepada seorang pria)",
+            "tr": "Nereye gittin? (bir erkeğe)",
+            "fr": "Où es-tu allé ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-04-where-did-you-go.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-04-did-you-read",
+          "type": "question",
+          "arabic": "هَلْ قَرَأْتَ الدَّرْسَ؟",
+          "transliteration": "hal qaraʾta d-darsa?",
+          "audioText": "هَلْ قَرَأْتَ الدَّرْسَ؟",
+          "meaning": {
+            "en": "Did you read the lesson? (to a man)",
+            "ur": "کیا آپ نے سبق پڑھا؟ (ایک آدمی کو)",
+            "id": "Apakah Anda membaca pelajarannya? (kepada seorang pria)",
+            "tr": "Dersi okudun mu? (bir erkeğe)",
+            "fr": "Avez-vous lu la leçon ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-04-did-you-read.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "tenses-05",
+      "order": 5,
+      "title": {
+        "en": "Tomorrow and later",
+        "ur": "کل اور بعد میں",
+        "id": "Besok dan nanti",
+        "tr": "Yarın ve sonrası",
+        "fr": "Demain et plus tard"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Tomorrow and later.",
+        "ur": "کل اور بعد کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Besok dan nanti.",
+        "tr": "Yarın ve sonrası ile ilgili faydalı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur Demain et plus tard."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "tenses-05-review-1",
+          "type": "sentence",
+          "arabic": "لَعِبُوا فِي الْحَدِيقَةِ",
+          "transliteration": "laʿibū fī l-ḥadīqati",
+          "audioText": "لَعِبُوا فِي الْحَدِيقَةِ",
+          "meaning": {
+            "en": "They played in the park.",
+            "ur": "وہ پارک میں کھیلتے تھے۔",
+            "id": "Mereka bermain di taman.",
+            "tr": "Parkta oynadılar.",
+            "fr": "Ils jouaient dans le parc."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-03-they-played.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-05-review-2",
+          "type": "sentence",
+          "arabic": "تَعَلَّمْتَ كَلِمَاتٍ جَدِيدَةً",
+          "transliteration": "taʿallamta kalimātin jadīdatan",
+          "audioText": "تَعَلَّمْتَ كَلِمَاتٍ جَدِيدَةً",
+          "meaning": {
+            "en": "You learned new words. (to a man)",
+            "ur": "آپ نے نئے الفاظ سیکھے۔ (ایک آدمی کو)",
+            "id": "Anda belajar kata-kata baru. (kepada seorang pria)",
+            "tr": "Yeni kelimeler öğrendin. (bir erkeğe)",
+            "fr": "Vous avez appris de nouveaux mots. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-03-you-learned.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-05-review-3",
+          "type": "question",
+          "arabic": "مَاذَا فَعَلْتَ أَمْسِ؟",
+          "transliteration": "mādhā faʿalta amsi?",
+          "audioText": "مَاذَا فَعَلْتَ أَمْسِ؟",
+          "meaning": {
+            "en": "What did you do yesterday? (to a man)",
+            "ur": "تم نے کل کیا کیا؟ (ایک آدمی کو)",
+            "id": "Apa yang kamu lakukan kemarin? (kepada seorang pria)",
+            "tr": "Dün ne yaptın? (bir erkeğe)",
+            "fr": "Qu'as-tu fait hier ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-04-what-did-you-do.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-05-review-4",
+          "type": "question",
+          "arabic": "أَيْنَ ذَهَبْتَ؟",
+          "transliteration": "ayna dhahabta?",
+          "audioText": "أَيْنَ ذَهَبْتَ؟",
+          "meaning": {
+            "en": "Where did you go? (to a man)",
+            "ur": "کہاں گئے تھے؟ (ایک آدمی کو)",
+            "id": "Kemana kamu pergi? (kepada seorang pria)",
+            "tr": "Nereye gittin? (bir erkeğe)",
+            "fr": "Où es-tu allé ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-04-where-did-you-go.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-05-review-5",
+          "type": "question",
+          "arabic": "هَلْ قَرَأْتَ الدَّرْسَ؟",
+          "transliteration": "hal qaraʾta d-darsa?",
+          "audioText": "هَلْ قَرَأْتَ الدَّرْسَ؟",
+          "meaning": {
+            "en": "Did you read the lesson? (to a man)",
+            "ur": "کیا آپ نے سبق پڑھا؟ (ایک آدمی کو)",
+            "id": "Apakah Anda membaca pelajarannya? (kepada seorang pria)",
+            "tr": "Dersi okudun mu? (bir erkeğe)",
+            "fr": "Avez-vous lu la leçon ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-04-did-you-read.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-05-tomorrow",
+          "type": "word",
+          "arabic": "غَدًا",
+          "transliteration": "ghadan",
+          "audioText": "غَدًا",
+          "meaning": {
+            "en": "tomorrow",
+            "ur": "کل",
+            "id": "besok",
+            "tr": "yarın",
+            "fr": "demain"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-05-tomorrow.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-05-next-week",
+          "type": "phrase",
+          "arabic": "الْأُسْبُوعَ الْقَادِمَ",
+          "transliteration": "al-usbūʿa l-qādima",
+          "audioText": "الْأُسْبُوعَ الْقَادِمَ",
+          "meaning": {
+            "en": "next week",
+            "ur": "اگلے ہفتے",
+            "id": "minggu depan",
+            "tr": "gelecek hafta",
+            "fr": "la semaine prochaine"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-05-next-week.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-05-soon",
+          "type": "word",
+          "arabic": "قَرِيبًا",
+          "transliteration": "qarīban",
+          "audioText": "قَرِيبًا",
+          "meaning": {
+            "en": "soon",
+            "ur": "جلد ہی",
+            "id": "segera",
+            "tr": "yakında",
+            "fr": "bientôt"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-05-soon.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "tenses-06",
+      "order": 6,
+      "title": {
+        "en": "Future with sa",
+        "ur": "سا کے ساتھ مستقبل",
+        "id": "Masa depan dengan sa",
+        "tr": "Sa ile gelecek",
+        "fr": "L'avenir avec sa"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Future with sa.",
+        "ur": "سا کے ساتھ مستقبل کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Masa Depan dengan sa.",
+        "tr": "Sa ile Gelecek ile ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Entraînez-vous à des mots arabes utiles et à des phrases courtes sur l'avenir avec sa."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "tenses-06-review-1",
+          "type": "question",
+          "arabic": "أَيْنَ ذَهَبْتَ؟",
+          "transliteration": "ayna dhahabta?",
+          "audioText": "أَيْنَ ذَهَبْتَ؟",
+          "meaning": {
+            "en": "Where did you go? (to a man)",
+            "ur": "کہاں گئے تھے؟ (ایک آدمی کو)",
+            "id": "Kemana kamu pergi? (kepada seorang pria)",
+            "tr": "Nereye gittin? (bir erkeğe)",
+            "fr": "Où es-tu allé ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-04-where-did-you-go.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-06-review-2",
+          "type": "question",
+          "arabic": "هَلْ قَرَأْتَ الدَّرْسَ؟",
+          "transliteration": "hal qaraʾta d-darsa?",
+          "audioText": "هَلْ قَرَأْتَ الدَّرْسَ؟",
+          "meaning": {
+            "en": "Did you read the lesson? (to a man)",
+            "ur": "کیا آپ نے سبق پڑھا؟ (ایک آدمی کو)",
+            "id": "Apakah Anda membaca pelajarannya? (kepada seorang pria)",
+            "tr": "Dersi okudun mu? (bir erkeğe)",
+            "fr": "Avez-vous lu la leçon ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-04-did-you-read.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-06-review-3",
+          "type": "word",
+          "arabic": "غَدًا",
+          "transliteration": "ghadan",
+          "audioText": "غَدًا",
+          "meaning": {
+            "en": "tomorrow",
+            "ur": "کل",
+            "id": "besok",
+            "tr": "yarın",
+            "fr": "demain"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-05-tomorrow.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-06-review-4",
+          "type": "phrase",
+          "arabic": "الْأُسْبُوعَ الْقَادِمَ",
+          "transliteration": "al-usbūʿa l-qādima",
+          "audioText": "الْأُسْبُوعَ الْقَادِمَ",
+          "meaning": {
+            "en": "next week",
+            "ur": "اگلے ہفتے",
+            "id": "minggu depan",
+            "tr": "gelecek hafta",
+            "fr": "la semaine prochaine"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-05-next-week.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-06-review-5",
+          "type": "word",
+          "arabic": "قَرِيبًا",
+          "transliteration": "qarīban",
+          "audioText": "قَرِيبًا",
+          "meaning": {
+            "en": "soon",
+            "ur": "جلد ہی",
+            "id": "segera",
+            "tr": "yakında",
+            "fr": "bientôt"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-05-soon.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-06-i-will-study",
+          "type": "sentence",
+          "arabic": "سَأَدْرُسُ غَدًا",
+          "transliteration": "sa-adrusu ghadan",
+          "audioText": "سَأَدْرُسُ غَدًا",
+          "meaning": {
+            "en": "I will study tomorrow.",
+            "ur": "میں کل پڑھوں گا۔",
+            "id": "Saya akan belajar besok.",
+            "tr": "Yarın çalışacağım.",
+            "fr": "J'étudierai demain."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-06-i-will-study.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-06-he-will-travel",
+          "type": "sentence",
+          "arabic": "سَيُسَافِرُ الْأُسْبُوعَ الْقَادِمَ",
+          "transliteration": "sa-yusāfiru l-usbūʿa l-qādima",
+          "audioText": "سَيُسَافِرُ الْأُسْبُوعَ الْقَادِمَ",
+          "meaning": {
+            "en": "He will travel next week.",
+            "ur": "وہ اگلے ہفتے سفر کرے گا۔",
+            "id": "Dia akan melakukan perjalanan minggu depan.",
+            "tr": "Gelecek hafta seyahate çıkacak.",
+            "fr": "Il voyagera la semaine prochaine."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-06-he-will-travel.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-06-she-will-visit",
+          "type": "sentence",
+          "arabic": "سَتَزُورُ جَدَّتَهَا",
+          "transliteration": "sa-tazūru jaddatahā",
+          "audioText": "سَتَزُورُ جَدَّتَهَا",
+          "meaning": {
+            "en": "She will visit her grandmother.",
+            "ur": "وہ اپنی دادی سے ملنے جائے گی۔",
+            "id": "Dia akan mengunjungi neneknya.",
+            "tr": "Büyükannesini ziyaret edecek.",
+            "fr": "Elle rendra visite à sa grand-mère."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-06-she-will-visit.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "tenses-07",
+      "order": 7,
+      "title": {
+        "en": "Future with sawfa",
+        "ur": "صوفہ کے ساتھ مستقبل",
+        "id": "Masa depan bersama sawfa",
+        "tr": "Sawfa ile gelecek",
+        "fr": "L'avenir avec Sawfa"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Future with sawfa.",
+        "ur": "صوفہ کے ساتھ مستقبل کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang Masa Depan dengan sawfa.",
+        "tr": "Sawfa ile Gelecek ile ilgili faydalı Arapça kelimeleri ve kısa cümleleri uygulayın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur l'avenir avec sawfa."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "tenses-07-review-1",
+          "type": "phrase",
+          "arabic": "الْأُسْبُوعَ الْقَادِمَ",
+          "transliteration": "al-usbūʿa l-qādima",
+          "audioText": "الْأُسْبُوعَ الْقَادِمَ",
+          "meaning": {
+            "en": "next week",
+            "ur": "اگلے ہفتے",
+            "id": "minggu depan",
+            "tr": "gelecek hafta",
+            "fr": "la semaine prochaine"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-05-next-week.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-07-review-2",
+          "type": "word",
+          "arabic": "قَرِيبًا",
+          "transliteration": "qarīban",
+          "audioText": "قَرِيبًا",
+          "meaning": {
+            "en": "soon",
+            "ur": "جلد ہی",
+            "id": "segera",
+            "tr": "yakında",
+            "fr": "bientôt"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-05-soon.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-07-review-3",
+          "type": "sentence",
+          "arabic": "سَأَدْرُسُ غَدًا",
+          "transliteration": "sa-adrusu ghadan",
+          "audioText": "سَأَدْرُسُ غَدًا",
+          "meaning": {
+            "en": "I will study tomorrow.",
+            "ur": "میں کل پڑھوں گا۔",
+            "id": "Saya akan belajar besok.",
+            "tr": "Yarın çalışacağım.",
+            "fr": "J'étudierai demain."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-06-i-will-study.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-07-review-4",
+          "type": "sentence",
+          "arabic": "سَيُسَافِرُ الْأُسْبُوعَ الْقَادِمَ",
+          "transliteration": "sa-yusāfiru l-usbūʿa l-qādima",
+          "audioText": "سَيُسَافِرُ الْأُسْبُوعَ الْقَادِمَ",
+          "meaning": {
+            "en": "He will travel next week.",
+            "ur": "وہ اگلے ہفتے سفر کرے گا۔",
+            "id": "Dia akan melakukan perjalanan minggu depan.",
+            "tr": "Gelecek hafta seyahate çıkacak.",
+            "fr": "Il voyagera la semaine prochaine."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-06-he-will-travel.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-07-review-5",
+          "type": "sentence",
+          "arabic": "سَتَزُورُ جَدَّتَهَا",
+          "transliteration": "sa-tazūru jaddatahā",
+          "audioText": "سَتَزُورُ جَدَّتَهَا",
+          "meaning": {
+            "en": "She will visit her grandmother.",
+            "ur": "وہ اپنی دادی سے ملنے جائے گی۔",
+            "id": "Dia akan mengunjungi neneknya.",
+            "tr": "Büyükannesini ziyaret edecek.",
+            "fr": "Elle rendra visite à sa grand-mère."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-06-she-will-visit.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-07-we-will-meet",
+          "type": "sentence",
+          "arabic": "سَوْفَ نَلْتَقِي غَدًا",
+          "transliteration": "sawfa naltaqī ghadan",
+          "audioText": "سَوْفَ نَلْتَقِي غَدًا",
+          "meaning": {
+            "en": "We will meet tomorrow.",
+            "ur": "ہم کل ملیں گے۔",
+            "id": "Kita akan bertemu besok.",
+            "tr": "Yarın buluşacağız.",
+            "fr": "Nous nous retrouverons demain."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-07-we-will-meet.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-07-they-will-play",
+          "type": "sentence",
+          "arabic": "سَوْفَ يَلْعَبُونَ بَعْدَ الدَّرْسِ",
+          "transliteration": "sawfa yalʿabūna baʿda d-darsi",
+          "audioText": "سَوْفَ يَلْعَبُونَ بَعْدَ الدَّرْسِ",
+          "meaning": {
+            "en": "They will play after the lesson.",
+            "ur": "وہ سبق کے بعد کھیلیں گے۔",
+            "id": "Mereka akan bermain setelah pelajaran.",
+            "tr": "Dersten sonra oynayacaklar.",
+            "fr": "Ils joueront après le cours."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-07-they-will-play.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-07-i-will-call-you",
+          "type": "sentence",
+          "arabic": "سَوْفَ أُكَلِّمُكَ غَدًا",
+          "transliteration": "sawfa ukallimuka ghadan",
+          "audioText": "سَوْفَ أُكَلِّمُكَ غَدًا",
+          "meaning": {
+            "en": "I will speak to you tomorrow. (to a man)",
+            "ur": "میں کل تم سے بات کروں گا۔ (ایک آدمی کو)",
+            "id": "Saya akan berbicara dengan Anda besok. (kepada seorang pria)",
+            "tr": "Seninle yarın konuşacağım. (bir erkeğe)",
+            "fr": "Je te parlerai demain. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-07-i-will-call-you.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "tenses-08",
+      "order": 8,
+      "title": {
+        "en": "Plans and intentions",
+        "ur": "منصوبے اور ارادے۔",
+        "id": "Rencana dan niat",
+        "tr": "Planlar ve niyetler",
+        "fr": "Plans et intentions"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Plans and intentions.",
+        "ur": "منصوبوں اور ارادوں کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang Rencana dan niat.",
+        "tr": "Planlar ve niyetler hakkında yararlı Arapça kelimeler ve kısa ifadeler uygulayın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les plans et les intentions."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "tenses-08-review-1",
+          "type": "sentence",
+          "arabic": "سَيُسَافِرُ الْأُسْبُوعَ الْقَادِمَ",
+          "transliteration": "sa-yusāfiru l-usbūʿa l-qādima",
+          "audioText": "سَيُسَافِرُ الْأُسْبُوعَ الْقَادِمَ",
+          "meaning": {
+            "en": "He will travel next week.",
+            "ur": "وہ اگلے ہفتے سفر کرے گا۔",
+            "id": "Dia akan melakukan perjalanan minggu depan.",
+            "tr": "Gelecek hafta seyahate çıkacak.",
+            "fr": "Il voyagera la semaine prochaine."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-06-he-will-travel.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-08-review-2",
+          "type": "sentence",
+          "arabic": "سَتَزُورُ جَدَّتَهَا",
+          "transliteration": "sa-tazūru jaddatahā",
+          "audioText": "سَتَزُورُ جَدَّتَهَا",
+          "meaning": {
+            "en": "She will visit her grandmother.",
+            "ur": "وہ اپنی دادی سے ملنے جائے گی۔",
+            "id": "Dia akan mengunjungi neneknya.",
+            "tr": "Büyükannesini ziyaret edecek.",
+            "fr": "Elle rendra visite à sa grand-mère."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-06-she-will-visit.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-08-review-3",
+          "type": "sentence",
+          "arabic": "سَوْفَ نَلْتَقِي غَدًا",
+          "transliteration": "sawfa naltaqī ghadan",
+          "audioText": "سَوْفَ نَلْتَقِي غَدًا",
+          "meaning": {
+            "en": "We will meet tomorrow.",
+            "ur": "ہم کل ملیں گے۔",
+            "id": "Kita akan bertemu besok.",
+            "tr": "Yarın buluşacağız.",
+            "fr": "Nous nous retrouverons demain."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-07-we-will-meet.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-08-review-4",
+          "type": "sentence",
+          "arabic": "سَوْفَ يَلْعَبُونَ بَعْدَ الدَّرْسِ",
+          "transliteration": "sawfa yalʿabūna baʿda d-darsi",
+          "audioText": "سَوْفَ يَلْعَبُونَ بَعْدَ الدَّرْسِ",
+          "meaning": {
+            "en": "They will play after the lesson.",
+            "ur": "وہ سبق کے بعد کھیلیں گے۔",
+            "id": "Mereka akan bermain setelah pelajaran.",
+            "tr": "Dersten sonra oynayacaklar.",
+            "fr": "Ils joueront après le cours."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-07-they-will-play.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-08-review-5",
+          "type": "sentence",
+          "arabic": "سَوْفَ أُكَلِّمُكَ غَدًا",
+          "transliteration": "sawfa ukallimuka ghadan",
+          "audioText": "سَوْفَ أُكَلِّمُكَ غَدًا",
+          "meaning": {
+            "en": "I will speak to you tomorrow. (to a man)",
+            "ur": "میں کل تم سے بات کروں گا۔ (ایک آدمی کو)",
+            "id": "Saya akan berbicara dengan Anda besok. (kepada seorang pria)",
+            "tr": "Seninle yarın konuşacağım. (bir erkeğe)",
+            "fr": "Je te parlerai demain. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-07-i-will-call-you.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-08-i-want-to-travel",
+          "type": "sentence",
+          "arabic": "أُرِيدُ أَنْ أُسَافِرَ",
+          "transliteration": "urīdu an usāfira",
+          "audioText": "أُرِيدُ أَنْ أُسَافِرَ",
+          "meaning": {
+            "en": "I want to travel.",
+            "ur": "میں سفر کرنا چاہتا ہوں۔",
+            "id": "Saya ingin bepergian.",
+            "tr": "Seyahat etmek istiyorum.",
+            "fr": "Je veux voyager."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-08-i-want-to-travel.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-08-we-plan-to-study",
+          "type": "sentence",
+          "arabic": "نُرِيدُ أَنْ نَدْرُسَ مَعًا",
+          "transliteration": "nurīdu an nadrusa maʿan",
+          "audioText": "نُرِيدُ أَنْ نَدْرُسَ مَعًا",
+          "meaning": {
+            "en": "We want to study together.",
+            "ur": "ہم ایک ساتھ پڑھنا چاہتے ہیں۔",
+            "id": "Kami ingin belajar bersama.",
+            "tr": "Birlikte okumak istiyoruz.",
+            "fr": "Nous voulons étudier ensemble."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-08-we-plan-to-study.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-08-what-will-you-do",
+          "type": "question",
+          "arabic": "مَاذَا سَتَفْعَلُ غَدًا؟",
+          "transliteration": "mādhā satafʿalu ghadan?",
+          "audioText": "مَاذَا سَتَفْعَلُ غَدًا؟",
+          "meaning": {
+            "en": "What will you do tomorrow? (to a man)",
+            "ur": "کل کیا کرو گے؟ (ایک آدمی کو)",
+            "id": "Apa yang akan kamu lakukan besok? (kepada seorang pria)",
+            "tr": "Yarın ne yapacaksın? (bir erkeğe)",
+            "fr": "Que feras-tu demain ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-08-what-will-you-do.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "tenses-09",
+      "order": 9,
+      "title": {
+        "en": "Past, present and future",
+        "ur": "ماضی، حال اور مستقبل",
+        "id": "Dulu, sekarang dan masa depan",
+        "tr": "Geçmiş, şimdiki zaman ve gelecek",
+        "fr": "Passé, présent et futur"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Past, present and future.",
+        "ur": "ماضی، حال اور مستقبل کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang Masa Lalu, Sekarang, dan Masa Depan.",
+        "tr": "Geçmiş, şimdiki zaman ve gelecekle ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur le passé, le présent et le futur."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "tenses-09-review-1",
+          "type": "sentence",
+          "arabic": "سَوْفَ يَلْعَبُونَ بَعْدَ الدَّرْسِ",
+          "transliteration": "sawfa yalʿabūna baʿda d-darsi",
+          "audioText": "سَوْفَ يَلْعَبُونَ بَعْدَ الدَّرْسِ",
+          "meaning": {
+            "en": "They will play after the lesson.",
+            "ur": "وہ سبق کے بعد کھیلیں گے۔",
+            "id": "Mereka akan bermain setelah pelajaran.",
+            "tr": "Dersten sonra oynayacaklar.",
+            "fr": "Ils joueront après le cours."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-07-they-will-play.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-09-review-2",
+          "type": "sentence",
+          "arabic": "سَوْفَ أُكَلِّمُكَ غَدًا",
+          "transliteration": "sawfa ukallimuka ghadan",
+          "audioText": "سَوْفَ أُكَلِّمُكَ غَدًا",
+          "meaning": {
+            "en": "I will speak to you tomorrow. (to a man)",
+            "ur": "میں کل تم سے بات کروں گا۔ (ایک آدمی کو)",
+            "id": "Saya akan berbicara dengan Anda besok. (kepada seorang pria)",
+            "tr": "Seninle yarın konuşacağım. (bir erkeğe)",
+            "fr": "Je te parlerai demain. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-07-i-will-call-you.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-09-review-3",
+          "type": "sentence",
+          "arabic": "أُرِيدُ أَنْ أُسَافِرَ",
+          "transliteration": "urīdu an usāfira",
+          "audioText": "أُرِيدُ أَنْ أُسَافِرَ",
+          "meaning": {
+            "en": "I want to travel.",
+            "ur": "میں سفر کرنا چاہتا ہوں۔",
+            "id": "Saya ingin bepergian.",
+            "tr": "Seyahat etmek istiyorum.",
+            "fr": "Je veux voyager."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-08-i-want-to-travel.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-09-review-4",
+          "type": "sentence",
+          "arabic": "نُرِيدُ أَنْ نَدْرُسَ مَعًا",
+          "transliteration": "nurīdu an nadrusa maʿan",
+          "audioText": "نُرِيدُ أَنْ نَدْرُسَ مَعًا",
+          "meaning": {
+            "en": "We want to study together.",
+            "ur": "ہم ایک ساتھ پڑھنا چاہتے ہیں۔",
+            "id": "Kami ingin belajar bersama.",
+            "tr": "Birlikte okumak istiyoruz.",
+            "fr": "Nous voulons étudier ensemble."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-08-we-plan-to-study.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-09-review-5",
+          "type": "question",
+          "arabic": "مَاذَا سَتَفْعَلُ غَدًا؟",
+          "transliteration": "mādhā satafʿalu ghadan?",
+          "audioText": "مَاذَا سَتَفْعَلُ غَدًا؟",
+          "meaning": {
+            "en": "What will you do tomorrow? (to a man)",
+            "ur": "کل کیا کرو گے؟ (ایک آدمی کو)",
+            "id": "Apa yang akan kamu lakukan besok? (kepada seorang pria)",
+            "tr": "Yarın ne yapacaksın? (bir erkeğe)",
+            "fr": "Que feras-tu demain ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-08-what-will-you-do.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-09-i-was-at-home",
+          "type": "sentence",
+          "arabic": "كُنْتُ فِي الْبَيْتِ أَمْسِ",
+          "transliteration": "kuntu fī l-bayti amsi",
+          "audioText": "كُنْتُ فِي الْبَيْتِ أَمْسِ",
+          "meaning": {
+            "en": "I was at home yesterday.",
+            "ur": "میں کل گھر پر تھا۔",
+            "id": "Saya ada di rumah kemarin.",
+            "tr": "Dün evdeydim.",
+            "fr": "J'étais à la maison hier."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-09-i-was-at-home.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-09-i-am-at-school",
+          "type": "sentence",
+          "arabic": "أَنَا فِي الْمَدْرَسَةِ الْيَوْمَ",
+          "transliteration": "anā fī l-madrasati l-yawma",
+          "audioText": "أَنَا فِي الْمَدْرَسَةِ الْيَوْمَ",
+          "meaning": {
+            "en": "I am at school today.",
+            "ur": "میں آج سکول میں ہوں۔",
+            "id": "Saya di sekolah hari ini.",
+            "tr": "Bugün okuldayım.",
+            "fr": "Je suis à l'école aujourd'hui."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-09-i-am-at-school.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-09-i-will-be-home",
+          "type": "sentence",
+          "arabic": "سَأَكُونُ فِي الْبَيْتِ غَدًا",
+          "transliteration": "sa-akūnu fī l-bayti ghadan",
+          "audioText": "سَأَكُونُ فِي الْبَيْتِ غَدًا",
+          "meaning": {
+            "en": "I will be at home tomorrow.",
+            "ur": "میں کل گھر پر ہوں گا۔",
+            "id": "Saya akan berada di rumah besok.",
+            "tr": "Yarın evde olacağım.",
+            "fr": "Je serai à la maison demain."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-09-i-will-be-home.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "tenses-10",
+      "order": 10,
+      "title": {
+        "en": "Reviewing past and future",
+        "ur": "ماضی اور مستقبل کا جائزہ",
+        "id": "Meninjau masa lalu dan masa depan",
+        "tr": "Geçmişi ve geleceği gözden geçirmek",
+        "fr": "Revoir le passé et le futur"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Reviewing past and future.",
+        "ur": "ماضی اور مستقبل کا جائزہ لینے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Meninjau masa lalu dan masa depan.",
+        "tr": "Geçmişi ve geleceği gözden geçirmekle ilgili faydalı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur la révision du passé et du futur."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "tenses-10-review-1",
+          "type": "sentence",
+          "arabic": "نُرِيدُ أَنْ نَدْرُسَ مَعًا",
+          "transliteration": "nurīdu an nadrusa maʿan",
+          "audioText": "نُرِيدُ أَنْ نَدْرُسَ مَعًا",
+          "meaning": {
+            "en": "We want to study together.",
+            "ur": "ہم ایک ساتھ پڑھنا چاہتے ہیں۔",
+            "id": "Kami ingin belajar bersama.",
+            "tr": "Birlikte okumak istiyoruz.",
+            "fr": "Nous voulons étudier ensemble."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-08-we-plan-to-study.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-10-review-2",
+          "type": "question",
+          "arabic": "مَاذَا سَتَفْعَلُ غَدًا؟",
+          "transliteration": "mādhā satafʿalu ghadan?",
+          "audioText": "مَاذَا سَتَفْعَلُ غَدًا؟",
+          "meaning": {
+            "en": "What will you do tomorrow? (to a man)",
+            "ur": "کل کیا کرو گے؟ (ایک آدمی کو)",
+            "id": "Apa yang akan kamu lakukan besok? (kepada seorang pria)",
+            "tr": "Yarın ne yapacaksın? (bir erkeğe)",
+            "fr": "Que feras-tu demain ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-08-what-will-you-do.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-10-review-3",
+          "type": "sentence",
+          "arabic": "كُنْتُ فِي الْبَيْتِ أَمْسِ",
+          "transliteration": "kuntu fī l-bayti amsi",
+          "audioText": "كُنْتُ فِي الْبَيْتِ أَمْسِ",
+          "meaning": {
+            "en": "I was at home yesterday.",
+            "ur": "میں کل گھر پر تھا۔",
+            "id": "Saya ada di rumah kemarin.",
+            "tr": "Dün evdeydim.",
+            "fr": "J'étais à la maison hier."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-09-i-was-at-home.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-10-review-4",
+          "type": "sentence",
+          "arabic": "أَنَا فِي الْمَدْرَسَةِ الْيَوْمَ",
+          "transliteration": "anā fī l-madrasati l-yawma",
+          "audioText": "أَنَا فِي الْمَدْرَسَةِ الْيَوْمَ",
+          "meaning": {
+            "en": "I am at school today.",
+            "ur": "میں آج سکول میں ہوں۔",
+            "id": "Saya di sekolah hari ini.",
+            "tr": "Bugün okuldayım.",
+            "fr": "Je suis à l'école aujourd'hui."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-09-i-am-at-school.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-10-review-5",
+          "type": "sentence",
+          "arabic": "سَأَكُونُ فِي الْبَيْتِ غَدًا",
+          "transliteration": "sa-akūnu fī l-bayti ghadan",
+          "audioText": "سَأَكُونُ فِي الْبَيْتِ غَدًا",
+          "meaning": {
+            "en": "I will be at home tomorrow.",
+            "ur": "میں کل گھر پر ہوں گا۔",
+            "id": "Saya akan berada di rumah besok.",
+            "tr": "Yarın evde olacağım.",
+            "fr": "Je serai à la maison demain."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-09-i-will-be-home.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-10-yesterday-today-tomorrow",
+          "type": "sentence",
+          "arabic": "دَرَسْتُ أَمْسِ، وَأَدْرُسُ الْيَوْمَ، وَسَأَدْرُسُ غَدًا",
+          "transliteration": "darastu amsi, wa-adrusu l-yawma, wa-sa-adrusu ghadan",
+          "audioText": "دَرَسْتُ أَمْسِ، وَأَدْرُسُ الْيَوْمَ، وَسَأَدْرُسُ غَدًا",
+          "meaning": {
+            "en": "I studied yesterday, I study today, and I will study tomorrow.",
+            "ur": "میں نے کل پڑھا تھا، آج بھی پڑھتا ہوں اور کل بھی پڑھوں گا۔",
+            "id": "Saya belajar kemarin, saya belajar hari ini, dan saya akan belajar besok.",
+            "tr": "Dün çalıştım, bugün çalışıyorum, yarın da çalışacağım.",
+            "fr": "J'ai étudié hier, j'étudie aujourd'hui et j'étudierai demain."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-10-yesterday-today-tomorrow.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-10-she-went-will-return",
+          "type": "sentence",
+          "arabic": "ذَهَبَتْ إِلَى السُّوقِ، وَسَتَرْجِعُ بَعْدَ قَلِيلٍ",
+          "transliteration": "dhahabat ilā s-sūqi, wa-satarjiʿu baʿda qalīlin",
+          "audioText": "ذَهَبَتْ إِلَى السُّوقِ، وَسَتَرْجِعُ بَعْدَ قَلِيلٍ",
+          "meaning": {
+            "en": "She went to the market and will return soon.",
+            "ur": "وہ بازار گئی تھی اور جلد واپس آئے گی۔",
+            "id": "Dia pergi ke pasar dan akan segera kembali.",
+            "tr": "Pazara gitti ve yakında geri dönecek.",
+            "fr": "Elle est allée au marché et reviendra bientôt."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-10-she-went-will-return.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "tenses-10-we-visited-will-visit",
+          "type": "sentence",
+          "arabic": "زُرْنَا أُسْرَتَنَا، وَسَنَزُورُهُمْ غَدًا",
+          "transliteration": "zurnā usratanā, wa-sanazūruhum ghadan",
+          "audioText": "زُرْنَا أُسْرَتَنَا، وَسَنَزُورُهُمْ غَدًا",
+          "meaning": {
+            "en": "We visited our family, and we will visit them tomorrow.",
+            "ur": "ہم نے اپنے خاندان سے ملاقات کی، اور ہم کل ان سے ملیں گے۔",
+            "id": "Kami mengunjungi keluarga kami, dan kami akan mengunjungi mereka besok.",
+            "tr": "Ailemizi ziyaret ettik, yarın da ziyaret edeceğiz.",
+            "fr": "Nous avons rendu visite à notre famille et nous leur rendrons visite demain."
+          },
+          "audio": {
+            "path": "audio/tenses/tenses-10-we-visited-will-visit.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1965 @@
+{
+  "schemaVersion": 1,
+  "courseId": "arabic",
+  "levelId": "verbs",
+  "unitId": "verbs",
+  "translationLanguages": [
+    "en",
+    "ur",
+    "id",
+    "tr",
+    "fr"
+  ],
+  "lessons": [
+    {
+      "id": "verbs-01",
+      "order": 1,
+      "title": {
+        "en": "Studying and learning",
+        "ur": "پڑھنا اور سیکھنا",
+        "id": "Belajar dan belajar",
+        "tr": "Çalışmak ve öğrenmek",
+        "fr": "Étudier et apprendre"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Studying and learning.",
+        "ur": "مطالعہ اور سیکھنے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang Belajar dan belajar.",
+        "tr": "Çalışmak ve öğrenmekle ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur l'étude et l'apprentissage."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "verbs-01-review-1",
+          "type": "question",
+          "arabic": "مَتَى الدَّرْسُ؟",
+          "transliteration": "matā d-darsu?",
+          "audioText": "مَتَى الدَّرْسُ؟",
+          "meaning": {
+            "en": "When is the lesson?",
+            "ur": "سبق کب ہے؟",
+            "id": "Kapan pelajarannya?",
+            "tr": "Ders ne zaman?",
+            "fr": "Quand est le cours ?"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-09-when-is-class.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-01-review-2",
+          "type": "question",
+          "arabic": "لِمَاذَا أَنْتَ هُنَا؟",
+          "transliteration": "limādhā anta hunā?",
+          "audioText": "لِمَاذَا أَنْتَ هُنَا؟",
+          "meaning": {
+            "en": "Why are you here? (to a man)",
+            "ur": "تم یہاں کیوں ہو؟ (ایک آدمی کو)",
+            "id": "Mengapa kamu di sini? (kepada seorang pria)",
+            "tr": "Neden buradasın? (bir erkeğe)",
+            "fr": "Pourquoi es-tu ici ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-09-why-are-you-here.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-01-review-3",
+          "type": "sentence",
+          "arabic": "أَنَا طَالِبٌ جَدِيدٌ وَهَذَا كِتَابِي",
+          "transliteration": "anā ṭālibun jadīdun wa-hādhā kitābī",
+          "audioText": "أَنَا طَالِبٌ جَدِيدٌ وَهَذَا كِتَابِي",
+          "meaning": {
+            "en": "I am a new student, and this is my book.",
+            "ur": "میں ایک نیا طالب علم ہوں، اور یہ میری کتاب ہے۔",
+            "id": "Saya seorang siswa baru, dan ini adalah buku saya.",
+            "tr": "Ben yeni bir öğrenciyim ve bu benim kitabım.",
+            "fr": "Je suis un nouvel étudiant et ceci est mon livre."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-10-i-am-new-student.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-01-review-4",
+          "type": "sentence",
+          "arabic": "هِيَ تَسْكُنُ قَرِيبًا مِنَ الْمَدْرَسَةِ",
+          "transliteration": "hiya taskunu qarīban mina l-madrasati",
+          "audioText": "هِيَ تَسْكُنُ قَرِيبًا مِنَ الْمَدْرَسَةِ",
+          "meaning": {
+            "en": "She lives near the school.",
+            "ur": "وہ اسکول کے قریب رہتی ہے۔",
+            "id": "Dia tinggal di dekat sekolah.",
+            "tr": "Okulun yakınında yaşıyor.",
+            "fr": "Elle habite près de l'école."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-10-she-lives-near-school.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-01-review-5",
+          "type": "sentence",
+          "arabic": "نَحْنُ نَتَعَلَّمُ الْعَرَبِيَّةَ مَعًا",
+          "transliteration": "naḥnu nataʿallamu l-ʿarabiyyata maʿan",
+          "audioText": "نَحْنُ نَتَعَلَّمُ الْعَرَبِيَّةَ مَعًا",
+          "meaning": {
+            "en": "We are learning Arabic together.",
+            "ur": "ہم ایک ساتھ عربی سیکھ رہے ہیں۔",
+            "id": "Kami belajar bahasa Arab bersama.",
+            "tr": "Birlikte Arapça öğreniyoruz.",
+            "fr": "Nous apprenons l'arabe ensemble."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-10-we-are-learning.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-01-i-study",
+          "type": "sentence",
+          "arabic": "أَدْرُسُ اللُّغَةَ الْعَرَبِيَّةَ",
+          "transliteration": "adrusu l-lughata l-ʿarabiyyata",
+          "audioText": "أَدْرُسُ اللُّغَةَ الْعَرَبِيَّةَ",
+          "meaning": {
+            "en": "I study the Arabic language.",
+            "ur": "میں عربی زبان کا مطالعہ کرتا ہوں۔",
+            "id": "Saya belajar bahasa Arab.",
+            "tr": "Arap dili okuyorum.",
+            "fr": "J'étudie la langue arabe."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-01-i-study.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-01-he-learns",
+          "type": "sentence",
+          "arabic": "هُوَ يَتَعَلَّمُ كُلَّ يَوْمٍ",
+          "transliteration": "huwa yataʿallamu kulla yawmin",
+          "audioText": "هُوَ يَتَعَلَّمُ كُلَّ يَوْمٍ",
+          "meaning": {
+            "en": "He learns every day.",
+            "ur": "وہ ہر روز سیکھتا ہے۔",
+            "id": "Dia belajar setiap hari.",
+            "tr": "Her gün öğreniyor.",
+            "fr": "Il apprend tous les jours."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-01-he-learns.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-01-she-studies",
+          "type": "sentence",
+          "arabic": "هِيَ تَدْرُسُ فِي الْمَكْتَبَةِ",
+          "transliteration": "hiya tadrusu fī l-maktabati",
+          "audioText": "هِيَ تَدْرُسُ فِي الْمَكْتَبَةِ",
+          "meaning": {
+            "en": "She studies in the library.",
+            "ur": "وہ لائبریری میں پڑھتی ہے۔",
+            "id": "Dia belajar di perpustakaan.",
+            "tr": "Kütüphanede ders çalışıyor.",
+            "fr": "Elle étudie à la bibliothèque."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-01-she-studies.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "verbs-02",
+      "order": 2,
+      "title": {
+        "en": "Reading and writing",
+        "ur": "پڑھنا اور لکھنا",
+        "id": "Membaca dan menulis",
+        "tr": "Okuma ve yazma",
+        "fr": "Lire et écrire"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Reading and writing.",
+        "ur": "پڑھنے اور لکھنے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang Membaca dan menulis.",
+        "tr": "Okuma ve yazma ile ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur la lecture et l'écriture."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "verbs-02-review-1",
+          "type": "sentence",
+          "arabic": "هِيَ تَسْكُنُ قَرِيبًا مِنَ الْمَدْرَسَةِ",
+          "transliteration": "hiya taskunu qarīban mina l-madrasati",
+          "audioText": "هِيَ تَسْكُنُ قَرِيبًا مِنَ الْمَدْرَسَةِ",
+          "meaning": {
+            "en": "She lives near the school.",
+            "ur": "وہ اسکول کے قریب رہتی ہے۔",
+            "id": "Dia tinggal di dekat sekolah.",
+            "tr": "Okulun yakınında yaşıyor.",
+            "fr": "Elle habite près de l'école."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-10-she-lives-near-school.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-02-review-2",
+          "type": "sentence",
+          "arabic": "نَحْنُ نَتَعَلَّمُ الْعَرَبِيَّةَ مَعًا",
+          "transliteration": "naḥnu nataʿallamu l-ʿarabiyyata maʿan",
+          "audioText": "نَحْنُ نَتَعَلَّمُ الْعَرَبِيَّةَ مَعًا",
+          "meaning": {
+            "en": "We are learning Arabic together.",
+            "ur": "ہم ایک ساتھ عربی سیکھ رہے ہیں۔",
+            "id": "Kami belajar bahasa Arab bersama.",
+            "tr": "Birlikte Arapça öğreniyoruz.",
+            "fr": "Nous apprenons l'arabe ensemble."
+          },
+          "audio": {
+            "path": "audio/sentences/sentences-10-we-are-learning.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-02-review-3",
+          "type": "sentence",
+          "arabic": "أَدْرُسُ اللُّغَةَ الْعَرَبِيَّةَ",
+          "transliteration": "adrusu l-lughata l-ʿarabiyyata",
+          "audioText": "أَدْرُسُ اللُّغَةَ الْعَرَبِيَّةَ",
+          "meaning": {
+            "en": "I study the Arabic language.",
+            "ur": "میں عربی زبان کا مطالعہ کرتا ہوں۔",
+            "id": "Saya belajar bahasa Arab.",
+            "tr": "Arap dili okuyorum.",
+            "fr": "J'étudie la langue arabe."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-01-i-study.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-02-review-4",
+          "type": "sentence",
+          "arabic": "هُوَ يَتَعَلَّمُ كُلَّ يَوْمٍ",
+          "transliteration": "huwa yataʿallamu kulla yawmin",
+          "audioText": "هُوَ يَتَعَلَّمُ كُلَّ يَوْمٍ",
+          "meaning": {
+            "en": "He learns every day.",
+            "ur": "وہ ہر روز سیکھتا ہے۔",
+            "id": "Dia belajar setiap hari.",
+            "tr": "Her gün öğreniyor.",
+            "fr": "Il apprend tous les jours."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-01-he-learns.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-02-review-5",
+          "type": "sentence",
+          "arabic": "هِيَ تَدْرُسُ فِي الْمَكْتَبَةِ",
+          "transliteration": "hiya tadrusu fī l-maktabati",
+          "audioText": "هِيَ تَدْرُسُ فِي الْمَكْتَبَةِ",
+          "meaning": {
+            "en": "She studies in the library.",
+            "ur": "وہ لائبریری میں پڑھتی ہے۔",
+            "id": "Dia belajar di perpustakaan.",
+            "tr": "Kütüphanede ders çalışıyor.",
+            "fr": "Elle étudie à la bibliothèque."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-01-she-studies.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-02-i-read-book",
+          "type": "sentence",
+          "arabic": "أَقْرَأُ كِتَابًا جَدِيدًا",
+          "transliteration": "aqraʾu kitāban jadīdan",
+          "audioText": "أَقْرَأُ كِتَابًا جَدِيدًا",
+          "meaning": {
+            "en": "I read a new book.",
+            "ur": "میں نے ایک نئی کتاب پڑھی۔",
+            "id": "Saya membaca buku baru.",
+            "tr": "Yeni bir kitap okudum.",
+            "fr": "J'ai lu un nouveau livre."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-02-i-read-book.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-02-he-writes-lesson",
+          "type": "sentence",
+          "arabic": "هُوَ يَكْتُبُ الدَّرْسَ",
+          "transliteration": "huwa yaktubu d-darsa",
+          "audioText": "هُوَ يَكْتُبُ الدَّرْسَ",
+          "meaning": {
+            "en": "He writes the lesson.",
+            "ur": "وہ سبق لکھتا ہے۔",
+            "id": "Dia menulis pelajarannya.",
+            "tr": "Dersi yazıyor.",
+            "fr": "Il écrit la leçon."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-02-he-writes-lesson.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-02-she-reads-arabic",
+          "type": "sentence",
+          "arabic": "هِيَ تَقْرَأُ الْعَرَبِيَّةَ",
+          "transliteration": "hiya taqraʾu l-ʿarabiyyata",
+          "audioText": "هِيَ تَقْرَأُ الْعَرَبِيَّةَ",
+          "meaning": {
+            "en": "She reads Arabic.",
+            "ur": "وہ عربی پڑھتی ہے۔",
+            "id": "Dia membaca bahasa Arab.",
+            "tr": "Arapça okuyor.",
+            "fr": "Elle lit l'arabe."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-02-she-reads-arabic.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "verbs-03",
+      "order": 3,
+      "title": {
+        "en": "Going and coming",
+        "ur": "جانا اور جانا",
+        "id": "Pergi dan datang",
+        "tr": "Gidiyor ve geliyor",
+        "fr": "Aller et venir"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Going and coming.",
+        "ur": "جانے اور آنے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Pergi dan datang.",
+        "tr": "Gitmek ve gelmekle ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur Aller et Venir."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "verbs-03-review-1",
+          "type": "sentence",
+          "arabic": "هُوَ يَتَعَلَّمُ كُلَّ يَوْمٍ",
+          "transliteration": "huwa yataʿallamu kulla yawmin",
+          "audioText": "هُوَ يَتَعَلَّمُ كُلَّ يَوْمٍ",
+          "meaning": {
+            "en": "He learns every day.",
+            "ur": "وہ ہر روز سیکھتا ہے۔",
+            "id": "Dia belajar setiap hari.",
+            "tr": "Her gün öğreniyor.",
+            "fr": "Il apprend tous les jours."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-01-he-learns.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-03-review-2",
+          "type": "sentence",
+          "arabic": "هِيَ تَدْرُسُ فِي الْمَكْتَبَةِ",
+          "transliteration": "hiya tadrusu fī l-maktabati",
+          "audioText": "هِيَ تَدْرُسُ فِي الْمَكْتَبَةِ",
+          "meaning": {
+            "en": "She studies in the library.",
+            "ur": "وہ لائبریری میں پڑھتی ہے۔",
+            "id": "Dia belajar di perpustakaan.",
+            "tr": "Kütüphanede ders çalışıyor.",
+            "fr": "Elle étudie à la bibliothèque."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-01-she-studies.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-03-review-3",
+          "type": "sentence",
+          "arabic": "أَقْرَأُ كِتَابًا جَدِيدًا",
+          "transliteration": "aqraʾu kitāban jadīdan",
+          "audioText": "أَقْرَأُ كِتَابًا جَدِيدًا",
+          "meaning": {
+            "en": "I read a new book.",
+            "ur": "میں نے ایک نئی کتاب پڑھی۔",
+            "id": "Saya membaca buku baru.",
+            "tr": "Yeni bir kitap okudum.",
+            "fr": "J'ai lu un nouveau livre."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-02-i-read-book.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-03-review-4",
+          "type": "sentence",
+          "arabic": "هُوَ يَكْتُبُ الدَّرْسَ",
+          "transliteration": "huwa yaktubu d-darsa",
+          "audioText": "هُوَ يَكْتُبُ الدَّرْسَ",
+          "meaning": {
+            "en": "He writes the lesson.",
+            "ur": "وہ سبق لکھتا ہے۔",
+            "id": "Dia menulis pelajarannya.",
+            "tr": "Dersi yazıyor.",
+            "fr": "Il écrit la leçon."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-02-he-writes-lesson.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-03-review-5",
+          "type": "sentence",
+          "arabic": "هِيَ تَقْرَأُ الْعَرَبِيَّةَ",
+          "transliteration": "hiya taqraʾu l-ʿarabiyyata",
+          "audioText": "هِيَ تَقْرَأُ الْعَرَبِيَّةَ",
+          "meaning": {
+            "en": "She reads Arabic.",
+            "ur": "وہ عربی پڑھتی ہے۔",
+            "id": "Dia membaca bahasa Arab.",
+            "tr": "Arapça okuyor.",
+            "fr": "Elle lit l'arabe."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-02-she-reads-arabic.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-03-i-go-school",
+          "type": "sentence",
+          "arabic": "أَذْهَبُ إِلَى الْمَدْرَسَةِ",
+          "transliteration": "adhhabu ilā l-madrasati",
+          "audioText": "أَذْهَبُ إِلَى الْمَدْرَسَةِ",
+          "meaning": {
+            "en": "I go to school.",
+            "ur": "میں سکول جاتا ہوں۔",
+            "id": "Saya pergi ke sekolah.",
+            "tr": "Okula gidiyorum.",
+            "fr": "Je vais à l'école."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-03-i-go-school.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-03-he-comes-home",
+          "type": "sentence",
+          "arabic": "هُوَ يَأْتِي إِلَى الْبَيْتِ",
+          "transliteration": "huwa yaʾtī ilā l-bayti",
+          "audioText": "هُوَ يَأْتِي إِلَى الْبَيْتِ",
+          "meaning": {
+            "en": "He comes home.",
+            "ur": "وہ گھر آتا ہے۔",
+            "id": "Dia pulang.",
+            "tr": "Eve gelir.",
+            "fr": "Il rentre à la maison."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-03-he-comes-home.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-03-we-go-mosque",
+          "type": "sentence",
+          "arabic": "نَذْهَبُ إِلَى الْمَسْجِدِ",
+          "transliteration": "nadhhabu ilā l-masjidi",
+          "audioText": "نَذْهَبُ إِلَى الْمَسْجِدِ",
+          "meaning": {
+            "en": "We go to the mosque.",
+            "ur": "ہم مسجد جاتے ہیں۔",
+            "id": "Kami pergi ke masjid.",
+            "tr": "Camiye gidiyoruz.",
+            "fr": "Nous allons à la mosquée."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-03-we-go-mosque.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "verbs-04",
+      "order": 4,
+      "title": {
+        "en": "Eating and drinking",
+        "ur": "کھانا پینا",
+        "id": "Makan dan minum",
+        "tr": "Yeme ve içme",
+        "fr": "Manger et boire"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Eating and drinking.",
+        "ur": "کھانے پینے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Makan dan minum.",
+        "tr": "Yeme ve içme ile ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur manger et boire."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "verbs-04-review-1",
+          "type": "sentence",
+          "arabic": "هُوَ يَكْتُبُ الدَّرْسَ",
+          "transliteration": "huwa yaktubu d-darsa",
+          "audioText": "هُوَ يَكْتُبُ الدَّرْسَ",
+          "meaning": {
+            "en": "He writes the lesson.",
+            "ur": "وہ سبق لکھتا ہے۔",
+            "id": "Dia menulis pelajarannya.",
+            "tr": "Dersi yazıyor.",
+            "fr": "Il écrit la leçon."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-02-he-writes-lesson.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-04-review-2",
+          "type": "sentence",
+          "arabic": "هِيَ تَقْرَأُ الْعَرَبِيَّةَ",
+          "transliteration": "hiya taqraʾu l-ʿarabiyyata",
+          "audioText": "هِيَ تَقْرَأُ الْعَرَبِيَّةَ",
+          "meaning": {
+            "en": "She reads Arabic.",
+            "ur": "وہ عربی پڑھتی ہے۔",
+            "id": "Dia membaca bahasa Arab.",
+            "tr": "Arapça okuyor.",
+            "fr": "Elle lit l'arabe."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-02-she-reads-arabic.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-04-review-3",
+          "type": "sentence",
+          "arabic": "أَذْهَبُ إِلَى الْمَدْرَسَةِ",
+          "transliteration": "adhhabu ilā l-madrasati",
+          "audioText": "أَذْهَبُ إِلَى الْمَدْرَسَةِ",
+          "meaning": {
+            "en": "I go to school.",
+            "ur": "میں سکول جاتا ہوں۔",
+            "id": "Saya pergi ke sekolah.",
+            "tr": "Okula gidiyorum.",
+            "fr": "Je vais à l'école."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-03-i-go-school.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-04-review-4",
+          "type": "sentence",
+          "arabic": "هُوَ يَأْتِي إِلَى الْبَيْتِ",
+          "transliteration": "huwa yaʾtī ilā l-bayti",
+          "audioText": "هُوَ يَأْتِي إِلَى الْبَيْتِ",
+          "meaning": {
+            "en": "He comes home.",
+            "ur": "وہ گھر آتا ہے۔",
+            "id": "Dia pulang.",
+            "tr": "Eve gelir.",
+            "fr": "Il rentre à la maison."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-03-he-comes-home.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-04-review-5",
+          "type": "sentence",
+          "arabic": "نَذْهَبُ إِلَى الْمَسْجِدِ",
+          "transliteration": "nadhhabu ilā l-masjidi",
+          "audioText": "نَذْهَبُ إِلَى الْمَسْجِدِ",
+          "meaning": {
+            "en": "We go to the mosque.",
+            "ur": "ہم مسجد جاتے ہیں۔",
+            "id": "Kami pergi ke masjid.",
+            "tr": "Camiye gidiyoruz.",
+            "fr": "Nous allons à la mosquée."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-03-we-go-mosque.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-04-i-drink-water",
+          "type": "sentence",
+          "arabic": "أَشْرَبُ الْمَاءَ",
+          "transliteration": "ashrabu l-māʾa",
+          "audioText": "أَشْرَبُ الْمَاءَ",
+          "meaning": {
+            "en": "I drink water.",
+            "ur": "میں پانی پیتا ہوں۔",
+            "id": "Saya minum air.",
+            "tr": "Su içerim.",
+            "fr": "Je bois de l'eau."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-04-i-drink-water.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-04-he-eats-breakfast",
+          "type": "sentence",
+          "arabic": "هُوَ يَأْكُلُ الْفَطُورَ",
+          "transliteration": "huwa yaʾkulu l-faṭūra",
+          "audioText": "هُوَ يَأْكُلُ الْفَطُورَ",
+          "meaning": {
+            "en": "He eats breakfast.",
+            "ur": "وہ ناشتہ کرتا ہے۔",
+            "id": "Dia sarapan.",
+            "tr": "Kahvaltı ediyor.",
+            "fr": "Il prend le petit déjeuner."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-04-he-eats-breakfast.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-04-they-drink-tea",
+          "type": "sentence",
+          "arabic": "هُمْ يَشْرَبُونَ الشَّايَ",
+          "transliteration": "hum yashrabūna sh-shāya",
+          "audioText": "هُمْ يَشْرَبُونَ الشَّايَ",
+          "meaning": {
+            "en": "They drink tea.",
+            "ur": "وہ چائے پیتے ہیں۔",
+            "id": "Mereka minum teh.",
+            "tr": "Çay içerler.",
+            "fr": "Ils boivent du thé."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-04-they-drink-tea.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "verbs-05",
+      "order": 5,
+      "title": {
+        "en": "Work and study",
+        "ur": "کام اور مطالعہ",
+        "id": "Bekerja dan belajar",
+        "tr": "Çalışmak ve okumak",
+        "fr": "Travailler et étudier"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Work and study.",
+        "ur": "کام اور مطالعہ کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Bekerja dan belajar.",
+        "tr": "Çalışmak ve ders çalışmakla ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde pratik yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur le travail et les études."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "verbs-05-review-1",
+          "type": "sentence",
+          "arabic": "هُوَ يَأْتِي إِلَى الْبَيْتِ",
+          "transliteration": "huwa yaʾtī ilā l-bayti",
+          "audioText": "هُوَ يَأْتِي إِلَى الْبَيْتِ",
+          "meaning": {
+            "en": "He comes home.",
+            "ur": "وہ گھر آتا ہے۔",
+            "id": "Dia pulang.",
+            "tr": "Eve gelir.",
+            "fr": "Il rentre à la maison."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-03-he-comes-home.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-05-review-2",
+          "type": "sentence",
+          "arabic": "نَذْهَبُ إِلَى الْمَسْجِدِ",
+          "transliteration": "nadhhabu ilā l-masjidi",
+          "audioText": "نَذْهَبُ إِلَى الْمَسْجِدِ",
+          "meaning": {
+            "en": "We go to the mosque.",
+            "ur": "ہم مسجد جاتے ہیں۔",
+            "id": "Kami pergi ke masjid.",
+            "tr": "Camiye gidiyoruz.",
+            "fr": "Nous allons à la mosquée."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-03-we-go-mosque.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-05-review-3",
+          "type": "sentence",
+          "arabic": "أَشْرَبُ الْمَاءَ",
+          "transliteration": "ashrabu l-māʾa",
+          "audioText": "أَشْرَبُ الْمَاءَ",
+          "meaning": {
+            "en": "I drink water.",
+            "ur": "میں پانی پیتا ہوں۔",
+            "id": "Saya minum air.",
+            "tr": "Su içerim.",
+            "fr": "Je bois de l'eau."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-04-i-drink-water.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-05-review-4",
+          "type": "sentence",
+          "arabic": "هُوَ يَأْكُلُ الْفَطُورَ",
+          "transliteration": "huwa yaʾkulu l-faṭūra",
+          "audioText": "هُوَ يَأْكُلُ الْفَطُورَ",
+          "meaning": {
+            "en": "He eats breakfast.",
+            "ur": "وہ ناشتہ کرتا ہے۔",
+            "id": "Dia sarapan.",
+            "tr": "Kahvaltı ediyor.",
+            "fr": "Il prend le petit déjeuner."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-04-he-eats-breakfast.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-05-review-5",
+          "type": "sentence",
+          "arabic": "هُمْ يَشْرَبُونَ الشَّايَ",
+          "transliteration": "hum yashrabūna sh-shāya",
+          "audioText": "هُمْ يَشْرَبُونَ الشَّايَ",
+          "meaning": {
+            "en": "They drink tea.",
+            "ur": "وہ چائے پیتے ہیں۔",
+            "id": "Mereka minum teh.",
+            "tr": "Çay içerler.",
+            "fr": "Ils boivent du thé."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-04-they-drink-tea.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-05-father-works",
+          "type": "sentence",
+          "arabic": "أَبِي يَعْمَلُ فِي الْمَكْتَبِ",
+          "transliteration": "abī yaʿmalu fī l-maktabi",
+          "audioText": "أَبِي يَعْمَلُ فِي الْمَكْتَبِ",
+          "meaning": {
+            "en": "My father works in the office.",
+            "ur": "میرے والد دفتر میں کام کرتے ہیں۔",
+            "id": "Ayah saya bekerja di kantor.",
+            "tr": "Babam ofiste çalışıyor.",
+            "fr": "Mon père travaille au bureau."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-05-father-works.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-05-mother-teaches",
+          "type": "sentence",
+          "arabic": "أُمِّي تُعَلِّمُ الْأَطْفَالَ",
+          "transliteration": "ummī tuʿallimu l-aṭfāla",
+          "audioText": "أُمِّي تُعَلِّمُ الْأَطْفَالَ",
+          "meaning": {
+            "en": "My mother teaches the children.",
+            "ur": "میری ماں بچوں کو پڑھاتی ہے۔",
+            "id": "Ibu saya mengajar anak-anak.",
+            "tr": "Annem çocuklara ders veriyor.",
+            "fr": "Ma mère enseigne aux enfants."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-05-mother-teaches.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-05-student-studies",
+          "type": "sentence",
+          "arabic": "الطَّالِبُ يَدْرُسُ كَثِيرًا",
+          "transliteration": "aṭ-ṭālibu yadrusu kathīran",
+          "audioText": "الطَّالِبُ يَدْرُسُ كَثِيرًا",
+          "meaning": {
+            "en": "The student studies a lot.",
+            "ur": "طالب علم بہت پڑھتا ہے۔",
+            "id": "Siswa itu banyak belajar.",
+            "tr": "Öğrenci çok çalışır.",
+            "fr": "L'étudiant étudie beaucoup."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-05-student-studies.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "verbs-06",
+      "order": 6,
+      "title": {
+        "en": "Daily routines",
+        "ur": "روزمرہ کے معمولات",
+        "id": "Rutinitas sehari-hari",
+        "tr": "Günlük rutinler",
+        "fr": "Routines quotidiennes"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Daily routines.",
+        "ur": "روزمرہ کے معمولات کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang rutinitas harian.",
+        "tr": "Günlük rutinlerle ilgili yararlı Arapça kelimeler ve kısa ifadeler uygulayın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les routines quotidiennes."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "verbs-06-review-1",
+          "type": "sentence",
+          "arabic": "هُوَ يَأْكُلُ الْفَطُورَ",
+          "transliteration": "huwa yaʾkulu l-faṭūra",
+          "audioText": "هُوَ يَأْكُلُ الْفَطُورَ",
+          "meaning": {
+            "en": "He eats breakfast.",
+            "ur": "وہ ناشتہ کرتا ہے۔",
+            "id": "Dia sarapan.",
+            "tr": "Kahvaltı ediyor.",
+            "fr": "Il prend le petit déjeuner."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-04-he-eats-breakfast.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-06-review-2",
+          "type": "sentence",
+          "arabic": "هُمْ يَشْرَبُونَ الشَّايَ",
+          "transliteration": "hum yashrabūna sh-shāya",
+          "audioText": "هُمْ يَشْرَبُونَ الشَّايَ",
+          "meaning": {
+            "en": "They drink tea.",
+            "ur": "وہ چائے پیتے ہیں۔",
+            "id": "Mereka minum teh.",
+            "tr": "Çay içerler.",
+            "fr": "Ils boivent du thé."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-04-they-drink-tea.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-06-review-3",
+          "type": "sentence",
+          "arabic": "أَبِي يَعْمَلُ فِي الْمَكْتَبِ",
+          "transliteration": "abī yaʿmalu fī l-maktabi",
+          "audioText": "أَبِي يَعْمَلُ فِي الْمَكْتَبِ",
+          "meaning": {
+            "en": "My father works in the office.",
+            "ur": "میرے والد دفتر میں کام کرتے ہیں۔",
+            "id": "Ayah saya bekerja di kantor.",
+            "tr": "Babam ofiste çalışıyor.",
+            "fr": "Mon père travaille au bureau."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-05-father-works.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-06-review-4",
+          "type": "sentence",
+          "arabic": "أُمِّي تُعَلِّمُ الْأَطْفَالَ",
+          "transliteration": "ummī tuʿallimu l-aṭfāla",
+          "audioText": "أُمِّي تُعَلِّمُ الْأَطْفَالَ",
+          "meaning": {
+            "en": "My mother teaches the children.",
+            "ur": "میری ماں بچوں کو پڑھاتی ہے۔",
+            "id": "Ibu saya mengajar anak-anak.",
+            "tr": "Annem çocuklara ders veriyor.",
+            "fr": "Ma mère enseigne aux enfants."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-05-mother-teaches.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-06-review-5",
+          "type": "sentence",
+          "arabic": "الطَّالِبُ يَدْرُسُ كَثِيرًا",
+          "transliteration": "aṭ-ṭālibu yadrusu kathīran",
+          "audioText": "الطَّالِبُ يَدْرُسُ كَثِيرًا",
+          "meaning": {
+            "en": "The student studies a lot.",
+            "ur": "طالب علم بہت پڑھتا ہے۔",
+            "id": "Siswa itu banyak belajar.",
+            "tr": "Öğrenci çok çalışır.",
+            "fr": "L'étudiant étudie beaucoup."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-05-student-studies.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-06-i-wake-early",
+          "type": "sentence",
+          "arabic": "أَسْتَيْقِظُ مُبَكِّرًا",
+          "transliteration": "astayqiẓu mubakkiran",
+          "audioText": "أَسْتَيْقِظُ مُبَكِّرًا",
+          "meaning": {
+            "en": "I wake up early.",
+            "ur": "میں جلدی جاگتا ہوں۔",
+            "id": "Saya bangun pagi-pagi.",
+            "tr": "Erken uyanıyorum.",
+            "fr": "Je me réveille tôt."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-06-i-wake-early.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-06-she-sleeps-early",
+          "type": "sentence",
+          "arabic": "هِيَ تَنَامُ مُبَكِّرًا",
+          "transliteration": "hiya tanāmu mubakkiran",
+          "audioText": "هِيَ تَنَامُ مُبَكِّرًا",
+          "meaning": {
+            "en": "She sleeps early.",
+            "ur": "وہ جلدی سوتی ہے۔",
+            "id": "Dia tidur lebih awal.",
+            "tr": "Erken uyuyor.",
+            "fr": "Elle dort tôt."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-06-she-sleeps-early.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-06-we-pray-together",
+          "type": "sentence",
+          "arabic": "نُصَلِّي مَعًا",
+          "transliteration": "nuṣallī maʿan",
+          "audioText": "نُصَلِّي مَعًا",
+          "meaning": {
+            "en": "We pray together.",
+            "ur": "ہم مل کر دعا کرتے ہیں۔",
+            "id": "Kami berdoa bersama.",
+            "tr": "Birlikte dua ediyoruz.",
+            "fr": "Nous prions ensemble."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-06-we-pray-together.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "verbs-07",
+      "order": 7,
+      "title": {
+        "en": "Likes and preferences",
+        "ur": "پسند اور ترجیحات",
+        "id": "Suka dan preferensi",
+        "tr": "Beğeniler ve tercihler",
+        "fr": "J'aime et préférences"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Likes and preferences.",
+        "ur": "پسند اور ترجیحات کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Suka dan preferensi.",
+        "tr": "Beğeniler ve tercihler hakkında yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les goûts et les préférences."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "verbs-07-review-1",
+          "type": "sentence",
+          "arabic": "أُمِّي تُعَلِّمُ الْأَطْفَالَ",
+          "transliteration": "ummī tuʿallimu l-aṭfāla",
+          "audioText": "أُمِّي تُعَلِّمُ الْأَطْفَالَ",
+          "meaning": {
+            "en": "My mother teaches the children.",
+            "ur": "میری ماں بچوں کو پڑھاتی ہے۔",
+            "id": "Ibu saya mengajar anak-anak.",
+            "tr": "Annem çocuklara ders veriyor.",
+            "fr": "Ma mère enseigne aux enfants."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-05-mother-teaches.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-07-review-2",
+          "type": "sentence",
+          "arabic": "الطَّالِبُ يَدْرُسُ كَثِيرًا",
+          "transliteration": "aṭ-ṭālibu yadrusu kathīran",
+          "audioText": "الطَّالِبُ يَدْرُسُ كَثِيرًا",
+          "meaning": {
+            "en": "The student studies a lot.",
+            "ur": "طالب علم بہت پڑھتا ہے۔",
+            "id": "Siswa itu banyak belajar.",
+            "tr": "Öğrenci çok çalışır.",
+            "fr": "L'étudiant étudie beaucoup."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-05-student-studies.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-07-review-3",
+          "type": "sentence",
+          "arabic": "أَسْتَيْقِظُ مُبَكِّرًا",
+          "transliteration": "astayqiẓu mubakkiran",
+          "audioText": "أَسْتَيْقِظُ مُبَكِّرًا",
+          "meaning": {
+            "en": "I wake up early.",
+            "ur": "میں جلدی جاگتا ہوں۔",
+            "id": "Saya bangun pagi-pagi.",
+            "tr": "Erken uyanıyorum.",
+            "fr": "Je me réveille tôt."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-06-i-wake-early.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-07-review-4",
+          "type": "sentence",
+          "arabic": "هِيَ تَنَامُ مُبَكِّرًا",
+          "transliteration": "hiya tanāmu mubakkiran",
+          "audioText": "هِيَ تَنَامُ مُبَكِّرًا",
+          "meaning": {
+            "en": "She sleeps early.",
+            "ur": "وہ جلدی سوتی ہے۔",
+            "id": "Dia tidur lebih awal.",
+            "tr": "Erken uyuyor.",
+            "fr": "Elle dort tôt."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-06-she-sleeps-early.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-07-review-5",
+          "type": "sentence",
+          "arabic": "نُصَلِّي مَعًا",
+          "transliteration": "nuṣallī maʿan",
+          "audioText": "نُصَلِّي مَعًا",
+          "meaning": {
+            "en": "We pray together.",
+            "ur": "ہم مل کر دعا کرتے ہیں۔",
+            "id": "Kami berdoa bersama.",
+            "tr": "Birlikte dua ediyoruz.",
+            "fr": "Nous prions ensemble."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-06-we-pray-together.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-07-i-like-reading",
+          "type": "sentence",
+          "arabic": "أُحِبُّ الْقِرَاءَةَ",
+          "transliteration": "uḥibbu l-qirāʾata",
+          "audioText": "أُحِبُّ الْقِرَاءَةَ",
+          "meaning": {
+            "en": "I like reading.",
+            "ur": "مجھے پڑھنا پسند ہے۔",
+            "id": "Saya suka membaca.",
+            "tr": "Okumayı severim.",
+            "fr": "J'aime lire."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-07-i-like-reading.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-07-he-likes-coffee",
+          "type": "sentence",
+          "arabic": "هُوَ يُحِبُّ الْقَهْوَةَ",
+          "transliteration": "huwa yuḥibbu l-qahwata",
+          "audioText": "هُوَ يُحِبُّ الْقَهْوَةَ",
+          "meaning": {
+            "en": "He likes coffee.",
+            "ur": "اسے کافی پسند ہے۔",
+            "id": "Dia suka kopi.",
+            "tr": "Kahveyi sever.",
+            "fr": "Il aime le café."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-07-he-likes-coffee.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-07-she-likes-arabic",
+          "type": "sentence",
+          "arabic": "هِيَ تُحِبُّ اللُّغَةَ الْعَرَبِيَّةَ",
+          "transliteration": "hiya tuḥibbu l-lughata l-ʿarabiyyata",
+          "audioText": "هِيَ تُحِبُّ اللُّغَةَ الْعَرَبِيَّةَ",
+          "meaning": {
+            "en": "She likes the Arabic language.",
+            "ur": "اسے عربی زبان پسند ہے۔",
+            "id": "Dia menyukai bahasa Arab.",
+            "tr": "Arap dilini seviyor.",
+            "fr": "Elle aime la langue arabe."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-07-she-likes-arabic.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "verbs-08",
+      "order": 8,
+      "title": {
+        "en": "Can and cannot",
+        "ur": "کر سکتا ہے اور نہیں کر سکتا",
+        "id": "Bisa dan tidak bisa",
+        "tr": "Yapabilir ve yapamam",
+        "fr": "Peut et ne peut pas"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Can and cannot.",
+        "ur": "کر سکتے ہیں اور نہیں کر سکتے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Boleh dan Tidak Boleh.",
+        "tr": "Can ve Can ile ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Entraînez-vous à utiliser des mots arabes utiles et des phrases courtes sur Can et Can not."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "verbs-08-review-1",
+          "type": "sentence",
+          "arabic": "هِيَ تَنَامُ مُبَكِّرًا",
+          "transliteration": "hiya tanāmu mubakkiran",
+          "audioText": "هِيَ تَنَامُ مُبَكِّرًا",
+          "meaning": {
+            "en": "She sleeps early.",
+            "ur": "وہ جلدی سوتی ہے۔",
+            "id": "Dia tidur lebih awal.",
+            "tr": "Erken uyuyor.",
+            "fr": "Elle dort tôt."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-06-she-sleeps-early.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-08-review-2",
+          "type": "sentence",
+          "arabic": "نُصَلِّي مَعًا",
+          "transliteration": "nuṣallī maʿan",
+          "audioText": "نُصَلِّي مَعًا",
+          "meaning": {
+            "en": "We pray together.",
+            "ur": "ہم مل کر دعا کرتے ہیں۔",
+            "id": "Kami berdoa bersama.",
+            "tr": "Birlikte dua ediyoruz.",
+            "fr": "Nous prions ensemble."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-06-we-pray-together.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-08-review-3",
+          "type": "sentence",
+          "arabic": "أُحِبُّ الْقِرَاءَةَ",
+          "transliteration": "uḥibbu l-qirāʾata",
+          "audioText": "أُحِبُّ الْقِرَاءَةَ",
+          "meaning": {
+            "en": "I like reading.",
+            "ur": "مجھے پڑھنا پسند ہے۔",
+            "id": "Saya suka membaca.",
+            "tr": "Okumayı severim.",
+            "fr": "J'aime lire."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-07-i-like-reading.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-08-review-4",
+          "type": "sentence",
+          "arabic": "هُوَ يُحِبُّ الْقَهْوَةَ",
+          "transliteration": "huwa yuḥibbu l-qahwata",
+          "audioText": "هُوَ يُحِبُّ الْقَهْوَةَ",
+          "meaning": {
+            "en": "He likes coffee.",
+            "ur": "اسے کافی پسند ہے۔",
+            "id": "Dia suka kopi.",
+            "tr": "Kahveyi sever.",
+            "fr": "Il aime le café."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-07-he-likes-coffee.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-08-review-5",
+          "type": "sentence",
+          "arabic": "هِيَ تُحِبُّ اللُّغَةَ الْعَرَبِيَّةَ",
+          "transliteration": "hiya tuḥibbu l-lughata l-ʿarabiyyata",
+          "audioText": "هِيَ تُحِبُّ اللُّغَةَ الْعَرَبِيَّةَ",
+          "meaning": {
+            "en": "She likes the Arabic language.",
+            "ur": "اسے عربی زبان پسند ہے۔",
+            "id": "Dia menyukai bahasa Arab.",
+            "tr": "Arap dilini seviyor.",
+            "fr": "Elle aime la langue arabe."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-07-she-likes-arabic.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-08-i-can-read",
+          "type": "sentence",
+          "arabic": "أَسْتَطِيعُ أَنْ أَقْرَأَ",
+          "transliteration": "astaṭīʿu an aqraʾa",
+          "audioText": "أَسْتَطِيعُ أَنْ أَقْرَأَ",
+          "meaning": {
+            "en": "I can read.",
+            "ur": "میں پڑھ سکتا ہوں۔",
+            "id": "saya bisa membaca.",
+            "tr": "Okuyabilirim.",
+            "fr": "Je peux lire."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-08-i-can-read.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-08-he-cannot-come",
+          "type": "sentence",
+          "arabic": "لَا يَسْتَطِيعُ أَنْ يَأْتِيَ",
+          "transliteration": "lā yastaṭīʿu an yaʾtiya",
+          "audioText": "لَا يَسْتَطِيعُ أَنْ يَأْتِيَ",
+          "meaning": {
+            "en": "He cannot come.",
+            "ur": "وہ نہیں آ سکتا۔",
+            "id": "Dia tidak bisa datang.",
+            "tr": "O gelemez.",
+            "fr": "Il ne peut pas venir."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-08-he-cannot-come.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-08-can-you-help",
+          "type": "question",
+          "arabic": "هَلْ تَسْتَطِيعُ أَنْ تُسَاعِدَنِي؟",
+          "transliteration": "hal tastaṭīʿu an tusāʿidanī?",
+          "audioText": "هَلْ تَسْتَطِيعُ أَنْ تُسَاعِدَنِي؟",
+          "meaning": {
+            "en": "Can you help me? (to a man)",
+            "ur": "کیا آپ میری مدد کر سکتے ہیں؟ (ایک آدمی کو)",
+            "id": "Bisakah Anda membantu saya? (kepada seorang pria)",
+            "tr": "Bana yardım eder misiniz? (bir erkeğe)",
+            "fr": "Pouvez-vous m'aider? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-08-can-you-help.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "verbs-09",
+      "order": 9,
+      "title": {
+        "en": "Asking about actions",
+        "ur": "اعمال کے بارے میں پوچھنا",
+        "id": "Menanyakan tentang tindakan",
+        "tr": "Eylemler hakkında soru sormak",
+        "fr": "Demander des actions"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Asking about actions.",
+        "ur": "اعمال کے بارے میں پوچھنے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Bertanya tentang tindakan.",
+        "tr": "Eylemler hakkında soru sorma ile ilgili faydalı Arapça kelimelerin ve kısa ifadelerin alıştırmasını yapın.",
+        "fr": "Entraînez-vous à utiliser des mots arabes utiles et des phrases courtes pour poser des questions sur les actions."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "verbs-09-review-1",
+          "type": "sentence",
+          "arabic": "هُوَ يُحِبُّ الْقَهْوَةَ",
+          "transliteration": "huwa yuḥibbu l-qahwata",
+          "audioText": "هُوَ يُحِبُّ الْقَهْوَةَ",
+          "meaning": {
+            "en": "He likes coffee.",
+            "ur": "اسے کافی پسند ہے۔",
+            "id": "Dia suka kopi.",
+            "tr": "Kahveyi sever.",
+            "fr": "Il aime le café."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-07-he-likes-coffee.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-09-review-2",
+          "type": "sentence",
+          "arabic": "هِيَ تُحِبُّ اللُّغَةَ الْعَرَبِيَّةَ",
+          "transliteration": "hiya tuḥibbu l-lughata l-ʿarabiyyata",
+          "audioText": "هِيَ تُحِبُّ اللُّغَةَ الْعَرَبِيَّةَ",
+          "meaning": {
+            "en": "She likes the Arabic language.",
+            "ur": "اسے عربی زبان پسند ہے۔",
+            "id": "Dia menyukai bahasa Arab.",
+            "tr": "Arap dilini seviyor.",
+            "fr": "Elle aime la langue arabe."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-07-she-likes-arabic.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-09-review-3",
+          "type": "sentence",
+          "arabic": "أَسْتَطِيعُ أَنْ أَقْرَأَ",
+          "transliteration": "astaṭīʿu an aqraʾa",
+          "audioText": "أَسْتَطِيعُ أَنْ أَقْرَأَ",
+          "meaning": {
+            "en": "I can read.",
+            "ur": "میں پڑھ سکتا ہوں۔",
+            "id": "saya bisa membaca.",
+            "tr": "Okuyabilirim.",
+            "fr": "Je peux lire."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-08-i-can-read.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-09-review-4",
+          "type": "sentence",
+          "arabic": "لَا يَسْتَطِيعُ أَنْ يَأْتِيَ",
+          "transliteration": "lā yastaṭīʿu an yaʾtiya",
+          "audioText": "لَا يَسْتَطِيعُ أَنْ يَأْتِيَ",
+          "meaning": {
+            "en": "He cannot come.",
+            "ur": "وہ نہیں آ سکتا۔",
+            "id": "Dia tidak bisa datang.",
+            "tr": "O gelemez.",
+            "fr": "Il ne peut pas venir."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-08-he-cannot-come.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-09-review-5",
+          "type": "question",
+          "arabic": "هَلْ تَسْتَطِيعُ أَنْ تُسَاعِدَنِي؟",
+          "transliteration": "hal tastaṭīʿu an tusāʿidanī?",
+          "audioText": "هَلْ تَسْتَطِيعُ أَنْ تُسَاعِدَنِي؟",
+          "meaning": {
+            "en": "Can you help me? (to a man)",
+            "ur": "کیا آپ میری مدد کر سکتے ہیں؟ (ایک آدمی کو)",
+            "id": "Bisakah Anda membantu saya? (kepada seorang pria)",
+            "tr": "Bana yardım eder misiniz? (bir erkeğe)",
+            "fr": "Pouvez-vous m'aider? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-08-can-you-help.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-09-what-do-you-read",
+          "type": "question",
+          "arabic": "مَاذَا تَقْرَأُ؟",
+          "transliteration": "mādhā taqraʾu?",
+          "audioText": "مَاذَا تَقْرَأُ؟",
+          "meaning": {
+            "en": "What are you reading? (to a man)",
+            "ur": "کیا پڑھ رہے ہو؟ (ایک آدمی کو)",
+            "id": "Apa yang kamu baca? (kepada seorang pria)",
+            "tr": "Ne okuyorsun? (bir erkeğe)",
+            "fr": "Que lis-tu ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-09-what-do-you-read.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-09-where-does-she-work",
+          "type": "question",
+          "arabic": "أَيْنَ تَعْمَلُ الْمُعَلِّمَةُ؟",
+          "transliteration": "ayna taʿmalu l-muʿallimatu?",
+          "audioText": "أَيْنَ تَعْمَلُ الْمُعَلِّمَةُ؟",
+          "meaning": {
+            "en": "Where does the female teacher work?",
+            "ur": "خاتون ٹیچر کہاں کام کرتی ہے؟",
+            "id": "Di mana guru perempuan itu bekerja?",
+            "tr": "Kadın öğretmen nerede çalışıyor?",
+            "fr": "Où travaille l’enseignante ?"
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-09-where-does-she-work.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-09-when-do-they-come",
+          "type": "question",
+          "arabic": "مَتَى يَأْتُونَ؟",
+          "transliteration": "matā yaʾtūna?",
+          "audioText": "مَتَى يَأْتُونَ؟",
+          "meaning": {
+            "en": "When do they come?",
+            "ur": "وہ کب آتے ہیں؟",
+            "id": "Kapan mereka datang?",
+            "tr": "Ne zaman gelirler?",
+            "fr": "Quand viennent-ils ?"
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-09-when-do-they-come.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "verbs-10",
+      "order": 10,
+      "title": {
+        "en": "Reviewing daily actions",
+        "ur": "روزمرہ کے اعمال کا جائزہ لینا",
+        "id": "Meninjau tindakan sehari-hari",
+        "tr": "Günlük eylemlerin gözden geçirilmesi",
+        "fr": "Revoir les actions quotidiennes"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Reviewing daily actions.",
+        "ur": "روزمرہ کے کاموں کا جائزہ لینے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang Meninjau tindakan sehari-hari.",
+        "tr": "Günlük eylemleri gözden geçirme konusunda yararlı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur la révision des actions quotidiennes."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "verbs-10-review-1",
+          "type": "sentence",
+          "arabic": "لَا يَسْتَطِيعُ أَنْ يَأْتِيَ",
+          "transliteration": "lā yastaṭīʿu an yaʾtiya",
+          "audioText": "لَا يَسْتَطِيعُ أَنْ يَأْتِيَ",
+          "meaning": {
+            "en": "He cannot come.",
+            "ur": "وہ نہیں آ سکتا۔",
+            "id": "Dia tidak bisa datang.",
+            "tr": "O gelemez.",
+            "fr": "Il ne peut pas venir."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-08-he-cannot-come.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-10-review-2",
+          "type": "question",
+          "arabic": "هَلْ تَسْتَطِيعُ أَنْ تُسَاعِدَنِي؟",
+          "transliteration": "hal tastaṭīʿu an tusāʿidanī?",
+          "audioText": "هَلْ تَسْتَطِيعُ أَنْ تُسَاعِدَنِي؟",
+          "meaning": {
+            "en": "Can you help me? (to a man)",
+            "ur": "کیا آپ میری مدد کر سکتے ہیں؟ (ایک آدمی کو)",
+            "id": "Bisakah Anda membantu saya? (kepada seorang pria)",
+            "tr": "Bana yardım eder misiniz? (bir erkeğe)",
+            "fr": "Pouvez-vous m'aider? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-08-can-you-help.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-10-review-3",
+          "type": "question",
+          "arabic": "مَاذَا تَقْرَأُ؟",
+          "transliteration": "mādhā taqraʾu?",
+          "audioText": "مَاذَا تَقْرَأُ؟",
+          "meaning": {
+            "en": "What are you reading? (to a man)",
+            "ur": "کیا پڑھ رہے ہو؟ (ایک آدمی کو)",
+            "id": "Apa yang kamu baca? (kepada seorang pria)",
+            "tr": "Ne okuyorsun? (bir erkeğe)",
+            "fr": "Que lis-tu ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-09-what-do-you-read.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-10-review-4",
+          "type": "question",
+          "arabic": "أَيْنَ تَعْمَلُ الْمُعَلِّمَةُ؟",
+          "transliteration": "ayna taʿmalu l-muʿallimatu?",
+          "audioText": "أَيْنَ تَعْمَلُ الْمُعَلِّمَةُ؟",
+          "meaning": {
+            "en": "Where does the female teacher work?",
+            "ur": "خاتون ٹیچر کہاں کام کرتی ہے؟",
+            "id": "Di mana guru perempuan itu bekerja?",
+            "tr": "Kadın öğretmen nerede çalışıyor?",
+            "fr": "Où travaille l’enseignante ?"
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-09-where-does-she-work.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-10-review-5",
+          "type": "question",
+          "arabic": "مَتَى يَأْتُونَ؟",
+          "transliteration": "matā yaʾtūna?",
+          "audioText": "مَتَى يَأْتُونَ؟",
+          "meaning": {
+            "en": "When do they come?",
+            "ur": "وہ کب آتے ہیں؟",
+            "id": "Kapan mereka datang?",
+            "tr": "Ne zaman gelirler?",
+            "fr": "Quand viennent-ils ?"
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-09-when-do-they-come.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-10-i-read-and-write",
+          "type": "sentence",
+          "arabic": "أَقْرَأُ وَأَكْتُبُ كُلَّ يَوْمٍ",
+          "transliteration": "aqraʾu wa-aktubu kulla yawmin",
+          "audioText": "أَقْرَأُ وَأَكْتُبُ كُلَّ يَوْمٍ",
+          "meaning": {
+            "en": "I read and write every day.",
+            "ur": "میں ہر روز پڑھتا اور لکھتا ہوں۔",
+            "id": "Saya membaca dan menulis setiap hari.",
+            "tr": "Her gün okuyorum ve yazıyorum.",
+            "fr": "Je lis et j'écris tous les jours."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-10-i-read-and-write.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-10-she-goes-and-studies",
+          "type": "sentence",
+          "arabic": "تَذْهَبُ وَتَدْرُسُ فِي الْجَامِعَةِ",
+          "transliteration": "tadhhabu wa-tadrusu fī l-jāmiʿati",
+          "audioText": "تَذْهَبُ وَتَدْرُسُ فِي الْجَامِعَةِ",
+          "meaning": {
+            "en": "She goes and studies at the university.",
+            "ur": "وہ یونیورسٹی میں جا کر پڑھتی ہے۔",
+            "id": "Dia pergi dan belajar di universitas.",
+            "tr": "Gidip üniversitede okuyor.",
+            "fr": "Elle va étudier à l'université."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-10-she-goes-and-studies.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "verbs-10-we-eat-at-home",
+          "type": "sentence",
+          "arabic": "نَأْكُلُ الْعَشَاءَ فِي الْبَيْتِ",
+          "transliteration": "naʾkulu l-ʿashāʾa fī l-bayti",
+          "audioText": "نَأْكُلُ الْعَشَاءَ فِي الْبَيْتِ",
+          "meaning": {
+            "en": "We eat dinner at home.",
+            "ur": "ہم رات کا کھانا گھر پر کھاتے ہیں۔",
+            "id": "Kami makan malam di rumah.",
+            "tr": "Akşam yemeğini evde yiyoruz.",
+            "fr": "Nous dînons à la maison."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-10-we-eat-at-home.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    }
+  ]
+}

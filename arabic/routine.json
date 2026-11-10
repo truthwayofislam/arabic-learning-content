@@ -1,0 +1,1965 @@
+{
+  "schemaVersion": 1,
+  "courseId": "arabic",
+  "levelId": "routine",
+  "unitId": "routine",
+  "translationLanguages": [
+    "en",
+    "ur",
+    "id",
+    "tr",
+    "fr"
+  ],
+  "lessons": [
+    {
+      "id": "routine-01",
+      "order": 1,
+      "title": {
+        "en": "Counting books",
+        "ur": "کتابوں کی گنتی",
+        "id": "Menghitung buku",
+        "tr": "Kitap sayma",
+        "fr": "Compter les livres"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Counting books.",
+        "ur": "کتابوں کی گنتی کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang Menghitung buku.",
+        "tr": "Sayma kitapları hakkında faydalı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les livres de comptage."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "routine-01-review-1",
+          "type": "question",
+          "arabic": "أَيْنَ تَعْمَلُ الْمُعَلِّمَةُ؟",
+          "transliteration": "ayna taʿmalu l-muʿallimatu?",
+          "audioText": "أَيْنَ تَعْمَلُ الْمُعَلِّمَةُ؟",
+          "meaning": {
+            "en": "Where does the female teacher work?",
+            "ur": "خاتون ٹیچر کہاں کام کرتی ہے؟",
+            "id": "Di mana guru perempuan itu bekerja?",
+            "tr": "Kadın öğretmen nerede çalışıyor?",
+            "fr": "Où travaille l’enseignante ?"
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-09-where-does-she-work.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-01-review-2",
+          "type": "question",
+          "arabic": "مَتَى يَأْتُونَ؟",
+          "transliteration": "matā yaʾtūna?",
+          "audioText": "مَتَى يَأْتُونَ؟",
+          "meaning": {
+            "en": "When do they come?",
+            "ur": "وہ کب آتے ہیں؟",
+            "id": "Kapan mereka datang?",
+            "tr": "Ne zaman gelirler?",
+            "fr": "Quand viennent-ils ?"
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-09-when-do-they-come.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-01-review-3",
+          "type": "sentence",
+          "arabic": "أَقْرَأُ وَأَكْتُبُ كُلَّ يَوْمٍ",
+          "transliteration": "aqraʾu wa-aktubu kulla yawmin",
+          "audioText": "أَقْرَأُ وَأَكْتُبُ كُلَّ يَوْمٍ",
+          "meaning": {
+            "en": "I read and write every day.",
+            "ur": "میں ہر روز پڑھتا اور لکھتا ہوں۔",
+            "id": "Saya membaca dan menulis setiap hari.",
+            "tr": "Her gün okuyorum ve yazıyorum.",
+            "fr": "Je lis et j'écris tous les jours."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-10-i-read-and-write.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-01-review-4",
+          "type": "sentence",
+          "arabic": "تَذْهَبُ وَتَدْرُسُ فِي الْجَامِعَةِ",
+          "transliteration": "tadhhabu wa-tadrusu fī l-jāmiʿati",
+          "audioText": "تَذْهَبُ وَتَدْرُسُ فِي الْجَامِعَةِ",
+          "meaning": {
+            "en": "She goes and studies at the university.",
+            "ur": "وہ یونیورسٹی میں جا کر پڑھتی ہے۔",
+            "id": "Dia pergi dan belajar di universitas.",
+            "tr": "Gidip üniversitede okuyor.",
+            "fr": "Elle va étudier à l'université."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-10-she-goes-and-studies.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-01-review-5",
+          "type": "sentence",
+          "arabic": "نَأْكُلُ الْعَشَاءَ فِي الْبَيْتِ",
+          "transliteration": "naʾkulu l-ʿashāʾa fī l-bayti",
+          "audioText": "نَأْكُلُ الْعَشَاءَ فِي الْبَيْتِ",
+          "meaning": {
+            "en": "We eat dinner at home.",
+            "ur": "ہم رات کا کھانا گھر پر کھاتے ہیں۔",
+            "id": "Kami makan malam di rumah.",
+            "tr": "Akşam yemeğini evde yiyoruz.",
+            "fr": "Nous dînons à la maison."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-10-we-eat-at-home.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-01-one-book",
+          "type": "phrase",
+          "arabic": "كِتَابٌ وَاحِدٌ",
+          "transliteration": "kitābun wāḥidun",
+          "audioText": "كِتَابٌ وَاحِدٌ",
+          "meaning": {
+            "en": "one book",
+            "ur": "ایک کتاب",
+            "id": "satu buku",
+            "tr": "bir kitap",
+            "fr": "un livre"
+          },
+          "audio": {
+            "path": "audio/routine/routine-01-one-book.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-01-two-books",
+          "type": "phrase",
+          "arabic": "كِتَابَانِ",
+          "transliteration": "kitābāni",
+          "audioText": "كِتَابَانِ",
+          "meaning": {
+            "en": "two books",
+            "ur": "دو کتابیں",
+            "id": "dua buku",
+            "tr": "iki kitap",
+            "fr": "deux livres"
+          },
+          "audio": {
+            "path": "audio/routine/routine-01-two-books.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-01-five-books",
+          "type": "phrase",
+          "arabic": "خَمْسَةُ كُتُبٍ",
+          "transliteration": "khamsatu kutubin",
+          "audioText": "خَمْسَةُ كُتُبٍ",
+          "meaning": {
+            "en": "five books",
+            "ur": "پانچ کتابیں",
+            "id": "lima buku",
+            "tr": "beş kitap",
+            "fr": "cinq livres"
+          },
+          "audio": {
+            "path": "audio/routine/routine-01-five-books.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "routine-02",
+      "order": 2,
+      "title": {
+        "en": "Numbers in daily life",
+        "ur": "روزمرہ کی زندگی میں نمبر",
+        "id": "Angka dalam kehidupan sehari-hari",
+        "tr": "Günlük hayatta sayılar",
+        "fr": "Les chiffres dans la vie quotidienne"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Numbers in daily life.",
+        "ur": "روزانہ کی زندگی میں اعداد کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Angka dalam kehidupan sehari-hari.",
+        "tr": "Günlük yaşamda Sayılarla ilgili yararlı Arapça kelimeler ve kısa ifadeler uygulayın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les nombres dans la vie quotidienne."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "routine-02-review-1",
+          "type": "sentence",
+          "arabic": "تَذْهَبُ وَتَدْرُسُ فِي الْجَامِعَةِ",
+          "transliteration": "tadhhabu wa-tadrusu fī l-jāmiʿati",
+          "audioText": "تَذْهَبُ وَتَدْرُسُ فِي الْجَامِعَةِ",
+          "meaning": {
+            "en": "She goes and studies at the university.",
+            "ur": "وہ یونیورسٹی میں جا کر پڑھتی ہے۔",
+            "id": "Dia pergi dan belajar di universitas.",
+            "tr": "Gidip üniversitede okuyor.",
+            "fr": "Elle va étudier à l'université."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-10-she-goes-and-studies.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-02-review-2",
+          "type": "sentence",
+          "arabic": "نَأْكُلُ الْعَشَاءَ فِي الْبَيْتِ",
+          "transliteration": "naʾkulu l-ʿashāʾa fī l-bayti",
+          "audioText": "نَأْكُلُ الْعَشَاءَ فِي الْبَيْتِ",
+          "meaning": {
+            "en": "We eat dinner at home.",
+            "ur": "ہم رات کا کھانا گھر پر کھاتے ہیں۔",
+            "id": "Kami makan malam di rumah.",
+            "tr": "Akşam yemeğini evde yiyoruz.",
+            "fr": "Nous dînons à la maison."
+          },
+          "audio": {
+            "path": "audio/verbs/verbs-10-we-eat-at-home.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-02-review-3",
+          "type": "phrase",
+          "arabic": "كِتَابٌ وَاحِدٌ",
+          "transliteration": "kitābun wāḥidun",
+          "audioText": "كِتَابٌ وَاحِدٌ",
+          "meaning": {
+            "en": "one book",
+            "ur": "ایک کتاب",
+            "id": "satu buku",
+            "tr": "bir kitap",
+            "fr": "un livre"
+          },
+          "audio": {
+            "path": "audio/routine/routine-01-one-book.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-02-review-4",
+          "type": "phrase",
+          "arabic": "كِتَابَانِ",
+          "transliteration": "kitābāni",
+          "audioText": "كِتَابَانِ",
+          "meaning": {
+            "en": "two books",
+            "ur": "دو کتابیں",
+            "id": "dua buku",
+            "tr": "iki kitap",
+            "fr": "deux livres"
+          },
+          "audio": {
+            "path": "audio/routine/routine-01-two-books.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-02-review-5",
+          "type": "phrase",
+          "arabic": "خَمْسَةُ كُتُبٍ",
+          "transliteration": "khamsatu kutubin",
+          "audioText": "خَمْسَةُ كُتُبٍ",
+          "meaning": {
+            "en": "five books",
+            "ur": "پانچ کتابیں",
+            "id": "lima buku",
+            "tr": "beş kitap",
+            "fr": "cinq livres"
+          },
+          "audio": {
+            "path": "audio/routine/routine-01-five-books.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-02-six-students",
+          "type": "phrase",
+          "arabic": "سِتَّةُ طُلَّابٍ",
+          "transliteration": "sittatu ṭullābin",
+          "audioText": "سِتَّةُ طُلَّابٍ",
+          "meaning": {
+            "en": "six students",
+            "ur": "چھ طالب علم",
+            "id": "enam siswa",
+            "tr": "altı öğrenci",
+            "fr": "six étudiants"
+          },
+          "audio": {
+            "path": "audio/routine/routine-02-six-students.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-02-seven-days",
+          "type": "phrase",
+          "arabic": "سَبْعَةُ أَيَّامٍ",
+          "transliteration": "sabʿatu ayyāmin",
+          "audioText": "سَبْعَةُ أَيَّامٍ",
+          "meaning": {
+            "en": "seven days",
+            "ur": "سات دن",
+            "id": "tujuh hari",
+            "tr": "yedi gün",
+            "fr": "sept jours"
+          },
+          "audio": {
+            "path": "audio/routine/routine-02-seven-days.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-02-ten-riyals",
+          "type": "phrase",
+          "arabic": "عَشَرَةُ رِيَالَاتٍ",
+          "transliteration": "ʿasharatu riyālātin",
+          "audioText": "عَشَرَةُ رِيَالَاتٍ",
+          "meaning": {
+            "en": "ten riyals",
+            "ur": "دس ریال",
+            "id": "sepuluh riyal",
+            "tr": "on riyal",
+            "fr": "dix riyals"
+          },
+          "audio": {
+            "path": "audio/routine/routine-02-ten-riyals.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "routine-03",
+      "order": 3,
+      "title": {
+        "en": "Days of the week",
+        "ur": "ہفتے کے دن",
+        "id": "Hari dalam seminggu",
+        "tr": "Haftanın günleri",
+        "fr": "Jours de la semaine"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Days of the week.",
+        "ur": "ہفتے کے دنوں کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang Hari-hari dalam seminggu.",
+        "tr": "Haftanın Günleri ile ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les jours de la semaine."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "routine-03-review-1",
+          "type": "phrase",
+          "arabic": "كِتَابَانِ",
+          "transliteration": "kitābāni",
+          "audioText": "كِتَابَانِ",
+          "meaning": {
+            "en": "two books",
+            "ur": "دو کتابیں",
+            "id": "dua buku",
+            "tr": "iki kitap",
+            "fr": "deux livres"
+          },
+          "audio": {
+            "path": "audio/routine/routine-01-two-books.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-03-review-2",
+          "type": "phrase",
+          "arabic": "خَمْسَةُ كُتُبٍ",
+          "transliteration": "khamsatu kutubin",
+          "audioText": "خَمْسَةُ كُتُبٍ",
+          "meaning": {
+            "en": "five books",
+            "ur": "پانچ کتابیں",
+            "id": "lima buku",
+            "tr": "beş kitap",
+            "fr": "cinq livres"
+          },
+          "audio": {
+            "path": "audio/routine/routine-01-five-books.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-03-review-3",
+          "type": "phrase",
+          "arabic": "سِتَّةُ طُلَّابٍ",
+          "transliteration": "sittatu ṭullābin",
+          "audioText": "سِتَّةُ طُلَّابٍ",
+          "meaning": {
+            "en": "six students",
+            "ur": "چھ طالب علم",
+            "id": "enam siswa",
+            "tr": "altı öğrenci",
+            "fr": "six étudiants"
+          },
+          "audio": {
+            "path": "audio/routine/routine-02-six-students.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-03-review-4",
+          "type": "phrase",
+          "arabic": "سَبْعَةُ أَيَّامٍ",
+          "transliteration": "sabʿatu ayyāmin",
+          "audioText": "سَبْعَةُ أَيَّامٍ",
+          "meaning": {
+            "en": "seven days",
+            "ur": "سات دن",
+            "id": "tujuh hari",
+            "tr": "yedi gün",
+            "fr": "sept jours"
+          },
+          "audio": {
+            "path": "audio/routine/routine-02-seven-days.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-03-review-5",
+          "type": "phrase",
+          "arabic": "عَشَرَةُ رِيَالَاتٍ",
+          "transliteration": "ʿasharatu riyālātin",
+          "audioText": "عَشَرَةُ رِيَالَاتٍ",
+          "meaning": {
+            "en": "ten riyals",
+            "ur": "دس ریال",
+            "id": "sepuluh riyal",
+            "tr": "on riyal",
+            "fr": "dix riyals"
+          },
+          "audio": {
+            "path": "audio/routine/routine-02-ten-riyals.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-03-today-monday",
+          "type": "sentence",
+          "arabic": "الْيَوْمُ يَوْمُ الِاثْنَيْنِ",
+          "transliteration": "al-yawmu yawmu l-ithnayni",
+          "audioText": "الْيَوْمُ يَوْمُ الِاثْنَيْنِ",
+          "meaning": {
+            "en": "Today is Monday.",
+            "ur": "آج پیر ہے۔",
+            "id": "Hari ini Senin.",
+            "tr": "Bugün Pazartesi.",
+            "fr": "C'est lundi aujourd'hui."
+          },
+          "audio": {
+            "path": "audio/routine/routine-03-today-monday.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-03-tomorrow-tuesday",
+          "type": "sentence",
+          "arabic": "غَدًا يَوْمُ الثُّلَاثَاءِ",
+          "transliteration": "ghadan yawmu th-thulāthāʾi",
+          "audioText": "غَدًا يَوْمُ الثُّلَاثَاءِ",
+          "meaning": {
+            "en": "Tomorrow is Tuesday.",
+            "ur": "کل منگل ہے۔",
+            "id": "Besok adalah hari Selasa.",
+            "tr": "Yarın Salı.",
+            "fr": "Demain, c'est mardi."
+          },
+          "audio": {
+            "path": "audio/routine/routine-03-tomorrow-tuesday.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-03-week-seven-days",
+          "type": "sentence",
+          "arabic": "فِي الْأُسْبُوعِ سَبْعَةُ أَيَّامٍ",
+          "transliteration": "fī l-usbūʿi sabʿatu ayyāmin",
+          "audioText": "فِي الْأُسْبُوعِ سَبْعَةُ أَيَّامٍ",
+          "meaning": {
+            "en": "There are seven days in a week.",
+            "ur": "ہفتے میں سات دن ہوتے ہیں۔",
+            "id": "Ada tujuh hari dalam seminggu.",
+            "tr": "Bir haftada yedi gün vardır.",
+            "fr": "Il y a sept jours dans une semaine."
+          },
+          "audio": {
+            "path": "audio/routine/routine-03-week-seven-days.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "routine-04",
+      "order": 4,
+      "title": {
+        "en": "Asking the time",
+        "ur": "وقت پوچھنا",
+        "id": "Menanyakan waktu",
+        "tr": "Zamanı sormak",
+        "fr": "Demander l'heure"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Asking the time.",
+        "ur": "وقت پوچھنے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Menanyakan waktu.",
+        "tr": "Saati sormayla ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Entraînez-vous à utiliser des mots arabes utiles et des phrases courtes pour demander l'heure."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "routine-04-review-1",
+          "type": "phrase",
+          "arabic": "سَبْعَةُ أَيَّامٍ",
+          "transliteration": "sabʿatu ayyāmin",
+          "audioText": "سَبْعَةُ أَيَّامٍ",
+          "meaning": {
+            "en": "seven days",
+            "ur": "سات دن",
+            "id": "tujuh hari",
+            "tr": "yedi gün",
+            "fr": "sept jours"
+          },
+          "audio": {
+            "path": "audio/routine/routine-02-seven-days.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-04-review-2",
+          "type": "phrase",
+          "arabic": "عَشَرَةُ رِيَالَاتٍ",
+          "transliteration": "ʿasharatu riyālātin",
+          "audioText": "عَشَرَةُ رِيَالَاتٍ",
+          "meaning": {
+            "en": "ten riyals",
+            "ur": "دس ریال",
+            "id": "sepuluh riyal",
+            "tr": "on riyal",
+            "fr": "dix riyals"
+          },
+          "audio": {
+            "path": "audio/routine/routine-02-ten-riyals.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-04-review-3",
+          "type": "sentence",
+          "arabic": "الْيَوْمُ يَوْمُ الِاثْنَيْنِ",
+          "transliteration": "al-yawmu yawmu l-ithnayni",
+          "audioText": "الْيَوْمُ يَوْمُ الِاثْنَيْنِ",
+          "meaning": {
+            "en": "Today is Monday.",
+            "ur": "آج پیر ہے۔",
+            "id": "Hari ini Senin.",
+            "tr": "Bugün Pazartesi.",
+            "fr": "C'est lundi aujourd'hui."
+          },
+          "audio": {
+            "path": "audio/routine/routine-03-today-monday.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-04-review-4",
+          "type": "sentence",
+          "arabic": "غَدًا يَوْمُ الثُّلَاثَاءِ",
+          "transliteration": "ghadan yawmu th-thulāthāʾi",
+          "audioText": "غَدًا يَوْمُ الثُّلَاثَاءِ",
+          "meaning": {
+            "en": "Tomorrow is Tuesday.",
+            "ur": "کل منگل ہے۔",
+            "id": "Besok adalah hari Selasa.",
+            "tr": "Yarın Salı.",
+            "fr": "Demain, c'est mardi."
+          },
+          "audio": {
+            "path": "audio/routine/routine-03-tomorrow-tuesday.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-04-review-5",
+          "type": "sentence",
+          "arabic": "فِي الْأُسْبُوعِ سَبْعَةُ أَيَّامٍ",
+          "transliteration": "fī l-usbūʿi sabʿatu ayyāmin",
+          "audioText": "فِي الْأُسْبُوعِ سَبْعَةُ أَيَّامٍ",
+          "meaning": {
+            "en": "There are seven days in a week.",
+            "ur": "ہفتے میں سات دن ہوتے ہیں۔",
+            "id": "Ada tujuh hari dalam seminggu.",
+            "tr": "Bir haftada yedi gün vardır.",
+            "fr": "Il y a sept jours dans une semaine."
+          },
+          "audio": {
+            "path": "audio/routine/routine-03-week-seven-days.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-04-what-time-is-it",
+          "type": "question",
+          "arabic": "كَمِ السَّاعَةُ؟",
+          "transliteration": "kami s-sāʿatu?",
+          "audioText": "كَمِ السَّاعَةُ؟",
+          "meaning": {
+            "en": "What time is it?",
+            "ur": "کیا وقت ہوا ہے؟",
+            "id": "Jam berapa sekarang?",
+            "tr": "Saat kaç?",
+            "fr": "Quelle heure est-il?"
+          },
+          "audio": {
+            "path": "audio/routine/routine-04-what-time-is-it.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-04-one-oclock",
+          "type": "sentence",
+          "arabic": "السَّاعَةُ الْوَاحِدَةُ",
+          "transliteration": "as-sāʿatu l-wāḥidatu",
+          "audioText": "السَّاعَةُ الْوَاحِدَةُ",
+          "meaning": {
+            "en": "It is one o'clock.",
+            "ur": "ایک بج رہا ہے۔",
+            "id": "Sekarang sudah jam satu.",
+            "tr": "Saat bir.",
+            "fr": "Il est une heure."
+          },
+          "audio": {
+            "path": "audio/routine/routine-04-one-oclock.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-04-three-oclock",
+          "type": "sentence",
+          "arabic": "السَّاعَةُ الثَّالِثَةُ",
+          "transliteration": "as-sāʿatu th-thālithatu",
+          "audioText": "السَّاعَةُ الثَّالِثَةُ",
+          "meaning": {
+            "en": "It is three o'clock.",
+            "ur": "تین بج رہے ہیں۔",
+            "id": "Sekarang jam tiga.",
+            "tr": "Saat üç.",
+            "fr": "Il est trois heures."
+          },
+          "audio": {
+            "path": "audio/routine/routine-04-three-oclock.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "routine-05",
+      "order": 5,
+      "title": {
+        "en": "Morning and evening",
+        "ur": "صبح و شام",
+        "id": "Pagi dan sore hari",
+        "tr": "Sabah ve akşam",
+        "fr": "Matin et soir"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Morning and evening.",
+        "ur": "صبح اور شام کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang Pagi dan sore.",
+        "tr": "Sabah ve akşam ile ilgili faydalı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur le matin et le soir."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "routine-05-review-1",
+          "type": "sentence",
+          "arabic": "غَدًا يَوْمُ الثُّلَاثَاءِ",
+          "transliteration": "ghadan yawmu th-thulāthāʾi",
+          "audioText": "غَدًا يَوْمُ الثُّلَاثَاءِ",
+          "meaning": {
+            "en": "Tomorrow is Tuesday.",
+            "ur": "کل منگل ہے۔",
+            "id": "Besok adalah hari Selasa.",
+            "tr": "Yarın Salı.",
+            "fr": "Demain, c'est mardi."
+          },
+          "audio": {
+            "path": "audio/routine/routine-03-tomorrow-tuesday.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-05-review-2",
+          "type": "sentence",
+          "arabic": "فِي الْأُسْبُوعِ سَبْعَةُ أَيَّامٍ",
+          "transliteration": "fī l-usbūʿi sabʿatu ayyāmin",
+          "audioText": "فِي الْأُسْبُوعِ سَبْعَةُ أَيَّامٍ",
+          "meaning": {
+            "en": "There are seven days in a week.",
+            "ur": "ہفتے میں سات دن ہوتے ہیں۔",
+            "id": "Ada tujuh hari dalam seminggu.",
+            "tr": "Bir haftada yedi gün vardır.",
+            "fr": "Il y a sept jours dans une semaine."
+          },
+          "audio": {
+            "path": "audio/routine/routine-03-week-seven-days.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-05-review-3",
+          "type": "question",
+          "arabic": "كَمِ السَّاعَةُ؟",
+          "transliteration": "kami s-sāʿatu?",
+          "audioText": "كَمِ السَّاعَةُ؟",
+          "meaning": {
+            "en": "What time is it?",
+            "ur": "کیا وقت ہوا ہے؟",
+            "id": "Jam berapa sekarang?",
+            "tr": "Saat kaç?",
+            "fr": "Quelle heure est-il?"
+          },
+          "audio": {
+            "path": "audio/routine/routine-04-what-time-is-it.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-05-review-4",
+          "type": "sentence",
+          "arabic": "السَّاعَةُ الْوَاحِدَةُ",
+          "transliteration": "as-sāʿatu l-wāḥidatu",
+          "audioText": "السَّاعَةُ الْوَاحِدَةُ",
+          "meaning": {
+            "en": "It is one o'clock.",
+            "ur": "ایک بج رہا ہے۔",
+            "id": "Sekarang sudah jam satu.",
+            "tr": "Saat bir.",
+            "fr": "Il est une heure."
+          },
+          "audio": {
+            "path": "audio/routine/routine-04-one-oclock.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-05-review-5",
+          "type": "sentence",
+          "arabic": "السَّاعَةُ الثَّالِثَةُ",
+          "transliteration": "as-sāʿatu th-thālithatu",
+          "audioText": "السَّاعَةُ الثَّالِثَةُ",
+          "meaning": {
+            "en": "It is three o'clock.",
+            "ur": "تین بج رہے ہیں۔",
+            "id": "Sekarang jam tiga.",
+            "tr": "Saat üç.",
+            "fr": "Il est trois heures."
+          },
+          "audio": {
+            "path": "audio/routine/routine-04-three-oclock.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-05-in-morning",
+          "type": "phrase",
+          "arabic": "فِي الصَّبَاحِ",
+          "transliteration": "fī ṣ-ṣabāḥi",
+          "audioText": "فِي الصَّبَاحِ",
+          "meaning": {
+            "en": "in the morning",
+            "ur": "صبح میں",
+            "id": "di pagi hari",
+            "tr": "sabah",
+            "fr": "le matin"
+          },
+          "audio": {
+            "path": "audio/routine/routine-05-in-morning.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-05-in-evening",
+          "type": "phrase",
+          "arabic": "فِي الْمَسَاءِ",
+          "transliteration": "fī l-masāʾi",
+          "audioText": "فِي الْمَسَاءِ",
+          "meaning": {
+            "en": "in the evening",
+            "ur": "شام میں",
+            "id": "di malam hari",
+            "tr": "akşam",
+            "fr": "le soir"
+          },
+          "audio": {
+            "path": "audio/routine/routine-05-in-evening.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-05-i-study-morning",
+          "type": "sentence",
+          "arabic": "أَدْرُسُ فِي الصَّبَاحِ",
+          "transliteration": "adrusu fī ṣ-ṣabāḥi",
+          "audioText": "أَدْرُسُ فِي الصَّبَاحِ",
+          "meaning": {
+            "en": "I study in the morning.",
+            "ur": "میں صبح پڑھتا ہوں۔",
+            "id": "Saya belajar di pagi hari.",
+            "tr": "Sabah ders çalışıyorum.",
+            "fr": "J'étudie le matin."
+          },
+          "audio": {
+            "path": "audio/routine/routine-05-i-study-morning.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "routine-06",
+      "order": 6,
+      "title": {
+        "en": "Daily schedule",
+        "ur": "روزانہ کا شیڈول",
+        "id": "Jadwal harian",
+        "tr": "Günlük program",
+        "fr": "Horaire quotidien"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Daily schedule.",
+        "ur": "روزانہ کے شیڈول کے بارے میں مفید عربی الفاظ اور مختصر فقروں کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang jadwal harian.",
+        "tr": "Günlük programla ilgili yararlı Arapça kelimeler ve kısa ifadeler uygulayın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur l'horaire quotidien."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "routine-06-review-1",
+          "type": "sentence",
+          "arabic": "السَّاعَةُ الْوَاحِدَةُ",
+          "transliteration": "as-sāʿatu l-wāḥidatu",
+          "audioText": "السَّاعَةُ الْوَاحِدَةُ",
+          "meaning": {
+            "en": "It is one o'clock.",
+            "ur": "ایک بج رہا ہے۔",
+            "id": "Sekarang sudah jam satu.",
+            "tr": "Saat bir.",
+            "fr": "Il est une heure."
+          },
+          "audio": {
+            "path": "audio/routine/routine-04-one-oclock.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-06-review-2",
+          "type": "sentence",
+          "arabic": "السَّاعَةُ الثَّالِثَةُ",
+          "transliteration": "as-sāʿatu th-thālithatu",
+          "audioText": "السَّاعَةُ الثَّالِثَةُ",
+          "meaning": {
+            "en": "It is three o'clock.",
+            "ur": "تین بج رہے ہیں۔",
+            "id": "Sekarang jam tiga.",
+            "tr": "Saat üç.",
+            "fr": "Il est trois heures."
+          },
+          "audio": {
+            "path": "audio/routine/routine-04-three-oclock.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-06-review-3",
+          "type": "phrase",
+          "arabic": "فِي الصَّبَاحِ",
+          "transliteration": "fī ṣ-ṣabāḥi",
+          "audioText": "فِي الصَّبَاحِ",
+          "meaning": {
+            "en": "in the morning",
+            "ur": "صبح میں",
+            "id": "di pagi hari",
+            "tr": "sabah",
+            "fr": "le matin"
+          },
+          "audio": {
+            "path": "audio/routine/routine-05-in-morning.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-06-review-4",
+          "type": "phrase",
+          "arabic": "فِي الْمَسَاءِ",
+          "transliteration": "fī l-masāʾi",
+          "audioText": "فِي الْمَسَاءِ",
+          "meaning": {
+            "en": "in the evening",
+            "ur": "شام میں",
+            "id": "di malam hari",
+            "tr": "akşam",
+            "fr": "le soir"
+          },
+          "audio": {
+            "path": "audio/routine/routine-05-in-evening.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-06-review-5",
+          "type": "sentence",
+          "arabic": "أَدْرُسُ فِي الصَّبَاحِ",
+          "transliteration": "adrusu fī ṣ-ṣabāḥi",
+          "audioText": "أَدْرُسُ فِي الصَّبَاحِ",
+          "meaning": {
+            "en": "I study in the morning.",
+            "ur": "میں صبح پڑھتا ہوں۔",
+            "id": "Saya belajar di pagi hari.",
+            "tr": "Sabah ders çalışıyorum.",
+            "fr": "J'étudie le matin."
+          },
+          "audio": {
+            "path": "audio/routine/routine-05-i-study-morning.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-06-i-wake-at-six",
+          "type": "sentence",
+          "arabic": "أَسْتَيْقِظُ فِي السَّاعَةِ السَّادِسَةِ",
+          "transliteration": "astayqiẓu fī s-sāʿati s-sādisati",
+          "audioText": "أَسْتَيْقِظُ فِي السَّاعَةِ السَّادِسَةِ",
+          "meaning": {
+            "en": "I wake up at six o'clock.",
+            "ur": "میں چھ بجے اٹھتا ہوں۔",
+            "id": "Saya bangun jam enam.",
+            "tr": "Saat altıda uyanıyorum.",
+            "fr": "Je me réveille à six heures."
+          },
+          "audio": {
+            "path": "audio/routine/routine-06-i-wake-at-six.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-06-class-at-eight",
+          "type": "sentence",
+          "arabic": "الدَّرْسُ فِي السَّاعَةِ الثَّامِنَةِ",
+          "transliteration": "ad-darsu fī s-sāʿati th-thāminati",
+          "audioText": "الدَّرْسُ فِي السَّاعَةِ الثَّامِنَةِ",
+          "meaning": {
+            "en": "The lesson is at eight o'clock.",
+            "ur": "آٹھ بجے سبق ہے۔",
+            "id": "Pelajarannya jam delapan.",
+            "tr": "Ders saat sekizde.",
+            "fr": "Le cours est à huit heures."
+          },
+          "audio": {
+            "path": "audio/routine/routine-06-class-at-eight.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-06-sleep-at-ten",
+          "type": "sentence",
+          "arabic": "أَنَامُ فِي السَّاعَةِ الْعَاشِرَةِ",
+          "transliteration": "anāmu fī s-sāʿati l-ʿāshirati",
+          "audioText": "أَنَامُ فِي السَّاعَةِ الْعَاشِرَةِ",
+          "meaning": {
+            "en": "I go to sleep at ten o'clock.",
+            "ur": "میں دس بجے سو جاتا ہوں۔",
+            "id": "Saya pergi tidur pada jam sepuluh.",
+            "tr": "Saat onda yatarım.",
+            "fr": "Je me couche à dix heures."
+          },
+          "audio": {
+            "path": "audio/routine/routine-06-sleep-at-ten.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "routine-07",
+      "order": 7,
+      "title": {
+        "en": "Before and after",
+        "ur": "پہلے اور بعد میں",
+        "id": "Sebelum dan sesudah",
+        "tr": "Öncesi ve sonrası",
+        "fr": "Avant et après"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Before and after.",
+        "ur": "پہلے اور بعد کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang Sebelum dan sesudah.",
+        "tr": "Öncesi ve sonrası ile ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur Avant et après."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "routine-07-review-1",
+          "type": "phrase",
+          "arabic": "فِي الْمَسَاءِ",
+          "transliteration": "fī l-masāʾi",
+          "audioText": "فِي الْمَسَاءِ",
+          "meaning": {
+            "en": "in the evening",
+            "ur": "شام میں",
+            "id": "di malam hari",
+            "tr": "akşam",
+            "fr": "le soir"
+          },
+          "audio": {
+            "path": "audio/routine/routine-05-in-evening.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-07-review-2",
+          "type": "sentence",
+          "arabic": "أَدْرُسُ فِي الصَّبَاحِ",
+          "transliteration": "adrusu fī ṣ-ṣabāḥi",
+          "audioText": "أَدْرُسُ فِي الصَّبَاحِ",
+          "meaning": {
+            "en": "I study in the morning.",
+            "ur": "میں صبح پڑھتا ہوں۔",
+            "id": "Saya belajar di pagi hari.",
+            "tr": "Sabah ders çalışıyorum.",
+            "fr": "J'étudie le matin."
+          },
+          "audio": {
+            "path": "audio/routine/routine-05-i-study-morning.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-07-review-3",
+          "type": "sentence",
+          "arabic": "أَسْتَيْقِظُ فِي السَّاعَةِ السَّادِسَةِ",
+          "transliteration": "astayqiẓu fī s-sāʿati s-sādisati",
+          "audioText": "أَسْتَيْقِظُ فِي السَّاعَةِ السَّادِسَةِ",
+          "meaning": {
+            "en": "I wake up at six o'clock.",
+            "ur": "میں چھ بجے اٹھتا ہوں۔",
+            "id": "Saya bangun jam enam.",
+            "tr": "Saat altıda uyanıyorum.",
+            "fr": "Je me réveille à six heures."
+          },
+          "audio": {
+            "path": "audio/routine/routine-06-i-wake-at-six.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-07-review-4",
+          "type": "sentence",
+          "arabic": "الدَّرْسُ فِي السَّاعَةِ الثَّامِنَةِ",
+          "transliteration": "ad-darsu fī s-sāʿati th-thāminati",
+          "audioText": "الدَّرْسُ فِي السَّاعَةِ الثَّامِنَةِ",
+          "meaning": {
+            "en": "The lesson is at eight o'clock.",
+            "ur": "آٹھ بجے سبق ہے۔",
+            "id": "Pelajarannya jam delapan.",
+            "tr": "Ders saat sekizde.",
+            "fr": "Le cours est à huit heures."
+          },
+          "audio": {
+            "path": "audio/routine/routine-06-class-at-eight.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-07-review-5",
+          "type": "sentence",
+          "arabic": "أَنَامُ فِي السَّاعَةِ الْعَاشِرَةِ",
+          "transliteration": "anāmu fī s-sāʿati l-ʿāshirati",
+          "audioText": "أَنَامُ فِي السَّاعَةِ الْعَاشِرَةِ",
+          "meaning": {
+            "en": "I go to sleep at ten o'clock.",
+            "ur": "میں دس بجے سو جاتا ہوں۔",
+            "id": "Saya pergi tidur pada jam sepuluh.",
+            "tr": "Saat onda yatarım.",
+            "fr": "Je me couche à dix heures."
+          },
+          "audio": {
+            "path": "audio/routine/routine-06-sleep-at-ten.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-07-before-class",
+          "type": "phrase",
+          "arabic": "قَبْلَ الدَّرْسِ",
+          "transliteration": "qabla d-darsi",
+          "audioText": "قَبْلَ الدَّرْسِ",
+          "meaning": {
+            "en": "before the lesson",
+            "ur": "سبق سے پہلے",
+            "id": "sebelum pelajaran",
+            "tr": "dersten önce",
+            "fr": "avant la leçon"
+          },
+          "audio": {
+            "path": "audio/routine/routine-07-before-class.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-07-after-work",
+          "type": "phrase",
+          "arabic": "بَعْدَ الْعَمَلِ",
+          "transliteration": "baʿda l-ʿamali",
+          "audioText": "بَعْدَ الْعَمَلِ",
+          "meaning": {
+            "en": "after work",
+            "ur": "کام کے بعد",
+            "id": "setelah bekerja",
+            "tr": "işten sonra",
+            "fr": "après le travail"
+          },
+          "audio": {
+            "path": "audio/routine/routine-07-after-work.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-07-after-prayer",
+          "type": "sentence",
+          "arabic": "أَقْرَأُ بَعْدَ الصَّلَاةِ",
+          "transliteration": "aqraʾu baʿda ṣ-ṣalāti",
+          "audioText": "أَقْرَأُ بَعْدَ الصَّلَاةِ",
+          "meaning": {
+            "en": "I read after the prayer.",
+            "ur": "میں نے نماز کے بعد پڑھا۔",
+            "id": "Saya membaca setelah sholat.",
+            "tr": "Namazdan sonra okudum.",
+            "fr": "J'ai lu après la prière."
+          },
+          "audio": {
+            "path": "audio/routine/routine-07-after-prayer.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "routine-08",
+      "order": 8,
+      "title": {
+        "en": "How often?",
+        "ur": "کتنی بار؟",
+        "id": "Seberapa sering?",
+        "tr": "Ne sıklıkta?",
+        "fr": "À quelle fréquence?"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about How often?.",
+        "ur": "کتنی بار؟ کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang Seberapa sering?.",
+        "tr": "Ne sıklıkla? ile ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Entraînez-vous à utiliser des mots arabes utiles et des phrases courtes sur À quelle fréquence ?."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "routine-08-review-1",
+          "type": "sentence",
+          "arabic": "الدَّرْسُ فِي السَّاعَةِ الثَّامِنَةِ",
+          "transliteration": "ad-darsu fī s-sāʿati th-thāminati",
+          "audioText": "الدَّرْسُ فِي السَّاعَةِ الثَّامِنَةِ",
+          "meaning": {
+            "en": "The lesson is at eight o'clock.",
+            "ur": "آٹھ بجے سبق ہے۔",
+            "id": "Pelajarannya jam delapan.",
+            "tr": "Ders saat sekizde.",
+            "fr": "Le cours est à huit heures."
+          },
+          "audio": {
+            "path": "audio/routine/routine-06-class-at-eight.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-08-review-2",
+          "type": "sentence",
+          "arabic": "أَنَامُ فِي السَّاعَةِ الْعَاشِرَةِ",
+          "transliteration": "anāmu fī s-sāʿati l-ʿāshirati",
+          "audioText": "أَنَامُ فِي السَّاعَةِ الْعَاشِرَةِ",
+          "meaning": {
+            "en": "I go to sleep at ten o'clock.",
+            "ur": "میں دس بجے سو جاتا ہوں۔",
+            "id": "Saya pergi tidur pada jam sepuluh.",
+            "tr": "Saat onda yatarım.",
+            "fr": "Je me couche à dix heures."
+          },
+          "audio": {
+            "path": "audio/routine/routine-06-sleep-at-ten.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-08-review-3",
+          "type": "phrase",
+          "arabic": "قَبْلَ الدَّرْسِ",
+          "transliteration": "qabla d-darsi",
+          "audioText": "قَبْلَ الدَّرْسِ",
+          "meaning": {
+            "en": "before the lesson",
+            "ur": "سبق سے پہلے",
+            "id": "sebelum pelajaran",
+            "tr": "dersten önce",
+            "fr": "avant la leçon"
+          },
+          "audio": {
+            "path": "audio/routine/routine-07-before-class.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-08-review-4",
+          "type": "phrase",
+          "arabic": "بَعْدَ الْعَمَلِ",
+          "transliteration": "baʿda l-ʿamali",
+          "audioText": "بَعْدَ الْعَمَلِ",
+          "meaning": {
+            "en": "after work",
+            "ur": "کام کے بعد",
+            "id": "setelah bekerja",
+            "tr": "işten sonra",
+            "fr": "après le travail"
+          },
+          "audio": {
+            "path": "audio/routine/routine-07-after-work.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-08-review-5",
+          "type": "sentence",
+          "arabic": "أَقْرَأُ بَعْدَ الصَّلَاةِ",
+          "transliteration": "aqraʾu baʿda ṣ-ṣalāti",
+          "audioText": "أَقْرَأُ بَعْدَ الصَّلَاةِ",
+          "meaning": {
+            "en": "I read after the prayer.",
+            "ur": "میں نے نماز کے بعد پڑھا۔",
+            "id": "Saya membaca setelah sholat.",
+            "tr": "Namazdan sonra okudum.",
+            "fr": "J'ai lu après la prière."
+          },
+          "audio": {
+            "path": "audio/routine/routine-07-after-prayer.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-08-every-day",
+          "type": "phrase",
+          "arabic": "كُلَّ يَوْمٍ",
+          "transliteration": "kulla yawmin",
+          "audioText": "كُلَّ يَوْمٍ",
+          "meaning": {
+            "en": "every day",
+            "ur": "ہر روز",
+            "id": "setiap hari",
+            "tr": "her gün",
+            "fr": "tous les jours"
+          },
+          "audio": {
+            "path": "audio/routine/routine-08-every-day.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-08-once-a-week",
+          "type": "phrase",
+          "arabic": "مَرَّةً وَاحِدَةً فِي الْأُسْبُوعِ",
+          "transliteration": "marratan wāḥidatan fī l-usbūʿi",
+          "audioText": "مَرَّةً وَاحِدَةً فِي الْأُسْبُوعِ",
+          "meaning": {
+            "en": "once a week",
+            "ur": "ہفتے میں ایک بار",
+            "id": "seminggu sekali",
+            "tr": "haftada bir kez",
+            "fr": "une fois par semaine"
+          },
+          "audio": {
+            "path": "audio/routine/routine-08-once-a-week.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-08-i-practice-daily",
+          "type": "sentence",
+          "arabic": "أَتَدَرَّبُ عَلَى الْعَرَبِيَّةِ كُلَّ يَوْمٍ",
+          "transliteration": "atadarrabu ʿalā l-ʿarabiyyati kulla yawmin",
+          "audioText": "أَتَدَرَّبُ عَلَى الْعَرَبِيَّةِ كُلَّ يَوْمٍ",
+          "meaning": {
+            "en": "I practice Arabic every day.",
+            "ur": "میں ہر روز عربی کی مشق کرتا ہوں۔",
+            "id": "Saya berlatih bahasa Arab setiap hari.",
+            "tr": "Her gün Arapça çalışıyorum.",
+            "fr": "Je pratique l'arabe tous les jours."
+          },
+          "audio": {
+            "path": "audio/routine/routine-08-i-practice-daily.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "routine-09",
+      "order": 9,
+      "title": {
+        "en": "Making an appointment",
+        "ur": "ملاقات کا وقت بنانا",
+        "id": "Membuat janji",
+        "tr": "Randevu alma",
+        "fr": "Prendre rendez-vous"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Making an appointment.",
+        "ur": "ملاقات کے بارے میں مفید عربی الفاظ اور مختصر فقروں کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Membuat janji.",
+        "tr": "Randevu almayla ilgili yararlı Arapça kelimelerin ve kısa ifadelerin alıştırmasını yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur la prise de rendez-vous."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "routine-09-review-1",
+          "type": "phrase",
+          "arabic": "بَعْدَ الْعَمَلِ",
+          "transliteration": "baʿda l-ʿamali",
+          "audioText": "بَعْدَ الْعَمَلِ",
+          "meaning": {
+            "en": "after work",
+            "ur": "کام کے بعد",
+            "id": "setelah bekerja",
+            "tr": "işten sonra",
+            "fr": "après le travail"
+          },
+          "audio": {
+            "path": "audio/routine/routine-07-after-work.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-09-review-2",
+          "type": "sentence",
+          "arabic": "أَقْرَأُ بَعْدَ الصَّلَاةِ",
+          "transliteration": "aqraʾu baʿda ṣ-ṣalāti",
+          "audioText": "أَقْرَأُ بَعْدَ الصَّلَاةِ",
+          "meaning": {
+            "en": "I read after the prayer.",
+            "ur": "میں نے نماز کے بعد پڑھا۔",
+            "id": "Saya membaca setelah sholat.",
+            "tr": "Namazdan sonra okudum.",
+            "fr": "J'ai lu après la prière."
+          },
+          "audio": {
+            "path": "audio/routine/routine-07-after-prayer.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-09-review-3",
+          "type": "phrase",
+          "arabic": "كُلَّ يَوْمٍ",
+          "transliteration": "kulla yawmin",
+          "audioText": "كُلَّ يَوْمٍ",
+          "meaning": {
+            "en": "every day",
+            "ur": "ہر روز",
+            "id": "setiap hari",
+            "tr": "her gün",
+            "fr": "tous les jours"
+          },
+          "audio": {
+            "path": "audio/routine/routine-08-every-day.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-09-review-4",
+          "type": "phrase",
+          "arabic": "مَرَّةً وَاحِدَةً فِي الْأُسْبُوعِ",
+          "transliteration": "marratan wāḥidatan fī l-usbūʿi",
+          "audioText": "مَرَّةً وَاحِدَةً فِي الْأُسْبُوعِ",
+          "meaning": {
+            "en": "once a week",
+            "ur": "ہفتے میں ایک بار",
+            "id": "seminggu sekali",
+            "tr": "haftada bir kez",
+            "fr": "une fois par semaine"
+          },
+          "audio": {
+            "path": "audio/routine/routine-08-once-a-week.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-09-review-5",
+          "type": "sentence",
+          "arabic": "أَتَدَرَّبُ عَلَى الْعَرَبِيَّةِ كُلَّ يَوْمٍ",
+          "transliteration": "atadarrabu ʿalā l-ʿarabiyyati kulla yawmin",
+          "audioText": "أَتَدَرَّبُ عَلَى الْعَرَبِيَّةِ كُلَّ يَوْمٍ",
+          "meaning": {
+            "en": "I practice Arabic every day.",
+            "ur": "میں ہر روز عربی کی مشق کرتا ہوں۔",
+            "id": "Saya berlatih bahasa Arab setiap hari.",
+            "tr": "Her gün Arapça çalışıyorum.",
+            "fr": "Je pratique l'arabe tous les jours."
+          },
+          "audio": {
+            "path": "audio/routine/routine-08-i-practice-daily.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-09-meet-tomorrow",
+          "type": "request",
+          "arabic": "هَلْ نَلْتَقِي غَدًا؟",
+          "transliteration": "hal naltaqī ghadan?",
+          "audioText": "هَلْ نَلْتَقِي غَدًا؟",
+          "meaning": {
+            "en": "Shall we meet tomorrow?",
+            "ur": "کیا ہم کل ملیں گے؟",
+            "id": "Bagaimana kalau kita bertemu besok?",
+            "tr": "Yarın buluşalım mı?",
+            "fr": "On se retrouve demain ?"
+          },
+          "audio": {
+            "path": "audio/routine/routine-09-meet-tomorrow.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-09-at-five",
+          "type": "phrase",
+          "arabic": "فِي السَّاعَةِ الْخَامِسَةِ",
+          "transliteration": "fī s-sāʿati l-khāmisati",
+          "audioText": "فِي السَّاعَةِ الْخَامِسَةِ",
+          "meaning": {
+            "en": "at five o'clock",
+            "ur": "پانچ بجے",
+            "id": "pada jam lima",
+            "tr": "saat beşte",
+            "fr": "à cinq heures"
+          },
+          "audio": {
+            "path": "audio/routine/routine-09-at-five.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-09-see-you-tomorrow",
+          "type": "phrase",
+          "arabic": "أَرَاكَ غَدًا",
+          "transliteration": "arāka ghadan",
+          "audioText": "أَرَاكَ غَدًا",
+          "meaning": {
+            "en": "See you tomorrow. (to a man)",
+            "ur": "کل ملتے ہیں۔ (ایک آدمی کو)",
+            "id": "Sampai jumpa besok. (kepada seorang pria)",
+            "tr": "Yarın görüşürüz. (bir erkeğe)",
+            "fr": "A demain. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/routine/routine-09-see-you-tomorrow.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "routine-10",
+      "order": 10,
+      "title": {
+        "en": "Reviewing time and routine",
+        "ur": "وقت اور روٹین کا جائزہ لینا",
+        "id": "Meninjau waktu dan rutinitas",
+        "tr": "Zamanın ve rutinin gözden geçirilmesi",
+        "fr": "Révision de l'heure et de la routine"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Reviewing time and routine.",
+        "ur": "وقت اور روٹین کا جائزہ لینے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Meninjau waktu dan rutinitas.",
+        "tr": "Gözden geçirme zamanı ve rutin ile ilgili faydalı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur le temps et la routine de révision."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "routine-10-review-1",
+          "type": "phrase",
+          "arabic": "مَرَّةً وَاحِدَةً فِي الْأُسْبُوعِ",
+          "transliteration": "marratan wāḥidatan fī l-usbūʿi",
+          "audioText": "مَرَّةً وَاحِدَةً فِي الْأُسْبُوعِ",
+          "meaning": {
+            "en": "once a week",
+            "ur": "ہفتے میں ایک بار",
+            "id": "seminggu sekali",
+            "tr": "haftada bir kez",
+            "fr": "une fois par semaine"
+          },
+          "audio": {
+            "path": "audio/routine/routine-08-once-a-week.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-10-review-2",
+          "type": "sentence",
+          "arabic": "أَتَدَرَّبُ عَلَى الْعَرَبِيَّةِ كُلَّ يَوْمٍ",
+          "transliteration": "atadarrabu ʿalā l-ʿarabiyyati kulla yawmin",
+          "audioText": "أَتَدَرَّبُ عَلَى الْعَرَبِيَّةِ كُلَّ يَوْمٍ",
+          "meaning": {
+            "en": "I practice Arabic every day.",
+            "ur": "میں ہر روز عربی کی مشق کرتا ہوں۔",
+            "id": "Saya berlatih bahasa Arab setiap hari.",
+            "tr": "Her gün Arapça çalışıyorum.",
+            "fr": "Je pratique l'arabe tous les jours."
+          },
+          "audio": {
+            "path": "audio/routine/routine-08-i-practice-daily.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-10-review-3",
+          "type": "request",
+          "arabic": "هَلْ نَلْتَقِي غَدًا؟",
+          "transliteration": "hal naltaqī ghadan?",
+          "audioText": "هَلْ نَلْتَقِي غَدًا؟",
+          "meaning": {
+            "en": "Shall we meet tomorrow?",
+            "ur": "کیا ہم کل ملیں گے؟",
+            "id": "Bagaimana kalau kita bertemu besok?",
+            "tr": "Yarın buluşalım mı?",
+            "fr": "On se retrouve demain ?"
+          },
+          "audio": {
+            "path": "audio/routine/routine-09-meet-tomorrow.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-10-review-4",
+          "type": "phrase",
+          "arabic": "فِي السَّاعَةِ الْخَامِسَةِ",
+          "transliteration": "fī s-sāʿati l-khāmisati",
+          "audioText": "فِي السَّاعَةِ الْخَامِسَةِ",
+          "meaning": {
+            "en": "at five o'clock",
+            "ur": "پانچ بجے",
+            "id": "pada jam lima",
+            "tr": "saat beşte",
+            "fr": "à cinq heures"
+          },
+          "audio": {
+            "path": "audio/routine/routine-09-at-five.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-10-review-5",
+          "type": "phrase",
+          "arabic": "أَرَاكَ غَدًا",
+          "transliteration": "arāka ghadan",
+          "audioText": "أَرَاكَ غَدًا",
+          "meaning": {
+            "en": "See you tomorrow. (to a man)",
+            "ur": "کل ملتے ہیں۔ (ایک آدمی کو)",
+            "id": "Sampai jumpa besok. (kepada seorang pria)",
+            "tr": "Yarın görüşürüz. (bir erkeğe)",
+            "fr": "A demain. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/routine/routine-09-see-you-tomorrow.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-10-breakfast-at-seven",
+          "type": "sentence",
+          "arabic": "أَتَنَاوَلُ الْفَطُورَ فِي السَّاعَةِ السَّابِعَةِ",
+          "transliteration": "atanāwalu l-faṭūra fī s-sāʿati s-sābiʿati",
+          "audioText": "أَتَنَاوَلُ الْفَطُورَ فِي السَّاعَةِ السَّابِعَةِ",
+          "meaning": {
+            "en": "I eat breakfast at seven o'clock.",
+            "ur": "میں سات بجے ناشتہ کرتا ہوں۔",
+            "id": "Saya sarapan pada jam tujuh.",
+            "tr": "Kahvaltıyı saat yedide yapıyorum.",
+            "fr": "Je prends le petit-déjeuner à sept heures."
+          },
+          "audio": {
+            "path": "audio/routine/routine-10-breakfast-at-seven.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-10-work-from-morning",
+          "type": "sentence",
+          "arabic": "أَعْمَلُ مِنَ الصَّبَاحِ إِلَى الظُّهْرِ",
+          "transliteration": "aʿmalu mina ṣ-ṣabāḥi ilā ẓ-ẓuhri",
+          "audioText": "أَعْمَلُ مِنَ الصَّبَاحِ إِلَى الظُّهْرِ",
+          "meaning": {
+            "en": "I work from morning until noon.",
+            "ur": "میں صبح سے دوپہر تک کام کرتا ہوں۔",
+            "id": "Saya bekerja dari pagi hingga siang hari.",
+            "tr": "Sabahtan öğlene kadar çalışıyorum.",
+            "fr": "Je travaille du matin jusqu'à midi."
+          },
+          "audio": {
+            "path": "audio/routine/routine-10-work-from-morning.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "routine-10-weekend-rest",
+          "type": "sentence",
+          "arabic": "أَسْتَرِيحُ يَوْمَ الْجُمُعَةِ",
+          "transliteration": "astarīḥu yawma l-jumuʿati",
+          "audioText": "أَسْتَرِيحُ يَوْمَ الْجُمُعَةِ",
+          "meaning": {
+            "en": "I rest on Friday.",
+            "ur": "میں جمعہ کو آرام کرتا ہوں۔",
+            "id": "Saya beristirahat pada hari Jumat.",
+            "tr": "Cuma günü dinleniyorum.",
+            "fr": "Je me repose vendredi."
+          },
+          "audio": {
+            "path": "audio/routine/routine-10-weekend-rest.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    }
+  ]
+}

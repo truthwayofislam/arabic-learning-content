@@ -1,0 +1,1965 @@
+{
+  "schemaVersion": 1,
+  "courseId": "arabic",
+  "levelId": "places",
+  "unitId": "places",
+  "translationLanguages": [
+    "en",
+    "ur",
+    "id",
+    "tr",
+    "fr"
+  ],
+  "lessons": [
+    {
+      "id": "places-01",
+      "order": 1,
+      "title": {
+        "en": "Rooms at home",
+        "ur": "گھر میں کمرے",
+        "id": "Kamar di rumah",
+        "tr": "Evdeki odalar",
+        "fr": "Chambres à la maison"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Rooms at home.",
+        "ur": "گھر پر کمروں کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Ruangan di rumah.",
+        "tr": "Evdeki Odalar hakkında yararlı Arapça kelimeler ve kısa ifadeler uygulayın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les pièces à la maison."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "places-01-review-1",
+          "type": "question",
+          "arabic": "أَيْنَ تَسْكُنُ؟",
+          "transliteration": "ayna taskunu?",
+          "audioText": "أَيْنَ تَسْكُنُ؟",
+          "meaning": {
+            "en": "Where do you live? (to a man)",
+            "ur": "آپ کہاں رہتے ہیں؟ (ایک آدمی کو)",
+            "id": "Dimana kamu tinggal? (kepada seorang pria)",
+            "tr": "Nerede yaşıyorsunuz? (bir erkeğe)",
+            "fr": "Où habites-tu ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-09-where-do-you-live.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-01-review-2",
+          "type": "sentence",
+          "arabic": "أَسْكُنُ فِي الْقَاهِرَةِ",
+          "transliteration": "askunu fī l-Qāhirati",
+          "audioText": "أَسْكُنُ فِي الْقَاهِرَةِ",
+          "meaning": {
+            "en": "I live in Cairo.",
+            "ur": "میں قاہرہ میں رہتا ہوں۔",
+            "id": "Saya tinggal di Kairo.",
+            "tr": "Kahire'de yaşıyorum.",
+            "fr": "J'habite au Caire."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-09-i-live-in-cairo.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-01-review-3",
+          "type": "sentence",
+          "arabic": "اِسْمِي فَاطِمَةُ، وَأَنَا مِنْ مِصْرَ",
+          "transliteration": "ismī Fāṭimatu, wa-anā min Miṣra",
+          "audioText": "اِسْمِي فَاطِمَةُ، وَأَنَا مِنْ مِصْرَ",
+          "meaning": {
+            "en": "My name is Fatima, and I am from Egypt.",
+            "ur": "میرا نام فاطمہ ہے اور میں مصر سے ہوں۔",
+            "id": "Nama saya Fatima, dan saya dari Mesir.",
+            "tr": "Adım Fatima ve Mısırlıyım.",
+            "fr": "Je m'appelle Fatima et je viens d'Égypte."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-10-conversation-name.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-01-review-4",
+          "type": "sentence",
+          "arabic": "أَنَا طَالِبَةٌ وَأَتَعَلَّمُ الْعَرَبِيَّةَ",
+          "transliteration": "anā ṭālibatun wa-ataʿallamu l-ʿarabiyyata",
+          "audioText": "أَنَا طَالِبَةٌ وَأَتَعَلَّمُ الْعَرَبِيَّةَ",
+          "meaning": {
+            "en": "I am a student, and I am learning Arabic.",
+            "ur": "میں ایک طالب علم ہوں، اور میں عربی سیکھ رہا ہوں۔",
+            "id": "Saya seorang pelajar, dan saya sedang belajar bahasa Arab.",
+            "tr": "Öğrenciyim ve Arapça öğreniyorum.",
+            "fr": "Je suis étudiant et j'apprends l'arabe."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-10-conversation-student.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-01-review-5",
+          "type": "sentence",
+          "arabic": "سُرِرْتُ بِلِقَائِكِ، شُكْرًا",
+          "transliteration": "surirtu biliqāʾiki, shukran",
+          "audioText": "سُرِرْتُ بِلِقَائِكِ، شُكْرًا",
+          "meaning": {
+            "en": "Nice to meet you; thank you. (to a woman)",
+            "ur": "آپ سے مل کر خوشی ہوئی؛ شکریہ (عورت کو)",
+            "id": "Senang berkenalan dengan Anda; Terima kasih. (kepada seorang wanita)",
+            "tr": "Tanıştığıma memnun oldum; Teşekkürler. (bir kadına)",
+            "fr": "Ravi de vous rencontrer; merci. (à une femme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-10-conversation-thanks.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-01-bedroom",
+          "type": "word",
+          "arabic": "غُرْفَةُ النَّوْمِ",
+          "transliteration": "ghurfatu n-nawmi",
+          "audioText": "غُرْفَةُ النَّوْمِ",
+          "meaning": {
+            "en": "bedroom",
+            "ur": "بیڈروم",
+            "id": "kamar tidur",
+            "tr": "yatak odası",
+            "fr": "chambre à coucher"
+          },
+          "audio": {
+            "path": "audio/places/places-01-bedroom.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-01-kitchen",
+          "type": "word",
+          "arabic": "الْمَطْبَخُ",
+          "transliteration": "al-maṭbakhu",
+          "audioText": "الْمَطْبَخُ",
+          "meaning": {
+            "en": "the kitchen",
+            "ur": "باورچی خانے",
+            "id": "dapur",
+            "tr": "mutfak",
+            "fr": "la cuisine"
+          },
+          "audio": {
+            "path": "audio/places/places-01-kitchen.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-01-living-room",
+          "type": "word",
+          "arabic": "غُرْفَةُ الْجُلُوسِ",
+          "transliteration": "ghurfatu l-julūsi",
+          "audioText": "غُرْفَةُ الْجُلُوسِ",
+          "meaning": {
+            "en": "living room",
+            "ur": "رہنے کا کمرہ",
+            "id": "ruang tamu",
+            "tr": "oturma odası",
+            "fr": "salon"
+          },
+          "audio": {
+            "path": "audio/places/places-01-living-room.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "places-02",
+      "order": 2,
+      "title": {
+        "en": "Things in the house",
+        "ur": "گھر کی چیزیں",
+        "id": "Hal-hal di rumah",
+        "tr": "Evdeki şeyler",
+        "fr": "Les choses dans la maison"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Things in the house.",
+        "ur": "گھر کی چیزوں کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Barang-barang di rumah.",
+        "tr": "Evdeki şeylerle ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les choses dans la maison."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "places-02-review-1",
+          "type": "sentence",
+          "arabic": "أَنَا طَالِبَةٌ وَأَتَعَلَّمُ الْعَرَبِيَّةَ",
+          "transliteration": "anā ṭālibatun wa-ataʿallamu l-ʿarabiyyata",
+          "audioText": "أَنَا طَالِبَةٌ وَأَتَعَلَّمُ الْعَرَبِيَّةَ",
+          "meaning": {
+            "en": "I am a student, and I am learning Arabic.",
+            "ur": "میں ایک طالب علم ہوں، اور میں عربی سیکھ رہا ہوں۔",
+            "id": "Saya seorang pelajar, dan saya sedang belajar bahasa Arab.",
+            "tr": "Öğrenciyim ve Arapça öğreniyorum.",
+            "fr": "Je suis étudiant et j'apprends l'arabe."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-10-conversation-student.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-02-review-2",
+          "type": "sentence",
+          "arabic": "سُرِرْتُ بِلِقَائِكِ، شُكْرًا",
+          "transliteration": "surirtu biliqāʾiki, shukran",
+          "audioText": "سُرِرْتُ بِلِقَائِكِ، شُكْرًا",
+          "meaning": {
+            "en": "Nice to meet you; thank you. (to a woman)",
+            "ur": "آپ سے مل کر خوشی ہوئی؛ شکریہ (عورت کو)",
+            "id": "Senang berkenalan dengan Anda; Terima kasih. (kepada seorang wanita)",
+            "tr": "Tanıştığıma memnun oldum; Teşekkürler. (bir kadına)",
+            "fr": "Ravi de vous rencontrer; merci. (à une femme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-10-conversation-thanks.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-02-review-3",
+          "type": "word",
+          "arabic": "غُرْفَةُ النَّوْمِ",
+          "transliteration": "ghurfatu n-nawmi",
+          "audioText": "غُرْفَةُ النَّوْمِ",
+          "meaning": {
+            "en": "bedroom",
+            "ur": "بیڈروم",
+            "id": "kamar tidur",
+            "tr": "yatak odası",
+            "fr": "chambre à coucher"
+          },
+          "audio": {
+            "path": "audio/places/places-01-bedroom.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-02-review-4",
+          "type": "word",
+          "arabic": "الْمَطْبَخُ",
+          "transliteration": "al-maṭbakhu",
+          "audioText": "الْمَطْبَخُ",
+          "meaning": {
+            "en": "the kitchen",
+            "ur": "باورچی خانے",
+            "id": "dapur",
+            "tr": "mutfak",
+            "fr": "la cuisine"
+          },
+          "audio": {
+            "path": "audio/places/places-01-kitchen.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-02-review-5",
+          "type": "word",
+          "arabic": "غُرْفَةُ الْجُلُوسِ",
+          "transliteration": "ghurfatu l-julūsi",
+          "audioText": "غُرْفَةُ الْجُلُوسِ",
+          "meaning": {
+            "en": "living room",
+            "ur": "رہنے کا کمرہ",
+            "id": "ruang tamu",
+            "tr": "oturma odası",
+            "fr": "salon"
+          },
+          "audio": {
+            "path": "audio/places/places-01-living-room.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-02-window",
+          "type": "word",
+          "arabic": "النَّافِذَةُ",
+          "transliteration": "an-nāfidhatu",
+          "audioText": "النَّافِذَةُ",
+          "meaning": {
+            "en": "the window",
+            "ur": "کھڑکی",
+            "id": "jendela",
+            "tr": "pencere",
+            "fr": "la fenêtre"
+          },
+          "audio": {
+            "path": "audio/places/places-02-window.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-02-chair",
+          "type": "word",
+          "arabic": "الْكُرْسِيُّ",
+          "transliteration": "al-kursiyyu",
+          "audioText": "الْكُرْسِيُّ",
+          "meaning": {
+            "en": "the chair",
+            "ur": "کرسی",
+            "id": "kursi",
+            "tr": "sandalye",
+            "fr": "la chaise"
+          },
+          "audio": {
+            "path": "audio/places/places-02-chair.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-02-table",
+          "type": "word",
+          "arabic": "الطَّاوِلَةُ",
+          "transliteration": "aṭ-ṭāwilatu",
+          "audioText": "الطَّاوِلَةُ",
+          "meaning": {
+            "en": "the table",
+            "ur": "میز",
+            "id": "meja",
+            "tr": "masa",
+            "fr": "le tableau"
+          },
+          "audio": {
+            "path": "audio/places/places-02-table.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "places-03",
+      "order": 3,
+      "title": {
+        "en": "Family members",
+        "ur": "اہل خانہ",
+        "id": "Anggota keluarga",
+        "tr": "Aile üyeleri",
+        "fr": "Membres de la famille"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Family members.",
+        "ur": "خاندان کے افراد کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang anggota Keluarga.",
+        "tr": "Aile üyeleri hakkında yararlı Arapça kelimeler ve kısa ifadeler uygulayın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les membres de la famille."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "places-03-review-1",
+          "type": "word",
+          "arabic": "الْمَطْبَخُ",
+          "transliteration": "al-maṭbakhu",
+          "audioText": "الْمَطْبَخُ",
+          "meaning": {
+            "en": "the kitchen",
+            "ur": "باورچی خانے",
+            "id": "dapur",
+            "tr": "mutfak",
+            "fr": "la cuisine"
+          },
+          "audio": {
+            "path": "audio/places/places-01-kitchen.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-03-review-2",
+          "type": "word",
+          "arabic": "غُرْفَةُ الْجُلُوسِ",
+          "transliteration": "ghurfatu l-julūsi",
+          "audioText": "غُرْفَةُ الْجُلُوسِ",
+          "meaning": {
+            "en": "living room",
+            "ur": "رہنے کا کمرہ",
+            "id": "ruang tamu",
+            "tr": "oturma odası",
+            "fr": "salon"
+          },
+          "audio": {
+            "path": "audio/places/places-01-living-room.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-03-review-3",
+          "type": "word",
+          "arabic": "النَّافِذَةُ",
+          "transliteration": "an-nāfidhatu",
+          "audioText": "النَّافِذَةُ",
+          "meaning": {
+            "en": "the window",
+            "ur": "کھڑکی",
+            "id": "jendela",
+            "tr": "pencere",
+            "fr": "la fenêtre"
+          },
+          "audio": {
+            "path": "audio/places/places-02-window.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-03-review-4",
+          "type": "word",
+          "arabic": "الْكُرْسِيُّ",
+          "transliteration": "al-kursiyyu",
+          "audioText": "الْكُرْسِيُّ",
+          "meaning": {
+            "en": "the chair",
+            "ur": "کرسی",
+            "id": "kursi",
+            "tr": "sandalye",
+            "fr": "la chaise"
+          },
+          "audio": {
+            "path": "audio/places/places-02-chair.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-03-review-5",
+          "type": "word",
+          "arabic": "الطَّاوِلَةُ",
+          "transliteration": "aṭ-ṭāwilatu",
+          "audioText": "الطَّاوِلَةُ",
+          "meaning": {
+            "en": "the table",
+            "ur": "میز",
+            "id": "meja",
+            "tr": "masa",
+            "fr": "le tableau"
+          },
+          "audio": {
+            "path": "audio/places/places-02-table.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-03-father",
+          "type": "word",
+          "arabic": "أَبِي",
+          "transliteration": "abī",
+          "audioText": "أَبِي",
+          "meaning": {
+            "en": "my father",
+            "ur": "میرے والد",
+            "id": "ayahku",
+            "tr": "babam",
+            "fr": "mon père"
+          },
+          "audio": {
+            "path": "audio/places/places-03-father.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-03-mother",
+          "type": "word",
+          "arabic": "أُمِّي",
+          "transliteration": "ummī",
+          "audioText": "أُمِّي",
+          "meaning": {
+            "en": "my mother",
+            "ur": "میری ماں",
+            "id": "ibuku",
+            "tr": "annem",
+            "fr": "ma mère"
+          },
+          "audio": {
+            "path": "audio/places/places-03-mother.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-03-brother",
+          "type": "word",
+          "arabic": "أَخِي",
+          "transliteration": "akhī",
+          "audioText": "أَخِي",
+          "meaning": {
+            "en": "my brother",
+            "ur": "میرے بھائی",
+            "id": "saudaraku",
+            "tr": "kardeşim",
+            "fr": "mon frère"
+          },
+          "audio": {
+            "path": "audio/places/places-03-brother.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "places-04",
+      "order": 4,
+      "title": {
+        "en": "More family",
+        "ur": "مزید خاندان",
+        "id": "Lebih banyak keluarga",
+        "tr": "Daha fazla aile",
+        "fr": "Plus de famille"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about More family.",
+        "ur": "مزید خاندان کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang Lebih banyak keluarga.",
+        "tr": "More ailesi hakkında yararlı Arapça kelimeler ve kısa ifadeler uygulayın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur la famille More."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "places-04-review-1",
+          "type": "word",
+          "arabic": "الْكُرْسِيُّ",
+          "transliteration": "al-kursiyyu",
+          "audioText": "الْكُرْسِيُّ",
+          "meaning": {
+            "en": "the chair",
+            "ur": "کرسی",
+            "id": "kursi",
+            "tr": "sandalye",
+            "fr": "la chaise"
+          },
+          "audio": {
+            "path": "audio/places/places-02-chair.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-04-review-2",
+          "type": "word",
+          "arabic": "الطَّاوِلَةُ",
+          "transliteration": "aṭ-ṭāwilatu",
+          "audioText": "الطَّاوِلَةُ",
+          "meaning": {
+            "en": "the table",
+            "ur": "میز",
+            "id": "meja",
+            "tr": "masa",
+            "fr": "le tableau"
+          },
+          "audio": {
+            "path": "audio/places/places-02-table.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-04-review-3",
+          "type": "word",
+          "arabic": "أَبِي",
+          "transliteration": "abī",
+          "audioText": "أَبِي",
+          "meaning": {
+            "en": "my father",
+            "ur": "میرے والد",
+            "id": "ayahku",
+            "tr": "babam",
+            "fr": "mon père"
+          },
+          "audio": {
+            "path": "audio/places/places-03-father.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-04-review-4",
+          "type": "word",
+          "arabic": "أُمِّي",
+          "transliteration": "ummī",
+          "audioText": "أُمِّي",
+          "meaning": {
+            "en": "my mother",
+            "ur": "میری ماں",
+            "id": "ibuku",
+            "tr": "annem",
+            "fr": "ma mère"
+          },
+          "audio": {
+            "path": "audio/places/places-03-mother.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-04-review-5",
+          "type": "word",
+          "arabic": "أَخِي",
+          "transliteration": "akhī",
+          "audioText": "أَخِي",
+          "meaning": {
+            "en": "my brother",
+            "ur": "میرے بھائی",
+            "id": "saudaraku",
+            "tr": "kardeşim",
+            "fr": "mon frère"
+          },
+          "audio": {
+            "path": "audio/places/places-03-brother.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-04-sister",
+          "type": "word",
+          "arabic": "أُخْتِي",
+          "transliteration": "ukhtī",
+          "audioText": "أُخْتِي",
+          "meaning": {
+            "en": "my sister",
+            "ur": "میری بہن",
+            "id": "saudara perempuanku",
+            "tr": "kız kardeşim",
+            "fr": "ma soeur"
+          },
+          "audio": {
+            "path": "audio/places/places-04-sister.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-04-son",
+          "type": "word",
+          "arabic": "اِبْنِي",
+          "transliteration": "ibnī",
+          "audioText": "اِبْنِي",
+          "meaning": {
+            "en": "my son",
+            "ur": "میرا بیٹا",
+            "id": "anakku",
+            "tr": "oğlum",
+            "fr": "mon fils"
+          },
+          "audio": {
+            "path": "audio/places/places-04-son.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-04-daughter",
+          "type": "word",
+          "arabic": "اِبْنَتِي",
+          "transliteration": "ibnatī",
+          "audioText": "اِبْنَتِي",
+          "meaning": {
+            "en": "my daughter",
+            "ur": "میری بیٹی",
+            "id": "putriku",
+            "tr": "kızım",
+            "fr": "ma fille"
+          },
+          "audio": {
+            "path": "audio/places/places-04-daughter.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "places-05",
+      "order": 5,
+      "title": {
+        "en": "At school",
+        "ur": "سکول میں",
+        "id": "Di sekolah",
+        "tr": "Okulda",
+        "fr": "À l'école"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about At school.",
+        "ur": "اسکول میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Di sekolah.",
+        "tr": "Okulda ile ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur l'école."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "places-05-review-1",
+          "type": "word",
+          "arabic": "أُمِّي",
+          "transliteration": "ummī",
+          "audioText": "أُمِّي",
+          "meaning": {
+            "en": "my mother",
+            "ur": "میری ماں",
+            "id": "ibuku",
+            "tr": "annem",
+            "fr": "ma mère"
+          },
+          "audio": {
+            "path": "audio/places/places-03-mother.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-05-review-2",
+          "type": "word",
+          "arabic": "أَخِي",
+          "transliteration": "akhī",
+          "audioText": "أَخِي",
+          "meaning": {
+            "en": "my brother",
+            "ur": "میرے بھائی",
+            "id": "saudaraku",
+            "tr": "kardeşim",
+            "fr": "mon frère"
+          },
+          "audio": {
+            "path": "audio/places/places-03-brother.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-05-review-3",
+          "type": "word",
+          "arabic": "أُخْتِي",
+          "transliteration": "ukhtī",
+          "audioText": "أُخْتِي",
+          "meaning": {
+            "en": "my sister",
+            "ur": "میری بہن",
+            "id": "saudara perempuanku",
+            "tr": "kız kardeşim",
+            "fr": "ma soeur"
+          },
+          "audio": {
+            "path": "audio/places/places-04-sister.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-05-review-4",
+          "type": "word",
+          "arabic": "اِبْنِي",
+          "transliteration": "ibnī",
+          "audioText": "اِبْنِي",
+          "meaning": {
+            "en": "my son",
+            "ur": "میرا بیٹا",
+            "id": "anakku",
+            "tr": "oğlum",
+            "fr": "mon fils"
+          },
+          "audio": {
+            "path": "audio/places/places-04-son.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-05-review-5",
+          "type": "word",
+          "arabic": "اِبْنَتِي",
+          "transliteration": "ibnatī",
+          "audioText": "اِبْنَتِي",
+          "meaning": {
+            "en": "my daughter",
+            "ur": "میری بیٹی",
+            "id": "putriku",
+            "tr": "kızım",
+            "fr": "ma fille"
+          },
+          "audio": {
+            "path": "audio/places/places-04-daughter.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-05-classroom",
+          "type": "word",
+          "arabic": "الْفَصْلُ",
+          "transliteration": "al-faṣlu",
+          "audioText": "الْفَصْلُ",
+          "meaning": {
+            "en": "the classroom",
+            "ur": "کلاس روم",
+            "id": "ruang kelas",
+            "tr": "sınıf",
+            "fr": "la salle de classe"
+          },
+          "audio": {
+            "path": "audio/places/places-05-classroom.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-05-library",
+          "type": "word",
+          "arabic": "الْمَكْتَبَةُ",
+          "transliteration": "al-maktabatu",
+          "audioText": "الْمَكْتَبَةُ",
+          "meaning": {
+            "en": "the library",
+            "ur": "لائبریری",
+            "id": "perpustakaan",
+            "tr": "kütüphane",
+            "fr": "la bibliothèque"
+          },
+          "audio": {
+            "path": "audio/places/places-05-library.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-05-school",
+          "type": "word",
+          "arabic": "الْمَدْرَسَةُ",
+          "transliteration": "al-madrasatu",
+          "audioText": "الْمَدْرَسَةُ",
+          "meaning": {
+            "en": "the school",
+            "ur": "اسکول",
+            "id": "sekolah",
+            "tr": "okul",
+            "fr": "l'école"
+          },
+          "audio": {
+            "path": "audio/places/places-05-school.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "places-06",
+      "order": 6,
+      "title": {
+        "en": "At the mosque",
+        "ur": "مسجد میں",
+        "id": "Di masjid",
+        "tr": "Camide",
+        "fr": "A la mosquée"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about At the mosque.",
+        "ur": "مسجد کے بارے میں مفید عربی الفاظ اور مختصر فقروں کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Di masjid.",
+        "tr": "Camide ile ilgili yararlı Arapça kelimeler ve kısa ifadeler uygulayın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur À la mosquée."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "places-06-review-1",
+          "type": "word",
+          "arabic": "اِبْنِي",
+          "transliteration": "ibnī",
+          "audioText": "اِبْنِي",
+          "meaning": {
+            "en": "my son",
+            "ur": "میرا بیٹا",
+            "id": "anakku",
+            "tr": "oğlum",
+            "fr": "mon fils"
+          },
+          "audio": {
+            "path": "audio/places/places-04-son.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-06-review-2",
+          "type": "word",
+          "arabic": "اِبْنَتِي",
+          "transliteration": "ibnatī",
+          "audioText": "اِبْنَتِي",
+          "meaning": {
+            "en": "my daughter",
+            "ur": "میری بیٹی",
+            "id": "putriku",
+            "tr": "kızım",
+            "fr": "ma fille"
+          },
+          "audio": {
+            "path": "audio/places/places-04-daughter.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-06-review-3",
+          "type": "word",
+          "arabic": "الْفَصْلُ",
+          "transliteration": "al-faṣlu",
+          "audioText": "الْفَصْلُ",
+          "meaning": {
+            "en": "the classroom",
+            "ur": "کلاس روم",
+            "id": "ruang kelas",
+            "tr": "sınıf",
+            "fr": "la salle de classe"
+          },
+          "audio": {
+            "path": "audio/places/places-05-classroom.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-06-review-4",
+          "type": "word",
+          "arabic": "الْمَكْتَبَةُ",
+          "transliteration": "al-maktabatu",
+          "audioText": "الْمَكْتَبَةُ",
+          "meaning": {
+            "en": "the library",
+            "ur": "لائبریری",
+            "id": "perpustakaan",
+            "tr": "kütüphane",
+            "fr": "la bibliothèque"
+          },
+          "audio": {
+            "path": "audio/places/places-05-library.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-06-review-5",
+          "type": "word",
+          "arabic": "الْمَدْرَسَةُ",
+          "transliteration": "al-madrasatu",
+          "audioText": "الْمَدْرَسَةُ",
+          "meaning": {
+            "en": "the school",
+            "ur": "اسکول",
+            "id": "sekolah",
+            "tr": "okul",
+            "fr": "l'école"
+          },
+          "audio": {
+            "path": "audio/places/places-05-school.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-06-mosque",
+          "type": "word",
+          "arabic": "الْمَسْجِدُ",
+          "transliteration": "al-masjidu",
+          "audioText": "الْمَسْجِدُ",
+          "meaning": {
+            "en": "the mosque",
+            "ur": "مسجد",
+            "id": "masjid",
+            "tr": "cami",
+            "fr": "la mosquée"
+          },
+          "audio": {
+            "path": "audio/places/places-06-mosque.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-06-entrance",
+          "type": "word",
+          "arabic": "الْمَدْخَلُ",
+          "transliteration": "al-madkhalu",
+          "audioText": "الْمَدْخَلُ",
+          "meaning": {
+            "en": "the entrance",
+            "ur": "داخلی راستہ",
+            "id": "pintu masuk",
+            "tr": "giriş",
+            "fr": "l'entrée"
+          },
+          "audio": {
+            "path": "audio/places/places-06-entrance.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-06-prayer-hall",
+          "type": "word",
+          "arabic": "مُصَلَّى الْمَسْجِدِ",
+          "transliteration": "muṣallā l-masjidi",
+          "audioText": "مُصَلَّى الْمَسْجِدِ",
+          "meaning": {
+            "en": "the mosque prayer hall",
+            "ur": "مسجد کی نماز کا ہال",
+            "id": "ruang sholat masjid",
+            "tr": "caminin ibadethanesi",
+            "fr": "la salle de prière de la mosquée"
+          },
+          "audio": {
+            "path": "audio/places/places-06-prayer-hall.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "places-07",
+      "order": 7,
+      "title": {
+        "en": "At the market",
+        "ur": "بازار میں",
+        "id": "Di pasar",
+        "tr": "Piyasada",
+        "fr": "Au marché"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about At the market.",
+        "ur": "مارکیٹ کے بارے میں مفید عربی الفاظ اور مختصر فقروں کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Di pasar.",
+        "tr": "Piyasada ile ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur le marché."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "places-07-review-1",
+          "type": "word",
+          "arabic": "الْمَكْتَبَةُ",
+          "transliteration": "al-maktabatu",
+          "audioText": "الْمَكْتَبَةُ",
+          "meaning": {
+            "en": "the library",
+            "ur": "لائبریری",
+            "id": "perpustakaan",
+            "tr": "kütüphane",
+            "fr": "la bibliothèque"
+          },
+          "audio": {
+            "path": "audio/places/places-05-library.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-07-review-2",
+          "type": "word",
+          "arabic": "الْمَدْرَسَةُ",
+          "transliteration": "al-madrasatu",
+          "audioText": "الْمَدْرَسَةُ",
+          "meaning": {
+            "en": "the school",
+            "ur": "اسکول",
+            "id": "sekolah",
+            "tr": "okul",
+            "fr": "l'école"
+          },
+          "audio": {
+            "path": "audio/places/places-05-school.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-07-review-3",
+          "type": "word",
+          "arabic": "الْمَسْجِدُ",
+          "transliteration": "al-masjidu",
+          "audioText": "الْمَسْجِدُ",
+          "meaning": {
+            "en": "the mosque",
+            "ur": "مسجد",
+            "id": "masjid",
+            "tr": "cami",
+            "fr": "la mosquée"
+          },
+          "audio": {
+            "path": "audio/places/places-06-mosque.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-07-review-4",
+          "type": "word",
+          "arabic": "الْمَدْخَلُ",
+          "transliteration": "al-madkhalu",
+          "audioText": "الْمَدْخَلُ",
+          "meaning": {
+            "en": "the entrance",
+            "ur": "داخلی راستہ",
+            "id": "pintu masuk",
+            "tr": "giriş",
+            "fr": "l'entrée"
+          },
+          "audio": {
+            "path": "audio/places/places-06-entrance.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-07-review-5",
+          "type": "word",
+          "arabic": "مُصَلَّى الْمَسْجِدِ",
+          "transliteration": "muṣallā l-masjidi",
+          "audioText": "مُصَلَّى الْمَسْجِدِ",
+          "meaning": {
+            "en": "the mosque prayer hall",
+            "ur": "مسجد کی نماز کا ہال",
+            "id": "ruang sholat masjid",
+            "tr": "caminin ibadethanesi",
+            "fr": "la salle de prière de la mosquée"
+          },
+          "audio": {
+            "path": "audio/places/places-06-prayer-hall.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-07-market",
+          "type": "word",
+          "arabic": "السُّوقُ",
+          "transliteration": "as-sūqu",
+          "audioText": "السُّوقُ",
+          "meaning": {
+            "en": "the market",
+            "ur": "مارکیٹ",
+            "id": "pasar",
+            "tr": "pazar",
+            "fr": "le marché"
+          },
+          "audio": {
+            "path": "audio/places/places-07-market.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-07-shop",
+          "type": "word",
+          "arabic": "الْمَتْجَرُ",
+          "transliteration": "al-matjaru",
+          "audioText": "الْمَتْجَرُ",
+          "meaning": {
+            "en": "the shop",
+            "ur": "دکان",
+            "id": "toko",
+            "tr": "dükkan",
+            "fr": "la boutique"
+          },
+          "audio": {
+            "path": "audio/places/places-07-shop.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-07-price",
+          "type": "word",
+          "arabic": "السِّعْرُ",
+          "transliteration": "as-siʿru",
+          "audioText": "السِّعْرُ",
+          "meaning": {
+            "en": "the price",
+            "ur": "قیمت",
+            "id": "harga",
+            "tr": "fiyat",
+            "fr": "le prix"
+          },
+          "audio": {
+            "path": "audio/places/places-07-price.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "places-08",
+      "order": 8,
+      "title": {
+        "en": "Around town",
+        "ur": "شہر کے آس پاس",
+        "id": "Di sekitar kota",
+        "tr": "Şehir çevresinde",
+        "fr": "Autour de la ville"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Around town.",
+        "ur": "شہر کے ارد گرد کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Keliling kota.",
+        "tr": "Şehir Çevresi ile ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde pratik yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur Autour de la ville."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "places-08-review-1",
+          "type": "word",
+          "arabic": "الْمَدْخَلُ",
+          "transliteration": "al-madkhalu",
+          "audioText": "الْمَدْخَلُ",
+          "meaning": {
+            "en": "the entrance",
+            "ur": "داخلی راستہ",
+            "id": "pintu masuk",
+            "tr": "giriş",
+            "fr": "l'entrée"
+          },
+          "audio": {
+            "path": "audio/places/places-06-entrance.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-08-review-2",
+          "type": "word",
+          "arabic": "مُصَلَّى الْمَسْجِدِ",
+          "transliteration": "muṣallā l-masjidi",
+          "audioText": "مُصَلَّى الْمَسْجِدِ",
+          "meaning": {
+            "en": "the mosque prayer hall",
+            "ur": "مسجد کی نماز کا ہال",
+            "id": "ruang sholat masjid",
+            "tr": "caminin ibadethanesi",
+            "fr": "la salle de prière de la mosquée"
+          },
+          "audio": {
+            "path": "audio/places/places-06-prayer-hall.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-08-review-3",
+          "type": "word",
+          "arabic": "السُّوقُ",
+          "transliteration": "as-sūqu",
+          "audioText": "السُّوقُ",
+          "meaning": {
+            "en": "the market",
+            "ur": "مارکیٹ",
+            "id": "pasar",
+            "tr": "pazar",
+            "fr": "le marché"
+          },
+          "audio": {
+            "path": "audio/places/places-07-market.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-08-review-4",
+          "type": "word",
+          "arabic": "الْمَتْجَرُ",
+          "transliteration": "al-matjaru",
+          "audioText": "الْمَتْجَرُ",
+          "meaning": {
+            "en": "the shop",
+            "ur": "دکان",
+            "id": "toko",
+            "tr": "dükkan",
+            "fr": "la boutique"
+          },
+          "audio": {
+            "path": "audio/places/places-07-shop.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-08-review-5",
+          "type": "word",
+          "arabic": "السِّعْرُ",
+          "transliteration": "as-siʿru",
+          "audioText": "السِّعْرُ",
+          "meaning": {
+            "en": "the price",
+            "ur": "قیمت",
+            "id": "harga",
+            "tr": "fiyat",
+            "fr": "le prix"
+          },
+          "audio": {
+            "path": "audio/places/places-07-price.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-08-hospital",
+          "type": "word",
+          "arabic": "الْمُسْتَشْفَى",
+          "transliteration": "al-mustashfā",
+          "audioText": "الْمُسْتَشْفَى",
+          "meaning": {
+            "en": "the hospital",
+            "ur": "ہسپتال",
+            "id": "rumah sakit",
+            "tr": "hastane",
+            "fr": "l'hôpital"
+          },
+          "audio": {
+            "path": "audio/places/places-08-hospital.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-08-park",
+          "type": "word",
+          "arabic": "الْحَدِيقَةُ",
+          "transliteration": "al-ḥadīqatu",
+          "audioText": "الْحَدِيقَةُ",
+          "meaning": {
+            "en": "the park",
+            "ur": "پارک",
+            "id": "taman",
+            "tr": "park",
+            "fr": "le parc"
+          },
+          "audio": {
+            "path": "audio/places/places-08-park.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-08-street",
+          "type": "word",
+          "arabic": "الشَّارِعُ",
+          "transliteration": "ash-shāriʿu",
+          "audioText": "الشَّارِعُ",
+          "meaning": {
+            "en": "the street",
+            "ur": "گلی",
+            "id": "jalan",
+            "tr": "sokak",
+            "fr": "la rue"
+          },
+          "audio": {
+            "path": "audio/places/places-08-street.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "places-09",
+      "order": 9,
+      "title": {
+        "en": "Where is it?",
+        "ur": "یہ کہاں ہے؟",
+        "id": "Dimana itu?",
+        "tr": "Nerede?",
+        "fr": "Où est-il?"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Where is it?.",
+        "ur": "یہ کہاں ہے؟ کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Dimana itu?.",
+        "tr": "Nerede? ile ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Entraînez-vous à utiliser des mots arabes utiles et des phrases courtes sur Où est-il ?."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "places-09-review-1",
+          "type": "word",
+          "arabic": "الْمَتْجَرُ",
+          "transliteration": "al-matjaru",
+          "audioText": "الْمَتْجَرُ",
+          "meaning": {
+            "en": "the shop",
+            "ur": "دکان",
+            "id": "toko",
+            "tr": "dükkan",
+            "fr": "la boutique"
+          },
+          "audio": {
+            "path": "audio/places/places-07-shop.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-09-review-2",
+          "type": "word",
+          "arabic": "السِّعْرُ",
+          "transliteration": "as-siʿru",
+          "audioText": "السِّعْرُ",
+          "meaning": {
+            "en": "the price",
+            "ur": "قیمت",
+            "id": "harga",
+            "tr": "fiyat",
+            "fr": "le prix"
+          },
+          "audio": {
+            "path": "audio/places/places-07-price.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-09-review-3",
+          "type": "word",
+          "arabic": "الْمُسْتَشْفَى",
+          "transliteration": "al-mustashfā",
+          "audioText": "الْمُسْتَشْفَى",
+          "meaning": {
+            "en": "the hospital",
+            "ur": "ہسپتال",
+            "id": "rumah sakit",
+            "tr": "hastane",
+            "fr": "l'hôpital"
+          },
+          "audio": {
+            "path": "audio/places/places-08-hospital.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-09-review-4",
+          "type": "word",
+          "arabic": "الْحَدِيقَةُ",
+          "transliteration": "al-ḥadīqatu",
+          "audioText": "الْحَدِيقَةُ",
+          "meaning": {
+            "en": "the park",
+            "ur": "پارک",
+            "id": "taman",
+            "tr": "park",
+            "fr": "le parc"
+          },
+          "audio": {
+            "path": "audio/places/places-08-park.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-09-review-5",
+          "type": "word",
+          "arabic": "الشَّارِعُ",
+          "transliteration": "ash-shāriʿu",
+          "audioText": "الشَّارِعُ",
+          "meaning": {
+            "en": "the street",
+            "ur": "گلی",
+            "id": "jalan",
+            "tr": "sokak",
+            "fr": "la rue"
+          },
+          "audio": {
+            "path": "audio/places/places-08-street.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-09-where-is-the-book",
+          "type": "question",
+          "arabic": "أَيْنَ الْكِتَابُ؟",
+          "transliteration": "ayna l-kitābu?",
+          "audioText": "أَيْنَ الْكِتَابُ؟",
+          "meaning": {
+            "en": "Where is the book?",
+            "ur": "کتاب کہاں ہے؟",
+            "id": "Dimana bukunya?",
+            "tr": "Kitap nerede?",
+            "fr": "Où est le livre ?"
+          },
+          "audio": {
+            "path": "audio/places/places-09-where-is-the-book.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-09-book-on-table",
+          "type": "sentence",
+          "arabic": "الْكِتَابُ عَلَى الطَّاوِلَةِ",
+          "transliteration": "al-kitābu ʿalā ṭ-ṭāwilati",
+          "audioText": "الْكِتَابُ عَلَى الطَّاوِلَةِ",
+          "meaning": {
+            "en": "The book is on the table.",
+            "ur": "کتاب میز پر ہے۔",
+            "id": "Buku itu ada di atas meja.",
+            "tr": "Kitap masanın üstünde.",
+            "fr": "Le livre est sur la table."
+          },
+          "audio": {
+            "path": "audio/places/places-09-book-on-table.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-09-key-in-room",
+          "type": "sentence",
+          "arabic": "الْمِفْتَاحُ فِي الْغُرْفَةِ",
+          "transliteration": "al-miftāḥu fī l-ghurfati",
+          "audioText": "الْمِفْتَاحُ فِي الْغُرْفَةِ",
+          "meaning": {
+            "en": "The key is in the room.",
+            "ur": "چابی کمرے میں ہے۔",
+            "id": "Kuncinya ada di dalam kamar.",
+            "tr": "Anahtar odada.",
+            "fr": "La clé est dans la chambre."
+          },
+          "audio": {
+            "path": "audio/places/places-09-key-in-room.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "places-10",
+      "order": 10,
+      "title": {
+        "en": "Asking for a place",
+        "ur": "جگہ مانگ رہی ہے۔",
+        "id": "Meminta tempat",
+        "tr": "Bir yer istemek",
+        "fr": "Demander une place"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Asking for a place.",
+        "ur": "جگہ مانگنے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Meminta tempat.",
+        "tr": "Yer istemekle ilgili faydalı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur la demande de place."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "places-10-review-1",
+          "type": "word",
+          "arabic": "الْحَدِيقَةُ",
+          "transliteration": "al-ḥadīqatu",
+          "audioText": "الْحَدِيقَةُ",
+          "meaning": {
+            "en": "the park",
+            "ur": "پارک",
+            "id": "taman",
+            "tr": "park",
+            "fr": "le parc"
+          },
+          "audio": {
+            "path": "audio/places/places-08-park.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-10-review-2",
+          "type": "word",
+          "arabic": "الشَّارِعُ",
+          "transliteration": "ash-shāriʿu",
+          "audioText": "الشَّارِعُ",
+          "meaning": {
+            "en": "the street",
+            "ur": "گلی",
+            "id": "jalan",
+            "tr": "sokak",
+            "fr": "la rue"
+          },
+          "audio": {
+            "path": "audio/places/places-08-street.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-10-review-3",
+          "type": "question",
+          "arabic": "أَيْنَ الْكِتَابُ؟",
+          "transliteration": "ayna l-kitābu?",
+          "audioText": "أَيْنَ الْكِتَابُ؟",
+          "meaning": {
+            "en": "Where is the book?",
+            "ur": "کتاب کہاں ہے؟",
+            "id": "Dimana bukunya?",
+            "tr": "Kitap nerede?",
+            "fr": "Où est le livre ?"
+          },
+          "audio": {
+            "path": "audio/places/places-09-where-is-the-book.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-10-review-4",
+          "type": "sentence",
+          "arabic": "الْكِتَابُ عَلَى الطَّاوِلَةِ",
+          "transliteration": "al-kitābu ʿalā ṭ-ṭāwilati",
+          "audioText": "الْكِتَابُ عَلَى الطَّاوِلَةِ",
+          "meaning": {
+            "en": "The book is on the table.",
+            "ur": "کتاب میز پر ہے۔",
+            "id": "Buku itu ada di atas meja.",
+            "tr": "Kitap masanın üstünde.",
+            "fr": "Le livre est sur la table."
+          },
+          "audio": {
+            "path": "audio/places/places-09-book-on-table.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-10-review-5",
+          "type": "sentence",
+          "arabic": "الْمِفْتَاحُ فِي الْغُرْفَةِ",
+          "transliteration": "al-miftāḥu fī l-ghurfati",
+          "audioText": "الْمِفْتَاحُ فِي الْغُرْفَةِ",
+          "meaning": {
+            "en": "The key is in the room.",
+            "ur": "چابی کمرے میں ہے۔",
+            "id": "Kuncinya ada di dalam kamar.",
+            "tr": "Anahtar odada.",
+            "fr": "La clé est dans la chambre."
+          },
+          "audio": {
+            "path": "audio/places/places-09-key-in-room.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-10-where-is-mosque",
+          "type": "question",
+          "arabic": "أَيْنَ الْمَسْجِدُ؟",
+          "transliteration": "ayna l-masjidu?",
+          "audioText": "أَيْنَ الْمَسْجِدُ؟",
+          "meaning": {
+            "en": "Where is the mosque?",
+            "ur": "مسجد کہاں ہے؟",
+            "id": "Dimana masjidnya?",
+            "tr": "Cami nerede?",
+            "fr": "Où est la mosquée ?"
+          },
+          "audio": {
+            "path": "audio/places/places-10-where-is-mosque.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-10-near-here",
+          "type": "sentence",
+          "arabic": "الْمَسْجِدُ قَرِيبٌ مِنْ هُنَا",
+          "transliteration": "al-masjidu qarībun min hunā",
+          "audioText": "الْمَسْجِدُ قَرِيبٌ مِنْ هُنَا",
+          "meaning": {
+            "en": "The mosque is near here.",
+            "ur": "مسجد یہاں کے قریب ہے۔",
+            "id": "Masjidnya dekat sini.",
+            "tr": "Cami buraya yakın.",
+            "fr": "La mosquée est près d'ici."
+          },
+          "audio": {
+            "path": "audio/places/places-10-near-here.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "places-10-go-straight",
+          "type": "request",
+          "arabic": "اِذْهَبْ إِلَى الْأَمَامِ",
+          "transliteration": "idhhab ilā l-amāmi",
+          "audioText": "اِذْهَبْ إِلَى الْأَمَامِ",
+          "meaning": {
+            "en": "Go straight ahead. (to a man)",
+            "ur": "سیدھے آگے بڑھیں۔ (ایک آدمی کو)",
+            "id": "Jalan lurus ke depan. (kepada seorang pria)",
+            "tr": "Dümdüz ilerleyin. (bir erkeğe)",
+            "fr": "Allez tout droit. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/places/places-10-go-straight.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    }
+  ]
+}

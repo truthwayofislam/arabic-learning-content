@@ -1,0 +1,1965 @@
+{
+  "schemaVersion": 1,
+  "courseId": "arabic",
+  "levelId": "conversation",
+  "unitId": "conversation",
+  "translationLanguages": [
+    "en",
+    "ur",
+    "id",
+    "tr",
+    "fr"
+  ],
+  "lessons": [
+    {
+      "id": "conversation-01",
+      "order": 1,
+      "title": {
+        "en": "Greetings and farewells",
+        "ur": "سلام اور الوداع",
+        "id": "Salam dan perpisahan",
+        "tr": "Selamlar ve vedalar",
+        "fr": "Salutations et adieux"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Greetings and farewells.",
+        "ur": "مبارکباد اور الوداعی کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Salam dan perpisahan.",
+        "tr": "Selamlaşma ve vedalaşma ile ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les salutations et les adieux."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "conversation-01-review-1",
+          "type": "sentence",
+          "arabic": "أَنَا طَالِبٌ",
+          "transliteration": "anā ṭālibun",
+          "audioText": "أَنَا طَالِبٌ",
+          "meaning": {
+            "en": "I am a male student.",
+            "ur": "میں طالب علم ہوں۔",
+            "id": "Saya seorang siswa.",
+            "tr": "Ben bir öğrenciyim. (erkek)",
+            "fr": "Je suis étudiant."
+          },
+          "audio": {
+            "path": "audio/words-12/words-12-i-student.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-01-review-2",
+          "type": "sentence",
+          "arabic": "اِسْمِي سَارَةُ",
+          "transliteration": "ismī Sārah",
+          "audioText": "اِسْمِي سَارَةُ",
+          "meaning": {
+            "en": "My name is Sarah.",
+            "ur": "میرا نام سارہ ہے۔",
+            "id": "Nama saya Sarah.",
+            "tr": "Benim adım Sarah.",
+            "fr": "Je m’appelle Sarah."
+          },
+          "audio": {
+            "path": "audio/words-12/words-12-my-name-sara.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-01-review-3",
+          "type": "sentence",
+          "arabic": "أَسْكُنُ فِي الْقَاهِرَةِ",
+          "transliteration": "askunu fī l-Qāhirati",
+          "audioText": "أَسْكُنُ فِي الْقَاهِرَةِ",
+          "meaning": {
+            "en": "I live in Cairo.",
+            "ur": "میں قاہرہ میں رہتا/رہتی ہوں۔",
+            "id": "Saya tinggal di Kairo.",
+            "tr": "Kahire’de yaşıyorum.",
+            "fr": "J’habite au Caire."
+          },
+          "audio": {
+            "path": "audio/words-12/words-12-i-live-cairo.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-01-review-4",
+          "type": "sentence",
+          "arabic": "أَتَعَلَّمُ الْعَرَبِيَّةَ",
+          "transliteration": "ataʿallamu l-ʿarabiyyata",
+          "audioText": "أَتَعَلَّمُ الْعَرَبِيَّةَ",
+          "meaning": {
+            "en": "I am learning Arabic.",
+            "ur": "میں عربی سیکھ رہا/رہی ہوں۔",
+            "id": "Saya sedang belajar bahasa Arab.",
+            "tr": "Arapça öğreniyorum.",
+            "fr": "J’apprends l’arabe."
+          },
+          "audio": {
+            "path": "audio/words-12/words-12-i-learn-arabic.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-01-review-5",
+          "type": "sentence",
+          "arabic": "هِيَ مِنْ مِصْرَ",
+          "transliteration": "hiya min Miṣra",
+          "audioText": "هِيَ مِنْ مِصْرَ",
+          "meaning": {
+            "en": "She is from Egypt.",
+            "ur": "وہ مصر سے ہے۔",
+            "id": "Dia dari Mesir.",
+            "tr": "O Mısır'dan.",
+            "fr": "Elle vient d’Égypte."
+          },
+          "audio": {
+            "path": "audio/words-12/words-12-she-from-egypt.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-01-hello",
+          "type": "phrase",
+          "arabic": "مَرْحَبًا",
+          "transliteration": "marḥaban",
+          "audioText": "مَرْحَبًا",
+          "meaning": {
+            "en": "Hello.",
+            "ur": "ہیلو",
+            "id": "Halo.",
+            "tr": "Merhaba.",
+            "fr": "Bonjour."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-01-hello.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-01-peace-greeting",
+          "type": "phrase",
+          "arabic": "السَّلَامُ عَلَيْكُمْ",
+          "transliteration": "as-salāmu ʿalaykum",
+          "audioText": "السَّلَامُ عَلَيْكُمْ",
+          "meaning": {
+            "en": "Peace be upon you.",
+            "ur": "السلام علیکم۔",
+            "id": "Salam sejahtera.",
+            "tr": "Selam üzerinize olsun.",
+            "fr": "La paix soit sur vous."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-01-peace-greeting.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-01-farewell",
+          "type": "phrase",
+          "arabic": "إِلَى اللِّقَاءِ",
+          "transliteration": "ilā l-liqāʾ",
+          "audioText": "إِلَى اللِّقَاءِ",
+          "meaning": {
+            "en": "Goodbye; until we meet.",
+            "ur": "الوداع; جب تک ہم ملیں گے۔",
+            "id": "Selamat tinggal; sampai kita bertemu.",
+            "tr": "Güle güle; buluşana kadar.",
+            "fr": "Au revoir; jusqu'à ce que nous nous rencontrions."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-01-farewell.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "conversation-02",
+      "order": 2,
+      "title": {
+        "en": "Asking names",
+        "ur": "نام پوچھ رہے ہیں۔",
+        "id": "Menanyakan nama",
+        "tr": "İsim sorma",
+        "fr": "Demander des noms"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Asking names.",
+        "ur": "نام پوچھنے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang Menanyakan nama.",
+        "tr": "İsim sormayla ilgili faydalı Arapça kelimelerin ve kısa ifadelerin alıştırmasını yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes pour demander des noms."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "conversation-02-review-1",
+          "type": "sentence",
+          "arabic": "أَتَعَلَّمُ الْعَرَبِيَّةَ",
+          "transliteration": "ataʿallamu l-ʿarabiyyata",
+          "audioText": "أَتَعَلَّمُ الْعَرَبِيَّةَ",
+          "meaning": {
+            "en": "I am learning Arabic.",
+            "ur": "میں عربی سیکھ رہا/رہی ہوں۔",
+            "id": "Saya sedang belajar bahasa Arab.",
+            "tr": "Arapça öğreniyorum.",
+            "fr": "J’apprends l’arabe."
+          },
+          "audio": {
+            "path": "audio/words-12/words-12-i-learn-arabic.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-02-review-2",
+          "type": "sentence",
+          "arabic": "هِيَ مِنْ مِصْرَ",
+          "transliteration": "hiya min Miṣra",
+          "audioText": "هِيَ مِنْ مِصْرَ",
+          "meaning": {
+            "en": "She is from Egypt.",
+            "ur": "وہ مصر سے ہے۔",
+            "id": "Dia dari Mesir.",
+            "tr": "O Mısır'dan.",
+            "fr": "Elle vient d’Égypte."
+          },
+          "audio": {
+            "path": "audio/words-12/words-12-she-from-egypt.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-02-review-3",
+          "type": "phrase",
+          "arabic": "مَرْحَبًا",
+          "transliteration": "marḥaban",
+          "audioText": "مَرْحَبًا",
+          "meaning": {
+            "en": "Hello.",
+            "ur": "ہیلو",
+            "id": "Halo.",
+            "tr": "Merhaba.",
+            "fr": "Bonjour."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-01-hello.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-02-review-4",
+          "type": "phrase",
+          "arabic": "السَّلَامُ عَلَيْكُمْ",
+          "transliteration": "as-salāmu ʿalaykum",
+          "audioText": "السَّلَامُ عَلَيْكُمْ",
+          "meaning": {
+            "en": "Peace be upon you.",
+            "ur": "السلام علیکم۔",
+            "id": "Salam sejahtera.",
+            "tr": "Selam üzerinize olsun.",
+            "fr": "La paix soit sur vous."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-01-peace-greeting.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-02-review-5",
+          "type": "phrase",
+          "arabic": "إِلَى اللِّقَاءِ",
+          "transliteration": "ilā l-liqāʾ",
+          "audioText": "إِلَى اللِّقَاءِ",
+          "meaning": {
+            "en": "Goodbye; until we meet.",
+            "ur": "الوداع; جب تک ہم ملیں گے۔",
+            "id": "Selamat tinggal; sampai kita bertemu.",
+            "tr": "Güle güle; buluşana kadar.",
+            "fr": "Au revoir; jusqu'à ce que nous nous rencontrions."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-01-farewell.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-02-what-your-name-m",
+          "type": "question",
+          "arabic": "مَا اسْمُكَ؟",
+          "transliteration": "mā ismuka?",
+          "audioText": "مَا اسْمُكَ؟",
+          "meaning": {
+            "en": "What is your name? (to a man)",
+            "ur": "آپ کا نام کیا ہے؟ (ایک آدمی کو)",
+            "id": "Siapa namamu? (kepada seorang pria)",
+            "tr": "Adın ne? (bir erkeğe)",
+            "fr": "Quel est ton nom? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-02-what-your-name-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-02-what-your-name-f",
+          "type": "question",
+          "arabic": "مَا اسْمُكِ؟",
+          "transliteration": "mā ismuki?",
+          "audioText": "مَا اسْمُكِ؟",
+          "meaning": {
+            "en": "What is your name? (to a woman)",
+            "ur": "آپ کا نام کیا ہے؟ (عورت کو)",
+            "id": "Siapa namamu? (kepada seorang wanita)",
+            "tr": "Adın ne? (bir kadına)",
+            "fr": "Quel est ton nom ? (à une femme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-02-what-your-name-f.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-02-my-name",
+          "type": "sentence",
+          "arabic": "اِسْمِي عَلِيٌّ",
+          "transliteration": "ismī ʿAliyyun",
+          "audioText": "اِسْمِي عَلِيٌّ",
+          "meaning": {
+            "en": "My name is Ali.",
+            "ur": "میرا نام علی ہے۔",
+            "id": "Nama saya Ali.",
+            "tr": "Benim adım Ali.",
+            "fr": "Je m'appelle Ali."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-02-my-name.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "conversation-03",
+      "order": 3,
+      "title": {
+        "en": "How are you?",
+        "ur": "کیسی ہو؟",
+        "id": "Apa kabarmu?",
+        "tr": "Nasılsın?",
+        "fr": "Comment vas-tu?"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about How are you?.",
+        "ur": "آپ کیسے ہیں؟ کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Apa kabar?.",
+        "tr": "Nasılsın? ile ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Entraînez-vous à utiliser des mots arabes utiles et des phrases courtes sur Comment vas-tu ?."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "conversation-03-review-1",
+          "type": "phrase",
+          "arabic": "السَّلَامُ عَلَيْكُمْ",
+          "transliteration": "as-salāmu ʿalaykum",
+          "audioText": "السَّلَامُ عَلَيْكُمْ",
+          "meaning": {
+            "en": "Peace be upon you.",
+            "ur": "السلام علیکم۔",
+            "id": "Salam sejahtera.",
+            "tr": "Selam üzerinize olsun.",
+            "fr": "La paix soit sur vous."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-01-peace-greeting.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-03-review-2",
+          "type": "phrase",
+          "arabic": "إِلَى اللِّقَاءِ",
+          "transliteration": "ilā l-liqāʾ",
+          "audioText": "إِلَى اللِّقَاءِ",
+          "meaning": {
+            "en": "Goodbye; until we meet.",
+            "ur": "الوداع; جب تک ہم ملیں گے۔",
+            "id": "Selamat tinggal; sampai kita bertemu.",
+            "tr": "Güle güle; buluşana kadar.",
+            "fr": "Au revoir; jusqu'à ce que nous nous rencontrions."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-01-farewell.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-03-review-3",
+          "type": "question",
+          "arabic": "مَا اسْمُكَ؟",
+          "transliteration": "mā ismuka?",
+          "audioText": "مَا اسْمُكَ؟",
+          "meaning": {
+            "en": "What is your name? (to a man)",
+            "ur": "آپ کا نام کیا ہے؟ (ایک آدمی کو)",
+            "id": "Siapa namamu? (kepada seorang pria)",
+            "tr": "Adın ne? (bir erkeğe)",
+            "fr": "Quel est ton nom? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-02-what-your-name-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-03-review-4",
+          "type": "question",
+          "arabic": "مَا اسْمُكِ؟",
+          "transliteration": "mā ismuki?",
+          "audioText": "مَا اسْمُكِ؟",
+          "meaning": {
+            "en": "What is your name? (to a woman)",
+            "ur": "آپ کا نام کیا ہے؟ (عورت کو)",
+            "id": "Siapa namamu? (kepada seorang wanita)",
+            "tr": "Adın ne? (bir kadına)",
+            "fr": "Quel est ton nom ? (à une femme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-02-what-your-name-f.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-03-review-5",
+          "type": "sentence",
+          "arabic": "اِسْمِي عَلِيٌّ",
+          "transliteration": "ismī ʿAliyyun",
+          "audioText": "اِسْمِي عَلِيٌّ",
+          "meaning": {
+            "en": "My name is Ali.",
+            "ur": "میرا نام علی ہے۔",
+            "id": "Nama saya Ali.",
+            "tr": "Benim adım Ali.",
+            "fr": "Je m'appelle Ali."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-02-my-name.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-03-how-are-you-m",
+          "type": "question",
+          "arabic": "كَيْفَ حَالُكَ؟",
+          "transliteration": "kayfa ḥāluka?",
+          "audioText": "كَيْفَ حَالُكَ؟",
+          "meaning": {
+            "en": "How are you? (to a man)",
+            "ur": "کیسی ہو؟ (ایک آدمی کو)",
+            "id": "Apa kabarmu? (kepada seorang pria)",
+            "tr": "Nasılsın? (bir erkeğe)",
+            "fr": "Comment vas-tu? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-03-how-are-you-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-03-how-are-you-f",
+          "type": "question",
+          "arabic": "كَيْفَ حَالُكِ؟",
+          "transliteration": "kayfa ḥāluki?",
+          "audioText": "كَيْفَ حَالُكِ؟",
+          "meaning": {
+            "en": "How are you? (to a woman)",
+            "ur": "کیسی ہو؟ (عورت کو)",
+            "id": "Apa kabarmu? (kepada seorang wanita)",
+            "tr": "Nasılsın? (bir kadına)",
+            "fr": "Comment vas-tu? (à une femme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-03-how-are-you-f.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-03-i-am-well",
+          "type": "sentence",
+          "arabic": "أَنَا بِخَيْرٍ، شُكْرًا",
+          "transliteration": "anā bikhayrin, shukran",
+          "audioText": "أَنَا بِخَيْرٍ، شُكْرًا",
+          "meaning": {
+            "en": "I am well, thank you.",
+            "ur": "میں ٹھیک ہوں، شکریہ۔",
+            "id": "Saya baik-baik saja, terima kasih.",
+            "tr": "Ben iyiyim, teşekkür ederim.",
+            "fr": "Je vais bien, merci."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-03-i-am-well.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "conversation-04",
+      "order": 4,
+      "title": {
+        "en": "Introducing yourself",
+        "ur": "اپنا تعارف کروا رہے ہیں۔",
+        "id": "Memperkenalkan diri Anda",
+        "tr": "Kendinizi tanıtma",
+        "fr": "Se présenter"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Introducing yourself.",
+        "ur": "اپنا تعارف کروانے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Memperkenalkan diri.",
+        "tr": "Kendinizi tanıtmayla ilgili yararlı Arapça kelimelerin ve kısa ifadelerin alıştırmasını yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes pour vous présenter."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "conversation-04-review-1",
+          "type": "question",
+          "arabic": "مَا اسْمُكِ؟",
+          "transliteration": "mā ismuki?",
+          "audioText": "مَا اسْمُكِ؟",
+          "meaning": {
+            "en": "What is your name? (to a woman)",
+            "ur": "آپ کا نام کیا ہے؟ (عورت کو)",
+            "id": "Siapa namamu? (kepada seorang wanita)",
+            "tr": "Adın ne? (bir kadına)",
+            "fr": "Quel est ton nom ? (à une femme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-02-what-your-name-f.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-04-review-2",
+          "type": "sentence",
+          "arabic": "اِسْمِي عَلِيٌّ",
+          "transliteration": "ismī ʿAliyyun",
+          "audioText": "اِسْمِي عَلِيٌّ",
+          "meaning": {
+            "en": "My name is Ali.",
+            "ur": "میرا نام علی ہے۔",
+            "id": "Nama saya Ali.",
+            "tr": "Benim adım Ali.",
+            "fr": "Je m'appelle Ali."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-02-my-name.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-04-review-3",
+          "type": "question",
+          "arabic": "كَيْفَ حَالُكَ؟",
+          "transliteration": "kayfa ḥāluka?",
+          "audioText": "كَيْفَ حَالُكَ؟",
+          "meaning": {
+            "en": "How are you? (to a man)",
+            "ur": "کیسی ہو؟ (ایک آدمی کو)",
+            "id": "Apa kabarmu? (kepada seorang pria)",
+            "tr": "Nasılsın? (bir erkeğe)",
+            "fr": "Comment vas-tu? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-03-how-are-you-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-04-review-4",
+          "type": "question",
+          "arabic": "كَيْفَ حَالُكِ؟",
+          "transliteration": "kayfa ḥāluki?",
+          "audioText": "كَيْفَ حَالُكِ؟",
+          "meaning": {
+            "en": "How are you? (to a woman)",
+            "ur": "کیسی ہو؟ (عورت کو)",
+            "id": "Apa kabarmu? (kepada seorang wanita)",
+            "tr": "Nasılsın? (bir kadına)",
+            "fr": "Comment vas-tu? (à une femme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-03-how-are-you-f.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-04-review-5",
+          "type": "sentence",
+          "arabic": "أَنَا بِخَيْرٍ، شُكْرًا",
+          "transliteration": "anā bikhayrin, shukran",
+          "audioText": "أَنَا بِخَيْرٍ، شُكْرًا",
+          "meaning": {
+            "en": "I am well, thank you.",
+            "ur": "میں ٹھیک ہوں، شکریہ۔",
+            "id": "Saya baik-baik saja, terima kasih.",
+            "tr": "Ben iyiyim, teşekkür ederim.",
+            "fr": "Je vais bien, merci."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-03-i-am-well.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-04-i-am-student-m",
+          "type": "sentence",
+          "arabic": "أَنَا طَالِبٌ",
+          "transliteration": "anā ṭālibun",
+          "audioText": "أَنَا طَالِبٌ",
+          "meaning": {
+            "en": "I am a male student.",
+            "ur": "میں ایک مرد طالب علم ہوں۔",
+            "id": "Saya seorang siswa laki-laki.",
+            "tr": "Ben bir erkek öğrenciyim.",
+            "fr": "Je suis un étudiant."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-04-i-am-student-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-04-i-am-student-f",
+          "type": "sentence",
+          "arabic": "أَنَا طَالِبَةٌ",
+          "transliteration": "anā ṭālibatun",
+          "audioText": "أَنَا طَالِبَةٌ",
+          "meaning": {
+            "en": "I am a female student.",
+            "ur": "میں ایک خاتون طالب علم ہوں۔",
+            "id": "Saya seorang siswi.",
+            "tr": "Ben bir kız öğrenciyim.",
+            "fr": "Je suis une étudiante."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-04-i-am-student-f.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-04-i-learn-arabic",
+          "type": "sentence",
+          "arabic": "أَتَعَلَّمُ الْعَرَبِيَّةَ",
+          "transliteration": "ataʿallamu l-ʿarabiyyata",
+          "audioText": "أَتَعَلَّمُ الْعَرَبِيَّةَ",
+          "meaning": {
+            "en": "I am learning Arabic.",
+            "ur": "میں عربی سیکھ رہا ہوں۔",
+            "id": "Saya sedang belajar bahasa Arab.",
+            "tr": "Arapça öğreniyorum.",
+            "fr": "J'apprends l'arabe."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-04-i-learn-arabic.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "conversation-05",
+      "order": 5,
+      "title": {
+        "en": "Countries and languages",
+        "ur": "ممالک اور زبانیں۔",
+        "id": "Negara dan bahasa",
+        "tr": "Ülkeler ve diller",
+        "fr": "Pays et langues"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Countries and languages.",
+        "ur": "ممالک اور زبانوں کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Negara dan bahasa.",
+        "tr": "Ülkeler ve diller hakkında yararlı Arapça kelimeler ve kısa ifadeler uygulayın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les pays et les langues."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "conversation-05-review-1",
+          "type": "question",
+          "arabic": "كَيْفَ حَالُكِ؟",
+          "transliteration": "kayfa ḥāluki?",
+          "audioText": "كَيْفَ حَالُكِ؟",
+          "meaning": {
+            "en": "How are you? (to a woman)",
+            "ur": "کیسی ہو؟ (عورت کو)",
+            "id": "Apa kabarmu? (kepada seorang wanita)",
+            "tr": "Nasılsın? (bir kadına)",
+            "fr": "Comment vas-tu? (à une femme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-03-how-are-you-f.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-05-review-2",
+          "type": "sentence",
+          "arabic": "أَنَا بِخَيْرٍ، شُكْرًا",
+          "transliteration": "anā bikhayrin, shukran",
+          "audioText": "أَنَا بِخَيْرٍ، شُكْرًا",
+          "meaning": {
+            "en": "I am well, thank you.",
+            "ur": "میں ٹھیک ہوں، شکریہ۔",
+            "id": "Saya baik-baik saja, terima kasih.",
+            "tr": "Ben iyiyim, teşekkür ederim.",
+            "fr": "Je vais bien, merci."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-03-i-am-well.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-05-review-3",
+          "type": "sentence",
+          "arabic": "أَنَا طَالِبٌ",
+          "transliteration": "anā ṭālibun",
+          "audioText": "أَنَا طَالِبٌ",
+          "meaning": {
+            "en": "I am a male student.",
+            "ur": "میں ایک مرد طالب علم ہوں۔",
+            "id": "Saya seorang siswa laki-laki.",
+            "tr": "Ben bir erkek öğrenciyim.",
+            "fr": "Je suis un étudiant."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-04-i-am-student-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-05-review-4",
+          "type": "sentence",
+          "arabic": "أَنَا طَالِبَةٌ",
+          "transliteration": "anā ṭālibatun",
+          "audioText": "أَنَا طَالِبَةٌ",
+          "meaning": {
+            "en": "I am a female student.",
+            "ur": "میں ایک خاتون طالب علم ہوں۔",
+            "id": "Saya seorang siswi.",
+            "tr": "Ben bir kız öğrenciyim.",
+            "fr": "Je suis une étudiante."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-04-i-am-student-f.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-05-review-5",
+          "type": "sentence",
+          "arabic": "أَتَعَلَّمُ الْعَرَبِيَّةَ",
+          "transliteration": "ataʿallamu l-ʿarabiyyata",
+          "audioText": "أَتَعَلَّمُ الْعَرَبِيَّةَ",
+          "meaning": {
+            "en": "I am learning Arabic.",
+            "ur": "میں عربی سیکھ رہا ہوں۔",
+            "id": "Saya sedang belajar bahasa Arab.",
+            "tr": "Arapça öğreniyorum.",
+            "fr": "J'apprends l'arabe."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-04-i-learn-arabic.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-05-where-from-m",
+          "type": "question",
+          "arabic": "مِنْ أَيْنَ أَنْتَ؟",
+          "transliteration": "min ayna anta?",
+          "audioText": "مِنْ أَيْنَ أَنْتَ؟",
+          "meaning": {
+            "en": "Where are you from? (to a man)",
+            "ur": "آپ کہاں سے ہیں؟ (ایک آدمی کو)",
+            "id": "Asalmu dari mana? (kepada seorang pria)",
+            "tr": "Nerelisin (bir erkeğe)",
+            "fr": "D'où venez-vous? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-05-where-from-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-05-i-am-from-egypt",
+          "type": "sentence",
+          "arabic": "أَنَا مِنْ مِصْرَ",
+          "transliteration": "anā min Miṣra",
+          "audioText": "أَنَا مِنْ مِصْرَ",
+          "meaning": {
+            "en": "I am from Egypt.",
+            "ur": "میں مصر سے ہوں۔",
+            "id": "Saya dari Mesir.",
+            "tr": "Ben Mısırlıyım.",
+            "fr": "Je viens d'Egypte."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-05-i-am-from-egypt.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-05-do-you-speak-arabic",
+          "type": "question",
+          "arabic": "هَلْ تَتَكَلَّمُ الْعَرَبِيَّةَ؟",
+          "transliteration": "hal tatakallamu l-ʿarabiyyata?",
+          "audioText": "هَلْ تَتَكَلَّمُ الْعَرَبِيَّةَ؟",
+          "meaning": {
+            "en": "Do you speak Arabic? (to a man)",
+            "ur": "کیا آپ عربی بولتے ہیں؟ (ایک آدمی کو)",
+            "id": "Apakah Anda berbicara bahasa Arab? (kepada seorang pria)",
+            "tr": "Arapça biliyor musun? (bir erkeğe)",
+            "fr": "Parlez-vous arabe ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-05-do-you-speak-arabic.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "conversation-06",
+      "order": 6,
+      "title": {
+        "en": "Polite requests",
+        "ur": "شائستہ گزارشات",
+        "id": "Permintaan yang sopan",
+        "tr": "Kibar istekler",
+        "fr": "Demandes polies"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Polite requests.",
+        "ur": "شائستہ درخواستوں کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang permintaan Sopan.",
+        "tr": "Kibar isteklerle ilgili faydalı Arapça kelimelerin ve kısa ifadelerin alıştırmasını yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les demandes polies."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "conversation-06-review-1",
+          "type": "sentence",
+          "arabic": "أَنَا طَالِبَةٌ",
+          "transliteration": "anā ṭālibatun",
+          "audioText": "أَنَا طَالِبَةٌ",
+          "meaning": {
+            "en": "I am a female student.",
+            "ur": "میں ایک خاتون طالب علم ہوں۔",
+            "id": "Saya seorang siswi.",
+            "tr": "Ben bir kız öğrenciyim.",
+            "fr": "Je suis une étudiante."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-04-i-am-student-f.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-06-review-2",
+          "type": "sentence",
+          "arabic": "أَتَعَلَّمُ الْعَرَبِيَّةَ",
+          "transliteration": "ataʿallamu l-ʿarabiyyata",
+          "audioText": "أَتَعَلَّمُ الْعَرَبِيَّةَ",
+          "meaning": {
+            "en": "I am learning Arabic.",
+            "ur": "میں عربی سیکھ رہا ہوں۔",
+            "id": "Saya sedang belajar bahasa Arab.",
+            "tr": "Arapça öğreniyorum.",
+            "fr": "J'apprends l'arabe."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-04-i-learn-arabic.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-06-review-3",
+          "type": "question",
+          "arabic": "مِنْ أَيْنَ أَنْتَ؟",
+          "transliteration": "min ayna anta?",
+          "audioText": "مِنْ أَيْنَ أَنْتَ؟",
+          "meaning": {
+            "en": "Where are you from? (to a man)",
+            "ur": "آپ کہاں سے ہیں؟ (ایک آدمی کو)",
+            "id": "Asalmu dari mana? (kepada seorang pria)",
+            "tr": "Nerelisin (bir erkeğe)",
+            "fr": "D'où venez-vous? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-05-where-from-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-06-review-4",
+          "type": "sentence",
+          "arabic": "أَنَا مِنْ مِصْرَ",
+          "transliteration": "anā min Miṣra",
+          "audioText": "أَنَا مِنْ مِصْرَ",
+          "meaning": {
+            "en": "I am from Egypt.",
+            "ur": "میں مصر سے ہوں۔",
+            "id": "Saya dari Mesir.",
+            "tr": "Ben Mısırlıyım.",
+            "fr": "Je viens d'Egypte."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-05-i-am-from-egypt.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-06-review-5",
+          "type": "question",
+          "arabic": "هَلْ تَتَكَلَّمُ الْعَرَبِيَّةَ؟",
+          "transliteration": "hal tatakallamu l-ʿarabiyyata?",
+          "audioText": "هَلْ تَتَكَلَّمُ الْعَرَبِيَّةَ؟",
+          "meaning": {
+            "en": "Do you speak Arabic? (to a man)",
+            "ur": "کیا آپ عربی بولتے ہیں؟ (ایک آدمی کو)",
+            "id": "Apakah Anda berbicara bahasa Arab? (kepada seorang pria)",
+            "tr": "Arapça biliyor musun? (bir erkeğe)",
+            "fr": "Parlez-vous arabe ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-05-do-you-speak-arabic.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-06-please-m",
+          "type": "phrase",
+          "arabic": "مِنْ فَضْلِكَ",
+          "transliteration": "min faḍlika",
+          "audioText": "مِنْ فَضْلِكَ",
+          "meaning": {
+            "en": "Please. (to a man)",
+            "ur": "مہربانی فرمائیں۔ (ایک آدمی کو)",
+            "id": "Silakan. (kepada seorang pria)",
+            "tr": "Lütfen. (bir erkeğe)",
+            "fr": "S'il te plaît. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-06-please-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-06-speak-slowly",
+          "type": "request",
+          "arabic": "تَكَلَّمْ بِبُطْءٍ، مِنْ فَضْلِكَ",
+          "transliteration": "takallam bibutʾin, min faḍlika",
+          "audioText": "تَكَلَّمْ بِبُطْءٍ، مِنْ فَضْلِكَ",
+          "meaning": {
+            "en": "Please speak slowly. (to a man)",
+            "ur": "براہ کرم آہستہ بولیں۔ (ایک آدمی کو)",
+            "id": "Tolong bicara perlahan. (kepada seorang pria)",
+            "tr": "Lütfen yavaş konuşun. (bir erkeğe)",
+            "fr": "S'il vous plaît, parlez lentement. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-06-speak-slowly.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-06-repeat-please",
+          "type": "request",
+          "arabic": "أَعِدْ ذَلِكَ، مِنْ فَضْلِكَ",
+          "transliteration": "aʿid dhālika, min faḍlika",
+          "audioText": "أَعِدْ ذَلِكَ، مِنْ فَضْلِكَ",
+          "meaning": {
+            "en": "Please repeat that. (to a man)",
+            "ur": "براہ کرم اسے دہرائیں۔ (ایک آدمی کو)",
+            "id": "Tolong ulangi itu. (kepada seorang pria)",
+            "tr": "Lütfen bunu tekrar edin. (bir erkeğe)",
+            "fr": "Veuillez répéter cela. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-06-repeat-please.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "conversation-07",
+      "order": 7,
+      "title": {
+        "en": "Thanks and apologies",
+        "ur": "شکریہ اور معذرت",
+        "id": "Terima kasih dan permintaan maaf",
+        "tr": "Teşekkürler ve özür dileriz",
+        "fr": "Merci et excuses"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Thanks and apologies.",
+        "ur": "شکریہ اور معذرت کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Terima kasih dan permintaan maaf.",
+        "tr": "Teşekkür ve özür dilemeyle ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les remerciements et les excuses."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "conversation-07-review-1",
+          "type": "sentence",
+          "arabic": "أَنَا مِنْ مِصْرَ",
+          "transliteration": "anā min Miṣra",
+          "audioText": "أَنَا مِنْ مِصْرَ",
+          "meaning": {
+            "en": "I am from Egypt.",
+            "ur": "میں مصر سے ہوں۔",
+            "id": "Saya dari Mesir.",
+            "tr": "Ben Mısırlıyım.",
+            "fr": "Je viens d'Egypte."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-05-i-am-from-egypt.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-07-review-2",
+          "type": "question",
+          "arabic": "هَلْ تَتَكَلَّمُ الْعَرَبِيَّةَ؟",
+          "transliteration": "hal tatakallamu l-ʿarabiyyata?",
+          "audioText": "هَلْ تَتَكَلَّمُ الْعَرَبِيَّةَ؟",
+          "meaning": {
+            "en": "Do you speak Arabic? (to a man)",
+            "ur": "کیا آپ عربی بولتے ہیں؟ (ایک آدمی کو)",
+            "id": "Apakah Anda berbicara bahasa Arab? (kepada seorang pria)",
+            "tr": "Arapça biliyor musun? (bir erkeğe)",
+            "fr": "Parlez-vous arabe ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-05-do-you-speak-arabic.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-07-review-3",
+          "type": "phrase",
+          "arabic": "مِنْ فَضْلِكَ",
+          "transliteration": "min faḍlika",
+          "audioText": "مِنْ فَضْلِكَ",
+          "meaning": {
+            "en": "Please. (to a man)",
+            "ur": "مہربانی فرمائیں۔ (ایک آدمی کو)",
+            "id": "Silakan. (kepada seorang pria)",
+            "tr": "Lütfen. (bir erkeğe)",
+            "fr": "S'il te plaît. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-06-please-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-07-review-4",
+          "type": "request",
+          "arabic": "تَكَلَّمْ بِبُطْءٍ، مِنْ فَضْلِكَ",
+          "transliteration": "takallam bibutʾin, min faḍlika",
+          "audioText": "تَكَلَّمْ بِبُطْءٍ، مِنْ فَضْلِكَ",
+          "meaning": {
+            "en": "Please speak slowly. (to a man)",
+            "ur": "براہ کرم آہستہ بولیں۔ (ایک آدمی کو)",
+            "id": "Tolong bicara perlahan. (kepada seorang pria)",
+            "tr": "Lütfen yavaş konuşun. (bir erkeğe)",
+            "fr": "S'il vous plaît, parlez lentement. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-06-speak-slowly.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-07-review-5",
+          "type": "request",
+          "arabic": "أَعِدْ ذَلِكَ، مِنْ فَضْلِكَ",
+          "transliteration": "aʿid dhālika, min faḍlika",
+          "audioText": "أَعِدْ ذَلِكَ، مِنْ فَضْلِكَ",
+          "meaning": {
+            "en": "Please repeat that. (to a man)",
+            "ur": "براہ کرم اسے دہرائیں۔ (ایک آدمی کو)",
+            "id": "Tolong ulangi itu. (kepada seorang pria)",
+            "tr": "Lütfen bunu tekrar edin. (bir erkeğe)",
+            "fr": "Veuillez répéter cela. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-06-repeat-please.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-07-thank-you",
+          "type": "phrase",
+          "arabic": "شُكْرًا جَزِيلًا",
+          "transliteration": "shukran jazīlan",
+          "audioText": "شُكْرًا جَزِيلًا",
+          "meaning": {
+            "en": "Thank you very much.",
+            "ur": "آپ کا بہت بہت شکریہ۔",
+            "id": "Terima kasih banyak.",
+            "tr": "Çok teşekkür ederim.",
+            "fr": "Merci beaucoup."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-07-thank-you.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-07-you-are-welcome",
+          "type": "phrase",
+          "arabic": "عَفْوًا",
+          "transliteration": "ʿafwan",
+          "audioText": "عَفْوًا",
+          "meaning": {
+            "en": "You are welcome.",
+            "ur": "آپ کا استقبال ہے۔",
+            "id": "Terima kasih kembali.",
+            "tr": "Rica ederim.",
+            "fr": "Je vous en prie."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-07-you-are-welcome.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-07-excuse-me",
+          "type": "phrase",
+          "arabic": "عُذْرًا",
+          "transliteration": "ʿudhran",
+          "audioText": "عُذْرًا",
+          "meaning": {
+            "en": "Excuse me; I am sorry.",
+            "ur": "معاف کیجئے گا مجھے افسوس ہے",
+            "id": "Permisi; Saya minta maaf.",
+            "tr": "Affedersin; Üzgünüm.",
+            "fr": "Excusez-moi; Je suis désolé."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-07-excuse-me.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "conversation-08",
+      "order": 8,
+      "title": {
+        "en": "Asking for help",
+        "ur": "مدد طلب کرنا",
+        "id": "Meminta bantuan",
+        "tr": "Yardım istemek",
+        "fr": "Demander de l'aide"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Asking for help.",
+        "ur": "مدد طلب کرنے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Meminta bantuan.",
+        "tr": "Yardım istemekle ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Entraînez-vous à utiliser des mots arabes utiles et des phrases courtes sur le thème Demander de l'aide."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "conversation-08-review-1",
+          "type": "request",
+          "arabic": "تَكَلَّمْ بِبُطْءٍ، مِنْ فَضْلِكَ",
+          "transliteration": "takallam bibutʾin, min faḍlika",
+          "audioText": "تَكَلَّمْ بِبُطْءٍ، مِنْ فَضْلِكَ",
+          "meaning": {
+            "en": "Please speak slowly. (to a man)",
+            "ur": "براہ کرم آہستہ بولیں۔ (ایک آدمی کو)",
+            "id": "Tolong bicara perlahan. (kepada seorang pria)",
+            "tr": "Lütfen yavaş konuşun. (bir erkeğe)",
+            "fr": "S'il vous plaît, parlez lentement. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-06-speak-slowly.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-08-review-2",
+          "type": "request",
+          "arabic": "أَعِدْ ذَلِكَ، مِنْ فَضْلِكَ",
+          "transliteration": "aʿid dhālika, min faḍlika",
+          "audioText": "أَعِدْ ذَلِكَ، مِنْ فَضْلِكَ",
+          "meaning": {
+            "en": "Please repeat that. (to a man)",
+            "ur": "براہ کرم اسے دہرائیں۔ (ایک آدمی کو)",
+            "id": "Tolong ulangi itu. (kepada seorang pria)",
+            "tr": "Lütfen bunu tekrar edin. (bir erkeğe)",
+            "fr": "Veuillez répéter cela. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-06-repeat-please.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-08-review-3",
+          "type": "phrase",
+          "arabic": "شُكْرًا جَزِيلًا",
+          "transliteration": "shukran jazīlan",
+          "audioText": "شُكْرًا جَزِيلًا",
+          "meaning": {
+            "en": "Thank you very much.",
+            "ur": "آپ کا بہت بہت شکریہ۔",
+            "id": "Terima kasih banyak.",
+            "tr": "Çok teşekkür ederim.",
+            "fr": "Merci beaucoup."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-07-thank-you.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-08-review-4",
+          "type": "phrase",
+          "arabic": "عَفْوًا",
+          "transliteration": "ʿafwan",
+          "audioText": "عَفْوًا",
+          "meaning": {
+            "en": "You are welcome.",
+            "ur": "آپ کا استقبال ہے۔",
+            "id": "Terima kasih kembali.",
+            "tr": "Rica ederim.",
+            "fr": "Je vous en prie."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-07-you-are-welcome.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-08-review-5",
+          "type": "phrase",
+          "arabic": "عُذْرًا",
+          "transliteration": "ʿudhran",
+          "audioText": "عُذْرًا",
+          "meaning": {
+            "en": "Excuse me; I am sorry.",
+            "ur": "معاف کیجئے گا مجھے افسوس ہے",
+            "id": "Permisi; Saya minta maaf.",
+            "tr": "Affedersin; Üzgünüm.",
+            "fr": "Excusez-moi; Je suis désolé."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-07-excuse-me.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-08-can-you-help-m",
+          "type": "question",
+          "arabic": "هَلْ يُمْكِنُكَ مُسَاعَدَتِي؟",
+          "transliteration": "hal yumkinuka musāʿadatī?",
+          "audioText": "هَلْ يُمْكِنُكَ مُسَاعَدَتِي؟",
+          "meaning": {
+            "en": "Can you help me? (to a man)",
+            "ur": "کیا آپ میری مدد کر سکتے ہیں؟ (ایک آدمی کو)",
+            "id": "Bisakah Anda membantu saya? (kepada seorang pria)",
+            "tr": "Bana yardım eder misiniz? (bir erkeğe)",
+            "fr": "Pouvez-vous m'aider? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-08-can-you-help-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-08-i-do-not-understand",
+          "type": "sentence",
+          "arabic": "لَا أَفْهَمُ",
+          "transliteration": "lā afhamu",
+          "audioText": "لَا أَفْهَمُ",
+          "meaning": {
+            "en": "I do not understand.",
+            "ur": "میری سمجھ میں نہیں آتا۔",
+            "id": "Saya tidak mengerti.",
+            "tr": "Anlamıyorum.",
+            "fr": "Je ne comprends pas."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-08-i-do-not-understand.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-08-what-does-this-mean",
+          "type": "question",
+          "arabic": "مَاذَا يَعْنِي هَذَا؟",
+          "transliteration": "mādhā yaʿnī hādhā?",
+          "audioText": "مَاذَا يَعْنِي هَذَا؟",
+          "meaning": {
+            "en": "What does this mean?",
+            "ur": "اس کا کیا مطلب ہے؟",
+            "id": "Apa artinya ini?",
+            "tr": "Bu ne anlama gelir?",
+            "fr": "Qu'est-ce que cela signifie?"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-08-what-does-this-mean.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "conversation-09",
+      "order": 9,
+      "title": {
+        "en": "Meeting people",
+        "ur": "لوگوں سے ملنا",
+        "id": "Bertemu orang",
+        "tr": "İnsanlarla tanışmak",
+        "fr": "Rencontrer des gens"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Meeting people.",
+        "ur": "لوگوں سے ملنے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Bertemu orang.",
+        "tr": "İnsanlarla tanışmak hakkında yararlı Arapça kelimeler ve kısa ifadeler uygulayın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les rencontres avec des gens."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "conversation-09-review-1",
+          "type": "phrase",
+          "arabic": "عَفْوًا",
+          "transliteration": "ʿafwan",
+          "audioText": "عَفْوًا",
+          "meaning": {
+            "en": "You are welcome.",
+            "ur": "آپ کا استقبال ہے۔",
+            "id": "Terima kasih kembali.",
+            "tr": "Rica ederim.",
+            "fr": "Je vous en prie."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-07-you-are-welcome.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-09-review-2",
+          "type": "phrase",
+          "arabic": "عُذْرًا",
+          "transliteration": "ʿudhran",
+          "audioText": "عُذْرًا",
+          "meaning": {
+            "en": "Excuse me; I am sorry.",
+            "ur": "معاف کیجئے گا مجھے افسوس ہے",
+            "id": "Permisi; Saya minta maaf.",
+            "tr": "Affedersin; Üzgünüm.",
+            "fr": "Excusez-moi; Je suis désolé."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-07-excuse-me.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-09-review-3",
+          "type": "question",
+          "arabic": "هَلْ يُمْكِنُكَ مُسَاعَدَتِي؟",
+          "transliteration": "hal yumkinuka musāʿadatī?",
+          "audioText": "هَلْ يُمْكِنُكَ مُسَاعَدَتِي؟",
+          "meaning": {
+            "en": "Can you help me? (to a man)",
+            "ur": "کیا آپ میری مدد کر سکتے ہیں؟ (ایک آدمی کو)",
+            "id": "Bisakah Anda membantu saya? (kepada seorang pria)",
+            "tr": "Bana yardım eder misiniz? (bir erkeğe)",
+            "fr": "Pouvez-vous m'aider? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-08-can-you-help-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-09-review-4",
+          "type": "sentence",
+          "arabic": "لَا أَفْهَمُ",
+          "transliteration": "lā afhamu",
+          "audioText": "لَا أَفْهَمُ",
+          "meaning": {
+            "en": "I do not understand.",
+            "ur": "میری سمجھ میں نہیں آتا۔",
+            "id": "Saya tidak mengerti.",
+            "tr": "Anlamıyorum.",
+            "fr": "Je ne comprends pas."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-08-i-do-not-understand.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-09-review-5",
+          "type": "question",
+          "arabic": "مَاذَا يَعْنِي هَذَا؟",
+          "transliteration": "mādhā yaʿnī hādhā?",
+          "audioText": "مَاذَا يَعْنِي هَذَا؟",
+          "meaning": {
+            "en": "What does this mean?",
+            "ur": "اس کا کیا مطلب ہے؟",
+            "id": "Apa artinya ini?",
+            "tr": "Bu ne anlama gelir?",
+            "fr": "Qu'est-ce que cela signifie?"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-08-what-does-this-mean.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-09-nice-to-meet-you-m",
+          "type": "phrase",
+          "arabic": "سُرِرْتُ بِلِقَائِكَ",
+          "transliteration": "surirtu biliqāʾika",
+          "audioText": "سُرِرْتُ بِلِقَائِكَ",
+          "meaning": {
+            "en": "Nice to meet you. (to a man)",
+            "ur": "آپ سے مل کر خوشی ہوئی۔ (ایک آدمی کو)",
+            "id": "Senang berkenalan dengan Anda. (kepada seorang pria)",
+            "tr": "Tanıştığıma memnun oldum. (bir erkeğe)",
+            "fr": "Ravi de vous rencontrer. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-09-nice-to-meet-you-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-09-where-do-you-live",
+          "type": "question",
+          "arabic": "أَيْنَ تَسْكُنُ؟",
+          "transliteration": "ayna taskunu?",
+          "audioText": "أَيْنَ تَسْكُنُ؟",
+          "meaning": {
+            "en": "Where do you live? (to a man)",
+            "ur": "آپ کہاں رہتے ہیں؟ (ایک آدمی کو)",
+            "id": "Dimana kamu tinggal? (kepada seorang pria)",
+            "tr": "Nerede yaşıyorsunuz? (bir erkeğe)",
+            "fr": "Où habites-tu ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-09-where-do-you-live.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-09-i-live-in-cairo",
+          "type": "sentence",
+          "arabic": "أَسْكُنُ فِي الْقَاهِرَةِ",
+          "transliteration": "askunu fī l-Qāhirati",
+          "audioText": "أَسْكُنُ فِي الْقَاهِرَةِ",
+          "meaning": {
+            "en": "I live in Cairo.",
+            "ur": "میں قاہرہ میں رہتا ہوں۔",
+            "id": "Saya tinggal di Kairo.",
+            "tr": "Kahire'de yaşıyorum.",
+            "fr": "J'habite au Caire."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-09-i-live-in-cairo.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "conversation-10",
+      "order": 10,
+      "title": {
+        "en": "A short conversation",
+        "ur": "ایک مختصر گفتگو",
+        "id": "Percakapan singkat",
+        "tr": "Kısa bir konuşma",
+        "fr": "Une courte conversation"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about A short conversation.",
+        "ur": "ایک مختصر گفتگو کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang Percakapan singkat.",
+        "tr": "Kısa bir konuşma ile ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur une courte conversation."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "conversation-10-review-1",
+          "type": "sentence",
+          "arabic": "لَا أَفْهَمُ",
+          "transliteration": "lā afhamu",
+          "audioText": "لَا أَفْهَمُ",
+          "meaning": {
+            "en": "I do not understand.",
+            "ur": "میری سمجھ میں نہیں آتا۔",
+            "id": "Saya tidak mengerti.",
+            "tr": "Anlamıyorum.",
+            "fr": "Je ne comprends pas."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-08-i-do-not-understand.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-10-review-2",
+          "type": "question",
+          "arabic": "مَاذَا يَعْنِي هَذَا؟",
+          "transliteration": "mādhā yaʿnī hādhā?",
+          "audioText": "مَاذَا يَعْنِي هَذَا؟",
+          "meaning": {
+            "en": "What does this mean?",
+            "ur": "اس کا کیا مطلب ہے؟",
+            "id": "Apa artinya ini?",
+            "tr": "Bu ne anlama gelir?",
+            "fr": "Qu'est-ce que cela signifie?"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-08-what-does-this-mean.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-10-review-3",
+          "type": "phrase",
+          "arabic": "سُرِرْتُ بِلِقَائِكَ",
+          "transliteration": "surirtu biliqāʾika",
+          "audioText": "سُرِرْتُ بِلِقَائِكَ",
+          "meaning": {
+            "en": "Nice to meet you. (to a man)",
+            "ur": "آپ سے مل کر خوشی ہوئی۔ (ایک آدمی کو)",
+            "id": "Senang berkenalan dengan Anda. (kepada seorang pria)",
+            "tr": "Tanıştığıma memnun oldum. (bir erkeğe)",
+            "fr": "Ravi de vous rencontrer. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-09-nice-to-meet-you-m.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-10-review-4",
+          "type": "question",
+          "arabic": "أَيْنَ تَسْكُنُ؟",
+          "transliteration": "ayna taskunu?",
+          "audioText": "أَيْنَ تَسْكُنُ؟",
+          "meaning": {
+            "en": "Where do you live? (to a man)",
+            "ur": "آپ کہاں رہتے ہیں؟ (ایک آدمی کو)",
+            "id": "Dimana kamu tinggal? (kepada seorang pria)",
+            "tr": "Nerede yaşıyorsunuz? (bir erkeğe)",
+            "fr": "Où habites-tu ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-09-where-do-you-live.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-10-review-5",
+          "type": "sentence",
+          "arabic": "أَسْكُنُ فِي الْقَاهِرَةِ",
+          "transliteration": "askunu fī l-Qāhirati",
+          "audioText": "أَسْكُنُ فِي الْقَاهِرَةِ",
+          "meaning": {
+            "en": "I live in Cairo.",
+            "ur": "میں قاہرہ میں رہتا ہوں۔",
+            "id": "Saya tinggal di Kairo.",
+            "tr": "Kahire'de yaşıyorum.",
+            "fr": "J'habite au Caire."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-09-i-live-in-cairo.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-10-conversation-name",
+          "type": "sentence",
+          "arabic": "اِسْمِي فَاطِمَةُ، وَأَنَا مِنْ مِصْرَ",
+          "transliteration": "ismī Fāṭimatu, wa-anā min Miṣra",
+          "audioText": "اِسْمِي فَاطِمَةُ، وَأَنَا مِنْ مِصْرَ",
+          "meaning": {
+            "en": "My name is Fatima, and I am from Egypt.",
+            "ur": "میرا نام فاطمہ ہے اور میں مصر سے ہوں۔",
+            "id": "Nama saya Fatima, dan saya dari Mesir.",
+            "tr": "Adım Fatima ve Mısırlıyım.",
+            "fr": "Je m'appelle Fatima et je viens d'Égypte."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-10-conversation-name.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-10-conversation-student",
+          "type": "sentence",
+          "arabic": "أَنَا طَالِبَةٌ وَأَتَعَلَّمُ الْعَرَبِيَّةَ",
+          "transliteration": "anā ṭālibatun wa-ataʿallamu l-ʿarabiyyata",
+          "audioText": "أَنَا طَالِبَةٌ وَأَتَعَلَّمُ الْعَرَبِيَّةَ",
+          "meaning": {
+            "en": "I am a student, and I am learning Arabic.",
+            "ur": "میں ایک طالب علم ہوں، اور میں عربی سیکھ رہا ہوں۔",
+            "id": "Saya seorang pelajar, dan saya sedang belajar bahasa Arab.",
+            "tr": "Öğrenciyim ve Arapça öğreniyorum.",
+            "fr": "Je suis étudiant et j'apprends l'arabe."
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-10-conversation-student.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "conversation-10-conversation-thanks",
+          "type": "sentence",
+          "arabic": "سُرِرْتُ بِلِقَائِكِ، شُكْرًا",
+          "transliteration": "surirtu biliqāʾiki, shukran",
+          "audioText": "سُرِرْتُ بِلِقَائِكِ، شُكْرًا",
+          "meaning": {
+            "en": "Nice to meet you; thank you. (to a woman)",
+            "ur": "آپ سے مل کر خوشی ہوئی؛ شکریہ (عورت کو)",
+            "id": "Senang berkenalan dengan Anda; Terima kasih. (kepada seorang wanita)",
+            "tr": "Tanıştığıma memnun oldum; Teşekkürler. (bir kadına)",
+            "fr": "Ravi de vous rencontrer; merci. (à une femme)"
+          },
+          "audio": {
+            "path": "audio/conversation/conversation-10-conversation-thanks.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    }
+  ]
+}

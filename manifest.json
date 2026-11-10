@@ -9,7 +9,13 @@
     "tr": "Arapça",
     "fr": "Arabe"
   },
-  "translationLanguages": ["en", "ur", "id", "tr", "fr"],
+  "translationLanguages": [
+    "en",
+    "ur",
+    "id",
+    "tr",
+    "fr"
+  ],
   "levels": [
     {
       "id": "basic",
@@ -40,6 +46,126 @@
       "quizFile": "arabic/words-quizzes.json",
       "lessonFiles": [
         "arabic/words-and-sentences.json"
+      ]
+    },
+    {
+      "id": "conversation",
+      "order": 3,
+      "title": {
+        "en": "Everyday Conversation",
+        "ur": "روزمرہ کی گفتگو",
+        "id": "Percakapan Sehari-hari",
+        "tr": "Günlük Konuşma",
+        "fr": "Conversation quotidienne"
+      },
+      "quizFile": "arabic/conversation-quizzes.json",
+      "lessonFiles": [
+        "arabic/conversation.json"
+      ]
+    },
+    {
+      "id": "places",
+      "order": 4,
+      "title": {
+        "en": "Home, Family and Places",
+        "ur": "گھر، خاندان اور مقامات",
+        "id": "Rumah, Keluarga dan Tempat",
+        "tr": "Ev, Aile ve Yerler",
+        "fr": "Maison, famille et lieux"
+      },
+      "quizFile": "arabic/places-quizzes.json",
+      "lessonFiles": [
+        "arabic/places.json"
+      ]
+    },
+    {
+      "id": "descriptions",
+      "order": 5,
+      "title": {
+        "en": "Descriptions and Colors",
+        "ur": "تفصیل اور رنگ",
+        "id": "Deskripsi dan Warna",
+        "tr": "Açıklamalar ve Renkler",
+        "fr": "Descriptions et couleurs"
+      },
+      "quizFile": "arabic/descriptions-quizzes.json",
+      "lessonFiles": [
+        "arabic/descriptions.json"
+      ]
+    },
+    {
+      "id": "sentences",
+      "order": 6,
+      "title": {
+        "en": "Building Simple Sentences",
+        "ur": "سادہ جملوں کی تعمیر",
+        "id": "Membangun Kalimat Sederhana",
+        "tr": "Basit Cümleler Kurmak",
+        "fr": "Construire des phrases simples"
+      },
+      "quizFile": "arabic/sentences-quizzes.json",
+      "lessonFiles": [
+        "arabic/sentences.json"
+      ]
+    },
+    {
+      "id": "verbs",
+      "order": 7,
+      "title": {
+        "en": "Everyday Actions",
+        "ur": "روزمرہ کے اعمال",
+        "id": "Tindakan Sehari-hari",
+        "tr": "Günlük Eylemler",
+        "fr": "Actions quotidiennes"
+      },
+      "quizFile": "arabic/verbs-quizzes.json",
+      "lessonFiles": [
+        "arabic/verbs.json"
+      ]
+    },
+    {
+      "id": "routine",
+      "order": 8,
+      "title": {
+        "en": "Time, Numbers and Daily Routine",
+        "ur": "وقت، نمبر اور روزانہ کا معمول",
+        "id": "Waktu, Angka dan Rutinitas Harian",
+        "tr": "Zaman, Sayılar ve Günlük Rutin",
+        "fr": "Heure, chiffres et routine quotidienne"
+      },
+      "quizFile": "arabic/routine-quizzes.json",
+      "lessonFiles": [
+        "arabic/routine.json"
+      ]
+    },
+    {
+      "id": "tenses",
+      "order": 9,
+      "title": {
+        "en": "Past and Future",
+        "ur": "ماضی اور مستقبل",
+        "id": "Masa Lalu dan Masa Depan",
+        "tr": "Geçmiş ve Gelecek",
+        "fr": "Passé et futur"
+      },
+      "quizFile": "arabic/tenses-quizzes.json",
+      "lessonFiles": [
+        "arabic/tenses.json"
+      ]
+    },
+    {
+      "id": "dialogues",
+      "order": 10,
+      "title": {
+        "en": "Everyday Dialogues and Reading",
+        "ur": "روزمرہ کے مکالمے اور پڑھنا",
+        "id": "Dialog dan Membaca Sehari-hari",
+        "tr": "Gündelik Diyaloglar ve Okuma",
+        "fr": "Dialogues et lectures quotidiens"
+      },
+      "quizFile": "arabic/dialogues-quizzes.json",
+      "lessonFiles": [
+        "arabic/dialogues.json"
       ]
     }
   ]

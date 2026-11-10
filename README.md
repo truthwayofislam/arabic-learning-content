@@ -42,7 +42,26 @@ publishing.
 
 The Words & Simple Sentences lessons, translations, quizzes, and 89 Edge TTS
 clips (`ar-SA-HamedNeural`, +2 dB) have been reviewed. The content is mapped in
-the manifest but still needs app integration before learners can access the
-new level.
+the manifest; Noor accesses it through the content revision pinned by the app.
+
+## Future levels 3–10
+
+`tools/future-levels-seed.json` contains the authored Arabic material for
+levels 3–10. Run `python3 tools/build_future_levels.py build` to generate their
+localized lesson and quiz JSON and the audio-review page. This step uses the
+public Google Translate endpoint for English meanings and lesson text; review
+the translations before publishing.
+
+With `edge-tts` and `ffmpeg` installed, run
+`python3 tools/build_future_levels.py audio` to create draft clips under
+`audio/draft-next-levels/`. The review page is
+`audio/review-next-levels.html`; serve the repository over HTTP to review it.
+After approving all clips, run
+`python3 tools/build_future_levels.py map-audio` to add their `audio.path`
+metadata to lesson JSON and move approved clips into their final per-level
+audio directories. This command checks that every clip exists and keeps the
+reused review-item audio paths intact. Finally run
+`python3 tools/build_future_levels.py validate` to check schema, quiz mappings,
+localization, and every audio path.
 # arabic-learning-content
 # arabic-learning-content
