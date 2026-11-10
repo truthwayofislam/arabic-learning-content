@@ -1,0 +1,1134 @@
+{
+  "schemaVersion": 1,
+  "courseId": "arabic",
+  "levelId": "words",
+  "unitId": "words-and-sentences",
+  "translationLanguages": ["en", "ur", "id", "tr", "fr"],
+  "lessons": [
+    {
+      "id": "words-01",
+      "order": 1,
+      "title": {
+        "en": "Everyday things",
+        "ur": "روزمرہ کی چیزیں",
+        "id": "Benda sehari-hari",
+        "tr": "Günlük eşyalar",
+        "fr": "Les objets du quotidien"
+      },
+      "objective": {
+        "en": "Read familiar everyday nouns with the definite article al-.",
+        "ur": "لامِ تعریف کے ساتھ روزمرہ کے مانوس اسم پڑھیں۔",
+        "id": "Baca kata benda sehari-hari yang akrab dengan kata sandang al-.",
+        "tr": "Belirlilik takısı el- ile günlük isimleri okuyun.",
+        "fr": "Lisez des noms du quotidien avec l’article défini al-."
+      },
+      "instruction": {
+        "en": "Listen for al- at the start of each word. The displayed vowel endings can change in a sentence; for now, focus on recognizing each word and its meaning.",
+        "ur": "ہر لفظ کے شروع میں ال سنیں۔ جملے میں آخری حرکات بدل سکتی ہیں؛ فی الحال ہر لفظ اور اس کے معنی پہچاننے پر توجہ دیں۔",
+        "id": "Dengarkan al- di awal setiap kata. Akhiran vokal dapat berubah dalam kalimat; untuk sekarang, fokuslah mengenali kata dan artinya.",
+        "tr": "Her kelimenin başındaki el- takısını dinleyin. Cümledeki son ünlüler değişebilir; şimdilik kelimeleri ve anlamlarını tanımaya odaklanın.",
+        "fr": "Écoutez al- au début de chaque mot. Les voyelles finales peuvent changer dans une phrase ; concentrez-vous d’abord sur les mots et leur sens."
+      },
+      "items": [
+        {
+          "id": "words-01-book",
+          "type": "word",
+          "arabic": "الْكِتَابُ",
+          "transliteration": "al-kitābu",
+          "audioText": "الْكِتَابُ",
+          "audio": {"path": "audio/words-01/words-01-book.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "the book", "ur": "کتاب", "id": "buku itu", "tr": "kitap", "fr": "le livre"}
+        },
+        {
+          "id": "words-01-house",
+          "type": "word",
+          "arabic": "الْبَيْتُ",
+          "transliteration": "al-baytu",
+          "audioText": "الْبَيْتُ",
+          "audio": {"path": "audio/words-01/words-01-house.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "the house", "ur": "گھر", "id": "rumah itu", "tr": "ev", "fr": "la maison"}
+        },
+        {
+          "id": "words-01-door",
+          "type": "word",
+          "arabic": "الْبَابُ",
+          "transliteration": "al-bābu",
+          "audioText": "الْبَابُ",
+          "audio": {"path": "audio/words-01/words-01-door.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "the door", "ur": "دروازہ", "id": "pintu itu", "tr": "kapı", "fr": "la porte"}
+        },
+        {
+          "id": "words-01-mosque",
+          "type": "word",
+          "arabic": "الْمَسْجِدُ",
+          "transliteration": "al-masjidu",
+          "audioText": "الْمَسْجِدُ",
+          "audio": {"path": "audio/words-01/words-01-mosque.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "the mosque", "ur": "مسجد", "id": "masjid itu", "tr": "cami", "fr": "la mosquée"}
+        },
+        {
+          "id": "words-01-pen",
+          "type": "word",
+          "arabic": "الْقَلَمُ",
+          "transliteration": "al-qalamu",
+          "audioText": "الْقَلَمُ",
+          "audio": {"path": "audio/words-01/words-01-pen.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "the pen", "ur": "قلم", "id": "pena itu", "tr": "kalem", "fr": "le stylo"}
+        },
+        {
+          "id": "words-01-teacher",
+          "type": "word",
+          "arabic": "الْمُعَلِّمُ",
+          "transliteration": "al-muʿallimu",
+          "audioText": "الْمُعَلِّمُ",
+          "audio": {"path": "audio/words-01/words-01-teacher.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "the teacher (male)", "ur": "معلم", "id": "guru laki-laki itu", "tr": "erkek öğretmen", "fr": "l’enseignant"}
+        },
+        {
+          "id": "words-01-desk",
+          "type": "word",
+          "arabic": "الْمَكْتَبُ",
+          "transliteration": "al-maktabu",
+          "audioText": "الْمَكْتَبُ",
+          "audio": {"path": "audio/words-01/words-01-desk.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "the desk", "ur": "میز", "id": "meja itu", "tr": "çalışma masası", "fr": "le bureau"}
+        },
+        {
+          "id": "words-01-student",
+          "type": "word",
+          "arabic": "الطَّالِبُ",
+          "transliteration": "aṭ-ṭālibu",
+          "audioText": "الطَّالِبُ",
+          "audio": {"path": "audio/words-01/words-01-student.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "the student (male)", "ur": "طالب علم", "id": "siswa itu", "tr": "erkek öğrenci", "fr": "l’étudiant"}
+        }
+      ]
+    },
+    {
+      "id": "words-02",
+      "order": 2,
+      "title": {
+        "en": "This is…",
+        "ur": "یہ ہے۔۔۔",
+        "id": "Ini adalah…",
+        "tr": "Bu…",
+        "fr": "C’est…"
+      },
+      "objective": {
+        "en": "Use hādhā and hādhihi to point out a nearby masculine or feminine noun.",
+        "ur": "قریب مذکر یا مؤنث اسم کی طرف اشارہ کرنے کے لیے ہٰذا اور ہٰذِهِ استعمال کریں۔",
+        "id": "Gunakan hādhā dan hādhihi untuk menunjuk kata benda maskulin atau feminin di dekat.",
+        "tr": "Yakındaki eril veya dişil bir ismi göstermek için hādhā ve hādhihi kullanın.",
+        "fr": "Utilisez hādhā et hādhihi pour désigner un nom masculin ou féminin proche."
+      },
+      "instruction": {
+        "en": "Hādhā is used with masculine nouns; hādhihi is used with feminine nouns. Listen to the whole phrase, not just the first word.",
+        "ur": "ہٰذا مذکر اسم کے ساتھ اور ہٰذِهِ مؤنث اسم کے ساتھ آتا ہے۔ صرف پہلے لفظ کے بجائے پورا فقرہ سنیں۔",
+        "id": "Hādhā dipakai dengan kata benda maskulin; hādhihi dengan kata benda feminin. Dengarkan seluruh frasa.",
+        "tr": "Hādhā eril, hādhihi dişil isimlerle kullanılır. Yalnızca ilk kelimeyi değil, tüm ifadeyi dinleyin.",
+        "fr": "Hādhā s’emploie avec un nom masculin et hādhihi avec un nom féminin. Écoutez toute l’expression."
+      },
+      "items": [
+        {
+          "id": "words-02-this-book",
+          "type": "sentence",
+          "arabic": "هَذَا كِتَابٌ",
+          "transliteration": "hādhā kitābun",
+          "audioText": "هَذَا كِتَابٌ",
+          "audio": {"path": "audio/words-02/words-02-this-book.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "This is a book.", "ur": "یہ ایک کتاب ہے۔", "id": "Ini sebuah buku.", "tr": "Bu bir kitaptır.", "fr": "C’est un livre."}
+        },
+        {
+          "id": "words-02-this-house",
+          "type": "sentence",
+          "arabic": "هَذَا بَيْتٌ",
+          "transliteration": "hādhā baytun",
+          "audioText": "هَذَا بَيْتٌ",
+          "audio": {"path": "audio/words-02/words-02-this-house.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "This is a house.", "ur": "یہ ایک گھر ہے۔", "id": "Ini sebuah rumah.", "tr": "Bu bir evdir.", "fr": "C’est une maison."}
+        },
+        {
+          "id": "words-02-this-school",
+          "type": "sentence",
+          "arabic": "هَذِهِ مَدْرَسَةٌ",
+          "transliteration": "hādhihi madrasatun",
+          "audioText": "هَذِهِ مَدْرَسَةٌ",
+          "audio": {"path": "audio/words-02/words-02-this-school.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "This is a school.", "ur": "یہ ایک مدرسہ ہے۔", "id": "Ini sebuah sekolah.", "tr": "Bu bir okuldur.", "fr": "C’est une école."}
+        },
+        {
+          "id": "words-02-this-door",
+          "type": "sentence",
+          "arabic": "هَذَا بَابٌ",
+          "transliteration": "hādhā bābun",
+          "audioText": "هَذَا بَابٌ",
+          "audio": {"path": "audio/words-02/words-02-this-door.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "This is a door.", "ur": "یہ ایک دروازہ ہے۔", "id": "Ini sebuah pintu.", "tr": "Bu bir kapıdır.", "fr": "C’est une porte."}
+        },
+        {
+          "id": "words-02-this-mosque",
+          "type": "sentence",
+          "arabic": "هَذَا مَسْجِدٌ",
+          "transliteration": "hādhā masjidun",
+          "audioText": "هَذَا مَسْجِدٌ",
+          "audio": {"path": "audio/words-02/words-02-this-mosque.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "This is a mosque.", "ur": "یہ ایک مسجد ہے۔", "id": "Ini sebuah masjid.", "tr": "Bu bir camidir.", "fr": "C’est une mosquée."}
+        },
+        {
+          "id": "words-02-this-car",
+          "type": "sentence",
+          "arabic": "هَذِهِ سَيَّارَةٌ",
+          "transliteration": "hādhihi sayyāratun",
+          "audioText": "هَذِهِ سَيَّارَةٌ",
+          "audio": {"path": "audio/words-02/words-02-this-car.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "This is a car.", "ur": "یہ ایک گاڑی ہے۔", "id": "Ini sebuah mobil.", "tr": "Bu bir arabadır.", "fr": "C’est une voiture."}
+        },
+        {
+          "id": "words-02-this-room",
+          "type": "sentence",
+          "arabic": "هَذِهِ غُرْفَةٌ",
+          "transliteration": "hādhihi ghurfatun",
+          "audioText": "هَذِهِ غُرْفَةٌ",
+          "audio": {"path": "audio/words-02/words-02-this-room.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "This is a room.", "ur": "یہ ایک کمرہ ہے۔", "id": "Ini sebuah kamar.", "tr": "Bu bir odadır.", "fr": "C’est une chambre."}
+        }
+      ]
+    },
+    {
+      "id": "words-03",
+      "order": 3,
+      "title": {
+        "en": "People and pronouns",
+        "ur": "لوگ اور ضمیر",
+        "id": "Orang dan kata ganti",
+        "tr": "Kişiler ve zamirler",
+        "fr": "Les personnes et les pronoms"
+      },
+      "objective": {
+        "en": "Recognize أنا, هو, and هي in short identity sentences.",
+        "ur": "مختصر تعارفی جملوں میں أَنَا، هُوَ اور هِيَ پہچانیں۔",
+        "id": "Kenali أنا, هو, dan هي dalam kalimat perkenalan singkat.",
+        "tr": "Kısa tanıtım cümlelerinde أنا, هو ve هي zamirlerini tanıyın.",
+        "fr": "Reconnaissez أنا, هو et هي dans de courtes phrases de présentation."
+      },
+      "instruction": {
+        "en": "أنا means I, هو means he, and هي means she. Arabic present-tense identity sentences usually do not need a separate word for “am” or “is.”",
+        "ur": "أَنَا کا مطلب میں، هُوَ کا وہ (مذکر)، اور هِيَ کا وہ (مؤنث) ہے۔ عربی کے حالیہ تعارفی جملے میں “ہوں” یا “ہے” کے لیے الگ لفظ عموماً نہیں آتا۔",
+        "id": "أنا berarti saya, هو berarti dia laki-laki, dan هي berarti dia perempuan. Kalimat identitas bahasa Arab biasanya tidak memakai kata terpisah untuk “adalah”.",
+        "tr": "أنا ben, هو o (erkek), هي o (kadın) demektir. Arapçada şimdiki zamanda kimlik bildiren cümlelerde “-dır” için ayrı bir kelime genellikle kullanılmaz.",
+        "fr": "أنا signifie je, هو il et هي elle. En arabe, une phrase d’identité au présent n’a généralement pas de mot séparé pour « être »."
+      },
+      "items": [
+        {
+          "id": "words-03-i-student",
+          "type": "sentence",
+          "arabic": "أَنَا طَالِبٌ",
+          "transliteration": "anā ṭālibun",
+          "audioText": "أَنَا طَالِبٌ",
+          "audio": {"path": "audio/words-03/words-03-i-student.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "I am a male student.", "ur": "میں طالب علم ہوں۔", "id": "Saya seorang siswa.", "tr": "Ben bir öğrenciyim. (erkek)", "fr": "Je suis étudiant."}
+        },
+        {
+          "id": "words-03-i-student-f",
+          "type": "sentence",
+          "arabic": "أَنَا طَالِبَةٌ",
+          "transliteration": "anā ṭālibatun",
+          "audioText": "أَنَا طَالِبَةٌ",
+          "audio": {"path": "audio/words-03/words-03-i-student-f.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "I am a female student.", "ur": "میں طالبہ ہوں۔", "id": "Saya seorang siswi.", "tr": "Ben bir öğrenciyim. (kadın)", "fr": "Je suis étudiante."}
+        },
+        {
+          "id": "words-03-she-teacher",
+          "type": "sentence",
+          "arabic": "هِيَ مُعَلِّمَةٌ",
+          "transliteration": "hiya muʿallimatun",
+          "audioText": "هِيَ مُعَلِّمَةٌ",
+          "audio": {"path": "audio/words-03/words-03-she-teacher.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "She is a teacher.", "ur": "وہ معلمہ ہے۔", "id": "Dia seorang guru.", "tr": "O bir öğretmendir.", "fr": "Elle est enseignante."}
+        },
+        {
+          "id": "words-03-he-teacher",
+          "type": "sentence",
+          "arabic": "هُوَ مُعَلِّمٌ",
+          "transliteration": "huwa muʿallimun",
+          "audioText": "هُوَ مُعَلِّمٌ",
+          "audio": {"path": "audio/words-03/words-03-he-teacher.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "He is a teacher.", "ur": "وہ معلم ہے۔", "id": "Dia seorang guru laki-laki.", "tr": "O bir erkek öğretmendir.", "fr": "Il est enseignant."}
+        },
+        {
+          "id": "words-03-i-teacher",
+          "type": "sentence",
+          "arabic": "أَنَا مُعَلِّمٌ",
+          "transliteration": "anā muʿallimun",
+          "audioText": "أَنَا مُعَلِّمٌ",
+          "audio": {"path": "audio/words-03/words-03-i-teacher.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "I am a male teacher.", "ur": "میں معلم ہوں۔", "id": "Saya seorang guru laki-laki.", "tr": "Ben bir erkek öğretmenim.", "fr": "Je suis enseignant."}
+        },
+        {
+          "id": "words-03-i-teacher-f",
+          "type": "sentence",
+          "arabic": "أَنَا مُعَلِّمَةٌ",
+          "transliteration": "anā muʿallimatun",
+          "audioText": "أَنَا مُعَلِّمَةٌ",
+          "audio": {"path": "audio/words-03/words-03-i-teacher-f.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "I am a female teacher.", "ur": "میں معلمہ ہوں۔", "id": "Saya seorang guru perempuan.", "tr": "Ben bir kadın öğretmenim.", "fr": "Je suis enseignante."}
+        },
+        {
+          "id": "words-03-he-student",
+          "type": "sentence",
+          "arabic": "هُوَ طَالِبٌ",
+          "transliteration": "huwa ṭālibun",
+          "audioText": "هُوَ طَالِبٌ",
+          "audio": {"path": "audio/words-03/words-03-he-student.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "He is a student.", "ur": "وہ طالب علم ہے۔", "id": "Dia seorang siswa.", "tr": "O bir öğrencidir.", "fr": "Il est étudiant."}
+        },
+        {
+          "id": "words-03-she-student",
+          "type": "sentence",
+          "arabic": "هِيَ طَالِبَةٌ",
+          "transliteration": "hiya ṭālibatun",
+          "audioText": "هِيَ طَالِبَةٌ",
+          "audio": {"path": "audio/words-03/words-03-she-student.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "She is a student.", "ur": "وہ طالبہ ہے۔", "id": "Dia seorang siswi.", "tr": "O bir kız öğrencidir.", "fr": "Elle est étudiante."}
+        }
+      ]
+    },
+    {
+      "id": "words-04",
+      "order": 4,
+      "title": {
+        "en": "Describing things",
+        "ur": "چیزوں کی صفت بیان کرنا",
+        "id": "Mendeskripsikan benda",
+        "tr": "Eşyaları betimlemek",
+        "fr": "Décrire les choses"
+      },
+      "objective": {
+        "en": "Understand simple noun-and-adjective sentences.",
+        "ur": "اسم اور صفت والے آسان جملے سمجھیں۔",
+        "id": "Pahami kalimat sederhana yang memakai kata benda dan kata sifat.",
+        "tr": "İsim ve sıfat içeren basit cümleleri anlayın.",
+        "fr": "Comprenez des phrases simples formées d’un nom et d’un adjectif."
+      },
+      "instruction": {
+        "en": "In these sentences, the adjective follows the noun. The short endings show how the words fit together; listen for the full sentence.",
+        "ur": "ان جملوں میں صفت اسم کے بعد آتی ہے۔ مختصر آخری حرکات الفاظ کا باہمی تعلق دکھاتی ہیں؛ پورا جملہ سنیں۔",
+        "id": "Dalam kalimat ini, kata sifat mengikuti kata benda. Akhiran pendek menunjukkan hubungan kata; dengarkan kalimat lengkapnya.",
+        "tr": "Bu cümlelerde sıfat isimden sonra gelir. Kısa son ekler kelimelerin ilişkisini gösterir; cümlenin tamamını dinleyin.",
+        "fr": "Dans ces phrases, l’adjectif suit le nom. Les voyelles finales indiquent le lien entre les mots ; écoutez la phrase entière."
+      },
+      "items": [
+        {
+          "id": "words-04-big-house",
+          "type": "sentence",
+          "arabic": "الْبَيْتُ كَبِيرٌ",
+          "transliteration": "al-baytu kabīrun",
+          "audioText": "الْبَيْتُ كَبِيرٌ",
+          "audio": {"path": "audio/words-04/words-04-big-house.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "The house is big.", "ur": "گھر بڑا ہے۔", "id": "Rumah itu besar.", "tr": "Ev büyüktür.", "fr": "La maison est grande."}
+        },
+        {
+          "id": "words-04-new-book",
+          "type": "sentence",
+          "arabic": "الْكِتَابُ جَدِيدٌ",
+          "transliteration": "al-kitābu jadīdun",
+          "audioText": "الْكِتَابُ جَدِيدٌ",
+          "audio": {"path": "audio/words-04/words-04-new-book.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "The book is new.", "ur": "کتاب نئی ہے۔", "id": "Buku itu baru.", "tr": "Kitap yenidir.", "fr": "Le livre est neuf."}
+        },
+        {
+          "id": "words-04-school-near",
+          "type": "sentence",
+          "arabic": "الْمَدْرَسَةُ قَرِيبَةٌ",
+          "transliteration": "al-madrasatu qarībatun",
+          "audioText": "الْمَدْرَسَةُ قَرِيبَةٌ",
+          "audio": {"path": "audio/words-04/words-04-school-near.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "The school is nearby.", "ur": "مدرسہ قریب ہے۔", "id": "Sekolah itu dekat.", "tr": "Okul yakındır.", "fr": "L’école est proche."}
+        },
+        {
+          "id": "words-04-small-house",
+          "type": "sentence",
+          "arabic": "الْبَيْتُ صَغِيرٌ",
+          "transliteration": "al-baytu ṣaghīrun",
+          "audioText": "الْبَيْتُ صَغِيرٌ",
+          "audio": {"path": "audio/words-04/words-04-small-house.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "The house is small.", "ur": "گھر چھوٹا ہے۔", "id": "Rumah itu kecil.", "tr": "Ev küçüktür.", "fr": "La maison est petite."}
+        },
+        {
+          "id": "words-04-car-new",
+          "type": "sentence",
+          "arabic": "السَّيَّارَةُ جَدِيدَةٌ",
+          "transliteration": "as-sayyāratu jadīdatun",
+          "audioText": "السَّيَّارَةُ جَدِيدَةٌ",
+          "audio": {"path": "audio/words-04/words-04-car-new.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "The car is new.", "ur": "گاڑی نئی ہے۔", "id": "Mobil itu baru.", "tr": "Araba yenidir.", "fr": "La voiture est neuve."}
+        },
+        {
+          "id": "words-04-door-open",
+          "type": "sentence",
+          "arabic": "الْبَابُ مَفْتُوحٌ",
+          "transliteration": "al-bābu maftūḥun",
+          "audioText": "الْبَابُ مَفْتُوحٌ",
+          "audio": {"path": "audio/words-04/words-04-door-open.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "The door is open.", "ur": "دروازہ کھلا ہے۔", "id": "Pintu itu terbuka.", "tr": "Kapı açıktır.", "fr": "La porte est ouverte."}
+        },
+        {
+          "id": "words-04-mosque-beautiful",
+          "type": "sentence",
+          "arabic": "الْمَسْجِدُ جَمِيلٌ",
+          "transliteration": "al-masjidu jamīlun",
+          "audioText": "الْمَسْجِدُ جَمِيلٌ",
+          "audio": {"path": "audio/words-04/words-04-mosque-beautiful.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "The mosque is beautiful.", "ur": "مسجد خوبصورت ہے۔", "id": "Masjid itu indah.", "tr": "Cami güzeldir.", "fr": "La mosquée est belle."}
+        }
+      ]
+    },
+    {
+      "id": "words-05",
+      "order": 5,
+      "title": {
+        "en": "Matching adjective and noun",
+        "ur": "صفت اور اسم کی مطابقت",
+        "id": "Kesesuaian kata sifat dan benda",
+        "tr": "Sıfat ve ismin uyumu",
+        "fr": "Accorder l’adjectif et le nom"
+      },
+      "objective": {
+        "en": "Notice that a describing adjective changes to match a feminine noun.",
+        "ur": "دیکھیں کہ مؤنث اسم کے مطابق صفت کی شکل بدلتی ہے۔",
+        "id": "Perhatikan perubahan kata sifat agar sesuai dengan kata benda feminin.",
+        "tr": "Dişil bir isme uyarken sıfatın nasıl değiştiğini fark edin.",
+        "fr": "Remarquez comment l’adjectif change pour s’accorder avec un nom féminin."
+      },
+      "instruction": {
+        "en": "Compare jadīd with jadīdah, and kabīr with kabīrah. The ة ending is a common feminine marker in these examples.",
+        "ur": "جَدِيدٌ کا جَدِيدَةٌ اور كَبِيرٌ کا كَبِيرَةٌ سے موازنہ کریں۔ ان مثالوں میں ة مؤنث کی عام علامت ہے۔",
+        "id": "Bandingkan jadīd dengan jadīdah, serta kabīr dengan kabīrah. Akhiran ة sering menandai bentuk feminin pada contoh ini.",
+        "tr": "Jadīd ile jadīdah ve kabīr ile kabīrah biçimlerini karşılaştırın. Bu örneklerde ة yaygın bir dişil işaretidir.",
+        "fr": "Comparez jadīd à jadīdah et kabīr à kabīrah. Dans ces exemples, la terminaison ة marque souvent le féminin."
+      },
+      "items": [
+        {
+          "id": "words-05-new-school",
+          "type": "phrase",
+          "arabic": "مَدْرَسَةٌ جَدِيدَةٌ",
+          "transliteration": "madrasatun jadīdatun",
+          "audioText": "مَدْرَسَةٌ جَدِيدَةٌ",
+          "audio": {"path": "audio/words-05/words-05-new-school.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "a new school", "ur": "ایک نیا مدرسہ", "id": "sebuah sekolah baru", "tr": "yeni bir okul", "fr": "une nouvelle école"}
+        },
+        {
+          "id": "words-05-big-car",
+          "type": "phrase",
+          "arabic": "سَيَّارَةٌ كَبِيرَةٌ",
+          "transliteration": "sayyāratun kabīratun",
+          "audioText": "سَيَّارَةٌ كَبِيرَةٌ",
+          "audio": {"path": "audio/words-05/words-05-big-car.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "a big car", "ur": "ایک بڑی گاڑی", "id": "sebuah mobil besar", "tr": "büyük bir araba", "fr": "une grande voiture"}
+        },
+        {
+          "id": "words-05-small-room",
+          "type": "phrase",
+          "arabic": "غُرْفَةٌ صَغِيرَةٌ",
+          "transliteration": "ghurfatun ṣaghīratun",
+          "audioText": "غُرْفَةٌ صَغِيرَةٌ",
+          "audio": {"path": "audio/words-05/words-05-small-room.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "a small room", "ur": "ایک چھوٹا کمرہ", "id": "sebuah kamar kecil", "tr": "küçük bir oda", "fr": "une petite chambre"}
+        },
+        {
+          "id": "words-05-new-book",
+          "type": "phrase",
+          "arabic": "كِتَابٌ جَدِيدٌ",
+          "transliteration": "kitābun jadīdun",
+          "audioText": "كِتَابٌ جَدِيدٌ",
+          "audio": {"path": "audio/words-05/words-05-new-book.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "a new book", "ur": "ایک نئی کتاب", "id": "sebuah buku baru", "tr": "yeni bir kitap", "fr": "un livre neuf"}
+        },
+        {
+          "id": "words-05-big-school",
+          "type": "phrase",
+          "arabic": "مَدْرَسَةٌ كَبِيرَةٌ",
+          "transliteration": "madrasatun kabīratun",
+          "audioText": "مَدْرَسَةٌ كَبِيرَةٌ",
+          "audio": {"path": "audio/words-05/words-05-big-school.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "a big school", "ur": "ایک بڑا مدرسہ", "id": "sebuah sekolah besar", "tr": "büyük bir okul", "fr": "une grande école"}
+        },
+        {
+          "id": "words-05-small-car",
+          "type": "phrase",
+          "arabic": "سَيَّارَةٌ صَغِيرَةٌ",
+          "transliteration": "sayyāratun ṣaghīratun",
+          "audioText": "سَيَّارَةٌ صَغِيرَةٌ",
+          "audio": {"path": "audio/words-05/words-05-small-car.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "a small car", "ur": "ایک چھوٹی گاڑی", "id": "sebuah mobil kecil", "tr": "küçük bir araba", "fr": "une petite voiture"}
+        },
+        {
+          "id": "words-05-old-house",
+          "type": "phrase",
+          "arabic": "بَيْتٌ قَدِيمٌ",
+          "transliteration": "baytun qadīmun",
+          "audioText": "بَيْتٌ قَدِيمٌ",
+          "audio": {"path": "audio/words-05/words-05-old-house.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "an old house", "ur": "ایک پرانا گھر", "id": "sebuah rumah tua", "tr": "eski bir ev", "fr": "une vieille maison"}
+        },
+        {
+          "id": "words-05-beautiful-garden",
+          "type": "phrase",
+          "arabic": "حَدِيقَةٌ جَمِيلَةٌ",
+          "transliteration": "ḥadīqatun jamīlatun",
+          "audioText": "حَدِيقَةٌ جَمِيلَةٌ",
+          "audio": {"path": "audio/words-05/words-05-beautiful-garden.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "a beautiful garden", "ur": "ایک خوبصورت باغ", "id": "sebuah taman yang indah", "tr": "güzel bir bahçe", "fr": "un beau jardin"}
+        }
+      ]
+    },
+    {
+      "id": "words-06",
+      "order": 6,
+      "title": {
+        "en": "Whose? Possession phrases",
+        "ur": "کس کا؟ اضافی ترکیبیں",
+        "id": "Milik siapa? Frasa kepemilikan",
+        "tr": "Kimin? İsim tamlamaları",
+        "fr": "À qui ? Les expressions de possession"
+      },
+      "objective": {
+        "en": "Understand short possession phrases such as “the student's book.”",
+        "ur": "“طالب علم کی کتاب” جیسے مختصر اضافی فقروں کو سمجھیں۔",
+        "id": "Pahami frasa kepemilikan singkat seperti “buku milik siswa”.",
+        "tr": "“Öğrencinin kitabı” gibi kısa isim tamlamalarını anlayın.",
+        "fr": "Comprenez de courtes expressions de possession comme « le livre de l’élève »."
+      },
+      "instruction": {
+        "en": "Two nouns can be joined to show possession. The possessed noun comes first and does not take tanwīn; listen to how the words flow together.",
+        "ur": "ملکیت بتانے کے لیے دو اسم جوڑے جا سکتے ہیں۔ جس چیز کی ملکیت ہو وہ پہلے آتی ہے اور اس پر تنوین نہیں ہوتی؛ الفاظ کا ملا ہوا بہاؤ سنیں۔",
+        "id": "Dua kata benda dapat digabungkan untuk menunjukkan kepemilikan. Benda yang dimiliki disebut lebih dahulu dan tidak memakai tanwin; dengarkan aliran katanya.",
+        "tr": "İyelik bildirmek için iki isim birleştirilebilir. Sahip olunan isim önce gelir ve tenvin almaz; kelimelerin akışını dinleyin.",
+        "fr": "Deux noms peuvent être réunis pour exprimer la possession. L’objet possédé vient d’abord et ne prend pas de tanwīn ; écoutez l’enchaînement."
+      },
+      "items": [
+        {
+          "id": "words-06-house-door",
+          "type": "phrase",
+          "arabic": "بَابُ الْبَيْتِ",
+          "transliteration": "bābu l-bayti",
+          "audioText": "بَابُ الْبَيْتِ",
+          "audio": {"path": "audio/words-06/words-06-house-door.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "the door of the house", "ur": "گھر کا دروازہ", "id": "pintu rumah", "tr": "evin kapısı", "fr": "la porte de la maison"}
+        },
+        {
+          "id": "words-06-student-book",
+          "type": "phrase",
+          "arabic": "كِتَابُ الطَّالِبِ",
+          "transliteration": "kitābu ṭ-ṭālibi",
+          "audioText": "كِتَابُ الطَّالِبِ",
+          "audio": {"path": "audio/words-06/words-06-student-book.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "the student's book", "ur": "طالب علم کی کتاب", "id": "buku siswa itu", "tr": "öğrencinin kitabı", "fr": "le livre de l’élève"}
+        },
+        {
+          "id": "words-06-school-door",
+          "type": "phrase",
+          "arabic": "بَابُ الْمَدْرَسَةِ",
+          "transliteration": "bābu l-madrasati",
+          "audioText": "بَابُ الْمَدْرَسَةِ",
+          "audio": {"path": "audio/words-06/words-06-school-door.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "the door of the school", "ur": "مدرسے کا دروازہ", "id": "pintu sekolah", "tr": "okulun kapısı", "fr": "la porte de l’école"}
+        },
+        {
+          "id": "words-06-student-house",
+          "type": "phrase",
+          "arabic": "بَيْتُ الطَّالِبِ",
+          "transliteration": "baytu ṭ-ṭālibi",
+          "audioText": "بَيْتُ الطَّالِبِ",
+          "audio": {"path": "audio/words-06/words-06-student-house.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "the student's house", "ur": "طالب علم کا گھر", "id": "rumah siswa itu", "tr": "öğrencinin evi", "fr": "la maison de l’étudiant"}
+        },
+        {
+          "id": "words-06-student-door",
+          "type": "phrase",
+          "arabic": "بَابُ الطَّالِبِ",
+          "transliteration": "bābu ṭ-ṭālibi",
+          "audioText": "بَابُ الطَّالِبِ",
+          "audio": {"path": "audio/words-06/words-06-student-door.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "the student's door", "ur": "طالب علم کا دروازہ", "id": "pintu siswa itu", "tr": "öğrencinin kapısı", "fr": "la porte de l’étudiant"}
+        },
+        {
+          "id": "words-06-teacher-book",
+          "type": "phrase",
+          "arabic": "كِتَابُ الْمُعَلِّمِ",
+          "transliteration": "kitābu l-muʿallimi",
+          "audioText": "كِتَابُ الْمُعَلِّمِ",
+          "audio": {"path": "audio/words-06/words-06-teacher-book.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "the teacher's book", "ur": "معلم کی کتاب", "id": "buku guru itu", "tr": "öğretmenin kitabı", "fr": "le livre de l’enseignant"}
+        },
+        {
+          "id": "words-06-school-student",
+          "type": "phrase",
+          "arabic": "طَالِبُ الْمَدْرَسَةِ",
+          "transliteration": "ṭālibu l-madrasati",
+          "audioText": "طَالِبُ الْمَدْرَسَةِ",
+          "audio": {"path": "audio/words-06/words-06-school-student.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "the student of the school", "ur": "مدرسے کا طالب علم", "id": "siswa sekolah itu", "tr": "okulun öğrencisi", "fr": "l’élève de l’école"}
+        }
+      ]
+    },
+    {
+      "id": "words-07",
+      "order": 7,
+      "title": {
+        "en": "Where is it? Prepositions",
+        "ur": "یہ کہاں ہے؟ حروفِ جر",
+        "id": "Di mana? Kata depan",
+        "tr": "Nerede? Edatlar",
+        "fr": "Où est-ce ? Les prépositions"
+      },
+      "objective": {
+        "en": "Recognize common location words: in, on, from, and to.",
+        "ur": "مقام بتانے والے عام الفاظ: میں، پر، سے اور کی طرف پہچانیں۔",
+        "id": "Kenali kata lokasi umum: di dalam, di atas, dari, dan ke.",
+        "tr": "Yaygın yer bildiren sözcükleri tanıyın: içinde, üstünde, -den ve -e.",
+        "fr": "Reconnaissez les mots courants de lieu : dans, sur, depuis et vers."
+      },
+      "instruction": {
+        "en": "Notice how a short preposition comes before the noun. In connected speech, the al- article may flow into the preceding word.",
+        "ur": "دیکھیں کہ مختصر حرفِ جر اسم سے پہلے آتا ہے۔ ملا کر بولنے میں ال سابقہ لفظ کے ساتھ جڑ سکتا ہے۔",
+        "id": "Perhatikan bahwa kata depan pendek berada sebelum kata benda. Dalam ucapan bersambung, al- dapat menyatu bunyinya dengan kata sebelumnya.",
+        "tr": "Kısa edatın isimden önce geldiğine dikkat edin. Akıcı konuşmada el- takısı önceki kelimeye bağlanabilir.",
+        "fr": "La courte préposition précède le nom. À l’oral, l’article al- peut s’enchaîner avec le mot précédent."
+      },
+      "items": [
+        {
+          "id": "words-07-in-house",
+          "type": "phrase",
+          "arabic": "فِي الْبَيْتِ",
+          "transliteration": "fī l-bayti",
+          "audioText": "فِي الْبَيْتِ",
+          "audio": {"path": "audio/words-07/words-07-in-house.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "in the house", "ur": "گھر میں", "id": "di dalam rumah", "tr": "evde", "fr": "dans la maison"}
+        },
+        {
+          "id": "words-07-on-desk",
+          "type": "phrase",
+          "arabic": "عَلَى الْمَكْتَبِ",
+          "transliteration": "ʿalā l-maktabi",
+          "audioText": "عَلَى الْمَكْتَبِ",
+          "audio": {"path": "audio/words-07/words-07-on-desk.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "on the desk", "ur": "میز پر", "id": "di atas meja", "tr": "masanın üstünde", "fr": "sur le bureau"}
+        },
+        {
+          "id": "words-07-to-school",
+          "type": "phrase",
+          "arabic": "إِلَى الْمَدْرَسَةِ",
+          "transliteration": "ilā l-madrasati",
+          "audioText": "إِلَى الْمَدْرَسَةِ",
+          "audio": {"path": "audio/words-07/words-07-to-school.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "to the school", "ur": "مدرسے کی طرف", "id": "ke sekolah", "tr": "okula", "fr": "vers l’école"}
+        },
+        {
+          "id": "words-07-from-school",
+          "type": "phrase",
+          "arabic": "مِنَ الْمَدْرَسَةِ",
+          "transliteration": "mina l-madrasati",
+          "audioText": "مِنَ الْمَدْرَسَةِ",
+          "audio": {"path": "audio/words-07/words-07-from-school.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "from the school", "ur": "مدرسے سے", "id": "dari sekolah", "tr": "okuldan", "fr": "de l’école"}
+        },
+        {
+          "id": "words-07-under-table",
+          "type": "phrase",
+          "arabic": "تَحْتَ الطَّاوِلَةِ",
+          "transliteration": "taḥta ṭ-ṭāwilati",
+          "audioText": "تَحْتَ الطَّاوِلَةِ",
+          "audio": {"path": "audio/words-07/words-07-under-table.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "under the table", "ur": "میز کے نیچے", "id": "di bawah meja", "tr": "masanın altında", "fr": "sous la table"}
+        },
+        {
+          "id": "words-07-in-classroom",
+          "type": "phrase",
+          "arabic": "فِي الْفَصْلِ",
+          "transliteration": "fī l-faṣli",
+          "audioText": "فِي الْفَصْلِ",
+          "audio": {"path": "audio/words-07/words-07-in-classroom.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "in the classroom", "ur": "کلاس میں", "id": "di dalam kelas", "tr": "sınıfta", "fr": "dans la classe"}
+        },
+        {
+          "id": "words-07-beside-mosque",
+          "type": "phrase",
+          "arabic": "بِجَانِبِ الْمَسْجِدِ",
+          "transliteration": "bijānibi l-masjidi",
+          "audioText": "بِجَانِبِ الْمَسْجِدِ",
+          "audio": {"path": "audio/words-07/words-07-beside-mosque.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "beside the mosque", "ur": "مسجد کے پاس", "id": "di samping masjid", "tr": "caminin yanında", "fr": "à côté de la mosquée"}
+        },
+        {
+          "id": "words-07-with-teacher",
+          "type": "phrase",
+          "arabic": "مَعَ الْمُعَلِّمِ",
+          "transliteration": "maʿa l-muʿallimi",
+          "audioText": "مَعَ الْمُعَلِّمِ",
+          "audio": {"path": "audio/words-07/words-07-with-teacher.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "with the teacher", "ur": "معلم کے ساتھ", "id": "bersama guru itu", "tr": "öğretmenle", "fr": "avec l’enseignant"}
+        }
+      ]
+    },
+    {
+      "id": "words-08",
+      "order": 8,
+      "title": {
+        "en": "Asking where",
+        "ur": "کہاں پوچھنا",
+        "id": "Bertanya di mana",
+        "tr": "Nerede diye sormak",
+        "fr": "Demander où"
+      },
+      "objective": {
+        "en": "Ask where a person or object is and understand a short location answer.",
+        "ur": "پوچھیں کہ شخص یا چیز کہاں ہے اور مقام کا مختصر جواب سمجھیں۔",
+        "id": "Tanyakan lokasi orang atau benda dan pahami jawaban singkatnya.",
+        "tr": "Bir kişinin ya da eşyanın nerede olduğunu sorun ve kısa bir yanıtı anlayın.",
+        "fr": "Demandez où se trouve une personne ou un objet et comprenez une réponse brève."
+      },
+      "instruction": {
+        "en": "Ayna means “where?” Listen for it at the start of each question, then compare the two location answers.",
+        "ur": "أَيْنَ کا مطلب کہاں ہے۔ ہر سوال کے شروع میں اسے سنیں، پھر مقام کے دونوں جوابوں کا موازنہ کریں۔",
+        "id": "Ayna berarti “di mana?”. Dengarkan kata itu di awal setiap pertanyaan, lalu bandingkan kedua jawaban lokasi.",
+        "tr": "Ayna “nerede?” demektir. Her sorunun başında bu sözcüğü dinleyin, sonra iki yer yanıtını karşılaştırın.",
+        "fr": "Ayna signifie « où ? ». Écoutez-le au début de chaque question, puis comparez les deux réponses de lieu."
+      },
+      "items": [
+        {
+          "id": "words-08-where-book",
+          "type": "question",
+          "arabic": "أَيْنَ الْكِتَابُ؟",
+          "transliteration": "ayna l-kitābu?",
+          "audioText": "أَيْنَ الْكِتَابُ؟",
+          "audio": {"path": "audio/words-08/words-08-where-book.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "Where is the book?", "ur": "کتاب کہاں ہے؟", "id": "Di mana buku itu?", "tr": "Kitap nerede?", "fr": "Où est le livre ?"}
+        },
+        {
+          "id": "words-08-book-on-desk",
+          "type": "sentence",
+          "arabic": "الْكِتَابُ عَلَى الْمَكْتَبِ",
+          "transliteration": "al-kitābu ʿalā l-maktabi",
+          "audioText": "الْكِتَابُ عَلَى الْمَكْتَبِ",
+          "audio": {"path": "audio/words-08/words-08-book-on-desk.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "The book is on the desk.", "ur": "کتاب میز پر ہے۔", "id": "Buku itu ada di atas meja.", "tr": "Kitap masanın üstündedir.", "fr": "Le livre est sur le bureau."}
+        },
+        {
+          "id": "words-08-where-teacher",
+          "type": "question",
+          "arabic": "أَيْنَ الْمُعَلِّمُ؟",
+          "transliteration": "ayna l-muʿallimu?",
+          "audioText": "أَيْنَ الْمُعَلِّمُ؟",
+          "audio": {"path": "audio/words-08/words-08-where-teacher.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "Where is the teacher?", "ur": "استاد کہاں ہے؟", "id": "Di mana guru itu?", "tr": "Öğretmen nerede?", "fr": "Où est l’enseignant ?"}
+        },
+        {
+          "id": "words-08-student-in-class",
+          "type": "sentence",
+          "arabic": "الطَّالِبُ فِي الْفَصْلِ",
+          "transliteration": "aṭ-ṭālibu fī l-faṣli",
+          "audioText": "الطَّالِبُ فِي الْفَصْلِ",
+          "audio": {"path": "audio/words-08/words-08-student-in-class.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "The student is in the classroom.", "ur": "طالب علم کلاس میں ہے۔", "id": "Siswa itu ada di dalam kelas.", "tr": "Öğrenci sınıftadır.", "fr": "L’élève est dans la classe."}
+        },
+        {
+          "id": "words-08-where-car",
+          "type": "question",
+          "arabic": "أَيْنَ السَّيَّارَةُ؟",
+          "transliteration": "ayna s-sayyāratu?",
+          "audioText": "أَيْنَ السَّيَّارَةُ؟",
+          "audio": {"path": "audio/words-08/words-08-where-car.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "Where is the car?", "ur": "گاڑی کہاں ہے؟", "id": "Di mana mobil itu?", "tr": "Araba nerede?", "fr": "Où est la voiture ?"}
+        },
+        {
+          "id": "words-08-car-in-front",
+          "type": "sentence",
+          "arabic": "السَّيَّارَةُ أَمَامَ الْمَدْرَسَةِ",
+          "transliteration": "as-sayyāratu amāma l-madrasati",
+          "audioText": "السَّيَّارَةُ أَمَامَ الْمَدْرَسَةِ",
+          "audio": {"path": "audio/words-08/words-08-car-in-front.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "The car is in front of the school.", "ur": "گاڑی مدرسے کے سامنے ہے۔", "id": "Mobil itu ada di depan sekolah.", "tr": "Araba okulun önündedir.", "fr": "La voiture est devant l’école."}
+        },
+        {
+          "id": "words-08-where-pen",
+          "type": "question",
+          "arabic": "أَيْنَ الْقَلَمُ؟",
+          "transliteration": "ayna l-qalamu?",
+          "audioText": "أَيْنَ الْقَلَمُ؟",
+          "audio": {"path": "audio/words-08/words-08-where-pen.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "Where is the pen?", "ur": "قلم کہاں ہے؟", "id": "Di mana pena itu?", "tr": "Kalem nerede?", "fr": "Où est le stylo ?"}
+        }
+      ]
+    },
+    {
+      "id": "words-09",
+      "order": 9,
+      "title": {
+        "en": "Everyday action words",
+        "ur": "روزمرہ کے کام کے الفاظ",
+        "id": "Kata kerja sehari-hari",
+        "tr": "Günlük eylem sözcükleri",
+        "fr": "Les verbes du quotidien"
+      },
+      "objective": {
+        "en": "Recognize common present-tense verbs for reading, writing, and going.",
+        "ur": "پڑھنے، لکھنے اور جانے کے عام حالیہ افعال پہچانیں۔",
+        "id": "Kenali kata kerja umum untuk membaca, menulis, dan pergi.",
+        "tr": "Okumak, yazmak ve gitmek için kullanılan yaygın şimdiki zaman fiillerini tanıyın.",
+        "fr": "Reconnaissez des verbes courants au présent : lire, écrire et aller."
+      },
+      "instruction": {
+        "en": "Compare the masculine ya- form with the feminine ta- form. Listen to each verb and notice how its first sound changes with the subject.",
+        "ur": "مذکر کی یَ والی شکل کا مؤنث کی تَ والی شکل سے موازنہ کریں۔ ہر فعل سنیں اور فاعل کے ساتھ شروع کی آواز کی تبدیلی پہچانیں۔",
+        "id": "Bandingkan bentuk ya- untuk subjek maskulin dengan bentuk ta- untuk subjek feminin. Dengarkan perubahan bunyi awal.",
+        "tr": "Eril özneyle kullanılan ya- biçimini dişil öznenin ta- biçimiyle karşılaştırın. Fiilin ilk sesindeki değişimi dinleyin.",
+        "fr": "Comparez la forme ya- du masculin à la forme ta- du féminin. Écoutez le changement de son au début du verbe."
+      },
+      "items": [
+        {
+          "id": "words-09-read",
+          "type": "word",
+          "arabic": "يَقْرَأُ",
+          "transliteration": "yaqraʾu",
+          "audioText": "يَقْرَأُ",
+          "audio": {"path": "audio/words-09/words-09-read.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "he reads", "ur": "وہ پڑھتا ہے", "id": "dia membaca", "tr": "o okur", "fr": "il lit"}
+        },
+        {
+          "id": "words-09-write",
+          "type": "word",
+          "arabic": "يَكْتُبُ",
+          "transliteration": "yaktubu",
+          "audioText": "يَكْتُبُ",
+          "audio": {"path": "audio/words-09/words-09-write.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "he writes", "ur": "وہ لکھتا ہے", "id": "dia menulis", "tr": "o yazar", "fr": "il écrit"}
+        },
+        {
+          "id": "words-09-go",
+          "type": "word",
+          "arabic": "يَذْهَبُ",
+          "transliteration": "yadhhabu",
+          "audioText": "يَذْهَبُ",
+          "audio": {"path": "audio/words-09/words-09-go.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "he goes", "ur": "وہ جاتا ہے", "id": "dia pergi", "tr": "o gider", "fr": "il va"}
+        },
+        {
+          "id": "words-09-she-reads",
+          "type": "word",
+          "arabic": "تَقْرَأُ",
+          "transliteration": "taqraʾu",
+          "audioText": "تَقْرَأُ",
+          "audio": {"path": "audio/words-09/words-09-she-reads.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "she reads", "ur": "وہ پڑھتی ہے", "id": "dia membaca", "tr": "o okur (kadın)", "fr": "elle lit"}
+        },
+        {
+          "id": "words-09-she-writes",
+          "type": "word",
+          "arabic": "تَكْتُبُ",
+          "transliteration": "taktubu",
+          "audioText": "تَكْتُبُ",
+          "audio": {"path": "audio/words-09/words-09-she-writes.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "she writes", "ur": "وہ لکھتی ہے", "id": "dia menulis", "tr": "o yazar (kadın)", "fr": "elle écrit"}
+        },
+        {
+          "id": "words-09-she-goes",
+          "type": "word",
+          "arabic": "تَذْهَبُ",
+          "transliteration": "tadhhabu",
+          "audioText": "تَذْهَبُ",
+          "audio": {"path": "audio/words-09/words-09-she-goes.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "she goes", "ur": "وہ جاتی ہے", "id": "dia pergi", "tr": "o gider (kadın)", "fr": "elle va"}
+        },
+        {
+          "id": "words-09-he-studies",
+          "type": "word",
+          "arabic": "يَدْرُسُ",
+          "transliteration": "yadrusu",
+          "audioText": "يَدْرُسُ",
+          "audio": {"path": "audio/words-09/words-09-he-studies.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "he studies", "ur": "وہ پڑھائی کرتا ہے", "id": "dia belajar", "tr": "o ders çalışır", "fr": "il étudie"}
+        }
+      ]
+    },
+    {
+      "id": "words-10",
+      "order": 10,
+      "title": {
+        "en": "Who does the action?",
+        "ur": "کام کون کرتا ہے؟",
+        "id": "Siapa yang melakukan?",
+        "tr": "Eylemi kim yapıyor?",
+        "fr": "Qui fait l’action ?"
+      },
+      "objective": {
+        "en": "Follow a short verbal sentence with an action, a person, and an object.",
+        "ur": "فعل، شخص اور مفعول والے مختصر فعلی جملے کو سمجھیں۔",
+        "id": "Pahami kalimat kerja singkat yang memuat tindakan, pelaku, dan benda.",
+        "tr": "Eylem, kişi ve nesne içeren kısa bir fiil cümlesini anlayın.",
+        "fr": "Comprenez une courte phrase verbale avec une action, une personne et un objet."
+      },
+      "instruction": {
+        "en": "In these examples, the action comes first, followed by who does it and what they act on. Focus on the word order and overall meaning.",
+        "ur": "ان مثالوں میں پہلے کام، پھر کام کرنے والا اور پھر جس چیز پر کام ہو وہ آتی ہے۔ الفاظ کی ترتیب اور پورے معنی پر توجہ دیں۔",
+        "id": "Dalam contoh ini, tindakan muncul lebih dahulu, lalu pelaku dan benda yang dikenai tindakan. Perhatikan urutan serta makna keseluruhan.",
+        "tr": "Bu örneklerde önce eylem, sonra eylemi yapan kişi ve etkilenen nesne gelir. Sözcük sırasına ve genel anlama odaklanın.",
+        "fr": "Dans ces exemples, l’action vient d’abord, puis la personne et l’objet concerné. Concentrez-vous sur l’ordre et le sens général."
+      },
+      "items": [
+        {
+          "id": "words-10-student-reads",
+          "type": "sentence",
+          "arabic": "يَقْرَأُ الطَّالِبُ كِتَابًا",
+          "transliteration": "yaqraʾu ṭ-ṭālibu kitāban",
+          "audioText": "يَقْرَأُ الطَّالِبُ كِتَابًا",
+          "audio": {"path": "audio/words-10/words-10-student-reads.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "The student reads a book.", "ur": "طالب علم ایک کتاب پڑھتا ہے۔", "id": "Siswa itu membaca sebuah buku.", "tr": "Öğrenci bir kitap okur.", "fr": "L’élève lit un livre."}
+        },
+        {
+          "id": "words-10-boy-opens",
+          "type": "sentence",
+          "arabic": "يَفْتَحُ الْوَلَدُ الْبَابَ",
+          "transliteration": "yaftaḥu l-waladu l-bāba",
+          "audioText": "يَفْتَحُ الْوَلَدُ الْبَابَ",
+          "audio": {"path": "audio/words-10/words-10-boy-opens.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "The boy opens the door.", "ur": "لڑکا دروازہ کھولتا ہے۔", "id": "Anak laki-laki itu membuka pintu.", "tr": "Erkek çocuk kapıyı açar.", "fr": "Le garçon ouvre la porte."}
+        },
+        {
+          "id": "words-10-girl-goes",
+          "type": "sentence",
+          "arabic": "تَذْهَبُ الْبِنْتُ إِلَى الْمَدْرَسَةِ",
+          "transliteration": "tadhhabu l-bintu ilā l-madrasati",
+          "audioText": "تَذْهَبُ الْبِنْتُ إِلَى الْمَدْرَسَةِ",
+          "audio": {"path": "audio/words-10/words-10-girl-goes.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "The girl goes to school.", "ur": "لڑکی مدرسے جاتی ہے۔", "id": "Anak perempuan itu pergi ke sekolah.", "tr": "Kız okula gider.", "fr": "La fille va à l’école."}
+        },
+        {
+          "id": "words-10-teacher-writes",
+          "type": "sentence",
+          "arabic": "يَكْتُبُ الْمُعَلِّمُ رِسَالَةً",
+          "transliteration": "yaktubu l-muʿallimu risālatan",
+          "audioText": "يَكْتُبُ الْمُعَلِّمُ رِسَالَةً",
+          "audio": {"path": "audio/words-10/words-10-teacher-writes.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "The teacher writes a letter.", "ur": "معلم ایک خط لکھتا ہے۔", "id": "Guru itu menulis sebuah surat.", "tr": "Öğretmen bir mektup yazar.", "fr": "L’enseignant écrit une lettre."}
+        },
+        {
+          "id": "words-10-student-studies",
+          "type": "sentence",
+          "arabic": "يَدْرُسُ الطَّالِبُ الْعَرَبِيَّةَ",
+          "transliteration": "yadrusu ṭ-ṭālibu l-ʿarabiyyata",
+          "audioText": "يَدْرُسُ الطَّالِبُ الْعَرَبِيَّةَ",
+          "audio": {"path": "audio/words-10/words-10-student-studies.mp3", "format": "mp3", "provider": "edge-tts", "volumeBoostDb": 2, "voice": "ar-SA-HamedNeural"},
+          "meaning": {"en": "The student studies Arabic.", "ur": "طالب علم عربی پڑھتا ہے۔", "id": "Siswa itu belajar bahasa Arab.", "tr": "Öğrenci Arapça öğrenir.", "fr": "L’élève étudie l’arabe."}
+        },
+        {
+          "id": "words-10-girl-reads",
+          "type": "sentence",
+          "arabic": "تَقْرَأُ الْبِنْتُ كِتَابًا",
+          "transliteration": "taqraʾu l-bintu kitāban",
+          "audioText": "تَقْرَأُ الْبِنْتُ كِتَابًا",
+          "audio": {"path": "audio/words-10/words-10-girl-reads.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "The girl reads a book.", "ur": "لڑکی ایک کتاب پڑھتی ہے۔", "id": "Anak perempuan itu membaca sebuah buku.", "tr": "Kız bir kitap okur.", "fr": "La fille lit un livre."}
+        },
+        {
+          "id": "words-10-boy-drinks",
+          "type": "sentence",
+          "arabic": "يَشْرَبُ الْوَلَدُ مَاءً",
+          "transliteration": "yashrabu l-waladu māʾan",
+          "audioText": "يَشْرَبُ الْوَلَدُ مَاءً",
+          "audio": {"path": "audio/words-10/words-10-boy-drinks.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "The boy drinks water.", "ur": "لڑکا پانی پیتا ہے۔", "id": "Anak laki-laki itu minum air.", "tr": "Erkek çocuk su içer.", "fr": "Le garçon boit de l’eau."}
+        }
+      ]
+    },
+    {
+      "id": "words-11",
+      "order": 11,
+      "title": {
+        "en": "Who? What?",
+        "ur": "کون؟ کیا؟",
+        "id": "Siapa? Apa?",
+        "tr": "Kim? Ne?",
+        "fr": "Qui ? Quoi ?"
+      },
+      "objective": {
+        "en": "Ask who someone is or what an object is, then understand a short answer.",
+        "ur": "پوچھیں کہ کوئی شخص کون ہے یا چیز کیا ہے، پھر مختصر جواب سمجھیں۔",
+        "id": "Tanyakan siapa seseorang atau apa suatu benda, lalu pahami jawaban singkat.",
+        "tr": "Bir kişinin kim ya da bir eşyanın ne olduğunu sorun ve kısa yanıtı anlayın.",
+        "fr": "Demandez qui est une personne ou ce qu’est un objet, puis comprenez une réponse courte."
+      },
+      "instruction": {
+        "en": "Use man for people and mā for things. Listen for the matching question word and answer.",
+        "ur": "لوگوں کے لیے مَنْ اور چیزوں کے لیے مَا استعمال کریں۔ سوال اور جواب میں درست سوالیہ لفظ سنیں۔",
+        "id": "Gunakan man untuk orang dan mā untuk benda. Dengarkan kata tanya yang cocok pada pertanyaan dan jawabannya.",
+        "tr": "İnsanlar için man, nesneler için mā kullanılır. Soru ve yanıttaki uygun soru sözcüğünü dinleyin.",
+        "fr": "Utilisez man pour les personnes et mā pour les choses. Écoutez le mot interrogatif correspondant."
+      },
+      "items": [
+        {
+          "id": "words-11-who-this",
+          "type": "question",
+          "arabic": "مَنْ هَذَا؟",
+          "transliteration": "man hādhā?",
+          "audioText": "مَنْ هَذَا؟",
+          "audio": {"path": "audio/words-11/words-11-who-this.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "Who is this? (masculine)", "ur": "یہ کون ہے؟ (مذکر)", "id": "Siapa ini? (laki-laki)", "tr": "Bu kim? (erkek)", "fr": "Qui est-ce ? (masculin)"}
+        },
+        {
+          "id": "words-11-this-teacher",
+          "type": "sentence",
+          "arabic": "هَذَا مُعَلِّمٌ",
+          "transliteration": "hādhā muʿallimun",
+          "audioText": "هَذَا مُعَلِّمٌ",
+          "audio": {"path": "audio/words-11/words-11-this-teacher.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "This is a teacher. (male)", "ur": "یہ ایک معلم ہے۔", "id": "Ini seorang guru laki-laki.", "tr": "Bu bir erkek öğretmendir.", "fr": "C’est un enseignant."}
+        },
+        {
+          "id": "words-11-what-this",
+          "type": "question",
+          "arabic": "مَا هَذَا؟",
+          "transliteration": "mā hādhā?",
+          "audioText": "مَا هَذَا؟",
+          "audio": {"path": "audio/words-11/words-11-what-this.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "What is this? (masculine)", "ur": "یہ کیا ہے؟", "id": "Apa ini?", "tr": "Bu ne?", "fr": "Qu’est-ce que c’est ?"}
+        },
+        {
+          "id": "words-11-this-book",
+          "type": "sentence",
+          "arabic": "هَذَا كِتَابٌ",
+          "transliteration": "hādhā kitābun",
+          "audioText": "هَذَا كِتَابٌ",
+          "audio": {"path": "audio/words-11/words-11-this-book.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "This is a book.", "ur": "یہ ایک کتاب ہے۔", "id": "Ini sebuah buku.", "tr": "Bu bir kitaptır.", "fr": "C’est un livre."}
+        },
+        {
+          "id": "words-11-who-this-f",
+          "type": "question",
+          "arabic": "مَنْ هَذِهِ؟",
+          "transliteration": "man hādhihi?",
+          "audioText": "مَنْ هَذِهِ؟",
+          "audio": {"path": "audio/words-11/words-11-who-this-f.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "Who is this? (feminine)", "ur": "یہ کون ہے؟ (مؤنث)", "id": "Siapa ini? (perempuan)", "tr": "Bu kim? (kadın)", "fr": "Qui est-ce ? (féminin)"}
+        },
+        {
+          "id": "words-11-this-teacher-f",
+          "type": "sentence",
+          "arabic": "هَذِهِ مُعَلِّمَةٌ",
+          "transliteration": "hādhihi muʿallimatun",
+          "audioText": "هَذِهِ مُعَلِّمَةٌ",
+          "audio": {"path": "audio/words-11/words-11-this-teacher-f.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "This is a teacher. (female)", "ur": "یہ ایک معلمہ ہے۔", "id": "Ini seorang guru perempuan.", "tr": "Bu bir kadın öğretmendir.", "fr": "C’est une enseignante."}
+        },
+        {
+          "id": "words-11-this-door",
+          "type": "sentence",
+          "arabic": "هَذَا بَابٌ",
+          "transliteration": "hādhā bābun",
+          "audioText": "هَذَا بَابٌ",
+          "audio": {"path": "audio/words-11/words-11-this-door.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "This is a door.", "ur": "یہ ایک دروازہ ہے۔", "id": "Ini sebuah pintu.", "tr": "Bu bir kapıdır.", "fr": "C’est une porte."}
+        },
+        {
+          "id": "words-11-this-student",
+          "type": "sentence",
+          "arabic": "هَذَا طَالِبٌ",
+          "transliteration": "hādhā ṭālibun",
+          "audioText": "هَذَا طَالِبٌ",
+          "audio": {"path": "audio/words-11/words-11-this-student.mp3", "format": "mp3", "provider": "edge-tts", "volumeBoostDb": 2, "voice": "ar-SA-HamedNeural"},
+          "meaning": {"en": "This is a student. (male)", "ur": "یہ ایک طالب علم ہے۔", "id": "Ini seorang siswa.", "tr": "Bu bir erkek öğrencidir.", "fr": "C’est un étudiant."}
+        }
+      ]
+    },
+    {
+      "id": "words-12",
+      "order": 12,
+      "title": {
+        "en": "A short introduction",
+        "ur": "مختصر تعارف",
+        "id": "Perkenalan singkat",
+        "tr": "Kısa bir tanışma",
+        "fr": "Une courte présentation"
+      },
+      "objective": {
+        "en": "Put familiar words together to understand a short personal introduction.",
+        "ur": "مانوس الفاظ کو جوڑ کر مختصر ذاتی تعارف سمجھیں۔",
+        "id": "Gabungkan kata-kata yang sudah dikenal untuk memahami perkenalan singkat.",
+        "tr": "Kısa bir kişisel tanıtımı anlamak için tanıdık kelimeleri birleştirin.",
+        "fr": "Réunissez des mots connus pour comprendre une courte présentation personnelle."
+      },
+      "instruction": {
+        "en": "Listen for the name and the country. The final example uses min, meaning “from,” before the country name.",
+        "ur": "نام اور ملک سنیں۔ آخری مثال میں ملک کے نام سے پہلے مِنْ آتا ہے، جس کا مطلب “سے” ہے۔",
+        "id": "Dengarkan nama dan negara. Contoh terakhir memakai min, yang berarti “dari”, sebelum nama negara.",
+        "tr": "İsmi ve ülkeyi dinleyin. Son örnekte ülke adından önce “-den/-dan” anlamındaki min kullanılır.",
+        "fr": "Écoutez le prénom et le pays. Le dernier exemple emploie min, « de », avant le nom du pays."
+      },
+      "items": [
+        {
+          "id": "words-12-my-name",
+          "type": "sentence",
+          "arabic": "اِسْمِي عَلِيٌّ",
+          "transliteration": "ismī ʿAliyyun",
+          "audioText": "اِسْمِي عَلِيٌّ",
+          "audio": {"path": "audio/words-12/words-12-my-name.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "My name is Ali.", "ur": "میرا نام علی ہے۔", "id": "Nama saya Ali.", "tr": "Benim adım Ali.", "fr": "Je m’appelle Ali."}
+        },
+        {
+          "id": "words-12-i-from-egypt",
+          "type": "sentence",
+          "arabic": "أَنَا مِنْ مِصْرَ",
+          "transliteration": "anā min Miṣra",
+          "audioText": "أَنَا مِنْ مِصْرَ",
+          "audio": {"path": "audio/words-12/words-12-i-from-egypt.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "I am from Egypt.", "ur": "میں مصر سے ہوں۔", "id": "Saya dari Mesir.", "tr": "Mısır'danım.", "fr": "Je viens d’Égypte."}
+        },
+        {
+          "id": "words-12-i-student",
+          "type": "sentence",
+          "arabic": "أَنَا طَالِبٌ",
+          "transliteration": "anā ṭālibun",
+          "audioText": "أَنَا طَالِبٌ",
+          "audio": {"path": "audio/words-12/words-12-i-student.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "I am a male student.", "ur": "میں طالب علم ہوں۔", "id": "Saya seorang siswa.", "tr": "Ben bir öğrenciyim. (erkek)", "fr": "Je suis étudiant."}
+        },
+        {
+          "id": "words-12-my-name-sara",
+          "type": "sentence",
+          "arabic": "اِسْمِي سَارَةُ",
+          "transliteration": "ismī Sārah",
+          "audioText": "اِسْمِي سَارَةُ",
+          "audio": {"path": "audio/words-12/words-12-my-name-sara.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "My name is Sarah.", "ur": "میرا نام سارہ ہے۔", "id": "Nama saya Sarah.", "tr": "Benim adım Sarah.", "fr": "Je m’appelle Sarah."}
+        },
+        {
+          "id": "words-12-i-live-cairo",
+          "type": "sentence",
+          "arabic": "أَسْكُنُ فِي الْقَاهِرَةِ",
+          "transliteration": "askunu fī l-Qāhirati",
+          "audioText": "أَسْكُنُ فِي الْقَاهِرَةِ",
+          "audio": {"path": "audio/words-12/words-12-i-live-cairo.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "I live in Cairo.", "ur": "میں قاہرہ میں رہتا/رہتی ہوں۔", "id": "Saya tinggal di Kairo.", "tr": "Kahire’de yaşıyorum.", "fr": "J’habite au Caire."}
+        },
+        {
+          "id": "words-12-i-learn-arabic",
+          "type": "sentence",
+          "arabic": "أَتَعَلَّمُ الْعَرَبِيَّةَ",
+          "transliteration": "ataʿallamu l-ʿarabiyyata",
+          "audioText": "أَتَعَلَّمُ الْعَرَبِيَّةَ",
+          "audio": {"path": "audio/words-12/words-12-i-learn-arabic.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "I am learning Arabic.", "ur": "میں عربی سیکھ رہا/رہی ہوں۔", "id": "Saya sedang belajar bahasa Arab.", "tr": "Arapça öğreniyorum.", "fr": "J’apprends l’arabe."}
+        },
+        {
+          "id": "words-12-she-from-egypt",
+          "type": "sentence",
+          "arabic": "هِيَ مِنْ مِصْرَ",
+          "transliteration": "hiya min Miṣra",
+          "audioText": "هِيَ مِنْ مِصْرَ",
+          "audio": {"path": "audio/words-12/words-12-she-from-egypt.mp3", "format": "mp3", "provider": "edge-tts", "voice": "ar-SA-HamedNeural", "volumeBoostDb": 2},
+          "meaning": {"en": "She is from Egypt.", "ur": "وہ مصر سے ہے۔", "id": "Dia dari Mesir.", "tr": "O Mısır'dan.", "fr": "Elle vient d’Égypte."}
+        }
+      ]
+    }
+  ]
+}

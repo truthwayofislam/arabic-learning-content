@@ -26,6 +26,21 @@
         "arabic/basic-alphabet.json",
         "arabic/basic-reading.json"
       ]
+    },
+    {
+      "id": "words",
+      "order": 2,
+      "title": {
+        "en": "Words & Simple Sentences",
+        "ur": "الفاظ اور آسان جملے",
+        "id": "Kata dan Kalimat Sederhana",
+        "tr": "Kelimeler ve Basit Cümleler",
+        "fr": "Mots et phrases simples"
+      },
+      "quizFile": "arabic/words-quizzes.json",
+      "lessonFiles": [
+        "arabic/words-and-sentences.json"
+      ]
     }
   ]
 }
