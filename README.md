@@ -24,11 +24,12 @@ as its own translation language. Transliteration uses a consistent learner
 friendly scholarly style (`ā`, `ī`, `ū`, `ḥ`, `ṣ`, `ḍ`, `ṭ`, `ẓ`, `ʿ`, and
 `ʾ`).
 
-Every `audioText` is Arabic script with vowel marks where useful. Audio assets
-have not been generated yet; `audio` is deliberately `null` until the later
-audio-generation step. Stable item IDs can be used to assign audio filenames
-without changing lesson order. The content is Modern Standard Arabic (MSA).
-Review translations and pronunciation with a qualified Arabic educator before
-publishing lessons to learners.
+Every `audioText` is Arabic script with vowel marks where useful. Each item
+links to a local MP3 through its `audio.path`; paths are relative to this
+repository root. The current clips use Edge TTS `ar-SA-HamedNeural` with a
+small 2 dB volume boost and a limiter; isolated short-vowel drills use 6 dB.
+The isolated ḍamma drill uses loudness normalization at -16 LUFS. The content
+is Modern Standard Arabic (MSA). The Basic lesson text and all 71 audio clips
+have been reviewed before publishing.
 # arabic-learning-content
 # arabic-learning-content

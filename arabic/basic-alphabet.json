@@ -3,7 +3,13 @@
   "courseId": "arabic",
   "levelId": "basic",
   "unitId": "alphabet",
-  "translationLanguages": ["en", "ur", "id", "tr", "fr"],
+  "translationLanguages": [
+    "en",
+    "ur",
+    "id",
+    "tr",
+    "fr"
+  ],
   "lessons": [
     {
       "id": "basic-alphabet-01",
@@ -37,7 +43,13 @@
           "letterNameArabic": "أَلِف",
           "transliteration": "alif",
           "audioText": "أَلِف، أَسَدٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-alphabet-01/letter-alif.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "connectsToNext": false,
           "forms": {
             "isolated": "ا",
@@ -71,7 +83,13 @@
           "letterNameArabic": "بَاء",
           "transliteration": "bāʾ",
           "audioText": "بَاء، بَابٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-alphabet-01/letter-ba.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "connectsToNext": true,
           "forms": {
             "isolated": "ب",
@@ -98,7 +116,13 @@
           "letterNameArabic": "تَاء",
           "transliteration": "tāʾ",
           "audioText": "تَاء، تَمْرٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-alphabet-01/letter-ta.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "connectsToNext": true,
           "forms": {
             "isolated": "ت",
@@ -125,7 +149,13 @@
           "letterNameArabic": "ثَاء",
           "transliteration": "thāʾ",
           "audioText": "ثَاء، ثَوْبٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-alphabet-01/letter-tha.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "connectsToNext": true,
           "forms": {
             "isolated": "ث",
@@ -152,7 +182,13 @@
           "letterNameArabic": "جِيم",
           "transliteration": "jīm",
           "audioText": "جِيم، جَمَلٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-alphabet-01/letter-jim.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "connectsToNext": true,
           "forms": {
             "isolated": "ج",
@@ -179,7 +215,13 @@
           "letterNameArabic": "حَاء",
           "transliteration": "ḥāʾ",
           "audioText": "حَاء، حِصَانٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-alphabet-01/letter-ha.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "connectsToNext": true,
           "forms": {
             "isolated": "ح",
@@ -206,7 +248,13 @@
           "letterNameArabic": "خَاء",
           "transliteration": "khāʾ",
           "audioText": "خَاء، خُبْزٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-alphabet-01/letter-kha.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "connectsToNext": true,
           "forms": {
             "isolated": "خ",
@@ -260,7 +308,13 @@
           "letterNameArabic": "دَال",
           "transliteration": "dāl",
           "audioText": "دَال، دَفْتَرٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-alphabet-02/letter-dal.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "connectsToNext": false,
           "forms": {
             "isolated": "د",
@@ -287,7 +341,13 @@
           "letterNameArabic": "ذَال",
           "transliteration": "dhāl",
           "audioText": "ذَال، ذَهَبٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-alphabet-02/letter-dhal.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "connectsToNext": false,
           "forms": {
             "isolated": "ذ",
@@ -314,7 +374,13 @@
           "letterNameArabic": "رَاء",
           "transliteration": "rāʾ",
           "audioText": "رَاء، رَجُلٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-alphabet-02/letter-ra.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "connectsToNext": false,
           "forms": {
             "isolated": "ر",
@@ -340,8 +406,14 @@
           "arabic": "ز",
           "letterNameArabic": "زَاي",
           "transliteration": "zāy",
-          "audioText": "زَاي، زَيْتٌ",
-          "audio": null,
+          "audioText": "زَ، زَيْتٌ",
+          "audio": {
+            "path": "audio/basic-alphabet-02/letter-zay.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "connectsToNext": false,
           "forms": {
             "isolated": "ز",
@@ -368,7 +440,13 @@
           "letterNameArabic": "سِين",
           "transliteration": "sīn",
           "audioText": "سِين، سَمَكٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-alphabet-02/letter-sin.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "connectsToNext": true,
           "forms": {
             "isolated": "س",
@@ -395,7 +473,13 @@
           "letterNameArabic": "شِين",
           "transliteration": "shīn",
           "audioText": "شِين، شَمْسٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-alphabet-02/letter-shin.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "connectsToNext": true,
           "forms": {
             "isolated": "ش",
@@ -422,7 +506,13 @@
           "letterNameArabic": "صَاد",
           "transliteration": "ṣād",
           "audioText": "صَاد، صَقْرٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-alphabet-02/letter-sad.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "connectsToNext": true,
           "forms": {
             "isolated": "ص",
@@ -476,7 +566,13 @@
           "letterNameArabic": "ضَاد",
           "transliteration": "ḍād",
           "audioText": "ضَاد، ضِفْدَعٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-alphabet-03/letter-dad.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "connectsToNext": true,
           "forms": {
             "isolated": "ض",
@@ -503,7 +599,13 @@
           "letterNameArabic": "طَاء",
           "transliteration": "ṭāʾ",
           "audioText": "طَاء، طِفْلٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-alphabet-03/letter-ta-emphatic.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "connectsToNext": true,
           "forms": {
             "isolated": "ط",
@@ -530,7 +632,13 @@
           "letterNameArabic": "ظَاء",
           "transliteration": "ẓāʾ",
           "audioText": "ظَاء، ظِلٌّ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-alphabet-03/letter-zha.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "connectsToNext": true,
           "forms": {
             "isolated": "ظ",
@@ -557,7 +665,13 @@
           "letterNameArabic": "عَيْن",
           "transliteration": "ʿayn",
           "audioText": "عَيْن، عَيْنٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-alphabet-03/letter-ayn.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "connectsToNext": true,
           "forms": {
             "isolated": "ع",
@@ -584,7 +698,13 @@
           "letterNameArabic": "غَيْن",
           "transliteration": "ghayn",
           "audioText": "غَيْن، غَزَالٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-alphabet-03/letter-ghayn.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "connectsToNext": true,
           "forms": {
             "isolated": "غ",
@@ -611,7 +731,13 @@
           "letterNameArabic": "فَاء",
           "transliteration": "fāʾ",
           "audioText": "فَاء، فَمٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-alphabet-03/letter-fa.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "connectsToNext": true,
           "forms": {
             "isolated": "ف",
@@ -638,7 +764,13 @@
           "letterNameArabic": "قَاف",
           "transliteration": "qāf",
           "audioText": "قَاف، قَمَرٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-alphabet-03/letter-qaf.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "connectsToNext": true,
           "forms": {
             "isolated": "ق",
@@ -692,7 +824,13 @@
           "letterNameArabic": "كَاف",
           "transliteration": "kāf",
           "audioText": "كَاف، كِتَابٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-alphabet-04/letter-kaf.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "connectsToNext": true,
           "forms": {
             "isolated": "ك",
@@ -719,7 +857,13 @@
           "letterNameArabic": "لَام",
           "transliteration": "lām",
           "audioText": "لَام، لَيْمُونٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-alphabet-04/letter-lam.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "connectsToNext": true,
           "forms": {
             "isolated": "ل",
@@ -746,7 +890,13 @@
           "letterNameArabic": "مِيم",
           "transliteration": "mīm",
           "audioText": "مِيم، مَوْزٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-alphabet-04/letter-mim.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "connectsToNext": true,
           "forms": {
             "isolated": "م",
@@ -773,7 +923,13 @@
           "letterNameArabic": "نُون",
           "transliteration": "nūn",
           "audioText": "نُون، نَجْمٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-alphabet-04/letter-nun.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "connectsToNext": true,
           "forms": {
             "isolated": "ن",
@@ -800,7 +956,13 @@
           "letterNameArabic": "هَاء",
           "transliteration": "hāʾ",
           "audioText": "هَاء، هِلَالٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-alphabet-04/letter-ha-light.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "connectsToNext": true,
           "forms": {
             "isolated": "ه",
@@ -827,7 +989,13 @@
           "letterNameArabic": "وَاو",
           "transliteration": "wāw",
           "audioText": "وَاو، وَرْدَةٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-alphabet-04/letter-waw.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "connectsToNext": false,
           "forms": {
             "isolated": "و",
@@ -854,7 +1022,13 @@
           "letterNameArabic": "يَاء",
           "transliteration": "yāʾ",
           "audioText": "يَاء، يَدٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-alphabet-04/letter-ya.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "connectsToNext": true,
           "forms": {
             "isolated": "ي",
@@ -907,7 +1081,13 @@
           "arabic": "بَيْتٌ",
           "transliteration": "baytun",
           "audioText": "بَيْتٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-alphabet-05/shape-joining-example.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "a house",
             "ur": "گھر",
@@ -929,7 +1109,13 @@
           "arabic": "دَرْسٌ",
           "transliteration": "darsun",
           "audioText": "دَرْسٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-alphabet-05/shape-break-example.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "a lesson",
             "ur": "سبق",

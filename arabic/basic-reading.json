@@ -3,7 +3,13 @@
   "courseId": "arabic",
   "levelId": "basic",
   "unitId": "reading-foundations",
-  "translationLanguages": ["en", "ur", "id", "tr", "fr"],
+  "translationLanguages": [
+    "en",
+    "ur",
+    "id",
+    "tr",
+    "fr"
+  ],
   "lessons": [
     {
       "id": "basic-reading-01",
@@ -41,7 +47,13 @@
           "arabic": "بَ",
           "transliteration": "ba",
           "audioText": "بَ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-01/fat-ha-syllable-ba.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 6
+          },
           "meaning": null
         },
         {
@@ -50,7 +62,13 @@
           "arabic": "فَتَحَ",
           "transliteration": "fataḥa",
           "audioText": "فَتَحَ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-01/fat-ha-word-fataha.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "he opened",
             "ur": "اس نے کھولا",
@@ -65,7 +83,13 @@
           "arabic": "قَمَرٌ",
           "transliteration": "qamarun",
           "audioText": "قَمَرٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-01/fat-ha-word-qamar.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "a moon",
             "ur": "چاند",
@@ -112,7 +136,13 @@
           "arabic": "بِ",
           "transliteration": "bi",
           "audioText": "بِ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-02/kasra-syllable-bi.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 6
+          },
           "meaning": null
         },
         {
@@ -121,7 +151,13 @@
           "arabic": "بِنْتٌ",
           "transliteration": "bintun",
           "audioText": "بِنْتٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-02/kasra-word-bint.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "a girl; a daughter",
             "ur": "لڑکی؛ بیٹی",
@@ -136,7 +172,13 @@
           "arabic": "مِفْتَاحٌ",
           "transliteration": "miftāḥun",
           "audioText": "مِفْتَاحٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-02/kasra-word-miftah.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "a key",
             "ur": "چابی",
@@ -183,7 +225,13 @@
           "arabic": "بُ",
           "transliteration": "bu",
           "audioText": "بُ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-03/damma-syllable-bu.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "loudnessTargetLufs": -16
+          },
           "meaning": null
         },
         {
@@ -192,7 +240,13 @@
           "arabic": "كُتُبٌ",
           "transliteration": "kutubun",
           "audioText": "كُتُبٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-03/damma-word-kutub.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "books",
             "ur": "کتابیں",
@@ -207,7 +261,13 @@
           "arabic": "رُسُلٌ",
           "transliteration": "rusulun",
           "audioText": "رُسُلٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-03/damma-word-rusul.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "messengers",
             "ur": "پیغمبر",
@@ -246,46 +306,64 @@
         {
           "id": "tanwin-fat-hatan",
           "type": "pattern",
-          "arabic": "قَلَمًا",
-          "transliteration": "qalaman",
-          "audioText": "قَلَمًا",
-          "audio": null,
+          "arabic": "قَلَمًا جَدِيدًا",
+          "transliteration": "qalaman jadīdan",
+          "audioText": "قَلَمًا جَدِيدًا",
+          "audio": {
+            "path": "audio/basic-reading-04/tanwin-fat-hatan.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
-            "en": "a pen",
-            "ur": "قلم",
-            "id": "sebuah pena",
-            "tr": "bir kalem",
-            "fr": "un stylo"
+            "en": "a new pen",
+            "ur": "ایک نیا قلم",
+            "id": "sebuah pena baru",
+            "tr": "yeni bir kalem",
+            "fr": "un stylo neuf"
           }
         },
         {
           "id": "tanwin-kasratan",
           "type": "pattern",
-          "arabic": "كِتَابٍ",
-          "transliteration": "kitābin",
-          "audioText": "كِتَابٍ",
-          "audio": null,
+          "arabic": "مِنْ كِتَابٍ جَدِيدٍ",
+          "transliteration": "min kitābin jadīdin",
+          "audioText": "مِنْ كِتَابٍ جَدِيدٍ",
+          "audio": {
+            "path": "audio/basic-reading-04/tanwin-kasratan.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
-            "en": "a book (in a grammatical genitive form)",
-            "ur": "کتاب (حالتِ جر میں)",
-            "id": "buku (dalam bentuk genitif)",
-            "tr": "bir kitap (tamlayan durumunda)",
-            "fr": "un livre (à l'indéfini génitif)"
+            "en": "from a new book",
+            "ur": "ایک نئی کتاب سے",
+            "id": "dari buku baru",
+            "tr": "yeni bir kitaptan",
+            "fr": "d'un livre neuf"
           }
         },
         {
           "id": "tanwin-dammatan",
           "type": "pattern",
-          "arabic": "بَيْتٌ",
-          "transliteration": "baytun",
-          "audioText": "بَيْتٌ",
-          "audio": null,
+          "arabic": "بَيْتٌ كَبِيرٌ",
+          "transliteration": "baytun kabīrun",
+          "audioText": "بَيْتٌ كَبِيرٌ",
+          "audio": {
+            "path": "audio/basic-reading-04/tanwin-dammatan.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
-            "en": "a house",
-            "ur": "گھر",
-            "id": "sebuah rumah",
-            "tr": "bir ev",
-            "fr": "une maison"
+            "en": "a big house",
+            "ur": "ایک بڑا گھر",
+            "id": "rumah besar",
+            "tr": "büyük bir ev",
+            "fr": "une grande maison"
           }
         }
       ]
@@ -321,7 +399,13 @@
           "arabic": "مِنْ",
           "transliteration": "min",
           "audioText": "مِنْ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-05/sukun-word-min.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "from",
             "ur": "سے",
@@ -336,7 +420,13 @@
           "arabic": "بَيْتٌ",
           "transliteration": "baytun",
           "audioText": "بَيْتٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-05/sukun-word-bayt.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "a house",
             "ur": "گھر",
@@ -351,7 +441,13 @@
           "arabic": "شَمْسٌ",
           "transliteration": "shamsun",
           "audioText": "شَمْسٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-05/sukun-word-shams.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "a sun",
             "ur": "سورج",
@@ -390,10 +486,16 @@
         {
           "id": "shadda-word-muallim",
           "type": "word",
-          "arabic": "مُعَلِّمٌ",
+          "arabic": "مُعَلِّمٌ",
           "transliteration": "muʿallimun",
-          "audioText": "مُعَلِّمٌ",
-          "audio": null,
+          "audioText": "مُعَلِّمٌ",
+          "audio": {
+            "path": "audio/basic-reading-06/shadda-word-muallim.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "a teacher",
             "ur": "استاد",
@@ -405,10 +507,16 @@
         {
           "id": "shadda-word-makka",
           "type": "word",
-          "arabic": "مَكَّةُ",
+          "arabic": "مَكَّةُ",
           "transliteration": "Makkatu",
-          "audioText": "مَكَّةُ",
-          "audio": null,
+          "audioText": "مَكَّةُ",
+          "audio": {
+            "path": "audio/basic-reading-06/shadda-word-makka.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "Makkah",
             "ur": "مکہ",
@@ -420,16 +528,22 @@
         {
           "id": "shadda-word-inna",
           "type": "word",
-          "arabic": "إِنَّ",
-          "transliteration": "ʾinna",
-          "audioText": "إِنَّ",
-          "audio": null,
+          "arabic": "إِنَّ اللَّهَ مَعَنَا",
+          "transliteration": "ʾinna llāha maʿanā",
+          "audioText": "إِنَّ اللَّهَ مَعَنَا",
+          "audio": {
+            "path": "audio/basic-reading-06/shadda-word-inna.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
-            "en": "indeed",
-            "ur": "بے شک",
-            "id": "sesungguhnya",
-            "tr": "şüphesiz",
-            "fr": "certes"
+            "en": "Indeed, Allah is with us.",
+            "ur": "بے شک اللہ ہمارے ساتھ ہے۔",
+            "id": "Sesungguhnya Allah bersama kami.",
+            "tr": "Şüphesiz Allah bizimle.",
+            "fr": "Certes, Allah est avec nous."
           }
         }
       ]
@@ -465,7 +579,13 @@
           "arabic": "بَابٌ",
           "transliteration": "bābun",
           "audioText": "بَابٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-07/long-vowel-alif.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "a door",
             "ur": "دروازہ",
@@ -480,7 +600,13 @@
           "arabic": "نُورٌ",
           "transliteration": "nūrun",
           "audioText": "نُورٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-07/long-vowel-waw.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "light",
             "ur": "روشنی",
@@ -495,7 +621,13 @@
           "arabic": "فِيلٌ",
           "transliteration": "fīlun",
           "audioText": "فِيلٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-07/long-vowel-ya.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "an elephant",
             "ur": "ہاتھی",
@@ -537,7 +669,13 @@
           "arabic": "أَسَدٌ",
           "transliteration": "ʾasadun",
           "audioText": "أَسَدٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-08/hamza-alif-above.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "a lion",
             "ur": "شیر",
@@ -559,7 +697,13 @@
           "arabic": "إِبْرَةٌ",
           "transliteration": "ʾibratun",
           "audioText": "إِبْرَةٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-08/hamza-alif-below.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "a needle",
             "ur": "سوئی",
@@ -581,7 +725,13 @@
           "arabic": "مُؤْمِنٌ",
           "transliteration": "muʾminun",
           "audioText": "مُؤْمِنٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-08/hamza-on-waw.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "a believer",
             "ur": "مومن",
@@ -603,7 +753,13 @@
           "arabic": "بِئْرٌ",
           "transliteration": "biʾrun",
           "audioText": "بِئْرٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-08/hamza-on-ya.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "a well",
             "ur": "کنواں",
@@ -625,7 +781,13 @@
           "arabic": "شَيْءٌ",
           "transliteration": "shayʾun",
           "audioText": "شَيْءٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-08/hamza-independent.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "a thing",
             "ur": "چیز",
@@ -647,7 +809,13 @@
           "arabic": "اِسْمٌ",
           "transliteration": "ismun",
           "audioText": "اِسْمٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-08/hamzat-wasl.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "a name",
             "ur": "نام",
@@ -696,7 +864,13 @@
           "arabic": "مَدْرَسَةٌ",
           "transliteration": "madrasatun",
           "audioText": "مَدْرَسَةٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-09/ta-marbuta-madrasa.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "a school",
             "ur": "اسکول",
@@ -711,7 +885,13 @@
           "arabic": "وَرْدَةٌ",
           "transliteration": "wardatun",
           "audioText": "وَرْدَةٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-09/ta-marbuta-warda.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "a rose",
             "ur": "گلاب",
@@ -726,7 +906,13 @@
           "arabic": "هُدًى",
           "transliteration": "hudan",
           "audioText": "هُدًى",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-09/alif-maqsura-huda.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "guidance",
             "ur": "ہدایت",
@@ -741,7 +927,13 @@
           "arabic": "مُوسَى",
           "transliteration": "Mūsā",
           "audioText": "مُوسَى",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-09/alif-maqsura-musa.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "Moses (Mūsā)",
             "ur": "موسیٰ",
@@ -783,7 +975,13 @@
           "arabic": "لَا",
           "transliteration": "lā",
           "audioText": "لَا",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-10/lam-alif-sound.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "no; not",
             "ur": "نہیں",
@@ -805,7 +1003,13 @@
           "arabic": "الْقَمَرُ",
           "transliteration": "al-qamaru",
           "audioText": "الْقَمَرُ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-10/article-moon-qamar.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "the moon",
             "ur": "چاند",
@@ -827,7 +1031,13 @@
           "arabic": "الشَّمْسُ",
           "transliteration": "ash-shamsu",
           "audioText": "الشَّمْسُ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-10/article-sun-shams.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "the sun",
             "ur": "سورج",
@@ -878,7 +1088,13 @@
           "arabic": "النَّجْمُ",
           "transliteration": "an-najmu",
           "audioText": "النَّجْمُ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-11/sun-letter-example-najm.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "the star",
             "ur": "ستارہ",
@@ -893,7 +1109,13 @@
           "arabic": "الْبَيْتُ",
           "transliteration": "al-baytu",
           "audioText": "الْبَيْتُ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-11/moon-letter-example-bayt.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "the house",
             "ur": "گھر",
@@ -935,7 +1157,13 @@
           "arabic": "كِتَابٌ",
           "transliteration": "kitābun",
           "audioText": "كِتَابٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-12/review-kitab.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "a book",
             "ur": "کتاب",
@@ -950,7 +1178,13 @@
           "arabic": "مَسْجِدٌ",
           "transliteration": "masjidun",
           "audioText": "مَسْجِدٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-12/review-masjid.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "a mosque",
             "ur": "مسجد",
@@ -965,7 +1199,13 @@
           "arabic": "نُورٌ",
           "transliteration": "nūrun",
           "audioText": "نُورٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-12/review-noor.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "light",
             "ur": "روشنی",
@@ -980,7 +1220,13 @@
           "arabic": "مُعَلِّمٌ",
           "transliteration": "muʿallimun",
           "audioText": "مُعَلِّمٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-12/review-muallim.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "a teacher",
             "ur": "استاد",
@@ -995,7 +1241,13 @@
           "arabic": "سَلَامٌ",
           "transliteration": "salāmun",
           "audioText": "سَلَامٌ",
-          "audio": null,
+          "audio": {
+            "path": "audio/basic-reading-12/review-salam.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          },
           "meaning": {
             "en": "peace",
             "ur": "سلامتی",
