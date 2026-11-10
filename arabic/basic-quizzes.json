@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "courseId": "arabic",
+  "levelId": "basic",
+  "questionType": "listen_and_choose",
+  "prompts": {
+    "en": "Listen to the Arabic sound, then choose the matching text.",
+    "ur": "عربی آواز سنیں، پھر اس سے ملتا ہوا متن منتخب کریں۔",
+    "id": "Dengarkan bunyi bahasa Arab, lalu pilih teks yang cocok.",
+    "tr": "Arapça sesi dinleyin ve eşleşen metni seçin.",
+    "fr": "Écoutez le son arabe, puis choisissez le texte correspondant."
+  },
+  "lessons": [
+    { "lessonId": "basic-alphabet-01", "questionCount": 3 },
+    { "lessonId": "basic-alphabet-02", "questionCount": 3 },
+    { "lessonId": "basic-alphabet-03", "questionCount": 3 },
+    { "lessonId": "basic-alphabet-04", "questionCount": 3 },
+    { "lessonId": "basic-alphabet-05", "questionCount": 2 },
+    { "lessonId": "basic-reading-01", "questionCount": 3 },
+    { "lessonId": "basic-reading-02", "questionCount": 3 },
+    { "lessonId": "basic-reading-03", "questionCount": 3 },
+    { "lessonId": "basic-reading-04", "questionCount": 3 },
+    { "lessonId": "basic-reading-05", "questionCount": 3 },
+    { "lessonId": "basic-reading-06", "questionCount": 3 },
+    { "lessonId": "basic-reading-07", "questionCount": 3 },
+    { "lessonId": "basic-reading-08", "questionCount": 3 },
+    { "lessonId": "basic-reading-09", "questionCount": 3 },
+    { "lessonId": "basic-reading-10", "questionCount": 3 },
+    { "lessonId": "basic-reading-11", "questionCount": 2 },
+    { "lessonId": "basic-reading-12", "questionCount": 3 }
+  ]
+}

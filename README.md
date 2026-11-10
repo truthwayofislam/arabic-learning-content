@@ -1,9 +1,11 @@
 # Arabic learning content
 
-This directory is a standalone local content repository intended for a
-separate public GitHub repository. It is not wired into the Noor app yet.
+This is the standalone content repository for Noor's Arabic course. The app
+loads versioned lesson, quiz, and audio files referenced by the manifest.
 
 - `manifest.json` describes the Arabic course and the Basic lesson sequence.
+- `arabic/basic-quizzes.json` configures the listening quiz for each Basic
+  lesson; answer choices are built from the reviewed lesson items.
 - `arabic/basic-alphabet.json` contains the 28 letters, their joining forms,
   and a fully vocalized example word for each letter.
 - `arabic/basic-reading.json` teaches short vowels and the other foundational

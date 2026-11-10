@@ -21,6 +21,7 @@
         "tr": "Temel",
         "fr": "Bases"
       },
+      "quizFile": "arabic/basic-quizzes.json",
       "lessonFiles": [
         "arabic/basic-alphabet.json",
         "arabic/basic-reading.json"
