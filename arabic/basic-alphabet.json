@@ -1,0 +1,951 @@
+{
+  "schemaVersion": 1,
+  "courseId": "arabic",
+  "levelId": "basic",
+  "unitId": "alphabet",
+  "translationLanguages": ["en", "ur", "id", "tr", "fr"],
+  "lessons": [
+    {
+      "id": "basic-alphabet-01",
+      "order": 1,
+      "title": {
+        "en": "Letters 1: Alif to Khāʾ",
+        "ur": "حروف ۱: الف سے خاء تک",
+        "id": "Huruf 1: Alif sampai Khā",
+        "tr": "Harfler 1: Elif'ten Hı'ya",
+        "fr": "Lettres 1 : Alif à khā"
+      },
+      "objective": {
+        "en": "Recognize the first seven Arabic letters, say their names, and notice how their shapes connect.",
+        "ur": "عربی کے پہلے سات حروف پہچانیں، ان کے نام بولیں، اور دیکھیں کہ ان کی شکلیں کیسے جڑتی ہیں۔",
+        "id": "Kenali tujuh huruf Arab pertama, ucapkan namanya, dan perhatikan cara bentuknya tersambung.",
+        "tr": "İlk yedi Arap harfini tanıyın, adlarını söyleyin ve şekillerinin nasıl birleştiğine dikkat edin.",
+        "fr": "Reconnaissez les sept premières lettres arabes, dites leur nom et observez comment leurs formes se lient."
+      },
+      "instruction": {
+        "en": "Read from right to left. Listen to the Arabic letter name and example, then repeat.",
+        "ur": "دائیں سے بائیں پڑھیں۔ عربی حرف اور مثال سنیں، پھر دہرائیں۔",
+        "id": "Baca dari kanan ke kiri. Dengarkan nama huruf dan contohnya dalam bahasa Arab, lalu ulangi.",
+        "tr": "Sağdan sola okuyun. Harfin ve örneğinin Arapça okunuşunu dinleyip tekrarlayın.",
+        "fr": "Lisez de droite à gauche. Écoutez le nom arabe de la lettre et l'exemple, puis répétez."
+      },
+      "items": [
+        {
+          "id": "letter-alif",
+          "type": "letter",
+          "arabic": "ا",
+          "letterNameArabic": "أَلِف",
+          "transliteration": "alif",
+          "audioText": "أَلِف، أَسَدٌ",
+          "audio": null,
+          "connectsToNext": false,
+          "forms": {
+            "isolated": "ا",
+            "initial": "ا",
+            "medial": "ـا",
+            "final": "ـا"
+          },
+          "example": {
+            "arabic": "أَسَدٌ",
+            "transliteration": "ʾasadun",
+            "meaning": {
+              "en": "a lion",
+              "ur": "شیر",
+              "id": "singa",
+              "tr": "aslan",
+              "fr": "un lion"
+            }
+          },
+          "note": {
+            "en": "This word begins with hamza written on alif. Hamza is introduced later.",
+            "ur": "یہ لفظ الف پر لکھی ہوئی ہمزہ سے شروع ہوتا ہے۔ ہمزہ کا تعارف آگے آئے گا۔",
+            "id": "Kata ini diawali hamzah yang ditulis di atas alif. Hamzah akan diperkenalkan kemudian.",
+            "tr": "Bu kelime, elif üzerine yazılan hemze ile başlar. Hemze daha sonra tanıtılacaktır.",
+            "fr": "Ce mot commence par une hamza écrite sur alif. La hamza sera présentée plus tard."
+          }
+        },
+        {
+          "id": "letter-ba",
+          "type": "letter",
+          "arabic": "ب",
+          "letterNameArabic": "بَاء",
+          "transliteration": "bāʾ",
+          "audioText": "بَاء، بَابٌ",
+          "audio": null,
+          "connectsToNext": true,
+          "forms": {
+            "isolated": "ب",
+            "initial": "بـ",
+            "medial": "ـبـ",
+            "final": "ـب"
+          },
+          "example": {
+            "arabic": "بَابٌ",
+            "transliteration": "bābun",
+            "meaning": {
+              "en": "a door",
+              "ur": "دروازہ",
+              "id": "pintu",
+              "tr": "kapı",
+              "fr": "une porte"
+            }
+          }
+        },
+        {
+          "id": "letter-ta",
+          "type": "letter",
+          "arabic": "ت",
+          "letterNameArabic": "تَاء",
+          "transliteration": "tāʾ",
+          "audioText": "تَاء، تَمْرٌ",
+          "audio": null,
+          "connectsToNext": true,
+          "forms": {
+            "isolated": "ت",
+            "initial": "تـ",
+            "medial": "ـتـ",
+            "final": "ـت"
+          },
+          "example": {
+            "arabic": "تَمْرٌ",
+            "transliteration": "tamrun",
+            "meaning": {
+              "en": "dates",
+              "ur": "کھجور",
+              "id": "kurma",
+              "tr": "hurma",
+              "fr": "des dattes"
+            }
+          }
+        },
+        {
+          "id": "letter-tha",
+          "type": "letter",
+          "arabic": "ث",
+          "letterNameArabic": "ثَاء",
+          "transliteration": "thāʾ",
+          "audioText": "ثَاء، ثَوْبٌ",
+          "audio": null,
+          "connectsToNext": true,
+          "forms": {
+            "isolated": "ث",
+            "initial": "ثـ",
+            "medial": "ـثـ",
+            "final": "ـث"
+          },
+          "example": {
+            "arabic": "ثَوْبٌ",
+            "transliteration": "thawbun",
+            "meaning": {
+              "en": "a garment",
+              "ur": "لباس",
+              "id": "pakaian",
+              "tr": "giysi",
+              "fr": "un vêtement"
+            }
+          }
+        },
+        {
+          "id": "letter-jim",
+          "type": "letter",
+          "arabic": "ج",
+          "letterNameArabic": "جِيم",
+          "transliteration": "jīm",
+          "audioText": "جِيم، جَمَلٌ",
+          "audio": null,
+          "connectsToNext": true,
+          "forms": {
+            "isolated": "ج",
+            "initial": "جـ",
+            "medial": "ـجـ",
+            "final": "ـج"
+          },
+          "example": {
+            "arabic": "جَمَلٌ",
+            "transliteration": "jamalun",
+            "meaning": {
+              "en": "a camel",
+              "ur": "اونٹ",
+              "id": "unta",
+              "tr": "deve",
+              "fr": "un chameau"
+            }
+          }
+        },
+        {
+          "id": "letter-ha",
+          "type": "letter",
+          "arabic": "ح",
+          "letterNameArabic": "حَاء",
+          "transliteration": "ḥāʾ",
+          "audioText": "حَاء، حِصَانٌ",
+          "audio": null,
+          "connectsToNext": true,
+          "forms": {
+            "isolated": "ح",
+            "initial": "حـ",
+            "medial": "ـحـ",
+            "final": "ـح"
+          },
+          "example": {
+            "arabic": "حِصَانٌ",
+            "transliteration": "ḥiṣānun",
+            "meaning": {
+              "en": "a horse",
+              "ur": "گھوڑا",
+              "id": "kuda",
+              "tr": "at",
+              "fr": "un cheval"
+            }
+          }
+        },
+        {
+          "id": "letter-kha",
+          "type": "letter",
+          "arabic": "خ",
+          "letterNameArabic": "خَاء",
+          "transliteration": "khāʾ",
+          "audioText": "خَاء، خُبْزٌ",
+          "audio": null,
+          "connectsToNext": true,
+          "forms": {
+            "isolated": "خ",
+            "initial": "خـ",
+            "medial": "ـخـ",
+            "final": "ـخ"
+          },
+          "example": {
+            "arabic": "خُبْزٌ",
+            "transliteration": "khubzun",
+            "meaning": {
+              "en": "bread",
+              "ur": "روٹی",
+              "id": "roti",
+              "tr": "ekmek",
+              "fr": "du pain"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "basic-alphabet-02",
+      "order": 2,
+      "title": {
+        "en": "Letters 2: Dāl to Ṣād",
+        "ur": "حروف ۲: دال سے صاد تک",
+        "id": "Huruf 2: Dāl sampai Ṣād",
+        "tr": "Harfler 2: Dal'dan Sad'a",
+        "fr": "Lettres 2 : Dāl à ṣād"
+      },
+      "objective": {
+        "en": "Recognize the next seven letters and learn that alif, dāl, dhāl, rāʾ, zāy, and wāw do not connect to the letter after them.",
+        "ur": "اگلے سات حروف پہچانیں اور سیکھیں کہ الف، دال، ذال، راء، زائے اور واو اپنے بعد آنے والے حرف سے نہیں جڑتے۔",
+        "id": "Kenali tujuh huruf berikutnya. Alif, dāl, dhāl, rā, zāy, dan wāw tidak menyambung ke huruf sesudahnya.",
+        "tr": "Sonraki yedi harfi tanıyın. Elif, dal, zel, ra, zey ve vav kendilerinden sonraki harfe bağlanmaz.",
+        "fr": "Reconnaissez les sept lettres suivantes. Alif, dāl, dhāl, rāʾ, zāy et wāw ne se lient pas à la lettre qui suit."
+      },
+      "instruction": {
+        "en": "Notice which letters have one main shape and which can join on both sides.",
+        "ur": "دیکھیں کہ کن حروف کی بنیادی شکل ایک رہتی ہے اور کون دونوں طرف جڑ سکتے ہیں۔",
+        "id": "Perhatikan huruf yang bentuk dasarnya tetap dan huruf yang dapat menyambung di kedua sisi.",
+        "tr": "Temel biçimi değişmeyen harfleri ve iki yönde birleşebilen harfleri fark edin.",
+        "fr": "Observez les lettres dont la forme reste presque la même et celles qui peuvent se lier des deux côtés."
+      },
+      "items": [
+        {
+          "id": "letter-dal",
+          "type": "letter",
+          "arabic": "د",
+          "letterNameArabic": "دَال",
+          "transliteration": "dāl",
+          "audioText": "دَال، دَفْتَرٌ",
+          "audio": null,
+          "connectsToNext": false,
+          "forms": {
+            "isolated": "د",
+            "initial": "د",
+            "medial": "ـد",
+            "final": "ـد"
+          },
+          "example": {
+            "arabic": "دَفْتَرٌ",
+            "transliteration": "daftarun",
+            "meaning": {
+              "en": "a notebook",
+              "ur": "کاپی",
+              "id": "buku tulis",
+              "tr": "defter",
+              "fr": "un cahier"
+            }
+          }
+        },
+        {
+          "id": "letter-dhal",
+          "type": "letter",
+          "arabic": "ذ",
+          "letterNameArabic": "ذَال",
+          "transliteration": "dhāl",
+          "audioText": "ذَال، ذَهَبٌ",
+          "audio": null,
+          "connectsToNext": false,
+          "forms": {
+            "isolated": "ذ",
+            "initial": "ذ",
+            "medial": "ـذ",
+            "final": "ـذ"
+          },
+          "example": {
+            "arabic": "ذَهَبٌ",
+            "transliteration": "dhahabun",
+            "meaning": {
+              "en": "gold",
+              "ur": "سونا",
+              "id": "emas",
+              "tr": "altın",
+              "fr": "de l'or"
+            }
+          }
+        },
+        {
+          "id": "letter-ra",
+          "type": "letter",
+          "arabic": "ر",
+          "letterNameArabic": "رَاء",
+          "transliteration": "rāʾ",
+          "audioText": "رَاء، رَجُلٌ",
+          "audio": null,
+          "connectsToNext": false,
+          "forms": {
+            "isolated": "ر",
+            "initial": "ر",
+            "medial": "ـر",
+            "final": "ـر"
+          },
+          "example": {
+            "arabic": "رَجُلٌ",
+            "transliteration": "rajulun",
+            "meaning": {
+              "en": "a man",
+              "ur": "آدمی",
+              "id": "pria",
+              "tr": "adam",
+              "fr": "un homme"
+            }
+          }
+        },
+        {
+          "id": "letter-zay",
+          "type": "letter",
+          "arabic": "ز",
+          "letterNameArabic": "زَاي",
+          "transliteration": "zāy",
+          "audioText": "زَاي، زَيْتٌ",
+          "audio": null,
+          "connectsToNext": false,
+          "forms": {
+            "isolated": "ز",
+            "initial": "ز",
+            "medial": "ـز",
+            "final": "ـز"
+          },
+          "example": {
+            "arabic": "زَيْتٌ",
+            "transliteration": "zaytun",
+            "meaning": {
+              "en": "oil",
+              "ur": "تیل",
+              "id": "minyak",
+              "tr": "yağ",
+              "fr": "de l'huile"
+            }
+          }
+        },
+        {
+          "id": "letter-sin",
+          "type": "letter",
+          "arabic": "س",
+          "letterNameArabic": "سِين",
+          "transliteration": "sīn",
+          "audioText": "سِين، سَمَكٌ",
+          "audio": null,
+          "connectsToNext": true,
+          "forms": {
+            "isolated": "س",
+            "initial": "سـ",
+            "medial": "ـسـ",
+            "final": "ـس"
+          },
+          "example": {
+            "arabic": "سَمَكٌ",
+            "transliteration": "samakun",
+            "meaning": {
+              "en": "fish",
+              "ur": "مچھلی",
+              "id": "ikan",
+              "tr": "balık",
+              "fr": "du poisson"
+            }
+          }
+        },
+        {
+          "id": "letter-shin",
+          "type": "letter",
+          "arabic": "ش",
+          "letterNameArabic": "شِين",
+          "transliteration": "shīn",
+          "audioText": "شِين، شَمْسٌ",
+          "audio": null,
+          "connectsToNext": true,
+          "forms": {
+            "isolated": "ش",
+            "initial": "شـ",
+            "medial": "ـشـ",
+            "final": "ـش"
+          },
+          "example": {
+            "arabic": "شَمْسٌ",
+            "transliteration": "shamsun",
+            "meaning": {
+              "en": "a sun",
+              "ur": "سورج",
+              "id": "matahari",
+              "tr": "güneş",
+              "fr": "un soleil"
+            }
+          }
+        },
+        {
+          "id": "letter-sad",
+          "type": "letter",
+          "arabic": "ص",
+          "letterNameArabic": "صَاد",
+          "transliteration": "ṣād",
+          "audioText": "صَاد، صَقْرٌ",
+          "audio": null,
+          "connectsToNext": true,
+          "forms": {
+            "isolated": "ص",
+            "initial": "صـ",
+            "medial": "ـصـ",
+            "final": "ـص"
+          },
+          "example": {
+            "arabic": "صَقْرٌ",
+            "transliteration": "ṣaqrun",
+            "meaning": {
+              "en": "a falcon",
+              "ur": "باز",
+              "id": "elang",
+              "tr": "şahin",
+              "fr": "un faucon"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "basic-alphabet-03",
+      "order": 3,
+      "title": {
+        "en": "Letters 3: Ḍād to Qāf",
+        "ur": "حروف ۳: ضاد سے قاف تک",
+        "id": "Huruf 3: Ḍād sampai Qāf",
+        "tr": "Harfler 3: Dad'dan Kaf'a",
+        "fr": "Lettres 3 : Ḍād à qāf"
+      },
+      "objective": {
+        "en": "Recognize seven letters whose sounds may be unfamiliar, using their transliteration and example words as guides.",
+        "ur": "ایسے سات حروف پہچانیں جن کی آوازیں نئی لگ سکتی ہیں؛ رہنمائی کے لیے نقلِ صوتی اور مثال کے الفاظ استعمال کریں۔",
+        "id": "Kenali tujuh huruf yang bunyinya mungkin belum familier dengan bantuan transliterasi dan kata contoh.",
+        "tr": "Okunuşu tanıdık gelmeyebilecek yedi harfi, çevriyazı ve örnek kelimelerden yararlanarak tanıyın.",
+        "fr": "Reconnaissez sept lettres aux sons parfois nouveaux en vous aidant de la translittération et des exemples."
+      },
+      "instruction": {
+        "en": "Some Arabic sounds have no exact match in other languages. Listen carefully and use the transliteration as a guide, not as a replacement for listening.",
+        "ur": "عربی کی بعض آوازوں کا دوسری زبانوں میں بالکل یکساں متبادل نہیں ہوتا۔ غور سے سنیں اور نقلِ صوتی کو رہنمائی سمجھیں، سننے کا متبادل نہیں۔",
+        "id": "Beberapa bunyi Arab tidak memiliki padanan yang persis dalam bahasa lain. Dengarkan dengan saksama; gunakan transliterasi sebagai panduan, bukan pengganti audio.",
+        "tr": "Bazı Arapça seslerin başka dillerde tam karşılığı yoktur. Dikkatle dinleyin; çevriyazıyı dinlemenin yerine değil, rehber olarak kullanın.",
+        "fr": "Certains sons arabes n'ont pas d'équivalent exact dans d'autres langues. Écoutez attentivement et utilisez la translittération comme guide, pas comme substitut à l'écoute."
+      },
+      "items": [
+        {
+          "id": "letter-dad",
+          "type": "letter",
+          "arabic": "ض",
+          "letterNameArabic": "ضَاد",
+          "transliteration": "ḍād",
+          "audioText": "ضَاد، ضِفْدَعٌ",
+          "audio": null,
+          "connectsToNext": true,
+          "forms": {
+            "isolated": "ض",
+            "initial": "ضـ",
+            "medial": "ـضـ",
+            "final": "ـض"
+          },
+          "example": {
+            "arabic": "ضِفْدَعٌ",
+            "transliteration": "ḍifdaʿun",
+            "meaning": {
+              "en": "a frog",
+              "ur": "مینڈک",
+              "id": "katak",
+              "tr": "kurbağa",
+              "fr": "une grenouille"
+            }
+          }
+        },
+        {
+          "id": "letter-ta-emphatic",
+          "type": "letter",
+          "arabic": "ط",
+          "letterNameArabic": "طَاء",
+          "transliteration": "ṭāʾ",
+          "audioText": "طَاء، طِفْلٌ",
+          "audio": null,
+          "connectsToNext": true,
+          "forms": {
+            "isolated": "ط",
+            "initial": "طـ",
+            "medial": "ـطـ",
+            "final": "ـط"
+          },
+          "example": {
+            "arabic": "طِفْلٌ",
+            "transliteration": "ṭiflun",
+            "meaning": {
+              "en": "a child",
+              "ur": "بچہ",
+              "id": "anak",
+              "tr": "çocuk",
+              "fr": "un enfant"
+            }
+          }
+        },
+        {
+          "id": "letter-zha",
+          "type": "letter",
+          "arabic": "ظ",
+          "letterNameArabic": "ظَاء",
+          "transliteration": "ẓāʾ",
+          "audioText": "ظَاء، ظِلٌّ",
+          "audio": null,
+          "connectsToNext": true,
+          "forms": {
+            "isolated": "ظ",
+            "initial": "ظـ",
+            "medial": "ـظـ",
+            "final": "ـظ"
+          },
+          "example": {
+            "arabic": "ظِلٌّ",
+            "transliteration": "ẓillun",
+            "meaning": {
+              "en": "shade",
+              "ur": "سایہ",
+              "id": "bayangan",
+              "tr": "gölge",
+              "fr": "de l'ombre"
+            }
+          }
+        },
+        {
+          "id": "letter-ayn",
+          "type": "letter",
+          "arabic": "ع",
+          "letterNameArabic": "عَيْن",
+          "transliteration": "ʿayn",
+          "audioText": "عَيْن، عَيْنٌ",
+          "audio": null,
+          "connectsToNext": true,
+          "forms": {
+            "isolated": "ع",
+            "initial": "عـ",
+            "medial": "ـعـ",
+            "final": "ـع"
+          },
+          "example": {
+            "arabic": "عَيْنٌ",
+            "transliteration": "ʿaynun",
+            "meaning": {
+              "en": "an eye; a spring",
+              "ur": "آنکھ؛ چشمہ",
+              "id": "mata; mata air",
+              "tr": "göz; pınar",
+              "fr": "un œil ; une source"
+            }
+          }
+        },
+        {
+          "id": "letter-ghayn",
+          "type": "letter",
+          "arabic": "غ",
+          "letterNameArabic": "غَيْن",
+          "transliteration": "ghayn",
+          "audioText": "غَيْن، غَزَالٌ",
+          "audio": null,
+          "connectsToNext": true,
+          "forms": {
+            "isolated": "غ",
+            "initial": "غـ",
+            "medial": "ـغـ",
+            "final": "ـغ"
+          },
+          "example": {
+            "arabic": "غَزَالٌ",
+            "transliteration": "ghazālun",
+            "meaning": {
+              "en": "a gazelle",
+              "ur": "غزال",
+              "id": "rusa kecil",
+              "tr": "ceylan",
+              "fr": "une gazelle"
+            }
+          }
+        },
+        {
+          "id": "letter-fa",
+          "type": "letter",
+          "arabic": "ف",
+          "letterNameArabic": "فَاء",
+          "transliteration": "fāʾ",
+          "audioText": "فَاء، فَمٌ",
+          "audio": null,
+          "connectsToNext": true,
+          "forms": {
+            "isolated": "ف",
+            "initial": "فـ",
+            "medial": "ـفـ",
+            "final": "ـف"
+          },
+          "example": {
+            "arabic": "فَمٌ",
+            "transliteration": "famun",
+            "meaning": {
+              "en": "a mouth",
+              "ur": "منہ",
+              "id": "mulut",
+              "tr": "ağız",
+              "fr": "une bouche"
+            }
+          }
+        },
+        {
+          "id": "letter-qaf",
+          "type": "letter",
+          "arabic": "ق",
+          "letterNameArabic": "قَاف",
+          "transliteration": "qāf",
+          "audioText": "قَاف، قَمَرٌ",
+          "audio": null,
+          "connectsToNext": true,
+          "forms": {
+            "isolated": "ق",
+            "initial": "قـ",
+            "medial": "ـقـ",
+            "final": "ـق"
+          },
+          "example": {
+            "arabic": "قَمَرٌ",
+            "transliteration": "qamarun",
+            "meaning": {
+              "en": "a moon",
+              "ur": "چاند",
+              "id": "bulan",
+              "tr": "ay",
+              "fr": "une lune"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "basic-alphabet-04",
+      "order": 4,
+      "title": {
+        "en": "Letters 4: Kāf to Yāʾ",
+        "ur": "حروف ۴: کاف سے یاء تک",
+        "id": "Huruf 4: Kāf sampai Yā",
+        "tr": "Harfler 4: Kef'ten Ye'ye",
+        "fr": "Lettres 4 : Kāf à yāʾ"
+      },
+      "objective": {
+        "en": "Recognize the final seven letters and complete the 28-letter Arabic alphabet.",
+        "ur": "آخری سات حروف پہچانیں اور عربی کے ۲۸ حروف مکمل کریں۔",
+        "id": "Kenali tujuh huruf terakhir dan selesaikan 28 huruf alfabet Arab.",
+        "tr": "Son yedi harfi tanıyın ve Arap alfabesinin 28 harfini tamamlayın.",
+        "fr": "Reconnaissez les sept dernières lettres et terminez l'apprentissage des 28 lettres arabes."
+      },
+      "instruction": {
+        "en": "Compare the dots and the letter shapes. Wāw, like alif, dāl, dhāl, rāʾ, and zāy, does not connect to the letter after it.",
+        "ur": "نقطوں اور حروف کی شکلوں کا موازنہ کریں۔ واو بھی الف، دال، ذال، راء اور زائے کی طرح اپنے بعد والے حرف سے نہیں جڑتا۔",
+        "id": "Bandingkan titik dan bentuk huruf. Wāw, seperti alif, dāl, dhāl, rā, dan zāy, tidak menyambung ke huruf sesudahnya.",
+        "tr": "Noktaları ve harf biçimlerini karşılaştırın. Vav da elif, dal, zel, ra ve zey gibi kendisinden sonraki harfe bağlanmaz.",
+        "fr": "Comparez les points et les formes. Wāw, comme alif, dāl, dhāl, rāʾ et zāy, ne se lie pas à la lettre qui suit."
+      },
+      "items": [
+        {
+          "id": "letter-kaf",
+          "type": "letter",
+          "arabic": "ك",
+          "letterNameArabic": "كَاف",
+          "transliteration": "kāf",
+          "audioText": "كَاف، كِتَابٌ",
+          "audio": null,
+          "connectsToNext": true,
+          "forms": {
+            "isolated": "ك",
+            "initial": "كـ",
+            "medial": "ـكـ",
+            "final": "ـك"
+          },
+          "example": {
+            "arabic": "كِتَابٌ",
+            "transliteration": "kitābun",
+            "meaning": {
+              "en": "a book",
+              "ur": "کتاب",
+              "id": "buku",
+              "tr": "kitap",
+              "fr": "un livre"
+            }
+          }
+        },
+        {
+          "id": "letter-lam",
+          "type": "letter",
+          "arabic": "ل",
+          "letterNameArabic": "لَام",
+          "transliteration": "lām",
+          "audioText": "لَام، لَيْمُونٌ",
+          "audio": null,
+          "connectsToNext": true,
+          "forms": {
+            "isolated": "ل",
+            "initial": "لـ",
+            "medial": "ـلـ",
+            "final": "ـل"
+          },
+          "example": {
+            "arabic": "لَيْمُونٌ",
+            "transliteration": "laymūnun",
+            "meaning": {
+              "en": "a lemon",
+              "ur": "لیموں",
+              "id": "lemon",
+              "tr": "limon",
+              "fr": "un citron"
+            }
+          }
+        },
+        {
+          "id": "letter-mim",
+          "type": "letter",
+          "arabic": "م",
+          "letterNameArabic": "مِيم",
+          "transliteration": "mīm",
+          "audioText": "مِيم، مَوْزٌ",
+          "audio": null,
+          "connectsToNext": true,
+          "forms": {
+            "isolated": "م",
+            "initial": "مـ",
+            "medial": "ـمـ",
+            "final": "ـم"
+          },
+          "example": {
+            "arabic": "مَوْزٌ",
+            "transliteration": "mawzun",
+            "meaning": {
+              "en": "a banana",
+              "ur": "کیلا",
+              "id": "pisang",
+              "tr": "muz",
+              "fr": "une banane"
+            }
+          }
+        },
+        {
+          "id": "letter-nun",
+          "type": "letter",
+          "arabic": "ن",
+          "letterNameArabic": "نُون",
+          "transliteration": "nūn",
+          "audioText": "نُون، نَجْمٌ",
+          "audio": null,
+          "connectsToNext": true,
+          "forms": {
+            "isolated": "ن",
+            "initial": "نـ",
+            "medial": "ـنـ",
+            "final": "ـن"
+          },
+          "example": {
+            "arabic": "نَجْمٌ",
+            "transliteration": "najmun",
+            "meaning": {
+              "en": "a star",
+              "ur": "ستارہ",
+              "id": "bintang",
+              "tr": "yıldız",
+              "fr": "une étoile"
+            }
+          }
+        },
+        {
+          "id": "letter-ha-light",
+          "type": "letter",
+          "arabic": "ه",
+          "letterNameArabic": "هَاء",
+          "transliteration": "hāʾ",
+          "audioText": "هَاء، هِلَالٌ",
+          "audio": null,
+          "connectsToNext": true,
+          "forms": {
+            "isolated": "ه",
+            "initial": "هـ",
+            "medial": "ـهـ",
+            "final": "ـه"
+          },
+          "example": {
+            "arabic": "هِلَالٌ",
+            "transliteration": "hilālun",
+            "meaning": {
+              "en": "a crescent",
+              "ur": "ہلال",
+              "id": "bulan sabit",
+              "tr": "hilal",
+              "fr": "un croissant de lune"
+            }
+          }
+        },
+        {
+          "id": "letter-waw",
+          "type": "letter",
+          "arabic": "و",
+          "letterNameArabic": "وَاو",
+          "transliteration": "wāw",
+          "audioText": "وَاو، وَرْدَةٌ",
+          "audio": null,
+          "connectsToNext": false,
+          "forms": {
+            "isolated": "و",
+            "initial": "و",
+            "medial": "ـو",
+            "final": "ـو"
+          },
+          "example": {
+            "arabic": "وَرْدَةٌ",
+            "transliteration": "wardatun",
+            "meaning": {
+              "en": "a rose",
+              "ur": "گلاب",
+              "id": "mawar",
+              "tr": "gül",
+              "fr": "une rose"
+            }
+          }
+        },
+        {
+          "id": "letter-ya",
+          "type": "letter",
+          "arabic": "ي",
+          "letterNameArabic": "يَاء",
+          "transliteration": "yāʾ",
+          "audioText": "يَاء، يَدٌ",
+          "audio": null,
+          "connectsToNext": true,
+          "forms": {
+            "isolated": "ي",
+            "initial": "يـ",
+            "medial": "ـيـ",
+            "final": "ـي"
+          },
+          "example": {
+            "arabic": "يَدٌ",
+            "transliteration": "yadun",
+            "meaning": {
+              "en": "a hand",
+              "ur": "ہاتھ",
+              "id": "tangan",
+              "tr": "el",
+              "fr": "une main"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "basic-alphabet-05",
+      "order": 5,
+      "title": {
+        "en": "Letter shapes and connections",
+        "ur": "حروف کی شکلیں اور جوڑ",
+        "id": "Bentuk huruf dan sambungannya",
+        "tr": "Harf biçimleri ve birleşmeleri",
+        "fr": "Formes et liaisons des lettres"
+      },
+      "objective": {
+        "en": "Read a letter in isolation and in initial, medial, or final position. Remember that six letters do not connect to the following letter.",
+        "ur": "حرف کو الگ اور شروع، درمیان یا آخر میں پہچانیں۔ یاد رکھیں کہ چھ حروف اپنے بعد والے حرف سے نہیں جڑتے۔",
+        "id": "Kenali huruf saat berdiri sendiri maupun di awal, tengah, dan akhir. Ingat, enam huruf tidak menyambung ke huruf sesudahnya.",
+        "tr": "Harfleri tek başına, başta, ortada ve sonda tanıyın. Altı harfin kendisinden sonraki harfe bağlanmadığını unutmayın.",
+        "fr": "Reconnaissez les lettres seules, au début, au milieu et à la fin. Retenez que six lettres ne se lient pas à la lettre suivante."
+      },
+      "instruction": {
+        "en": "The forms above show how a letter may look depending on its neighbors. Alif, dāl, dhāl, rāʾ, zāy, and wāw break the connection after themselves.",
+        "ur": "اوپر دی گئی شکلیں پڑوسی حروف کے مطابق حرف کی صورت دکھاتی ہیں۔ الف، دال، ذال، راء، زائے اور واو کے بعد جوڑ ٹوٹ جاتا ہے۔",
+        "id": "Bentuk di atas menunjukkan perubahan huruf sesuai tetangganya. Alif, dāl, dhāl, rā, zāy, dan wāw memutus sambungan setelah dirinya.",
+        "tr": "Yukarıdaki biçimler harfin komşularına göre görünümünü gösterir. Elif, dal, zel, ra, zey ve vav kendilerinden sonraki bağlantıyı keser.",
+        "fr": "Les formes ci-dessus montrent les variantes selon les lettres voisines. Alif, dāl, dhāl, rāʾ, zāy et wāw interrompent la liaison après eux."
+      },
+      "items": [
+        {
+          "id": "shape-joining-example",
+          "type": "pattern",
+          "arabic": "بَيْتٌ",
+          "transliteration": "baytun",
+          "audioText": "بَيْتٌ",
+          "audio": null,
+          "meaning": {
+            "en": "a house",
+            "ur": "گھر",
+            "id": "rumah",
+            "tr": "ev",
+            "fr": "une maison"
+          },
+          "note": {
+            "en": "The letters bāʾ, yāʾ, and tāʾ join in this word.",
+            "ur": "اس لفظ میں باء، یاء اور تاء آپس میں جڑتے ہیں۔",
+            "id": "Dalam kata ini, bā, yā, dan tā saling tersambung.",
+            "tr": "Bu kelimede be, ye ve te birbirine bağlanır.",
+            "fr": "Dans ce mot, bāʾ, yāʾ et tāʾ sont liés."
+          }
+        },
+        {
+          "id": "shape-break-example",
+          "type": "pattern",
+          "arabic": "دَرْسٌ",
+          "transliteration": "darsun",
+          "audioText": "دَرْسٌ",
+          "audio": null,
+          "meaning": {
+            "en": "a lesson",
+            "ur": "سبق",
+            "id": "pelajaran",
+            "tr": "ders",
+            "fr": "une leçon"
+          },
+          "note": {
+            "en": "Dāl does not connect to rāʾ, so there is a visible break between them.",
+            "ur": "دال، راء سے نہیں جڑتا، اس لیے دونوں کے درمیان جوڑ ٹوٹتا ہے۔",
+            "id": "Dāl tidak menyambung ke rā, sehingga sambungan terputus di antaranya.",
+            "tr": "Dal, ra harfine bağlanmaz; bu yüzden aralarında bağlantı kesilir.",
+            "fr": "Dāl ne se lie pas à rāʾ : la liaison est donc interrompue entre les deux."
+          }
+        }
+      ]
+    }
+  ]
+}

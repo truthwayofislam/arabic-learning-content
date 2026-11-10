@@ -1,0 +1,1010 @@
+{
+  "schemaVersion": 1,
+  "courseId": "arabic",
+  "levelId": "basic",
+  "unitId": "reading-foundations",
+  "translationLanguages": ["en", "ur", "id", "tr", "fr"],
+  "lessons": [
+    {
+      "id": "basic-reading-01",
+      "order": 6,
+      "title": {
+        "en": "Fatḥa: the short a vowel",
+        "ur": "زبر: مختصر اَ کی آواز",
+        "id": "Fatḥah: vokal pendek a",
+        "tr": "Fetha: kısa a ünlüsü",
+        "fr": "Fatḥa : la voyelle brève a"
+      },
+      "objective": {
+        "en": "Read fatḥa above a consonant as a short a sound.",
+        "ur": "حرف کے اوپر زبر کو مختصر اَ کی آواز کے طور پر پڑھیں۔",
+        "id": "Baca fatḥah di atas konsonan sebagai bunyi a pendek.",
+        "tr": "Bir ünsüzün üzerindeki fethayı kısa a sesiyle okuyun.",
+        "fr": "Lisez la fatḥa au-dessus d'une consonne comme un a bref."
+      },
+      "instruction": {
+        "en": "Fatḥa is the small diagonal mark above a letter. It does not have a meaning by itself; it tells you which short vowel to pronounce.",
+        "ur": "زبر حرف کے اوپر چھوٹی ترچھی لکیر ہے۔ اس کا الگ معنی نہیں؛ یہ مختصر آواز بتاتی ہے۔",
+        "id": "Fatḥah adalah tanda kecil miring di atas huruf. Tanda ini tidak bermakna sendiri; fungsinya menunjukkan vokal pendek.",
+        "tr": "Fetha, harfin üzerindeki küçük eğik çizgidir. Tek başına anlam taşımaz; kısa ünlüyü gösterir.",
+        "fr": "La fatḥa est un petit trait oblique au-dessus de la lettre. Elle n'a pas de sens seule ; elle indique une voyelle brève."
+      },
+      "chart": {
+        "mark": "َ",
+        "letters": "ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه و ي",
+        "alifExample": "أَ"
+      },
+      "items": [
+        {
+          "id": "fat-ha-syllable-ba",
+          "type": "sound",
+          "arabic": "بَ",
+          "transliteration": "ba",
+          "audioText": "بَ",
+          "audio": null,
+          "meaning": null
+        },
+        {
+          "id": "fat-ha-word-fataha",
+          "type": "word",
+          "arabic": "فَتَحَ",
+          "transliteration": "fataḥa",
+          "audioText": "فَتَحَ",
+          "audio": null,
+          "meaning": {
+            "en": "he opened",
+            "ur": "اس نے کھولا",
+            "id": "dia membuka",
+            "tr": "o açtı",
+            "fr": "il a ouvert"
+          }
+        },
+        {
+          "id": "fat-ha-word-qamar",
+          "type": "word",
+          "arabic": "قَمَرٌ",
+          "transliteration": "qamarun",
+          "audioText": "قَمَرٌ",
+          "audio": null,
+          "meaning": {
+            "en": "a moon",
+            "ur": "چاند",
+            "id": "bulan",
+            "tr": "ay",
+            "fr": "une lune"
+          }
+        }
+      ]
+    },
+    {
+      "id": "basic-reading-02",
+      "order": 7,
+      "title": {
+        "en": "Kasra: the short i sound",
+        "ur": "زیر: مختصر اِ کی آواز",
+        "id": "Kasrah: bunyi i pendek",
+        "tr": "Kesra: kısa i sesi",
+        "fr": "Kasra : le son bref i"
+      },
+      "objective": {
+        "en": "Read kasra below a consonant as a short i sound.",
+        "ur": "حرف کے نیچے زیر کو مختصر اِ کی آواز کے طور پر پڑھیں۔",
+        "id": "Baca kasrah di bawah konsonan sebagai bunyi i pendek.",
+        "tr": "Bir ünsüzün altındaki kesrayı kısa i sesiyle okuyun.",
+        "fr": "Lisez la kasra sous une consonne comme un i bref."
+      },
+      "instruction": {
+        "en": "Kasra is the small diagonal mark below a letter. Compare it with fatḥa: the position of the mark changes the vowel.",
+        "ur": "زیر حرف کے نیچے چھوٹی ترچھی لکیر ہے۔ زبر سے موازنہ کریں: نشان کی جگہ بدلنے سے آواز بدلتی ہے۔",
+        "id": "Kasrah adalah tanda kecil miring di bawah huruf. Bandingkan dengan fatḥah: posisi tanda mengubah vokalnya.",
+        "tr": "Kesra, harfin altındaki küçük eğik çizgidir. Fetha ile karşılaştırın: işaretin yeri ünlüyü değiştirir.",
+        "fr": "La kasra est un petit trait oblique sous la lettre. Comparez-la à la fatḥa : la position du signe change la voyelle."
+      },
+      "chart": {
+        "mark": "ِ",
+        "letters": "ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه و ي",
+        "alifExample": "إِ"
+      },
+      "items": [
+        {
+          "id": "kasra-syllable-bi",
+          "type": "sound",
+          "arabic": "بِ",
+          "transliteration": "bi",
+          "audioText": "بِ",
+          "audio": null,
+          "meaning": null
+        },
+        {
+          "id": "kasra-word-bint",
+          "type": "word",
+          "arabic": "بِنْتٌ",
+          "transliteration": "bintun",
+          "audioText": "بِنْتٌ",
+          "audio": null,
+          "meaning": {
+            "en": "a girl; a daughter",
+            "ur": "لڑکی؛ بیٹی",
+            "id": "anak perempuan",
+            "tr": "kız; kız evlat",
+            "fr": "une fille"
+          }
+        },
+        {
+          "id": "kasra-word-miftah",
+          "type": "word",
+          "arabic": "مِفْتَاحٌ",
+          "transliteration": "miftāḥun",
+          "audioText": "مِفْتَاحٌ",
+          "audio": null,
+          "meaning": {
+            "en": "a key",
+            "ur": "چابی",
+            "id": "kunci",
+            "tr": "anahtar",
+            "fr": "une clé"
+          }
+        }
+      ]
+    },
+    {
+      "id": "basic-reading-03",
+      "order": 8,
+      "title": {
+        "en": "Ḍamma: the short u sound",
+        "ur": "پیش: مختصر اُ کی آواز",
+        "id": "Ḍammah: bunyi u pendek",
+        "tr": "Ötre: kısa u sesi",
+        "fr": "Ḍamma : le son bref ou"
+      },
+      "objective": {
+        "en": "Read ḍamma above a consonant as a short u sound.",
+        "ur": "حرف کے اوپر پیش کو مختصر اُ کی آواز کے طور پر پڑھیں۔",
+        "id": "Baca ḍammah di atas konsonan sebagai bunyi u pendek.",
+        "tr": "Bir ünsüzün üzerindeki ötreyi kısa u sesiyle okuyun.",
+        "fr": "Lisez la ḍamma au-dessus d'une consonne comme un ou bref."
+      },
+      "instruction": {
+        "en": "Ḍamma looks like a small wāw above a letter. Compare بَ, بِ, and بُ: ba, bi, bu.",
+        "ur": "پیش حرف کے اوپر چھوٹے واو جیسی ہوتی ہے۔ بَ، بِ، بُ کا موازنہ کریں: ba، bi، bu۔",
+        "id": "Ḍammah tampak seperti wāw kecil di atas huruf. Bandingkan بَ, بِ, dan بُ: ba, bi, bu.",
+        "tr": "Ötre, harfin üzerindeki küçük vav biçimindedir. بَ, بِ ve بُ biçimlerini karşılaştırın: ba, bi, bu.",
+        "fr": "La ḍamma ressemble à un petit wāw au-dessus de la lettre. Comparez بَ, بِ et بُ : ba, bi, bu."
+      },
+      "chart": {
+        "mark": "ُ",
+        "letters": "ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه و ي",
+        "alifExample": "أُ"
+      },
+      "items": [
+        {
+          "id": "damma-syllable-bu",
+          "type": "sound",
+          "arabic": "بُ",
+          "transliteration": "bu",
+          "audioText": "بُ",
+          "audio": null,
+          "meaning": null
+        },
+        {
+          "id": "damma-word-kutub",
+          "type": "word",
+          "arabic": "كُتُبٌ",
+          "transliteration": "kutubun",
+          "audioText": "كُتُبٌ",
+          "audio": null,
+          "meaning": {
+            "en": "books",
+            "ur": "کتابیں",
+            "id": "buku-buku",
+            "tr": "kitaplar",
+            "fr": "des livres"
+          }
+        },
+        {
+          "id": "damma-word-rusul",
+          "type": "word",
+          "arabic": "رُسُلٌ",
+          "transliteration": "rusulun",
+          "audioText": "رُسُلٌ",
+          "audio": null,
+          "meaning": {
+            "en": "messengers",
+            "ur": "پیغمبر",
+            "id": "para rasul",
+            "tr": "elçiler",
+            "fr": "des messagers"
+          }
+        }
+      ]
+    },
+    {
+      "id": "basic-reading-04",
+      "order": 9,
+      "title": {
+        "en": "Tanwīn: nunation at the end",
+        "ur": "تنوین: آخر میں ن کی آواز",
+        "id": "Tanwin: bunyi n di akhir",
+        "tr": "Tenvin: sondaki n sesi",
+        "fr": "Tanwīn : le son n final"
+      },
+      "objective": {
+        "en": "Recognize the three tanwīn marks and hear their added n sound at the end of a word.",
+        "ur": "تنوین کی تین علامتیں پہچانیں اور لفظ کے آخر میں ن کی اضافی آواز سنیں۔",
+        "id": "Kenali tiga tanda tanwin dan dengarkan bunyi n tambahan di akhir kata.",
+        "tr": "Üç tenvin işaretini tanıyın ve kelimenin sonundaki ek n sesini duyun.",
+        "fr": "Reconnaissez les trois signes de tanwīn et écoutez le son n ajouté à la fin du mot."
+      },
+      "instruction": {
+        "en": "Tanwīn is written as doubled fatḥa, kasra, or ḍamma: ً ٍ ٌ. These examples show a common fully vocalized form; case endings can change with grammar.",
+        "ur": "تنوین دوہری زبر، زیر یا پیش سے لکھی جاتی ہے: ً ٍ ٌ۔ مثالیں عام مکمل اعراب والی صورت دکھاتی ہیں؛ قواعد کے مطابق آخری حرکت بدل سکتی ہے۔",
+        "id": "Tanwin ditulis sebagai fatḥah, kasrah, atau ḍammah ganda: ً ٍ ٌ. Contoh ini menunjukkan bentuk berharakat lengkap yang umum; akhiran dapat berubah menurut tata bahasa.",
+        "tr": "Tenvir çift fetha, kesra veya ötre ile yazılır: ً ٍ ٌ. Örnekler yaygın, tam harekeli biçimi gösterir; dilbilgisine göre son hareke değişebilir.",
+        "fr": "Le tanwīn s'écrit avec une fatḥa, une kasra ou une ḍamma doublée : ً ٍ ٌ. Les exemples montrent une forme vocalisée courante ; la désinence peut varier selon la grammaire."
+      },
+      "items": [
+        {
+          "id": "tanwin-fat-hatan",
+          "type": "pattern",
+          "arabic": "قَلَمًا",
+          "transliteration": "qalaman",
+          "audioText": "قَلَمًا",
+          "audio": null,
+          "meaning": {
+            "en": "a pen",
+            "ur": "قلم",
+            "id": "sebuah pena",
+            "tr": "bir kalem",
+            "fr": "un stylo"
+          }
+        },
+        {
+          "id": "tanwin-kasratan",
+          "type": "pattern",
+          "arabic": "كِتَابٍ",
+          "transliteration": "kitābin",
+          "audioText": "كِتَابٍ",
+          "audio": null,
+          "meaning": {
+            "en": "a book (in a grammatical genitive form)",
+            "ur": "کتاب (حالتِ جر میں)",
+            "id": "buku (dalam bentuk genitif)",
+            "tr": "bir kitap (tamlayan durumunda)",
+            "fr": "un livre (à l'indéfini génitif)"
+          }
+        },
+        {
+          "id": "tanwin-dammatan",
+          "type": "pattern",
+          "arabic": "بَيْتٌ",
+          "transliteration": "baytun",
+          "audioText": "بَيْتٌ",
+          "audio": null,
+          "meaning": {
+            "en": "a house",
+            "ur": "گھر",
+            "id": "sebuah rumah",
+            "tr": "bir ev",
+            "fr": "une maison"
+          }
+        }
+      ]
+    },
+    {
+      "id": "basic-reading-05",
+      "order": 10,
+      "title": {
+        "en": "Sukūn: a consonant without a short vowel",
+        "ur": "سکون: حرفِ صحیح پر مختصر حرکت نہیں",
+        "id": "Sukūn: konsonan tanpa vokal pendek",
+        "tr": "Sükûn: kısa ünlüsü olmayan ünsüz",
+        "fr": "Sukūn : une consonne sans voyelle brève"
+      },
+      "objective": {
+        "en": "Recognize sukūn and join its consonant to the sound before it.",
+        "ur": "سکون پہچانیں اور اس حرفِ صحیح کو اس سے پہلے والی آواز کے ساتھ پڑھیں۔",
+        "id": "Kenali sukūn dan gabungkan konsonannya dengan bunyi sebelumnya.",
+        "tr": "Sükûnu tanıyın ve ünsüzünü önceki sesle birleştirin.",
+        "fr": "Reconnaissez le sukūn et rattachez sa consonne au son qui précède."
+      },
+      "instruction": {
+        "en": "Sukūn (ْ) marks a consonant with no vowel immediately after it. In بَيْتٌ, yāʾ has sukūn and is read as part of bay.",
+        "ur": "سکون (ْ) بتاتا ہے کہ حرفِ صحیح کے فوراً بعد کوئی حرکت نہیں۔ بَيْتٌ میں یاء ساکن ہے اور اسے بَے کے ساتھ پڑھتے ہیں۔",
+        "id": "Sukūn (ْ) menandai konsonan yang tidak diikuti vokal. Pada بَيْتٌ, yā bersukūn dan dibaca sebagai bagian dari bay.",
+        "tr": "Sükûn (ْ), ünsüzden sonra hemen bir ünlü gelmediğini gösterir. بَيْتٌ kelimesinde ye sükûnludur ve bay sesinin parçası olarak okunur.",
+        "fr": "Le sukūn (ْ) indique qu'aucune voyelle ne suit immédiatement la consonne. Dans بَيْتٌ, yāʾ porte un sukūn et fait partie du son bay."
+      },
+      "items": [
+        {
+          "id": "sukun-word-min",
+          "type": "word",
+          "arabic": "مِنْ",
+          "transliteration": "min",
+          "audioText": "مِنْ",
+          "audio": null,
+          "meaning": {
+            "en": "from",
+            "ur": "سے",
+            "id": "dari",
+            "tr": "-den; -dan",
+            "fr": "de"
+          }
+        },
+        {
+          "id": "sukun-word-bayt",
+          "type": "word",
+          "arabic": "بَيْتٌ",
+          "transliteration": "baytun",
+          "audioText": "بَيْتٌ",
+          "audio": null,
+          "meaning": {
+            "en": "a house",
+            "ur": "گھر",
+            "id": "rumah",
+            "tr": "ev",
+            "fr": "une maison"
+          }
+        },
+        {
+          "id": "sukun-word-shams",
+          "type": "word",
+          "arabic": "شَمْسٌ",
+          "transliteration": "shamsun",
+          "audioText": "شَمْسٌ",
+          "audio": null,
+          "meaning": {
+            "en": "a sun",
+            "ur": "سورج",
+            "id": "matahari",
+            "tr": "güneş",
+            "fr": "un soleil"
+          }
+        }
+      ]
+    },
+    {
+      "id": "basic-reading-06",
+      "order": 11,
+      "title": {
+        "en": "Shadda: a doubled consonant",
+        "ur": "تشدید: دگنا حرفِ صحیح",
+        "id": "Syaddah: konsonan rangkap",
+        "tr": "Şedde: çift ünsüz",
+        "fr": "Shadda : une consonne doublée"
+      },
+      "objective": {
+        "en": "Read the shadda as a doubled consonant, holding it slightly rather than skipping it.",
+        "ur": "تشدید کو دگنے حرفِ صحیح کی طرح پڑھیں اور اسے چھوڑنے کے بجائے ذرا ٹھہریں۔",
+        "id": "Baca syaddah sebagai konsonan rangkap dan tahan sedikit bunyinya, jangan dilewati.",
+        "tr": "Şeddeyi çift ünsüz olarak okuyun; atlamayın, sesi biraz uzatın.",
+        "fr": "Lisez la shadda comme une consonne doublée et prolongez-la légèrement au lieu de l'omettre."
+      },
+      "instruction": {
+        "en": "Shadda (ّ) combines a consonant with a silent copy of itself. Any short vowel is written above or below the shadda.",
+        "ur": "تشدید (ّ) ایک حرفِ صحیح کو اس کے ساکن دہرائے گئے حرف کے ساتھ ملاتی ہے۔ مختصر حرکت تشدید کے اوپر یا نیچے لکھی جاتی ہے۔",
+        "id": "Syaddah (ّ) menggabungkan konsonan dengan pengulangan tanpa vokal. Vokal pendek ditulis di atas atau di bawah syaddah.",
+        "tr": "Şedde (ّ), ünsüzü kendisinin sessiz tekrarıyla birleştirir. Kısa ünlü şeddenin üstüne ya da altına yazılır.",
+        "fr": "La shadda (ّ) associe une consonne à sa répétition sans voyelle. La voyelle brève s'écrit au-dessus ou au-dessous de la shadda."
+      },
+      "items": [
+        {
+          "id": "shadda-word-muallim",
+          "type": "word",
+          "arabic": "مُعَلِّمٌ",
+          "transliteration": "muʿallimun",
+          "audioText": "مُعَلِّمٌ",
+          "audio": null,
+          "meaning": {
+            "en": "a teacher",
+            "ur": "استاد",
+            "id": "seorang guru",
+            "tr": "bir öğretmen",
+            "fr": "un enseignant"
+          }
+        },
+        {
+          "id": "shadda-word-makka",
+          "type": "word",
+          "arabic": "مَكَّةُ",
+          "transliteration": "Makkatu",
+          "audioText": "مَكَّةُ",
+          "audio": null,
+          "meaning": {
+            "en": "Makkah",
+            "ur": "مکہ",
+            "id": "Makkah",
+            "tr": "Mekke",
+            "fr": "La Mecque"
+          }
+        },
+        {
+          "id": "shadda-word-inna",
+          "type": "word",
+          "arabic": "إِنَّ",
+          "transliteration": "ʾinna",
+          "audioText": "إِنَّ",
+          "audio": null,
+          "meaning": {
+            "en": "indeed",
+            "ur": "بے شک",
+            "id": "sesungguhnya",
+            "tr": "şüphesiz",
+            "fr": "certes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "basic-reading-07",
+      "order": 12,
+      "title": {
+        "en": "Long vowels: alif, wāw, and yāʾ",
+        "ur": "حروفِ مد: الف، واو اور یاء",
+        "id": "Vokal panjang: alif, wāw, dan yā",
+        "tr": "Uzun ünlüler: elif, vav ve ye",
+        "fr": "Voyelles longues : alif, wāw et yāʾ"
+      },
+      "objective": {
+        "en": "Hear how alif, wāw, and yāʾ can lengthen the short a, u, and i vowels.",
+        "ur": "سنیں کہ الف، واو اور یاء مختصر اَ، اُ اور اِ کی آوازوں کو کیسے لمبا کرتے ہیں۔",
+        "id": "Dengarkan bagaimana alif, wāw, dan yā dapat memanjangkan vokal pendek a, u, dan i.",
+        "tr": "Elif, vav ve ye harflerinin kısa a, u ve i ünlülerini nasıl uzattığını dinleyin.",
+        "fr": "Écoutez comment alif, wāw et yāʾ allongent les voyelles brèves a, ou et i."
+      },
+      "instruction": {
+        "en": "A fatḥa followed by alif commonly gives ā; ḍamma followed by wāw gives ū; kasra followed by yāʾ gives ī. The vowel before the letter matters.",
+        "ur": "زبر کے بعد الف عموماً ā، پیش کے بعد واو ū، اور زیر کے بعد یاء ī کی لمبی آواز دیتی ہے۔ پہلے حرف کی حرکت اہم ہے۔",
+        "id": "Fatḥah yang diikuti alif biasanya menjadi ā; ḍammah dengan wāw menjadi ū; kasrah dengan yā menjadi ī. Perhatikan vokal sebelumnya.",
+        "tr": "Fethadan sonra elif genellikle ā; ötre ve vav ū; kesra ve ye ī sesi verir. Önceki ünlü önemlidir.",
+        "fr": "Une fatḥa suivie d'alif donne généralement ā ; une ḍamma suivie de wāw donne ū ; une kasra suivie de yāʾ donne ī. La voyelle précédente compte."
+      },
+      "items": [
+        {
+          "id": "long-vowel-alif",
+          "type": "word",
+          "arabic": "بَابٌ",
+          "transliteration": "bābun",
+          "audioText": "بَابٌ",
+          "audio": null,
+          "meaning": {
+            "en": "a door",
+            "ur": "دروازہ",
+            "id": "sebuah pintu",
+            "tr": "bir kapı",
+            "fr": "une porte"
+          }
+        },
+        {
+          "id": "long-vowel-waw",
+          "type": "word",
+          "arabic": "نُورٌ",
+          "transliteration": "nūrun",
+          "audioText": "نُورٌ",
+          "audio": null,
+          "meaning": {
+            "en": "light",
+            "ur": "روشنی",
+            "id": "cahaya",
+            "tr": "ışık",
+            "fr": "de la lumière"
+          }
+        },
+        {
+          "id": "long-vowel-ya",
+          "type": "word",
+          "arabic": "فِيلٌ",
+          "transliteration": "fīlun",
+          "audioText": "فِيلٌ",
+          "audio": null,
+          "meaning": {
+            "en": "an elephant",
+            "ur": "ہاتھی",
+            "id": "gajah",
+            "tr": "fil",
+            "fr": "un éléphant"
+          }
+        }
+      ]
+    },
+    {
+      "id": "basic-reading-08",
+      "order": 13,
+      "title": {
+        "en": "Hamza and its seats",
+        "ur": "ہمزہ اور اس کی نشستیں",
+        "id": "Hamzah dan tempat duduknya",
+        "tr": "Hemze ve yazılış biçimleri",
+        "fr": "Hamza et ses supports"
+      },
+      "objective": {
+        "en": "Recognize hamza as a glottal stop and notice common ways it is written.",
+        "ur": "ہمزہ کو حلقی بندش کی آواز کے طور پر پہچانیں اور اس کی عام تحریری صورتیں دیکھیں۔",
+        "id": "Kenali hamzah sebagai hentian glotal dan perhatikan beberapa bentuk penulisannya.",
+        "tr": "Hemzeyi gırtlak kapanışı olarak tanıyın ve yaygın yazım biçimlerini görün.",
+        "fr": "Reconnaissez la hamza comme une occlusion glottale et observez ses graphies courantes."
+      },
+      "instruction": {
+        "en": "Hamza (ء) is a consonant sound, not another name for alif. It may appear on alif, wāw, or yāʾ, or on its own. This is an introduction; hamza spelling rules are more detailed.",
+        "ur": "ہمزہ (ء) ایک حرفِ صحیح کی آواز ہے، الف کا دوسرا نام نہیں۔ یہ الف، واو یا یاء پر، یا الگ لکھی جا سکتی ہے۔ یہ تعارف ہے؛ ہمزہ کے املا کے قواعد مزید تفصیلی ہیں۔",
+        "id": "Hamzah (ء) adalah bunyi konsonan, bukan nama lain untuk alif. Hamzah dapat ditulis pada alif, wāw, yā, atau berdiri sendiri. Ini pengantar; aturan ejaannya lebih rinci.",
+        "tr": "Hemze (ء) bir ünsüz sesidir; elifin başka adı değildir. Elif, vav veya ye üzerinde ya da tek başına yazılabilir. Bu bir giriştir; yazım kuralları daha ayrıntılıdır.",
+        "fr": "La hamza (ء) est une consonne, et non un autre nom de l'alif. Elle peut s'écrire sur alif, wāw, yāʾ ou seule. Ceci est une introduction ; ses règles orthographiques sont plus détaillées."
+      },
+      "items": [
+        {
+          "id": "hamza-alif-above",
+          "type": "pattern",
+          "arabic": "أَسَدٌ",
+          "transliteration": "ʾasadun",
+          "audioText": "أَسَدٌ",
+          "audio": null,
+          "meaning": {
+            "en": "a lion",
+            "ur": "شیر",
+            "id": "singa",
+            "tr": "aslan",
+            "fr": "un lion"
+          },
+          "note": {
+            "en": "Hamza above alif: أ.",
+            "ur": "الف کے اوپر ہمزہ: أ۔",
+            "id": "Hamzah di atas alif: أ.",
+            "tr": "Elif üzerindeki hemze: أ.",
+            "fr": "Hamza au-dessus de l'alif : أ."
+          }
+        },
+        {
+          "id": "hamza-alif-below",
+          "type": "pattern",
+          "arabic": "إِبْرَةٌ",
+          "transliteration": "ʾibratun",
+          "audioText": "إِبْرَةٌ",
+          "audio": null,
+          "meaning": {
+            "en": "a needle",
+            "ur": "سوئی",
+            "id": "jarum",
+            "tr": "iğne",
+            "fr": "une aiguille"
+          },
+          "note": {
+            "en": "Hamza below alif: إ.",
+            "ur": "الف کے نیچے ہمزہ: إ۔",
+            "id": "Hamzah di bawah alif: إ.",
+            "tr": "Elif altındaki hemze: إ.",
+            "fr": "Hamza sous l'alif : إ."
+          }
+        },
+        {
+          "id": "hamza-on-waw",
+          "type": "pattern",
+          "arabic": "مُؤْمِنٌ",
+          "transliteration": "muʾminun",
+          "audioText": "مُؤْمِنٌ",
+          "audio": null,
+          "meaning": {
+            "en": "a believer",
+            "ur": "مومن",
+            "id": "orang beriman",
+            "tr": "mümin",
+            "fr": "un croyant"
+          },
+          "note": {
+            "en": "Hamza on wāw: ؤ.",
+            "ur": "واو پر ہمزہ: ؤ۔",
+            "id": "Hamzah di atas wāw: ؤ.",
+            "tr": "Vav üzerindeki hemze: ؤ.",
+            "fr": "Hamza sur wāw : ؤ."
+          }
+        },
+        {
+          "id": "hamza-on-ya",
+          "type": "pattern",
+          "arabic": "بِئْرٌ",
+          "transliteration": "biʾrun",
+          "audioText": "بِئْرٌ",
+          "audio": null,
+          "meaning": {
+            "en": "a well",
+            "ur": "کنواں",
+            "id": "sumur",
+            "tr": "kuyu",
+            "fr": "un puits"
+          },
+          "note": {
+            "en": "Hamza on the yāʾ-shaped seat: ئ.",
+            "ur": "یاء جیسی نشست پر ہمزہ: ئ۔",
+            "id": "Hamzah pada bentuk dudukan seperti yā: ئ.",
+            "tr": "Ye biçimli taşıyıcı üzerindeki hemze: ئ.",
+            "fr": "Hamza sur le support en forme de yāʾ : ئ."
+          }
+        },
+        {
+          "id": "hamza-independent",
+          "type": "pattern",
+          "arabic": "شَيْءٌ",
+          "transliteration": "shayʾun",
+          "audioText": "شَيْءٌ",
+          "audio": null,
+          "meaning": {
+            "en": "a thing",
+            "ur": "چیز",
+            "id": "sesuatu",
+            "tr": "şey",
+            "fr": "une chose"
+          },
+          "note": {
+            "en": "Hamza written independently: ء.",
+            "ur": "الگ لکھی گئی ہمزہ: ء۔",
+            "id": "Hamzah yang ditulis sendiri: ء.",
+            "tr": "Tek başına yazılan hemze: ء.",
+            "fr": "Hamza écrite seule : ء."
+          }
+        },
+        {
+          "id": "hamzat-wasl",
+          "type": "pattern",
+          "arabic": "اِسْمٌ",
+          "transliteration": "ismun",
+          "audioText": "اِسْمٌ",
+          "audio": null,
+          "meaning": {
+            "en": "a name",
+            "ur": "نام",
+            "id": "nama",
+            "tr": "isim",
+            "fr": "un nom"
+          },
+          "note": {
+            "en": "This word begins with hamzat al-waṣl (ٱ), often written as plain alif in everyday text. Its connecting pronunciation is introduced here only.",
+            "ur": "یہ لفظ ہمزۃ الوصل (ٱ) سے شروع ہوتا ہے، جسے عام تحریر میں اکثر سادہ الف لکھتے ہیں۔ یہاں صرف اس کا ابتدائی تعارف ہے۔",
+            "id": "Kata ini diawali hamzat al-waṣl (ٱ), yang dalam tulisan sehari-hari sering ditulis sebagai alif biasa. Di sini hanya diperkenalkan secara singkat.",
+            "tr": "Bu kelime hemze-i vasıl (ٱ) ile başlar; günlük yazıda çoğu zaman düz elif yazılır. Burada yalnızca başlangıç düzeyinde tanıtılır.",
+            "fr": "Ce mot commence par la hamzat al-waṣl (ٱ), souvent écrite comme un alif simple dans les textes courants. Elle n'est présentée ici qu'en introduction."
+          }
+        }
+      ]
+    },
+    {
+      "id": "basic-reading-09",
+      "order": 14,
+      "title": {
+        "en": "Tāʾ marbūṭa and alif maqṣūra",
+        "ur": "تاء مربوطہ اور الف مقصورہ",
+        "id": "Tā marbūṭah dan alif maqṣūrah",
+        "tr": "Te merbûta ve elif maksûre",
+        "fr": "Tāʾ marbūṭa et alif maqṣūra"
+      },
+      "objective": {
+        "en": "Identify two common word-final shapes and hear how their reading depends on the word and context.",
+        "ur": "لفظ کے آخر میں آنے والی دو عام شکلیں پہچانیں اور سنیں کہ پڑھنے کا طریقہ لفظ اور سیاق کے مطابق بدلتا ہے۔",
+        "id": "Kenali dua bentuk umum di akhir kata dan dengarkan bagaimana bacaannya bergantung pada kata dan konteks.",
+        "tr": "Kelime sonunda sık görülen iki biçimi tanıyın; okunuşlarının kelimeye ve bağlama göre değiştiğini dinleyin.",
+        "fr": "Identifiez deux formes fréquentes en fin de mot et écoutez comment leur lecture dépend du mot et du contexte."
+      },
+      "instruction": {
+        "en": "Tāʾ marbūṭa (ة) often marks feminine nouns. Alif maqṣūra (ى) is a final alif-shaped letter, usually pronounced ā; it is not the same letter as yāʾ (ي).",
+        "ur": "تاء مربوطہ (ة) اکثر مؤنث اسموں میں آتی ہے۔ الف مقصورہ (ى) آخر میں آنے والا الف جیسا حرف ہے، عموماً ā پڑھا جاتا ہے؛ یہ یاء (ي) نہیں ہے۔",
+        "id": "Tā marbūṭah (ة) sering menandai kata benda feminin. Alif maqṣūrah (ى) berbentuk seperti alif di akhir kata dan biasanya berbunyi ā; ini bukan yā (ي).",
+        "tr": "Te merbûta (ة) çoğunlukla dişil isimlerde görülür. Elif maksûre (ى), kelime sonunda elif biçimindedir ve genellikle ā okunur; ye (ي) ile aynı harf değildir.",
+        "fr": "Le tāʾ marbūṭa (ة) marque souvent les noms féminins. L'alif maqṣūra (ى), en fin de mot, se prononce généralement ā ; ce n'est pas le yāʾ (ي)."
+      },
+      "items": [
+        {
+          "id": "ta-marbuta-madrasa",
+          "type": "word",
+          "arabic": "مَدْرَسَةٌ",
+          "transliteration": "madrasatun",
+          "audioText": "مَدْرَسَةٌ",
+          "audio": null,
+          "meaning": {
+            "en": "a school",
+            "ur": "اسکول",
+            "id": "sekolah",
+            "tr": "okul",
+            "fr": "une école"
+          }
+        },
+        {
+          "id": "ta-marbuta-warda",
+          "type": "word",
+          "arabic": "وَرْدَةٌ",
+          "transliteration": "wardatun",
+          "audioText": "وَرْدَةٌ",
+          "audio": null,
+          "meaning": {
+            "en": "a rose",
+            "ur": "گلاب",
+            "id": "mawar",
+            "tr": "bir gül",
+            "fr": "une rose"
+          }
+        },
+        {
+          "id": "alif-maqsura-huda",
+          "type": "word",
+          "arabic": "هُدًى",
+          "transliteration": "hudan",
+          "audioText": "هُدًى",
+          "audio": null,
+          "meaning": {
+            "en": "guidance",
+            "ur": "ہدایت",
+            "id": "petunjuk",
+            "tr": "hidayet",
+            "fr": "une guidance"
+          }
+        },
+        {
+          "id": "alif-maqsura-musa",
+          "type": "word",
+          "arabic": "مُوسَى",
+          "transliteration": "Mūsā",
+          "audioText": "مُوسَى",
+          "audio": null,
+          "meaning": {
+            "en": "Moses (Mūsā)",
+            "ur": "موسیٰ",
+            "id": "Musa",
+            "tr": "Musa",
+            "fr": "Moïse (Mūsā)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "basic-reading-10",
+      "order": 15,
+      "title": {
+        "en": "Lām-alif and the definite article",
+        "ur": "لام الف اور معرفہ بنانے والا ال",
+        "id": "Lām-alif dan kata sandang tentu",
+        "tr": "Lâm-elif ve belirli artikel",
+        "fr": "Lām-alif et l'article défini"
+      },
+      "objective": {
+        "en": "Recognize lām followed by alif and read the Arabic definite article al- in simple examples.",
+        "ur": "لام کے بعد الف کی شکل پہچانیں اور آسان مثالوں میں عربی معرفہ بنانے والا ال پڑھیں۔",
+        "id": "Kenali lām yang diikuti alif dan baca kata sandang tentu al- dalam contoh sederhana.",
+        "tr": "Elifin ardından gelen lâmı tanıyın ve basit örneklerde Arapçadaki belirlilik takısı el-’i okuyun.",
+        "fr": "Reconnaissez le lām suivi d'alif et lisez l'article défini arabe al- dans des exemples simples."
+      },
+      "instruction": {
+        "en": "Lām-alif (لا) is a joined writing of two letters, lām and alif; it is not a separate letter. The article ال is pronounced differently before sun and moon letters; that rule is introduced next.",
+        "ur": "لام الف (لا)، لام اور الف دو حروف کی جڑی ہوئی تحریر ہے؛ یہ الگ حرف نہیں۔ ال کا تلفظ شمسی اور قمری حروف سے پہلے بدلتا ہے؛ اگلے سبق میں یہ قاعدہ آئے گا۔",
+        "id": "Lām-alif (لا) adalah gabungan tulisan dua huruf, lām dan alif, bukan huruf tersendiri. Pelafalan ال berbeda sebelum huruf syamsiah dan qamariah; aturan itu dibahas berikutnya.",
+        "tr": "Lâm-elif (لا), lâm ve elifin birleşik yazımıdır; ayrı bir harf değildir. ال takısının güneş ve ay harflerinden önceki okunuşu değişir; bu kural sonraki derste işlenir.",
+        "fr": "Lām-alif (لا) est la ligature de deux lettres, lām et alif ; ce n'est pas une lettre distincte. L'article ال se prononce différemment devant les lettres solaires et lunaires ; cette règle suit."
+      },
+      "items": [
+        {
+          "id": "lam-alif-sound",
+          "type": "pattern",
+          "arabic": "لَا",
+          "transliteration": "lā",
+          "audioText": "لَا",
+          "audio": null,
+          "meaning": {
+            "en": "no; not",
+            "ur": "نہیں",
+            "id": "tidak",
+            "tr": "hayır; değil",
+            "fr": "non"
+          },
+          "note": {
+            "en": "This word is written with the lām-alif ligature.",
+            "ur": "یہ لفظ لام الف کی جڑی ہوئی شکل سے لکھا جاتا ہے۔",
+            "id": "Kata ini ditulis dengan ligatur lām-alif.",
+            "tr": "Bu kelime lâm-elif birleşik biçimiyle yazılır.",
+            "fr": "Ce mot s'écrit avec la ligature lām-alif."
+          }
+        },
+        {
+          "id": "article-moon-qamar",
+          "type": "word",
+          "arabic": "الْقَمَرُ",
+          "transliteration": "al-qamaru",
+          "audioText": "الْقَمَرُ",
+          "audio": null,
+          "meaning": {
+            "en": "the moon",
+            "ur": "چاند",
+            "id": "bulan itu",
+            "tr": "ay",
+            "fr": "la lune"
+          },
+          "note": {
+            "en": "Qāf is a moon letter: the lām in al- is pronounced.",
+            "ur": "قاف قمری حرف ہے: ال کا لام پڑھا جاتا ہے۔",
+            "id": "Qāf adalah huruf qamariah: lām pada al- dilafalkan.",
+            "tr": "Kaf, ay harfidir: el- takısındaki lâm okunur.",
+            "fr": "Qāf est une lettre lunaire : le lām de al- se prononce."
+          }
+        },
+        {
+          "id": "article-sun-shams",
+          "type": "word",
+          "arabic": "الشَّمْسُ",
+          "transliteration": "ash-shamsu",
+          "audioText": "الشَّمْسُ",
+          "audio": null,
+          "meaning": {
+            "en": "the sun",
+            "ur": "سورج",
+            "id": "matahari itu",
+            "tr": "güneş",
+            "fr": "le soleil"
+          },
+          "note": {
+            "en": "Shīn is a sun letter: the lām is not pronounced, and shīn is doubled.",
+            "ur": "شین شمسی حرف ہے: لام نہیں پڑھا جاتا اور شین پر تشدید آتی ہے۔",
+            "id": "Shīn adalah huruf syamsiah: lām tidak dilafalkan dan shīn digandakan.",
+            "tr": "Şın, güneş harfidir: lâm okunmaz ve şın şeddeli okunur.",
+            "fr": "Shīn est une lettre solaire : le lām ne se prononce pas et le shīn est doublé."
+          }
+        }
+      ]
+    },
+    {
+      "id": "basic-reading-11",
+      "order": 16,
+      "title": {
+        "en": "Sun letters and moon letters",
+        "ur": "شمسی اور قمری حروف",
+        "id": "Huruf syamsiah dan qamariah",
+        "tr": "Güneş ve ay harfleri",
+        "fr": "Lettres solaires et lunaires"
+      },
+      "objective": {
+        "en": "Distinguish the sun-letter and moon-letter groups and hear how each group affects ال.",
+        "ur": "شمسی اور قمری حروف کے گروہ پہچانیں اور سنیں کہ ہر گروہ ال کے تلفظ پر کیسے اثر انداز ہوتا ہے۔",
+        "id": "Bedakan kelompok huruf syamsiah dan qamariah serta dengarkan pengaruhnya pada pelafalan ال.",
+        "tr": "Güneş ve ay harflerini ayırt edin ve her grubun ال takısının okunuşunu nasıl etkilediğini dinleyin.",
+        "fr": "Distinguez les lettres solaires et lunaires, puis écoutez leur effet sur la prononciation de ال."
+      },
+      "instruction": {
+        "en": "With a sun letter, the lām of ال assimilates into the next letter, which carries shadda. With a moon letter, the lām is pronounced. Learn the examples first; the complete groups are listed here.",
+        "ur": "شمسی حرف سے پہلے ال کا لام اگلے حرف میں مدغم ہو جاتا ہے اور اس پر تشدید آتی ہے۔ قمری حرف سے پہلے لام پڑھا جاتا ہے۔ پہلے مثالیں سیکھیں؛ مکمل گروہ یہاں درج ہیں۔",
+        "id": "Sebelum huruf syamsiah, lām pada ال melebur ke huruf berikutnya yang diberi syaddah. Sebelum huruf qamariah, lām dilafalkan. Pelajari contoh dahulu; daftar lengkap ada di sini.",
+        "tr": "Güneş harfinden önce ال takısındaki lâm sonraki harfe katılır ve o harf şeddeli okunur. Ay harfinden önce lâm okunur. Önce örnekleri öğrenin; tam gruplar burada listelenmiştir.",
+        "fr": "Devant une lettre solaire, le lām de ال s'assimile à la lettre suivante, qui porte une shadda. Devant une lettre lunaire, le lām se prononce. Apprenez d'abord les exemples ; les groupes complets sont indiqués ici."
+      },
+      "sunLetters": "ت ث د ذ ر ز س ش ص ض ط ظ ل ن",
+      "moonLetters": "ء ا ب ج ح خ ع غ ف ق ك م ه و ي",
+      "items": [
+        {
+          "id": "sun-letter-example-najm",
+          "type": "word",
+          "arabic": "النَّجْمُ",
+          "transliteration": "an-najmu",
+          "audioText": "النَّجْمُ",
+          "audio": null,
+          "meaning": {
+            "en": "the star",
+            "ur": "ستارہ",
+            "id": "bintang itu",
+            "tr": "yıldız",
+            "fr": "l'étoile"
+          }
+        },
+        {
+          "id": "moon-letter-example-bayt",
+          "type": "word",
+          "arabic": "الْبَيْتُ",
+          "transliteration": "al-baytu",
+          "audioText": "الْبَيْتُ",
+          "audio": null,
+          "meaning": {
+            "en": "the house",
+            "ur": "گھر",
+            "id": "rumah itu",
+            "tr": "ev",
+            "fr": "la maison"
+          }
+        }
+      ]
+    },
+    {
+      "id": "basic-reading-12",
+      "order": 17,
+      "title": {
+        "en": "Review: read your first words",
+        "ur": "دہرائی: اپنے پہلے الفاظ پڑھیں",
+        "id": "Ulasan: baca kata-kata pertama",
+        "tr": "Tekrar: ilk kelimelerinizi okuyun",
+        "fr": "Révision : lisez vos premiers mots"
+      },
+      "objective": {
+        "en": "Combine letter recognition, short vowels, long vowels, sukūn, and shadda in familiar words.",
+        "ur": "مانوس الفاظ میں حرف شناسی، مختصر اور لمبی آوازوں، سکون اور تشدید کو ملا کر پڑھیں۔",
+        "id": "Gabungkan pengenalan huruf, vokal pendek dan panjang, sukūn, serta syaddah dalam kata yang sudah dikenal.",
+        "tr": "Tanıdık kelimelerde harfleri, kısa ve uzun ünlüleri, sükûnu ve şeddeyi birlikte kullanın.",
+        "fr": "Combinez la reconnaissance des lettres, les voyelles brèves et longues, le sukūn et la shadda dans des mots familiers."
+      },
+      "instruction": {
+        "en": "Try reading each word before playing its Arabic audio. Then compare your reading with the transliteration and meaning.",
+        "ur": "عربی آڈیو چلانے سے پہلے ہر لفظ خود پڑھنے کی کوشش کریں۔ پھر اپنی قرأت کا نقلِ صوتی اور معنی سے موازنہ کریں۔",
+        "id": "Coba baca setiap kata sebelum memutar audio Arabnya. Lalu bandingkan bacaan Anda dengan transliterasi dan artinya.",
+        "tr": "Arapça sesi oynatmadan önce her kelimeyi okumayı deneyin. Sonra okumanızı çevriyazı ve anlamla karşılaştırın.",
+        "fr": "Essayez de lire chaque mot avant d'écouter l'audio arabe. Comparez ensuite votre lecture à la translittération et au sens."
+      },
+      "items": [
+        {
+          "id": "review-kitab",
+          "type": "word",
+          "arabic": "كِتَابٌ",
+          "transliteration": "kitābun",
+          "audioText": "كِتَابٌ",
+          "audio": null,
+          "meaning": {
+            "en": "a book",
+            "ur": "کتاب",
+            "id": "sebuah buku",
+            "tr": "bir kitap",
+            "fr": "un livre"
+          }
+        },
+        {
+          "id": "review-masjid",
+          "type": "word",
+          "arabic": "مَسْجِدٌ",
+          "transliteration": "masjidun",
+          "audioText": "مَسْجِدٌ",
+          "audio": null,
+          "meaning": {
+            "en": "a mosque",
+            "ur": "مسجد",
+            "id": "masjid",
+            "tr": "cami",
+            "fr": "une mosquée"
+          }
+        },
+        {
+          "id": "review-noor",
+          "type": "word",
+          "arabic": "نُورٌ",
+          "transliteration": "nūrun",
+          "audioText": "نُورٌ",
+          "audio": null,
+          "meaning": {
+            "en": "light",
+            "ur": "روشنی",
+            "id": "cahaya",
+            "tr": "ışık",
+            "fr": "de la lumière"
+          }
+        },
+        {
+          "id": "review-muallim",
+          "type": "word",
+          "arabic": "مُعَلِّمٌ",
+          "transliteration": "muʿallimun",
+          "audioText": "مُعَلِّمٌ",
+          "audio": null,
+          "meaning": {
+            "en": "a teacher",
+            "ur": "استاد",
+            "id": "seorang guru",
+            "tr": "bir öğretmen",
+            "fr": "un enseignant"
+          }
+        },
+        {
+          "id": "review-salam",
+          "type": "word",
+          "arabic": "سَلَامٌ",
+          "transliteration": "salāmun",
+          "audioText": "سَلَامٌ",
+          "audio": null,
+          "meaning": {
+            "en": "peace",
+            "ur": "سلامتی",
+            "id": "kedamaian",
+            "tr": "barış",
+            "fr": "la paix"
+          }
+        }
+      ]
+    }
+  ]
+}

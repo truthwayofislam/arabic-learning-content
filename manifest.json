@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "courseId": "arabic",
+  "courseLanguage": "ar",
+  "title": {
+    "en": "Arabic",
+    "ur": "عربی",
+    "id": "Bahasa Arab",
+    "tr": "Arapça",
+    "fr": "Arabe"
+  },
+  "translationLanguages": ["en", "ur", "id", "tr", "fr"],
+  "levels": [
+    {
+      "id": "basic",
+      "order": 1,
+      "title": {
+        "en": "Basic",
+        "ur": "بنیادی",
+        "id": "Dasar",
+        "tr": "Temel",
+        "fr": "Bases"
+      },
+      "lessonFiles": [
+        "arabic/basic-alphabet.json",
+        "arabic/basic-reading.json"
+      ]
+    }
+  ]
+}
