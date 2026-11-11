@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "courseId": "arabic",
+  "levelId": "work",
+  "questionType": "listen_and_choose",
+  "prompts": {
+    "en": "Listen to the Arabic audio, then choose the matching text.",
+    "ur": "عربی آڈیو سنیں، پھر اس سے ملتا ہوا متن منتخب کریں۔",
+    "id": "Dengarkan audio bahasa Arab, lalu pilih teks yang cocok.",
+    "tr": "Arapça sesi dinleyin ve eşleşen metni seçin.",
+    "fr": "Écoutez l’audio arabe, puis choisissez le texte correspondant."
+  },
+  "lessons": [
+    {
+      "lessonId": "work-01",
+      "questionCount": 4
+    },
+    {
+      "lessonId": "work-02",
+      "questionCount": 4
+    },
+    {
+      "lessonId": "work-03",
+      "questionCount": 4
+    },
+    {
+      "lessonId": "work-04",
+      "questionCount": 4
+    },
+    {
+      "lessonId": "work-05",
+      "questionCount": 4
+    },
+    {
+      "lessonId": "work-06",
+      "questionCount": 4
+    },
+    {
+      "lessonId": "work-07",
+      "questionCount": 4
+    },
+    {
+      "lessonId": "work-08",
+      "questionCount": 4
+    },
+    {
+      "lessonId": "work-09",
+      "questionCount": 4
+    },
+    {
+      "lessonId": "work-10",
+      "questionCount": 4
+    }
+  ]
+}

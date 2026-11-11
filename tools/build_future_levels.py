@@ -13,7 +13,6 @@ ROOT = Path(__file__).resolve().parents[1]
 SEED_PATH = ROOT / "tools/future-levels-seed.json"
 LANGUAGES = ("en", "ur", "id", "tr", "fr")
 VOICE = "ar-SA-HamedNeural"
-LESSON_ITEMS = 8
 REVIEW_ITEMS = 5
 BATCH_SIZE = 12
 
@@ -109,9 +108,9 @@ def localize(text, translations):
     return {language: translations[language][text] for language in LANGUAGES}
 
 
-def previous_review_items(level_id, lesson_index, previous_items):
-    candidates = previous_items[-REVIEW_ITEMS:]
-    if len(candidates) < REVIEW_ITEMS:
+def previous_review_items(level_id, lesson_index, previous_items, review_count):
+    candidates = previous_items[-review_count:]
+    if len(candidates) < review_count:
         raise ValueError(
             f"Not enough review items before {level_id} lesson {lesson_index + 1}."
         )
@@ -131,26 +130,44 @@ def previous_review_items(level_id, lesson_index, previous_items):
     return items
 
 
-def build():
-    seed = read_json(SEED_PATH)
+def build(seed_path=SEED_PATH):
+    seed = read_json(seed_path)
     if seed.get("schemaVersion") != 1 or seed.get("translationLanguages") != list(
         LANGUAGES
     ):
         raise ValueError("Future-level seed has an unsupported schema.")
+    practice = seed.get("practice", {})
+    review_count = practice.get("reviewItemsPerLesson", REVIEW_ITEMS)
+    if not isinstance(review_count, int) or review_count < 1:
+        raise ValueError("reviewItemsPerLesson must be a positive integer.")
 
     phrases = []
+    item_ids = set()
+    audio_texts = set()
     for level in seed["levels"]:
         phrases.append(level["title"])
         if len(level["lessons"]) != 10:
             raise ValueError(f"{level['id']} must contain ten lessons.")
-        for lesson in level["lessons"]:
-            if len(lesson["items"]) != 3:
+        for lesson_index, lesson in enumerate(level["lessons"]):
+            new_item_count = practice.get(
+                "newItemsPerLesson",
+                len(lesson["items"]),
+            )
+            if len(lesson["items"]) != new_item_count:
                 raise ValueError(
-                    f"{level['id']} lesson {lesson['title']} needs three new items."
+                    f"{level['id']} lesson {lesson['title']} needs "
+                    f"{new_item_count} new items."
                 )
             for item in lesson["items"]:
                 if len(item) != 5:
                     raise ValueError(f"Invalid seed item: {item}")
+                item_id = f"{level['id']}-{lesson_index + 1:02d}-{item[0]}"
+                if item_id in item_ids:
+                    raise ValueError(f"Duplicate new item ID: {item_id}.")
+                item_ids.add(item_id)
+                if item[2] in audio_texts:
+                    raise ValueError(f"Duplicate new audio text: {item[2]}.")
+                audio_texts.add(item[2])
                 phrases.append(item[4])
             objective = OBJECTIVE_TEMPLATE.format(lesson["title"])
             lesson["_objective"] = objective
@@ -161,11 +178,14 @@ def build():
     manifest_path = ROOT / "manifest.json"
     manifest = read_json(manifest_path)
     existing_ids = {level["id"] for level in manifest["levels"]}
+    existing_orders = {level["order"] for level in manifest["levels"]}
     new_levels = []
     generated = {}
     for level in seed["levels"]:
         if level["id"] in existing_ids:
             raise ValueError(f"Level {level['id']} is already in the manifest.")
+        if level["order"] in existing_orders:
+            raise ValueError(f"Level order {level['order']} is already in use.")
         lesson_path = f"arabic/{level['id']}.json"
         quiz_path = f"arabic/{level['id']}-quizzes.json"
         level_entry = {
@@ -176,15 +196,20 @@ def build():
             "lessonFiles": [lesson_path],
         }
         new_levels.append(level_entry)
-        generated[level["id"]] = {"lessons": [], "items": []}
+        generated[level["id"]] = {
+            "order": level["order"],
+            "lessons": [],
+            "items": [],
+        }
 
-    old_words = read_json(ROOT / "arabic/words-and-sentences.json")
-    previous_items = old_words["lessons"][-1]["items"]
-    previous_items = [
-        item
-        for item in previous_items
-        if item.get("audio") and item["audio"].get("path")
-    ]
+    previous_level = manifest["levels"][-1]
+    previous_file = read_json(ROOT / previous_level["lessonFiles"][-1])
+    previous_items = previous_file["lessons"][-1]["items"]
+    if len(previous_items) < review_count:
+        raise ValueError(
+            f"Previous level {previous_level['id']} has fewer than "
+            f"{review_count} items to review."
+        )
 
     for level, level_entry in zip(seed["levels"], new_levels, strict=True):
         lesson_file = {
@@ -205,7 +230,12 @@ def build():
         }
         for lesson_index, lesson in enumerate(level["lessons"]):
             lesson_id = f"{level['id']}-{lesson_index + 1:02d}"
-            items = previous_review_items(level["id"], lesson_index, previous_items)
+            items = previous_review_items(
+                level["id"],
+                lesson_index,
+                previous_items,
+                review_count,
+            )
             new_items = []
             for slug, item_type, arabic, romanization, meaning_en in lesson["items"]:
                 item_id = f"{lesson_id}-{slug}"
@@ -219,8 +249,10 @@ def build():
                 }
                 items.append(item)
                 new_items.append(item)
-            if len(items) != LESSON_ITEMS:
-                raise ValueError(f"{lesson_id} does not have eight practice items.")
+            if len(items) < 8:
+                raise ValueError(
+                    f"{lesson_id} needs at least eight practice items."
+                )
             lesson_entry = {
                 "id": lesson_id,
                 "order": lesson_index + 1,
@@ -251,7 +283,7 @@ def build():
     )
 
 
-def validate(generated=None):
+def validate(generated=None, allow_unmapped=False):
     manifest = read_json(ROOT / "manifest.json")
     levels = manifest["levels"]
     if [level["order"] for level in levels] != list(range(1, len(levels) + 1)):
@@ -281,8 +313,12 @@ def validate(generated=None):
             if lesson["id"] in all_ids:
                 raise ValueError(f"Duplicate ID: {lesson['id']}.")
             all_ids.add(lesson["id"])
-            if len(lesson["items"]) != LESSON_ITEMS or quiz["questionCount"] != 4:
-                raise ValueError(f"Practice or quiz count is invalid in {lesson['id']}.")
+            if len(lesson["items"]) < 8 or not (
+                2 <= quiz["questionCount"] <= len(lesson["items"])
+            ):
+                raise ValueError(
+                    f"Practice or quiz count is invalid in {lesson['id']}."
+                )
             for item in lesson["items"]:
                 if item["id"] in all_ids:
                     raise ValueError(f"Duplicate ID: {item['id']}.")
@@ -296,6 +332,8 @@ def validate(generated=None):
                 if generated is None:
                     audio = item.get("audio")
                     if not isinstance(audio, dict) or not audio.get("path"):
+                        if allow_unmapped:
+                            continue
                         raise ValueError(f"Missing audio mapping in {item['id']}.")
                     audio_path = ROOT / audio["path"]
                     if not audio_path.is_file() or audio_path.stat().st_size == 0:
@@ -310,8 +348,8 @@ def validate(generated=None):
             audio_texts.extend(item["audioText"] for item in level["items"])
             if any("audio" in item for item in level["items"]):
                 raise ValueError("New draft audio must remain unmapped in lesson JSON.")
-        if expected != 240:
-            raise ValueError(f"Expected 240 new audio texts, got {expected}.")
+        if expected == 0:
+            raise ValueError("No new audio texts were generated.")
         if len(set(audio_texts)) != expected:
             raise ValueError("Draft levels contain duplicate new audio texts.")
 
@@ -400,6 +438,8 @@ def map_approved_audio():
                 relative_path = (
                     Path("audio") / level["id"] / f"{item['id']}.mp3"
                 )
+                if item.get("audio", {}).get("path") != relative_path.as_posix():
+                    mapped_count += 1
                 item["audio"] = {
                     "path": relative_path.as_posix(),
                     "format": "mp3",
@@ -407,11 +447,8 @@ def map_approved_audio():
                     "voice": VOICE,
                     "volumeBoostDb": 2,
                 }
-                mapped_count += 1
         write_json(lesson_path, lesson_file)
 
-    if mapped_count != 240:
-        raise ValueError(f"Expected to map 240 new clips, mapped {mapped_count}.")
     validate()
     review_items = {}
     for level in levels:
@@ -433,10 +470,16 @@ def map_approved_audio():
 
 def build_review_page(generated, approved=False):
     cards_by_level = {}
+    manifest = read_json(ROOT / "manifest.json")
+    manifest_orders = {
+        level["id"]: level["order"] for level in manifest["levels"]
+    }
     for level_id, level in generated.items():
         cards_by_level[level_id] = []
         for item in level["items"]:
-            audio_directory = level_id if approved else f"draft-next-levels/{level_id}"
+            audio_directory = (
+                level_id if approved else f"draft-next-levels/{level_id}"
+            )
             path = f"{audio_directory}/{item['id']}.mp3"
             cards_by_level[level_id].append(
                 f"""
@@ -452,12 +495,24 @@ def build_review_page(generated, approved=False):
                 </article>
                 """
             )
+    ordered_levels = sorted(
+        generated,
+        key=lambda level_id: generated[level_id].get(
+            "order", manifest_orders[level_id]
+        ),
+    )
+    first_order = generated[ordered_levels[0]].get(
+        "order", manifest_orders[ordered_levels[0]]
+    )
+    last_order = generated[ordered_levels[-1]].get(
+        "order", manifest_orders[ordered_levels[-1]]
+    )
     page = f"""<!doctype html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Noor · {"Approved" if approved else "Draft"} Arabic Levels 3–10 Audio</title>
+<title>Noor · {"Approved" if approved else "Draft"} Arabic Levels {first_order}–{last_order} Audio</title>
 <style>
 body{{font:16px system-ui,sans-serif;max-width:980px;margin:auto;padding:20px;background:#f4f2ec;color:#202720}}
 h1{{color:#173e30}} section{{margin:36px 0}} .grid{{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px}}
@@ -468,14 +523,15 @@ input{{box-sizing:border-box;width:100%;padding:12px;border:1px solid #aebcaf;bo
 </style>
 </head>
 <body>
-<h1>{"Approved" if approved else "Draft"} Arabic course audio · Levels 3–10</h1>
-<p>{"All 240 new clips have been reviewed and mapped into the lesson JSON for the next integration step." if approved else "Preview only. These generated clips are not mapped into lesson JSON yet. Please check each pronunciation before approving it for the app."}</p>
+<h1>{"Approved" if approved else "Draft"} Arabic course audio · Levels {first_order}–{last_order}</h1>
+<p>{"All new clips have been reviewed and mapped into the lesson JSON for the next integration step." if approved else "Preview only. These generated clips are not mapped into lesson JSON yet. Please check each pronunciation before approving it for the app."}</p>
+<p>For draft playback, serve this repository over HTTP instead of opening this page as a <code>file://</code> URL. From the repository root run <code>python3 -m http.server 8000</code>, then open <code>http://localhost:8000/audio/review-next-levels.html</code>.</p>
 <label>Filter by Arabic, transliteration, or meaning
 <input id="filter" type="search" placeholder="Search audio items"></label>
 {''.join(
-    f'<section><h2>Level {index + 3}: {html.escape(level_id.replace("-", " ").title())}</h2>'
+    f'<section><h2>Level {generated[level_id].get("order", manifest_orders[level_id])}: {html.escape(level_id.replace("-", " ").title())}</h2>'
     f'<div class="grid">{"".join(cards_by_level[level_id])}</div></section>'
-    for index, level_id in enumerate(generated)
+    for level_id in ordered_levels
 )}
 <script>
 const input=document.querySelector('#filter');
@@ -503,7 +559,7 @@ async def generate_audio():
             "Install edge-tts 7.3.1 in the active Python environment first."
         ) from error
 
-    validate()
+    validate(allow_unmapped=True)
     semaphore = asyncio.Semaphore(3)
     jobs = []
     for level in read_json(ROOT / "manifest.json")["levels"]:
@@ -522,10 +578,8 @@ async def generate_audio():
     unique_jobs = {}
     for text, output in jobs:
         unique_jobs.setdefault(text, []).append(output)
-    if len(unique_jobs) != 240:
-        raise ValueError(
-            f"Expected 240 unique new recordings; found {len(unique_jobs)}."
-        )
+    if not unique_jobs:
+        raise ValueError("No unmapped new audio items were found to generate.")
     if shutil.which("ffmpeg") is None:
         raise RuntimeError("ffmpeg is required to process the draft MP3 files.")
 
@@ -614,9 +668,16 @@ def main():
         "command",
         choices=("build", "audio", "map-audio", "validate"),
     )
-    command = parser.parse_args().command
+    parser.add_argument(
+        "--seed",
+        type=Path,
+        default=SEED_PATH,
+        help="Seed JSON to use for the build command.",
+    )
+    args = parser.parse_args()
+    command = args.command
     if command == "build":
-        build()
+        build(args.seed if args.seed.is_absolute() else ROOT / args.seed)
     elif command == "audio":
         asyncio.run(generate_audio())
     elif command == "map-audio":

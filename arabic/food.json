@@ -1,0 +1,2385 @@
+{
+  "schemaVersion": 1,
+  "courseId": "arabic",
+  "levelId": "food",
+  "unitId": "food",
+  "translationLanguages": [
+    "en",
+    "ur",
+    "id",
+    "tr",
+    "fr"
+  ],
+  "lessons": [
+    {
+      "id": "food-01",
+      "order": 1,
+      "title": {
+        "en": "Everyday foods",
+        "ur": "روزمرہ کے کھانے",
+        "id": "Makanan sehari-hari",
+        "tr": "Günlük yiyecekler",
+        "fr": "Aliments du quotidien"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Everyday foods.",
+        "ur": "روزمرہ کے کھانے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang makanan sehari-hari.",
+        "tr": "Gündelik yiyeceklerle ilgili yararlı Arapça kelimeler ve kısa ifadeler uygulayın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les aliments de tous les jours."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "food-01-review-1",
+          "type": "sentence",
+          "arabic": "سَأَزُورُ أُسْرَتِي",
+          "transliteration": "sa-azūru usratī",
+          "audioText": "سَأَزُورُ أُسْرَتِي",
+          "meaning": {
+            "en": "I will visit my family.",
+            "ur": "میں اپنے اہل خانہ سے ملاقات کروں گا۔",
+            "id": "Saya akan mengunjungi keluarga saya.",
+            "tr": "Ailemi ziyaret edeceğim.",
+            "fr": "Je rendrai visite à ma famille."
+          },
+          "audio": {
+            "path": "audio/dialogues/dialogues-09-weekend-visit-family.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-01-review-2",
+          "type": "phrase",
+          "arabic": "أَتَمَنَّى لَكَ وَقْتًا مُمْتِعًا",
+          "transliteration": "atamannā laka waqtan mumtiʿan",
+          "audioText": "أَتَمَنَّى لَكَ وَقْتًا مُمْتِعًا",
+          "meaning": {
+            "en": "I hope you have a pleasant time. (to a man)",
+            "ur": "مجھے امید ہے کہ آپ کا وقت خوشگوار گزرے گا۔ (ایک آدمی کو)",
+            "id": "Saya harap Anda memiliki waktu yang menyenangkan. (kepada seorang pria)",
+            "tr": "Umarım keyifli vakit geçirirsiniz. (bir erkeğe)",
+            "fr": "J'espère que vous passerez un agréable moment. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/dialogues/dialogues-09-weekend-have-good-time.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-01-review-3",
+          "type": "sentence",
+          "arabic": "اِسْمِي عُمَرُ، وَأَسْكُنُ فِي مَدِينَةٍ صَغِيرَةٍ",
+          "transliteration": "ismī ʿUmaru, wa-askunu fī madīnatin ṣaghīratin",
+          "audioText": "اِسْمِي عُمَرُ، وَأَسْكُنُ فِي مَدِينَةٍ صَغِيرَةٍ",
+          "meaning": {
+            "en": "My name is Omar, and I live in a small city.",
+            "ur": "میرا نام عمر ہے، اور میں ایک چھوٹے سے شہر میں رہتا ہوں۔",
+            "id": "Nama saya Omar, dan saya tinggal di kota kecil.",
+            "tr": "Adım Omar ve küçük bir şehirde yaşıyorum.",
+            "fr": "Je m'appelle Omar et je vis dans une petite ville."
+          },
+          "audio": {
+            "path": "audio/dialogues/dialogues-10-story-name-location.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-01-review-4",
+          "type": "sentence",
+          "arabic": "أَدْرُسُ الْعَرَبِيَّةَ وَأَذْهَبُ إِلَى الْمَكْتَبَةِ كُلَّ يَوْمٍ",
+          "transliteration": "adrusu l-ʿarabiyyata wa-adhhabu ilā l-maktabati kulla yawmin",
+          "audioText": "أَدْرُسُ الْعَرَبِيَّةَ وَأَذْهَبُ إِلَى الْمَكْتَبَةِ كُلَّ يَوْمٍ",
+          "meaning": {
+            "en": "I study Arabic and go to the library every day.",
+            "ur": "میں عربی پڑھتا ہوں اور روزانہ لائبریری جاتا ہوں۔",
+            "id": "Saya belajar bahasa Arab dan pergi ke perpustakaan setiap hari.",
+            "tr": "Arapça çalışıyorum ve her gün kütüphaneye gidiyorum.",
+            "fr": "J'étudie l'arabe et je vais à la bibliothèque tous les jours."
+          },
+          "audio": {
+            "path": "audio/dialogues/dialogues-10-story-learns-goes.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-01-review-5",
+          "type": "sentence",
+          "arabic": "زُرْتُ أَسْرَتِي أَمْسِ، وَسَأَزُورُ صَدِيقِي غَدًا",
+          "transliteration": "zurtu usratī amsi, wa-sa-azūru ṣadīqī ghadan",
+          "audioText": "زُرْتُ أَسْرَتِي أَمْسِ، وَسَأَزُورُ صَدِيقِي غَدًا",
+          "meaning": {
+            "en": "I visited my family yesterday, and I will visit my friend tomorrow.",
+            "ur": "میں نے کل اپنے خاندان سے ملاقات کی، اور میں کل اپنے دوست سے ملوں گا۔",
+            "id": "Saya mengunjungi keluarga saya kemarin, dan saya akan mengunjungi teman saya besok.",
+            "tr": "Dün ailemi ziyaret ettim, yarın da arkadaşımı ziyaret edeceğim.",
+            "fr": "J'ai rendu visite à ma famille hier et je rendrai visite à mon ami demain."
+          },
+          "audio": {
+            "path": "audio/dialogues/dialogues-10-story-will-visit.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-01-rice",
+          "type": "word",
+          "arabic": "أَرُزٌّ",
+          "transliteration": "aruzzun",
+          "audioText": "أَرُزٌّ",
+          "meaning": {
+            "en": "rice",
+            "ur": "چاول",
+            "id": "Nasi",
+            "tr": "pirinç",
+            "fr": "riz"
+          },
+          "audio": {
+            "path": "audio/food/food-01-rice.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-01-bread",
+          "type": "word",
+          "arabic": "خُبْزٌ",
+          "transliteration": "khubzun",
+          "audioText": "خُبْزٌ",
+          "meaning": {
+            "en": "bread",
+            "ur": "روٹی",
+            "id": "roti",
+            "tr": "ekmek",
+            "fr": "pain"
+          },
+          "audio": {
+            "path": "audio/food/food-01-bread.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-01-cheese",
+          "type": "word",
+          "arabic": "جُبْنٌ",
+          "transliteration": "jubnun",
+          "audioText": "جُبْنٌ",
+          "meaning": {
+            "en": "cheese",
+            "ur": "پنیر",
+            "id": "keju",
+            "tr": "peynir",
+            "fr": "fromage"
+          },
+          "audio": {
+            "path": "audio/food/food-01-cheese.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-01-eggs",
+          "type": "word",
+          "arabic": "بَيْضٌ",
+          "transliteration": "bayḍun",
+          "audioText": "بَيْضٌ",
+          "meaning": {
+            "en": "eggs",
+            "ur": "انڈے",
+            "id": "telur",
+            "tr": "yumurtalar",
+            "fr": "oeufs"
+          },
+          "audio": {
+            "path": "audio/food/food-01-eggs.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-01-soup",
+          "type": "word",
+          "arabic": "حَسَاءٌ",
+          "transliteration": "ḥasāʾun",
+          "audioText": "حَسَاءٌ",
+          "meaning": {
+            "en": "soup",
+            "ur": "سوپ",
+            "id": "sup",
+            "tr": "çorba",
+            "fr": "soupe"
+          },
+          "audio": {
+            "path": "audio/food/food-01-soup.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "food-02",
+      "order": 2,
+      "title": {
+        "en": "Fruit and vegetables",
+        "ur": "پھل اور سبزیاں",
+        "id": "Buah dan sayuran",
+        "tr": "Meyve ve sebzeler",
+        "fr": "Fruits et légumes"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Fruit and vegetables.",
+        "ur": "پھلوں اور سبزیوں کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Buah dan Sayuran.",
+        "tr": "Meyve ve sebzelerle ilgili faydalı Arapça kelimeleri ve kısa ifadeleri uygulayın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les fruits et légumes."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "food-02-review-1",
+          "type": "word",
+          "arabic": "أَرُزٌّ",
+          "transliteration": "aruzzun",
+          "audioText": "أَرُزٌّ",
+          "meaning": {
+            "en": "rice",
+            "ur": "چاول",
+            "id": "Nasi",
+            "tr": "pirinç",
+            "fr": "riz"
+          },
+          "audio": {
+            "path": "audio/food/food-01-rice.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-02-review-2",
+          "type": "word",
+          "arabic": "خُبْزٌ",
+          "transliteration": "khubzun",
+          "audioText": "خُبْزٌ",
+          "meaning": {
+            "en": "bread",
+            "ur": "روٹی",
+            "id": "roti",
+            "tr": "ekmek",
+            "fr": "pain"
+          },
+          "audio": {
+            "path": "audio/food/food-01-bread.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-02-review-3",
+          "type": "word",
+          "arabic": "جُبْنٌ",
+          "transliteration": "jubnun",
+          "audioText": "جُبْنٌ",
+          "meaning": {
+            "en": "cheese",
+            "ur": "پنیر",
+            "id": "keju",
+            "tr": "peynir",
+            "fr": "fromage"
+          },
+          "audio": {
+            "path": "audio/food/food-01-cheese.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-02-review-4",
+          "type": "word",
+          "arabic": "بَيْضٌ",
+          "transliteration": "bayḍun",
+          "audioText": "بَيْضٌ",
+          "meaning": {
+            "en": "eggs",
+            "ur": "انڈے",
+            "id": "telur",
+            "tr": "yumurtalar",
+            "fr": "oeufs"
+          },
+          "audio": {
+            "path": "audio/food/food-01-eggs.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-02-review-5",
+          "type": "word",
+          "arabic": "حَسَاءٌ",
+          "transliteration": "ḥasāʾun",
+          "audioText": "حَسَاءٌ",
+          "meaning": {
+            "en": "soup",
+            "ur": "سوپ",
+            "id": "sup",
+            "tr": "çorba",
+            "fr": "soupe"
+          },
+          "audio": {
+            "path": "audio/food/food-01-soup.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-02-apple",
+          "type": "word",
+          "arabic": "تُفَّاحَةٌ",
+          "transliteration": "tuffāḥatun",
+          "audioText": "تُفَّاحَةٌ",
+          "meaning": {
+            "en": "an apple",
+            "ur": "ایک سیب",
+            "id": "sebuah apel",
+            "tr": "bir elma",
+            "fr": "une pomme"
+          },
+          "audio": {
+            "path": "audio/food/food-02-apple.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-02-orange",
+          "type": "word",
+          "arabic": "بُرْتُقَالَةٌ",
+          "transliteration": "burtuqālatun",
+          "audioText": "بُرْتُقَالَةٌ",
+          "meaning": {
+            "en": "an orange",
+            "ur": "ایک سنتری",
+            "id": "sebuah jeruk",
+            "tr": "bir portakal",
+            "fr": "une orange"
+          },
+          "audio": {
+            "path": "audio/food/food-02-orange.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-02-cucumber",
+          "type": "word",
+          "arabic": "خِيَارٌ",
+          "transliteration": "khiyārun",
+          "audioText": "خِيَارٌ",
+          "meaning": {
+            "en": "cucumber",
+            "ur": "ککڑی",
+            "id": "mentimun",
+            "tr": "salatalık",
+            "fr": "concombre"
+          },
+          "audio": {
+            "path": "audio/food/food-02-cucumber.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-02-tomato",
+          "type": "word",
+          "arabic": "طَمَاطِمُ",
+          "transliteration": "ṭamāṭimu",
+          "audioText": "طَمَاطِمُ",
+          "meaning": {
+            "en": "tomatoes",
+            "ur": "ٹماٹر",
+            "id": "tomat",
+            "tr": "domates",
+            "fr": "tomates"
+          },
+          "audio": {
+            "path": "audio/food/food-02-tomato.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-02-carrot",
+          "type": "word",
+          "arabic": "جَزَرٌ",
+          "transliteration": "jazarun",
+          "audioText": "جَزَرٌ",
+          "meaning": {
+            "en": "carrots",
+            "ur": "گاجر",
+            "id": "wortel",
+            "tr": "havuç",
+            "fr": "carottes"
+          },
+          "audio": {
+            "path": "audio/food/food-02-carrot.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "food-03",
+      "order": 3,
+      "title": {
+        "en": "Meals and mealtimes",
+        "ur": "کھانے اور کھانے کے اوقات",
+        "id": "Makan dan waktu makan",
+        "tr": "Yemekler ve yemek saatleri",
+        "fr": "Repas et heures des repas"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Meals and mealtimes.",
+        "ur": "کھانے اور کھانے کے اوقات کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Makanan dan waktu makan.",
+        "tr": "Yemekler ve yemek zamanları hakkında yararlı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les repas et les heures des repas."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "food-03-review-1",
+          "type": "word",
+          "arabic": "تُفَّاحَةٌ",
+          "transliteration": "tuffāḥatun",
+          "audioText": "تُفَّاحَةٌ",
+          "meaning": {
+            "en": "an apple",
+            "ur": "ایک سیب",
+            "id": "sebuah apel",
+            "tr": "bir elma",
+            "fr": "une pomme"
+          },
+          "audio": {
+            "path": "audio/food/food-02-apple.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-03-review-2",
+          "type": "word",
+          "arabic": "بُرْتُقَالَةٌ",
+          "transliteration": "burtuqālatun",
+          "audioText": "بُرْتُقَالَةٌ",
+          "meaning": {
+            "en": "an orange",
+            "ur": "ایک سنتری",
+            "id": "sebuah jeruk",
+            "tr": "bir portakal",
+            "fr": "une orange"
+          },
+          "audio": {
+            "path": "audio/food/food-02-orange.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-03-review-3",
+          "type": "word",
+          "arabic": "خِيَارٌ",
+          "transliteration": "khiyārun",
+          "audioText": "خِيَارٌ",
+          "meaning": {
+            "en": "cucumber",
+            "ur": "ککڑی",
+            "id": "mentimun",
+            "tr": "salatalık",
+            "fr": "concombre"
+          },
+          "audio": {
+            "path": "audio/food/food-02-cucumber.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-03-review-4",
+          "type": "word",
+          "arabic": "طَمَاطِمُ",
+          "transliteration": "ṭamāṭimu",
+          "audioText": "طَمَاطِمُ",
+          "meaning": {
+            "en": "tomatoes",
+            "ur": "ٹماٹر",
+            "id": "tomat",
+            "tr": "domates",
+            "fr": "tomates"
+          },
+          "audio": {
+            "path": "audio/food/food-02-tomato.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-03-review-5",
+          "type": "word",
+          "arabic": "جَزَرٌ",
+          "transliteration": "jazarun",
+          "audioText": "جَزَرٌ",
+          "meaning": {
+            "en": "carrots",
+            "ur": "گاجر",
+            "id": "wortel",
+            "tr": "havuç",
+            "fr": "carottes"
+          },
+          "audio": {
+            "path": "audio/food/food-02-carrot.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-03-breakfast",
+          "type": "word",
+          "arabic": "وَجْبَةُ الْفَطُورِ",
+          "transliteration": "wajbatu l-faṭūri",
+          "audioText": "وَجْبَةُ الْفَطُورِ",
+          "meaning": {
+            "en": "breakfast",
+            "ur": "ناشتہ",
+            "id": "sarapan",
+            "tr": "kahvaltı",
+            "fr": "petit déjeuner"
+          },
+          "audio": {
+            "path": "audio/food/food-03-breakfast.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-03-lunch",
+          "type": "word",
+          "arabic": "وَجْبَةُ الْغَدَاءِ",
+          "transliteration": "wajbatu l-ghadāʾi",
+          "audioText": "وَجْبَةُ الْغَدَاءِ",
+          "meaning": {
+            "en": "lunch",
+            "ur": "دوپہر کا کھانا",
+            "id": "makan siang",
+            "tr": "öğle yemeği",
+            "fr": "déjeuner"
+          },
+          "audio": {
+            "path": "audio/food/food-03-lunch.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-03-dinner",
+          "type": "word",
+          "arabic": "وَجْبَةُ الْعَشَاءِ",
+          "transliteration": "wajbatu l-ʿashāʾi",
+          "audioText": "وَجْبَةُ الْعَشَاءِ",
+          "meaning": {
+            "en": "dinner",
+            "ur": "رات کا کھانا",
+            "id": "makan malam",
+            "tr": "akşam yemeği",
+            "fr": "dîner"
+          },
+          "audio": {
+            "path": "audio/food/food-03-dinner.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-03-meal-is-ready",
+          "type": "sentence",
+          "arabic": "الطَّعَامُ جَاهِزٌ الْآنَ",
+          "transliteration": "aṭ-ṭaʿāmu jāhizun al-āna",
+          "audioText": "الطَّعَامُ جَاهِزٌ الْآنَ",
+          "meaning": {
+            "en": "The food is ready now.",
+            "ur": "کھانا اب تیار ہے۔",
+            "id": "Makanannya sudah siap sekarang.",
+            "tr": "Yemek artık hazır.",
+            "fr": "La nourriture est prête maintenant."
+          },
+          "audio": {
+            "path": "audio/food/food-03-meal-is-ready.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-03-eat-together",
+          "type": "sentence",
+          "arabic": "نَجْتَمِعُ لِلْغَدَاءِ مَعًا",
+          "transliteration": "najtamiʿu li-l-ghadāʾi maʿan",
+          "audioText": "نَجْتَمِعُ لِلْغَدَاءِ مَعًا",
+          "meaning": {
+            "en": "We gather for lunch together.",
+            "ur": "ہم ایک ساتھ دوپہر کے کھانے کے لیے جمع ہوتے ہیں۔",
+            "id": "Kami berkumpul untuk makan siang bersama.",
+            "tr": "Birlikte öğle yemeği için toplanıyoruz.",
+            "fr": "Nous nous réunissons pour déjeuner ensemble."
+          },
+          "audio": {
+            "path": "audio/food/food-03-eat-together.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "food-04",
+      "order": 4,
+      "title": {
+        "en": "Flavours and preferences",
+        "ur": "ذائقے اور ترجیحات",
+        "id": "Rasa dan preferensi",
+        "tr": "Tatlar ve tercihler",
+        "fr": "Saveurs et préférences"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Flavours and preferences.",
+        "ur": "ذائقوں اور ترجیحات کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Rasa dan preferensi.",
+        "tr": "Tatlar ve tercihler hakkında faydalı Arapça kelimelerin ve kısa ifadelerin alıştırmasını yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les saveurs et les préférences."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "food-04-review-1",
+          "type": "word",
+          "arabic": "وَجْبَةُ الْفَطُورِ",
+          "transliteration": "wajbatu l-faṭūri",
+          "audioText": "وَجْبَةُ الْفَطُورِ",
+          "meaning": {
+            "en": "breakfast",
+            "ur": "ناشتہ",
+            "id": "sarapan",
+            "tr": "kahvaltı",
+            "fr": "petit déjeuner"
+          },
+          "audio": {
+            "path": "audio/food/food-03-breakfast.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-04-review-2",
+          "type": "word",
+          "arabic": "وَجْبَةُ الْغَدَاءِ",
+          "transliteration": "wajbatu l-ghadāʾi",
+          "audioText": "وَجْبَةُ الْغَدَاءِ",
+          "meaning": {
+            "en": "lunch",
+            "ur": "دوپہر کا کھانا",
+            "id": "makan siang",
+            "tr": "öğle yemeği",
+            "fr": "déjeuner"
+          },
+          "audio": {
+            "path": "audio/food/food-03-lunch.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-04-review-3",
+          "type": "word",
+          "arabic": "وَجْبَةُ الْعَشَاءِ",
+          "transliteration": "wajbatu l-ʿashāʾi",
+          "audioText": "وَجْبَةُ الْعَشَاءِ",
+          "meaning": {
+            "en": "dinner",
+            "ur": "رات کا کھانا",
+            "id": "makan malam",
+            "tr": "akşam yemeği",
+            "fr": "dîner"
+          },
+          "audio": {
+            "path": "audio/food/food-03-dinner.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-04-review-4",
+          "type": "sentence",
+          "arabic": "الطَّعَامُ جَاهِزٌ الْآنَ",
+          "transliteration": "aṭ-ṭaʿāmu jāhizun al-āna",
+          "audioText": "الطَّعَامُ جَاهِزٌ الْآنَ",
+          "meaning": {
+            "en": "The food is ready now.",
+            "ur": "کھانا اب تیار ہے۔",
+            "id": "Makanannya sudah siap sekarang.",
+            "tr": "Yemek artık hazır.",
+            "fr": "La nourriture est prête maintenant."
+          },
+          "audio": {
+            "path": "audio/food/food-03-meal-is-ready.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-04-review-5",
+          "type": "sentence",
+          "arabic": "نَجْتَمِعُ لِلْغَدَاءِ مَعًا",
+          "transliteration": "najtamiʿu li-l-ghadāʾi maʿan",
+          "audioText": "نَجْتَمِعُ لِلْغَدَاءِ مَعًا",
+          "meaning": {
+            "en": "We gather for lunch together.",
+            "ur": "ہم ایک ساتھ دوپہر کے کھانے کے لیے جمع ہوتے ہیں۔",
+            "id": "Kami berkumpul untuk makan siang bersama.",
+            "tr": "Birlikte öğle yemeği için toplanıyoruz.",
+            "fr": "Nous nous réunissons pour déjeuner ensemble."
+          },
+          "audio": {
+            "path": "audio/food/food-03-eat-together.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-04-sweet",
+          "type": "adjective",
+          "arabic": "حُلْوٌ",
+          "transliteration": "ḥulwun",
+          "audioText": "حُلْوٌ",
+          "meaning": {
+            "en": "sweet (masculine)",
+            "ur": "میٹھا (مردانہ)",
+            "id": "manis (maskulin)",
+            "tr": "tatlı (erkeksi)",
+            "fr": "doux (masculin)"
+          },
+          "audio": {
+            "path": "audio/food/food-04-sweet.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-04-salty",
+          "type": "adjective",
+          "arabic": "مَالِحٌ",
+          "transliteration": "māliḥun",
+          "audioText": "مَالِحٌ",
+          "meaning": {
+            "en": "salty (masculine)",
+            "ur": "نمکین (مردانہ)",
+            "id": "asin (maskulin)",
+            "tr": "tuzlu (erkeksi)",
+            "fr": "salé (masculin)"
+          },
+          "audio": {
+            "path": "audio/food/food-04-salty.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-04-spicy",
+          "type": "adjective",
+          "arabic": "حَارٌّ",
+          "transliteration": "ḥārrun",
+          "audioText": "حَارٌّ",
+          "meaning": {
+            "en": "spicy (masculine)",
+            "ur": "مسالہ دار (مردانہ)",
+            "id": "pedas (maskulin)",
+            "tr": "baharatlı (erkeksi)",
+            "fr": "épicé (masculin)"
+          },
+          "audio": {
+            "path": "audio/food/food-04-spicy.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-04-food-is-delicious",
+          "type": "sentence",
+          "arabic": "هَذَا الطَّعَامُ لَذِيذٌ",
+          "transliteration": "hādhā aṭ-ṭaʿāmu ladhīdhun",
+          "audioText": "هَذَا الطَّعَامُ لَذِيذٌ",
+          "meaning": {
+            "en": "This food is delicious.",
+            "ur": "یہ کھانا مزیدار ہے۔",
+            "id": "Makanan ini enak.",
+            "tr": "Bu yemek çok lezzetli.",
+            "fr": "Cette nourriture est délicieuse."
+          },
+          "audio": {
+            "path": "audio/food/food-04-food-is-delicious.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-04-prefer-less-salt",
+          "type": "request",
+          "arabic": "أُفَضِّلُ قَلِيلًا مِنَ الْمِلْحِ",
+          "transliteration": "ufaḍḍilu qalīlan mina l-milḥi",
+          "audioText": "أُفَضِّلُ قَلِيلًا مِنَ الْمِلْحِ",
+          "meaning": {
+            "en": "I prefer a little less salt.",
+            "ur": "میں تھوڑا کم نمک پسند کرتا ہوں۔",
+            "id": "Saya lebih suka sedikit garam.",
+            "tr": "Biraz daha az tuzu tercih ederim.",
+            "fr": "Je préfère un peu moins de sel."
+          },
+          "audio": {
+            "path": "audio/food/food-04-prefer-less-salt.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "food-05",
+      "order": 5,
+      "title": {
+        "en": "Ingredients and amounts",
+        "ur": "اجزاء اور مقدار",
+        "id": "Bahan dan jumlahnya",
+        "tr": "Malzemeler ve miktarlar",
+        "fr": "Ingrédients et quantités"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Ingredients and amounts.",
+        "ur": "اجزاء اور مقدار کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang Bahan dan jumlahnya.",
+        "tr": "Malzemeler ve miktarlar hakkında yararlı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les ingrédients et les quantités."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "food-05-review-1",
+          "type": "adjective",
+          "arabic": "حُلْوٌ",
+          "transliteration": "ḥulwun",
+          "audioText": "حُلْوٌ",
+          "meaning": {
+            "en": "sweet (masculine)",
+            "ur": "میٹھا (مردانہ)",
+            "id": "manis (maskulin)",
+            "tr": "tatlı (erkeksi)",
+            "fr": "doux (masculin)"
+          },
+          "audio": {
+            "path": "audio/food/food-04-sweet.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-05-review-2",
+          "type": "adjective",
+          "arabic": "مَالِحٌ",
+          "transliteration": "māliḥun",
+          "audioText": "مَالِحٌ",
+          "meaning": {
+            "en": "salty (masculine)",
+            "ur": "نمکین (مردانہ)",
+            "id": "asin (maskulin)",
+            "tr": "tuzlu (erkeksi)",
+            "fr": "salé (masculin)"
+          },
+          "audio": {
+            "path": "audio/food/food-04-salty.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-05-review-3",
+          "type": "adjective",
+          "arabic": "حَارٌّ",
+          "transliteration": "ḥārrun",
+          "audioText": "حَارٌّ",
+          "meaning": {
+            "en": "spicy (masculine)",
+            "ur": "مسالہ دار (مردانہ)",
+            "id": "pedas (maskulin)",
+            "tr": "baharatlı (erkeksi)",
+            "fr": "épicé (masculin)"
+          },
+          "audio": {
+            "path": "audio/food/food-04-spicy.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-05-review-4",
+          "type": "sentence",
+          "arabic": "هَذَا الطَّعَامُ لَذِيذٌ",
+          "transliteration": "hādhā aṭ-ṭaʿāmu ladhīdhun",
+          "audioText": "هَذَا الطَّعَامُ لَذِيذٌ",
+          "meaning": {
+            "en": "This food is delicious.",
+            "ur": "یہ کھانا مزیدار ہے۔",
+            "id": "Makanan ini enak.",
+            "tr": "Bu yemek çok lezzetli.",
+            "fr": "Cette nourriture est délicieuse."
+          },
+          "audio": {
+            "path": "audio/food/food-04-food-is-delicious.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-05-review-5",
+          "type": "request",
+          "arabic": "أُفَضِّلُ قَلِيلًا مِنَ الْمِلْحِ",
+          "transliteration": "ufaḍḍilu qalīlan mina l-milḥi",
+          "audioText": "أُفَضِّلُ قَلِيلًا مِنَ الْمِلْحِ",
+          "meaning": {
+            "en": "I prefer a little less salt.",
+            "ur": "میں تھوڑا کم نمک پسند کرتا ہوں۔",
+            "id": "Saya lebih suka sedikit garam.",
+            "tr": "Biraz daha az tuzu tercih ederim.",
+            "fr": "Je préfère un peu moins de sel."
+          },
+          "audio": {
+            "path": "audio/food/food-04-prefer-less-salt.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-05-oil",
+          "type": "word",
+          "arabic": "زَيْتٌ",
+          "transliteration": "zaytun",
+          "audioText": "زَيْتٌ",
+          "meaning": {
+            "en": "oil",
+            "ur": "تیل",
+            "id": "minyak",
+            "tr": "yağ",
+            "fr": "huile"
+          },
+          "audio": {
+            "path": "audio/food/food-05-oil.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-05-flour",
+          "type": "word",
+          "arabic": "دَقِيقٌ",
+          "transliteration": "daqīqun",
+          "audioText": "دَقِيقٌ",
+          "meaning": {
+            "en": "flour",
+            "ur": "آٹا",
+            "id": "tepung",
+            "tr": "un",
+            "fr": "farine"
+          },
+          "audio": {
+            "path": "audio/food/food-05-flour.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-05-spoon",
+          "type": "word",
+          "arabic": "مِلْعَقَةٌ",
+          "transliteration": "milʿaqatun",
+          "audioText": "مِلْعَقَةٌ",
+          "meaning": {
+            "en": "a spoon",
+            "ur": "ایک چمچ",
+            "id": "sebuah sendok",
+            "tr": "bir kaşık",
+            "fr": "une cuillère"
+          },
+          "audio": {
+            "path": "audio/food/food-05-spoon.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-05-cup-of-milk",
+          "type": "phrase",
+          "arabic": "كَأْسٌ مِنَ الْحَلِيبِ",
+          "transliteration": "kaʾsun mina l-ḥalībi",
+          "audioText": "كَأْسٌ مِنَ الْحَلِيبِ",
+          "meaning": {
+            "en": "a cup of milk",
+            "ur": "ایک کپ دودھ",
+            "id": "secangkir susu",
+            "tr": "bir bardak süt",
+            "fr": "une tasse de lait"
+          },
+          "audio": {
+            "path": "audio/food/food-05-cup-of-milk.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-05-need-two-tomatoes",
+          "type": "sentence",
+          "arabic": "أَحْتَاجُ إِلَى حَبَّتَيْنِ مِنَ الطَّمَاطِمِ",
+          "transliteration": "aḥtāju ilā ḥabbatayn mina ṭ-ṭamāṭimi",
+          "audioText": "أَحْتَاجُ إِلَى حَبَّتَيْنِ مِنَ الطَّمَاطِمِ",
+          "meaning": {
+            "en": "I need two tomatoes.",
+            "ur": "مجھے دو ٹماٹر چاہیے۔",
+            "id": "Saya butuh dua buah tomat.",
+            "tr": "İki domatese ihtiyacım var.",
+            "fr": "J'ai besoin de deux tomates."
+          },
+          "audio": {
+            "path": "audio/food/food-05-need-two-tomatoes.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "food-06",
+      "order": 6,
+      "title": {
+        "en": "Buying food",
+        "ur": "کھانا خریدنا",
+        "id": "Membeli makanan",
+        "tr": "Yiyecek satın almak",
+        "fr": "Acheter de la nourriture"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Buying food.",
+        "ur": "کھانا خریدنے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Membeli makanan.",
+        "tr": "Yiyecek satın almayla ilgili faydalı Arapça kelimeleri ve kısa ifadeleri uygulayın.",
+        "fr": "Practice useful Arabic words and short phrases about Buying food."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "food-06-review-1",
+          "type": "word",
+          "arabic": "زَيْتٌ",
+          "transliteration": "zaytun",
+          "audioText": "زَيْتٌ",
+          "meaning": {
+            "en": "oil",
+            "ur": "تیل",
+            "id": "minyak",
+            "tr": "yağ",
+            "fr": "huile"
+          },
+          "audio": {
+            "path": "audio/food/food-05-oil.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-06-review-2",
+          "type": "word",
+          "arabic": "دَقِيقٌ",
+          "transliteration": "daqīqun",
+          "audioText": "دَقِيقٌ",
+          "meaning": {
+            "en": "flour",
+            "ur": "آٹا",
+            "id": "tepung",
+            "tr": "un",
+            "fr": "farine"
+          },
+          "audio": {
+            "path": "audio/food/food-05-flour.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-06-review-3",
+          "type": "word",
+          "arabic": "مِلْعَقَةٌ",
+          "transliteration": "milʿaqatun",
+          "audioText": "مِلْعَقَةٌ",
+          "meaning": {
+            "en": "a spoon",
+            "ur": "ایک چمچ",
+            "id": "sebuah sendok",
+            "tr": "bir kaşık",
+            "fr": "une cuillère"
+          },
+          "audio": {
+            "path": "audio/food/food-05-spoon.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-06-review-4",
+          "type": "phrase",
+          "arabic": "كَأْسٌ مِنَ الْحَلِيبِ",
+          "transliteration": "kaʾsun mina l-ḥalībi",
+          "audioText": "كَأْسٌ مِنَ الْحَلِيبِ",
+          "meaning": {
+            "en": "a cup of milk",
+            "ur": "ایک کپ دودھ",
+            "id": "secangkir susu",
+            "tr": "bir bardak süt",
+            "fr": "une tasse de lait"
+          },
+          "audio": {
+            "path": "audio/food/food-05-cup-of-milk.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-06-review-5",
+          "type": "sentence",
+          "arabic": "أَحْتَاجُ إِلَى حَبَّتَيْنِ مِنَ الطَّمَاطِمِ",
+          "transliteration": "aḥtāju ilā ḥabbatayn mina ṭ-ṭamāṭimi",
+          "audioText": "أَحْتَاجُ إِلَى حَبَّتَيْنِ مِنَ الطَّمَاطِمِ",
+          "meaning": {
+            "en": "I need two tomatoes.",
+            "ur": "مجھے دو ٹماٹر چاہیے۔",
+            "id": "Saya butuh dua buah tomat.",
+            "tr": "İki domatese ihtiyacım var.",
+            "fr": "J'ai besoin de deux tomates."
+          },
+          "audio": {
+            "path": "audio/food/food-05-need-two-tomatoes.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-06-kilo-of-rice",
+          "type": "phrase",
+          "arabic": "كِيلُو مِنَ الْأَرُزِّ",
+          "transliteration": "kīlū mina l-aruzzi",
+          "audioText": "كِيلُو مِنَ الْأَرُزِّ",
+          "meaning": {
+            "en": "a kilo of rice",
+            "ur": "ایک کلو چاول",
+            "id": "satu kilo beras",
+            "tr": "bir kilo pirinç",
+            "fr": "un kilo de riz"
+          },
+          "audio": {
+            "path": "audio/food/food-06-kilo-of-rice.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-06-fresh-fruit",
+          "type": "phrase",
+          "arabic": "فَاكِهَةٌ طَازَجَةٌ",
+          "transliteration": "fākihatun ṭāzajatun",
+          "audioText": "فَاكِهَةٌ طَازَجَةٌ",
+          "meaning": {
+            "en": "fresh fruit",
+            "ur": "تازہ پھل",
+            "id": "buah segar",
+            "tr": "taze meyve",
+            "fr": "fruits frais"
+          },
+          "audio": {
+            "path": "audio/food/food-06-fresh-fruit.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-06-how-much-cheese",
+          "type": "question",
+          "arabic": "بِكَمِ الْجُبْنُ الْيَوْمَ؟",
+          "transliteration": "bikami l-jubnu l-yawma?",
+          "audioText": "بِكَمِ الْجُبْنُ الْيَوْمَ؟",
+          "meaning": {
+            "en": "How much is the cheese today?",
+            "ur": "آج پنیر کتنا ہے؟",
+            "id": "Berapa harga kejunya hari ini?",
+            "tr": "Bugün peynir ne kadar?",
+            "fr": "Combien coûte le fromage aujourd'hui ?"
+          },
+          "audio": {
+            "path": "audio/food/food-06-how-much-cheese.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-06-choose-ripe-apples",
+          "type": "request",
+          "arabic": "أَرْجُو أَنْتَقِيَ تُفَّاحًا نَاضِجًا",
+          "transliteration": "arjū an atanaqqā tuffāḥan nāḍijan",
+          "audioText": "أَرْجُو أَنْتَقِيَ تُفَّاحًا نَاضِجًا",
+          "meaning": {
+            "en": "Please let me choose ripe apples.",
+            "ur": "براہ کرم مجھے پکے ہوئے سیب کا انتخاب کرنے دیں۔",
+            "id": "Tolong izinkan saya memilih apel matang.",
+            "tr": "Lütfen olgun elmaları seçmeme izin verin.",
+            "fr": "S'il vous plaît, laissez-moi choisir des pommes mûres."
+          },
+          "audio": {
+            "path": "audio/food/food-06-choose-ripe-apples.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-06-put-in-bag",
+          "type": "request",
+          "arabic": "ضَعِ الْخُضْرَوَاتِ فِي كِيسٍ، مِنْ فَضْلِكَ",
+          "transliteration": "ḍaʿi l-khuḍrawāti fī kīsin, min faḍlika",
+          "audioText": "ضَعِ الْخُضْرَوَاتِ فِي كِيسٍ، مِنْ فَضْلِكَ",
+          "meaning": {
+            "en": "Put the vegetables in a bag, please. (to a man)",
+            "ur": "سبزیاں ایک تھیلے میں ڈالیں، مہربانی فرما کر۔ (ایک آدمی کو)",
+            "id": "Tolong masukkan sayuran ke dalam tas. (kepada seorang pria)",
+            "tr": "Sebzeleri bir torbaya koyun lütfen. (bir erkeğe)",
+            "fr": "Mettez les légumes dans un sac, s'il vous plaît. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/food/food-06-put-in-bag.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "food-07",
+      "order": 7,
+      "title": {
+        "en": "Preparing a meal",
+        "ur": "کھانے کی تیاری",
+        "id": "Mempersiapkan makanan",
+        "tr": "Yemek hazırlamak",
+        "fr": "Préparer un repas"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Preparing a meal.",
+        "ur": "کھانے کی تیاری کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Menyiapkan makanan.",
+        "tr": "Yemek hazırlamayla ilgili faydalı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur la préparation d'un repas."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "food-07-review-1",
+          "type": "phrase",
+          "arabic": "كِيلُو مِنَ الْأَرُزِّ",
+          "transliteration": "kīlū mina l-aruzzi",
+          "audioText": "كِيلُو مِنَ الْأَرُزِّ",
+          "meaning": {
+            "en": "a kilo of rice",
+            "ur": "ایک کلو چاول",
+            "id": "satu kilo beras",
+            "tr": "bir kilo pirinç",
+            "fr": "un kilo de riz"
+          },
+          "audio": {
+            "path": "audio/food/food-06-kilo-of-rice.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-07-review-2",
+          "type": "phrase",
+          "arabic": "فَاكِهَةٌ طَازَجَةٌ",
+          "transliteration": "fākihatun ṭāzajatun",
+          "audioText": "فَاكِهَةٌ طَازَجَةٌ",
+          "meaning": {
+            "en": "fresh fruit",
+            "ur": "تازہ پھل",
+            "id": "buah segar",
+            "tr": "taze meyve",
+            "fr": "fruits frais"
+          },
+          "audio": {
+            "path": "audio/food/food-06-fresh-fruit.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-07-review-3",
+          "type": "question",
+          "arabic": "بِكَمِ الْجُبْنُ الْيَوْمَ؟",
+          "transliteration": "bikami l-jubnu l-yawma?",
+          "audioText": "بِكَمِ الْجُبْنُ الْيَوْمَ؟",
+          "meaning": {
+            "en": "How much is the cheese today?",
+            "ur": "آج پنیر کتنا ہے؟",
+            "id": "Berapa harga kejunya hari ini?",
+            "tr": "Bugün peynir ne kadar?",
+            "fr": "Combien coûte le fromage aujourd'hui ?"
+          },
+          "audio": {
+            "path": "audio/food/food-06-how-much-cheese.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-07-review-4",
+          "type": "request",
+          "arabic": "أَرْجُو أَنْتَقِيَ تُفَّاحًا نَاضِجًا",
+          "transliteration": "arjū an atanaqqā tuffāḥan nāḍijan",
+          "audioText": "أَرْجُو أَنْتَقِيَ تُفَّاحًا نَاضِجًا",
+          "meaning": {
+            "en": "Please let me choose ripe apples.",
+            "ur": "براہ کرم مجھے پکے ہوئے سیب کا انتخاب کرنے دیں۔",
+            "id": "Tolong izinkan saya memilih apel matang.",
+            "tr": "Lütfen olgun elmaları seçmeme izin verin.",
+            "fr": "S'il vous plaît, laissez-moi choisir des pommes mûres."
+          },
+          "audio": {
+            "path": "audio/food/food-06-choose-ripe-apples.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-07-review-5",
+          "type": "request",
+          "arabic": "ضَعِ الْخُضْرَوَاتِ فِي كِيسٍ، مِنْ فَضْلِكَ",
+          "transliteration": "ḍaʿi l-khuḍrawāti fī kīsin, min faḍlika",
+          "audioText": "ضَعِ الْخُضْرَوَاتِ فِي كِيسٍ، مِنْ فَضْلِكَ",
+          "meaning": {
+            "en": "Put the vegetables in a bag, please. (to a man)",
+            "ur": "سبزیاں ایک تھیلے میں ڈالیں، مہربانی فرما کر۔ (ایک آدمی کو)",
+            "id": "Tolong masukkan sayuran ke dalam tas. (kepada seorang pria)",
+            "tr": "Sebzeleri bir torbaya koyun lütfen. (bir erkeğe)",
+            "fr": "Mettez les légumes dans un sac, s'il vous plaît. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/food/food-06-put-in-bag.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-07-wash-vegetables",
+          "type": "request",
+          "arabic": "اِغْسِلِ الْخُضْرَوَاتِ جَيِّدًا",
+          "transliteration": "ighsili l-khuḍrawāti jayyidan",
+          "audioText": "اِغْسِلِ الْخُضْرَوَاتِ جَيِّدًا",
+          "meaning": {
+            "en": "Wash the vegetables well. (to a man)",
+            "ur": "سبزیوں کو اچھی طرح دھو لیں۔ (ایک آدمی کو)",
+            "id": "Cuci sayuran dengan baik. (kepada seorang pria)",
+            "tr": "Sebzeleri iyice yıkayın. (bir erkeğe)",
+            "fr": "Lavez bien les légumes. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/food/food-07-wash-vegetables.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-07-cut-onions",
+          "type": "request",
+          "arabic": "قَطِّعِ الْبَصَلَ إِلَى قِطَعٍ صَغِيرَةٍ",
+          "transliteration": "qaṭṭiʿi l-baṣala ilā qiṭaʿin ṣaghīratin",
+          "audioText": "قَطِّعِ الْبَصَلَ إِلَى قِطَعٍ صَغِيرَةٍ",
+          "meaning": {
+            "en": "Cut the onion into small pieces. (to a man)",
+            "ur": "پیاز کو چھوٹے ٹکڑوں میں کاٹ لیں۔ (ایک آدمی کو)",
+            "id": "Potong bawang bombay menjadi potongan kecil. (kepada seorang pria)",
+            "tr": "Soğanı küçük parçalar halinde kesin. (bir erkeğe)",
+            "fr": "Coupez l'oignon en petits morceaux. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/food/food-07-cut-onions.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-07-heat-the-oil",
+          "type": "request",
+          "arabic": "سَخِّنِ الزَّيْتَ فِي الْقِدْرِ",
+          "transliteration": "sakhkhini z-zayta fī l-qidri",
+          "audioText": "سَخِّنِ الزَّيْتَ فِي الْقِدْرِ",
+          "meaning": {
+            "en": "Heat the oil in the pot. (to a man)",
+            "ur": "برتن میں تیل گرم کریں۔ (ایک آدمی کو)",
+            "id": "Panaskan minyak dalam panci. (kepada seorang pria)",
+            "tr": "Yağı tencerede ısıtın. (bir erkeğe)",
+            "fr": "Faites chauffer l'huile dans la casserole. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/food/food-07-heat-the-oil.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-07-add-salt",
+          "type": "request",
+          "arabic": "أَضِفِ الْمِلْحَ قَلِيلًا قَلِيلًا",
+          "transliteration": "aḍifi l-milḥa qalīlan qalīlan",
+          "audioText": "أَضِفِ الْمِلْحَ قَلِيلًا قَلِيلًا",
+          "meaning": {
+            "en": "Add the salt a little at a time. (to a man)",
+            "ur": "ایک وقت میں تھوڑا سا نمک شامل کریں۔ (ایک آدمی کو)",
+            "id": "Tambahkan garam sedikit demi sedikit. (kepada seorang pria)",
+            "tr": "Tuzu azar azar ekleyin. (bir erkeğe)",
+            "fr": "Ajoutez le sel petit à petit. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/food/food-07-add-salt.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-07-soup-cooks-slowly",
+          "type": "sentence",
+          "arabic": "يُطْبَخُ الْحَسَاءُ عَلَى نَارٍ هَادِئَةٍ",
+          "transliteration": "yuṭbakhu l-ḥasāʾu ʿalā nārin hādiʾatin",
+          "audioText": "يُطْبَخُ الْحَسَاءُ عَلَى نَارٍ هَادِئَةٍ",
+          "meaning": {
+            "en": "The soup is cooked over low heat.",
+            "ur": "سوپ کو ہلکی آنچ پر پکایا جاتا ہے۔",
+            "id": "Sup dimasak dengan api kecil.",
+            "tr": "Çorba kısık ateşte pişirilir.",
+            "fr": "La soupe est cuite à feu doux."
+          },
+          "audio": {
+            "path": "audio/food/food-07-soup-cooks-slowly.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "food-08",
+      "order": 8,
+      "title": {
+        "en": "Ordering a full meal",
+        "ur": "مکمل کھانے کا آرڈر دینا",
+        "id": "Memesan makanan lengkap",
+        "tr": "Tam bir yemek sipariş etmek",
+        "fr": "Commander un repas complet"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Ordering a full meal.",
+        "ur": "مکمل کھانے کا آرڈر دینے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Memesan makanan lengkap.",
+        "tr": "Tam bir yemek siparişi vermeyle ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur la commande d'un repas complet."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "food-08-review-1",
+          "type": "request",
+          "arabic": "اِغْسِلِ الْخُضْرَوَاتِ جَيِّدًا",
+          "transliteration": "ighsili l-khuḍrawāti jayyidan",
+          "audioText": "اِغْسِلِ الْخُضْرَوَاتِ جَيِّدًا",
+          "meaning": {
+            "en": "Wash the vegetables well. (to a man)",
+            "ur": "سبزیوں کو اچھی طرح دھو لیں۔ (ایک آدمی کو)",
+            "id": "Cuci sayuran dengan baik. (kepada seorang pria)",
+            "tr": "Sebzeleri iyice yıkayın. (bir erkeğe)",
+            "fr": "Lavez bien les légumes. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/food/food-07-wash-vegetables.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-08-review-2",
+          "type": "request",
+          "arabic": "قَطِّعِ الْبَصَلَ إِلَى قِطَعٍ صَغِيرَةٍ",
+          "transliteration": "qaṭṭiʿi l-baṣala ilā qiṭaʿin ṣaghīratin",
+          "audioText": "قَطِّعِ الْبَصَلَ إِلَى قِطَعٍ صَغِيرَةٍ",
+          "meaning": {
+            "en": "Cut the onion into small pieces. (to a man)",
+            "ur": "پیاز کو چھوٹے ٹکڑوں میں کاٹ لیں۔ (ایک آدمی کو)",
+            "id": "Potong bawang bombay menjadi potongan kecil. (kepada seorang pria)",
+            "tr": "Soğanı küçük parçalar halinde kesin. (bir erkeğe)",
+            "fr": "Coupez l'oignon en petits morceaux. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/food/food-07-cut-onions.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-08-review-3",
+          "type": "request",
+          "arabic": "سَخِّنِ الزَّيْتَ فِي الْقِدْرِ",
+          "transliteration": "sakhkhini z-zayta fī l-qidri",
+          "audioText": "سَخِّنِ الزَّيْتَ فِي الْقِدْرِ",
+          "meaning": {
+            "en": "Heat the oil in the pot. (to a man)",
+            "ur": "برتن میں تیل گرم کریں۔ (ایک آدمی کو)",
+            "id": "Panaskan minyak dalam panci. (kepada seorang pria)",
+            "tr": "Yağı tencerede ısıtın. (bir erkeğe)",
+            "fr": "Faites chauffer l'huile dans la casserole. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/food/food-07-heat-the-oil.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-08-review-4",
+          "type": "request",
+          "arabic": "أَضِفِ الْمِلْحَ قَلِيلًا قَلِيلًا",
+          "transliteration": "aḍifi l-milḥa qalīlan qalīlan",
+          "audioText": "أَضِفِ الْمِلْحَ قَلِيلًا قَلِيلًا",
+          "meaning": {
+            "en": "Add the salt a little at a time. (to a man)",
+            "ur": "ایک وقت میں تھوڑا سا نمک شامل کریں۔ (ایک آدمی کو)",
+            "id": "Tambahkan garam sedikit demi sedikit. (kepada seorang pria)",
+            "tr": "Tuzu azar azar ekleyin. (bir erkeğe)",
+            "fr": "Ajoutez le sel petit à petit. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/food/food-07-add-salt.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-08-review-5",
+          "type": "sentence",
+          "arabic": "يُطْبَخُ الْحَسَاءُ عَلَى نَارٍ هَادِئَةٍ",
+          "transliteration": "yuṭbakhu l-ḥasāʾu ʿalā nārin hādiʾatin",
+          "audioText": "يُطْبَخُ الْحَسَاءُ عَلَى نَارٍ هَادِئَةٍ",
+          "meaning": {
+            "en": "The soup is cooked over low heat.",
+            "ur": "سوپ کو ہلکی آنچ پر پکایا جاتا ہے۔",
+            "id": "Sup dimasak dengan api kecil.",
+            "tr": "Çorba kısık ateşte pişirilir.",
+            "fr": "La soupe est cuite à feu doux."
+          },
+          "audio": {
+            "path": "audio/food/food-07-soup-cooks-slowly.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-08-menu-please",
+          "type": "request",
+          "arabic": "هَلْ يُمْكِنُنِي رُؤْيَةُ قَائِمَةِ الطَّعَامِ؟",
+          "transliteration": "hal yumkinunī ruʾyatu qāʾimati ṭ-ṭaʿāmi?",
+          "audioText": "هَلْ يُمْكِنُنِي رُؤْيَةُ قَائِمَةِ الطَّعَامِ؟",
+          "meaning": {
+            "en": "May I see the menu?",
+            "ur": "کیا میں مینو دیکھ سکتا ہوں؟",
+            "id": "Boleh saya melihat menu?",
+            "tr": "Menüyü görebilir miyim?",
+            "fr": "Est-il possible de voir le menu ?"
+          },
+          "audio": {
+            "path": "audio/food/food-08-menu-please.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-08-grilled-fish",
+          "type": "phrase",
+          "arabic": "سَمَكٌ مَشْوِيٌّ مَعَ الْأَرُزِّ",
+          "transliteration": "samakun mashwiyyun maʿa l-aruzzi",
+          "audioText": "سَمَكٌ مَشْوِيٌّ مَعَ الْأَرُزِّ",
+          "meaning": {
+            "en": "grilled fish with rice",
+            "ur": "چاول کے ساتھ انکوائری مچھلی",
+            "id": "ikan bakar dengan nasi",
+            "tr": "pilavlı ızgara balık",
+            "fr": "poisson grillé avec du riz"
+          },
+          "audio": {
+            "path": "audio/food/food-08-grilled-fish.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-08-vegetarian-meal",
+          "type": "phrase",
+          "arabic": "وَجْبَةٌ نَبَاتِيَّةٌ مِنْ فَضْلِكَ",
+          "transliteration": "wajbatun nabātiyyatun min faḍlika",
+          "audioText": "وَجْبَةٌ نَبَاتِيَّةٌ مِنْ فَضْلِكَ",
+          "meaning": {
+            "en": "a vegetarian meal, please",
+            "ur": "براہ کرم سبزی خور کھانا",
+            "id": "tolong, makanan vegetarian",
+            "tr": "vejetaryen yemeği lütfen",
+            "fr": "un repas végétarien, s'il vous plaît"
+          },
+          "audio": {
+            "path": "audio/food/food-08-vegetarian-meal.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-08-water-no-ice",
+          "type": "request",
+          "arabic": "أُرِيدُ مَاءً بِلَا ثَلْجٍ، مِنْ فَضْلِكَ",
+          "transliteration": "urīdu māʾan bilā thaljin, min faḍlika",
+          "audioText": "أُرِيدُ مَاءً بِلَا ثَلْجٍ، مِنْ فَضْلِكَ",
+          "meaning": {
+            "en": "I would like water without ice, please. (to a man)",
+            "ur": "برائے مہربانی مجھے برف کے بغیر پانی چاہیے (ایک آدمی کو)",
+            "id": "Saya mau air tanpa es. (kepada seorang pria)",
+            "tr": "Buzsuz su istiyorum lütfen. (bir erkeğe)",
+            "fr": "Je voudrais de l'eau sans glace, s'il vous plaît. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/food/food-08-water-no-ice.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-08-bring-bill",
+          "type": "request",
+          "arabic": "هَلْ تُحْضِرُ الْحِسَابَ لَوْ سَمَحْتَ؟",
+          "transliteration": "hal tuḥḍiru l-ḥisāba law samaḥta?",
+          "audioText": "هَلْ تُحْضِرُ الْحِسَابَ لَوْ سَمَحْتَ؟",
+          "meaning": {
+            "en": "Could you bring the bill, please? (to a man)",
+            "ur": "کیا آپ بل لا سکتے ہیں، براہ کرم؟ (ایک آدمی کو)",
+            "id": "Bisakah Anda membawakan tagihannya? (kepada seorang pria)",
+            "tr": "Hesabı getirir misiniz lütfen? (bir erkeğe)",
+            "fr": "Pourriez-vous apporter l'addition, s'il vous plaît ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/food/food-08-bring-bill.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "food-09",
+      "order": 9,
+      "title": {
+        "en": "Food needs and polite requests",
+        "ur": "کھانے کی ضروریات اور شائستہ درخواستیں۔",
+        "id": "Kebutuhan makanan dan permintaan yang sopan",
+        "tr": "Yiyecek ihtiyaçları ve kibar istekler",
+        "fr": "Besoins alimentaires et demandes polies"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Food needs and polite requests.",
+        "ur": "کھانے کی ضروریات اور شائستہ درخواستوں کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang kebutuhan Makanan dan permintaan yang sopan.",
+        "tr": "Yiyecek ihtiyaçları ve kibar istekler hakkında yararlı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les besoins alimentaires et les demandes polies."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "food-09-review-1",
+          "type": "request",
+          "arabic": "هَلْ يُمْكِنُنِي رُؤْيَةُ قَائِمَةِ الطَّعَامِ؟",
+          "transliteration": "hal yumkinunī ruʾyatu qāʾimati ṭ-ṭaʿāmi?",
+          "audioText": "هَلْ يُمْكِنُنِي رُؤْيَةُ قَائِمَةِ الطَّعَامِ؟",
+          "meaning": {
+            "en": "May I see the menu?",
+            "ur": "کیا میں مینو دیکھ سکتا ہوں؟",
+            "id": "Boleh saya melihat menu?",
+            "tr": "Menüyü görebilir miyim?",
+            "fr": "Est-il possible de voir le menu ?"
+          },
+          "audio": {
+            "path": "audio/food/food-08-menu-please.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-09-review-2",
+          "type": "phrase",
+          "arabic": "سَمَكٌ مَشْوِيٌّ مَعَ الْأَرُزِّ",
+          "transliteration": "samakun mashwiyyun maʿa l-aruzzi",
+          "audioText": "سَمَكٌ مَشْوِيٌّ مَعَ الْأَرُزِّ",
+          "meaning": {
+            "en": "grilled fish with rice",
+            "ur": "چاول کے ساتھ انکوائری مچھلی",
+            "id": "ikan bakar dengan nasi",
+            "tr": "pilavlı ızgara balık",
+            "fr": "poisson grillé avec du riz"
+          },
+          "audio": {
+            "path": "audio/food/food-08-grilled-fish.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-09-review-3",
+          "type": "phrase",
+          "arabic": "وَجْبَةٌ نَبَاتِيَّةٌ مِنْ فَضْلِكَ",
+          "transliteration": "wajbatun nabātiyyatun min faḍlika",
+          "audioText": "وَجْبَةٌ نَبَاتِيَّةٌ مِنْ فَضْلِكَ",
+          "meaning": {
+            "en": "a vegetarian meal, please",
+            "ur": "براہ کرم سبزی خور کھانا",
+            "id": "tolong, makanan vegetarian",
+            "tr": "vejetaryen yemeği lütfen",
+            "fr": "un repas végétarien, s'il vous plaît"
+          },
+          "audio": {
+            "path": "audio/food/food-08-vegetarian-meal.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-09-review-4",
+          "type": "request",
+          "arabic": "أُرِيدُ مَاءً بِلَا ثَلْجٍ، مِنْ فَضْلِكَ",
+          "transliteration": "urīdu māʾan bilā thaljin, min faḍlika",
+          "audioText": "أُرِيدُ مَاءً بِلَا ثَلْجٍ، مِنْ فَضْلِكَ",
+          "meaning": {
+            "en": "I would like water without ice, please. (to a man)",
+            "ur": "برائے مہربانی مجھے برف کے بغیر پانی چاہیے (ایک آدمی کو)",
+            "id": "Saya mau air tanpa es. (kepada seorang pria)",
+            "tr": "Buzsuz su istiyorum lütfen. (bir erkeğe)",
+            "fr": "Je voudrais de l'eau sans glace, s'il vous plaît. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/food/food-08-water-no-ice.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-09-review-5",
+          "type": "request",
+          "arabic": "هَلْ تُحْضِرُ الْحِسَابَ لَوْ سَمَحْتَ؟",
+          "transliteration": "hal tuḥḍiru l-ḥisāba law samaḥta?",
+          "audioText": "هَلْ تُحْضِرُ الْحِسَابَ لَوْ سَمَحْتَ؟",
+          "meaning": {
+            "en": "Could you bring the bill, please? (to a man)",
+            "ur": "کیا آپ بل لا سکتے ہیں، براہ کرم؟ (ایک آدمی کو)",
+            "id": "Bisakah Anda membawakan tagihannya? (kepada seorang pria)",
+            "tr": "Hesabı getirir misiniz lütfen? (bir erkeğe)",
+            "fr": "Pourriez-vous apporter l'addition, s'il vous plaît ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/food/food-08-bring-bill.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-09-no-peanuts",
+          "type": "sentence",
+          "arabic": "لَا أَسْتَطِيعُ أَكْلَ الْفُولِ السُّودَانِيِّ",
+          "transliteration": "lā astaṭīʿu akla l-fūli s-sūdāniyyi",
+          "audioText": "لَا أَسْتَطِيعُ أَكْلَ الْفُولِ السُّودَانِيِّ",
+          "meaning": {
+            "en": "I cannot eat peanuts.",
+            "ur": "میں مونگ پھلی نہیں کھا سکتا۔",
+            "id": "Saya tidak bisa makan kacang.",
+            "tr": "Fıstık yiyemiyorum.",
+            "fr": "Je ne peux pas manger de cacahuètes."
+          },
+          "audio": {
+            "path": "audio/food/food-09-no-peanuts.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-09-contains-nuts",
+          "type": "question",
+          "arabic": "هَلْ يَحْتَوِي هَذَا الطَّعَامُ عَلَى مُكَسَّرَاتٍ؟",
+          "transliteration": "hal yaḥtawī hādhā aṭ-ṭaʿāmu ʿalā mukassarātin?",
+          "audioText": "هَلْ يَحْتَوِي هَذَا الطَّعَامُ عَلَى مُكَسَّرَاتٍ؟",
+          "meaning": {
+            "en": "Does this food contain nuts?",
+            "ur": "کیا اس کھانے میں گری دار میوے ہیں؟",
+            "id": "Apakah makanan ini mengandung kacang?",
+            "tr": "Bu yemekte fındık var mı?",
+            "fr": "Cet aliment contient-il des noix ?"
+          },
+          "audio": {
+            "path": "audio/food/food-09-contains-nuts.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-09-without-sugar",
+          "type": "request",
+          "arabic": "أَرْجُو أَنْ يَكُونَ الشَّايُ بِلَا سُكَّرٍ",
+          "transliteration": "arjū an yakūna sh-shāyu bilā sukkarin",
+          "audioText": "أَرْجُو أَنْ يَكُونَ الشَّايُ بِلَا سُكَّرٍ",
+          "meaning": {
+            "en": "Please make the tea without sugar.",
+            "ur": "براہ کرم چینی کے بغیر چائے بنائیں۔",
+            "id": "Tolong buatkan teh tanpa gula.",
+            "tr": "Lütfen çayı şekersiz yapın.",
+            "fr": "Veuillez préparer le thé sans sucre."
+          },
+          "audio": {
+            "path": "audio/food/food-09-without-sugar.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-09-extra-plate",
+          "type": "request",
+          "arabic": "هَلْ تُحْضِرُ لَنَا طَبَقًا إِضَافِيًّا؟",
+          "transliteration": "hal tuḥḍiru lanā ṭabaqan iḍāfiyyan?",
+          "audioText": "هَلْ تُحْضِرُ لَنَا طَبَقًا إِضَافِيًّا؟",
+          "meaning": {
+            "en": "Could you bring us an extra plate? (to a man)",
+            "ur": "کیا آپ ہمیں ایک اضافی پلیٹ لا سکتے ہیں؟ (ایک آدمی کو)",
+            "id": "Bisakah Anda membawakan kami sepiring tambahan? (kepada seorang pria)",
+            "tr": "Bize fazladan bir tabak getirebilir misin? (bir erkeğe)",
+            "fr": "Pourriez-vous nous apporter une assiette supplémentaire ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/food/food-09-extra-plate.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-09-meal-please-warm",
+          "type": "request",
+          "arabic": "هَلْ يُمْكِنُ تَسْخِينُ هَذِهِ الْوَجْبَةِ؟",
+          "transliteration": "hal yumkinu taskhīnu hādhihi l-wajbati?",
+          "audioText": "هَلْ يُمْكِنُ تَسْخِينُ هَذِهِ الْوَجْبَةِ؟",
+          "meaning": {
+            "en": "Could this meal be warmed up?",
+            "ur": "کیا یہ کھانا گرم کیا جا سکتا ہے؟",
+            "id": "Bisakah makanan ini dihangatkan?",
+            "tr": "Bu yemek ısıtılabilir mi?",
+            "fr": "Ce repas pourrait-il être réchauffé ?"
+          },
+          "audio": {
+            "path": "audio/food/food-09-meal-please-warm.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "food-10",
+      "order": 10,
+      "title": {
+        "en": "A family meal",
+        "ur": "ایک خاندانی کھانا",
+        "id": "Makan malam keluarga",
+        "tr": "Bir aile yemeği",
+        "fr": "Un repas en famille"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about A family meal.",
+        "ur": "خاندانی کھانے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Makan bersama keluarga.",
+        "tr": "Bir aile yemeği ile ilgili faydalı Arapça kelimeleri ve kısa ifadeleri uygulayın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur un repas en famille."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "food-10-review-1",
+          "type": "sentence",
+          "arabic": "لَا أَسْتَطِيعُ أَكْلَ الْفُولِ السُّودَانِيِّ",
+          "transliteration": "lā astaṭīʿu akla l-fūli s-sūdāniyyi",
+          "audioText": "لَا أَسْتَطِيعُ أَكْلَ الْفُولِ السُّودَانِيِّ",
+          "meaning": {
+            "en": "I cannot eat peanuts.",
+            "ur": "میں مونگ پھلی نہیں کھا سکتا۔",
+            "id": "Saya tidak bisa makan kacang.",
+            "tr": "Fıstık yiyemiyorum.",
+            "fr": "Je ne peux pas manger de cacahuètes."
+          },
+          "audio": {
+            "path": "audio/food/food-09-no-peanuts.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-10-review-2",
+          "type": "question",
+          "arabic": "هَلْ يَحْتَوِي هَذَا الطَّعَامُ عَلَى مُكَسَّرَاتٍ؟",
+          "transliteration": "hal yaḥtawī hādhā aṭ-ṭaʿāmu ʿalā mukassarātin?",
+          "audioText": "هَلْ يَحْتَوِي هَذَا الطَّعَامُ عَلَى مُكَسَّرَاتٍ؟",
+          "meaning": {
+            "en": "Does this food contain nuts?",
+            "ur": "کیا اس کھانے میں گری دار میوے ہیں؟",
+            "id": "Apakah makanan ini mengandung kacang?",
+            "tr": "Bu yemekte fındık var mı?",
+            "fr": "Cet aliment contient-il des noix ?"
+          },
+          "audio": {
+            "path": "audio/food/food-09-contains-nuts.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-10-review-3",
+          "type": "request",
+          "arabic": "أَرْجُو أَنْ يَكُونَ الشَّايُ بِلَا سُكَّرٍ",
+          "transliteration": "arjū an yakūna sh-shāyu bilā sukkarin",
+          "audioText": "أَرْجُو أَنْ يَكُونَ الشَّايُ بِلَا سُكَّرٍ",
+          "meaning": {
+            "en": "Please make the tea without sugar.",
+            "ur": "براہ کرم چینی کے بغیر چائے بنائیں۔",
+            "id": "Tolong buatkan teh tanpa gula.",
+            "tr": "Lütfen çayı şekersiz yapın.",
+            "fr": "Veuillez préparer le thé sans sucre."
+          },
+          "audio": {
+            "path": "audio/food/food-09-without-sugar.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-10-review-4",
+          "type": "request",
+          "arabic": "هَلْ تُحْضِرُ لَنَا طَبَقًا إِضَافِيًّا؟",
+          "transliteration": "hal tuḥḍiru lanā ṭabaqan iḍāfiyyan?",
+          "audioText": "هَلْ تُحْضِرُ لَنَا طَبَقًا إِضَافِيًّا؟",
+          "meaning": {
+            "en": "Could you bring us an extra plate? (to a man)",
+            "ur": "کیا آپ ہمیں ایک اضافی پلیٹ لا سکتے ہیں؟ (ایک آدمی کو)",
+            "id": "Bisakah Anda membawakan kami sepiring tambahan? (kepada seorang pria)",
+            "tr": "Bize fazladan bir tabak getirebilir misin? (bir erkeğe)",
+            "fr": "Pourriez-vous nous apporter une assiette supplémentaire ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/food/food-09-extra-plate.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-10-review-5",
+          "type": "request",
+          "arabic": "هَلْ يُمْكِنُ تَسْخِينُ هَذِهِ الْوَجْبَةِ؟",
+          "transliteration": "hal yumkinu taskhīnu hādhihi l-wajbati?",
+          "audioText": "هَلْ يُمْكِنُ تَسْخِينُ هَذِهِ الْوَجْبَةِ؟",
+          "meaning": {
+            "en": "Could this meal be warmed up?",
+            "ur": "کیا یہ کھانا گرم کیا جا سکتا ہے؟",
+            "id": "Bisakah makanan ini dihangatkan?",
+            "tr": "Bu yemek ısıtılabilir mi?",
+            "fr": "Ce repas pourrait-il être réchauffé ?"
+          },
+          "audio": {
+            "path": "audio/food/food-09-meal-please-warm.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-10-family-prepares-dinner",
+          "type": "sentence",
+          "arabic": "تُحَضِّرُ أُسْرَتِي وَجْبَةَ الْعَشَاءِ فِي الْمَطْبَخِ",
+          "transliteration": "tuḥaḍḍiru usratī wajbata l-ʿashāʾi fī l-maṭbakhi",
+          "audioText": "تُحَضِّرُ أُسْرَتِي وَجْبَةَ الْعَشَاءِ فِي الْمَطْبَخِ",
+          "meaning": {
+            "en": "My family prepares dinner in the kitchen.",
+            "ur": "میرا خاندان باورچی خانے میں رات کا کھانا تیار کرتا ہے۔",
+            "id": "Keluargaku menyiapkan makan malam di dapur.",
+            "tr": "Ailem mutfakta akşam yemeği hazırlıyor.",
+            "fr": "Ma famille prépare le dîner dans la cuisine."
+          },
+          "audio": {
+            "path": "audio/food/food-10-family-prepares-dinner.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-10-father-washes-salad",
+          "type": "sentence",
+          "arabic": "يَغْسِلُ أَبِي الْخَضْرَوَاتِ لِلسَّلَطَةِ",
+          "transliteration": "yaghsilu abī l-khuḍrawāti li-s-salaṭati",
+          "audioText": "يَغْسِلُ أَبِي الْخَضْرَوَاتِ لِلسَّلَطَةِ",
+          "meaning": {
+            "en": "My father washes the vegetables for the salad.",
+            "ur": "میرے والد سلاد کے لیے سبزیاں دھوتے ہیں۔",
+            "id": "Ayahku mencuci sayuran untuk salad.",
+            "tr": "Babam salata için sebzeleri yıkıyor.",
+            "fr": "Mon père lave les légumes pour la salade."
+          },
+          "audio": {
+            "path": "audio/food/food-10-father-washes-salad.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-10-sister-cooks-rice",
+          "type": "sentence",
+          "arabic": "تَطْبُخُ أُخْتِي الْأَرُزَّ فِي قِدْرٍ كَبِيرٍ",
+          "transliteration": "taṭbukhu ukhtī l-aruzza fī qidrin kabīrin",
+          "audioText": "تَطْبُخُ أُخْتِي الْأَرُزَّ فِي قِدْرٍ كَبِيرٍ",
+          "meaning": {
+            "en": "My sister cooks the rice in a large pot.",
+            "ur": "میری بہن ایک بڑے برتن میں چاول پکاتی ہے۔",
+            "id": "Adikku memasak nasi dalam panci besar.",
+            "tr": "Kız kardeşim pirinci büyük bir tencerede pişiriyor.",
+            "fr": "Ma sœur fait cuire le riz dans une grande marmite."
+          },
+          "audio": {
+            "path": "audio/food/food-10-sister-cooks-rice.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-10-everyone-enjoys-meal",
+          "type": "sentence",
+          "arabic": "يَأْكُلُ الْجَمِيعُ مَعًا وَيَسْتَمْتِعُونَ بِالطَّعَامِ",
+          "transliteration": "yaʾkulu l-jamīʿu maʿan wa-yastamtiʿūna bi-ṭ-ṭaʿāmi",
+          "audioText": "يَأْكُلُ الْجَمِيعُ مَعًا وَيَسْتَمْتِعُونَ بِالطَّعَامِ",
+          "meaning": {
+            "en": "Everyone eats together and enjoys the food.",
+            "ur": "سب مل کر کھاتے ہیں اور کھانے سے لطف اندوز ہوتے ہیں۔",
+            "id": "Semua orang makan bersama dan menikmati makanannya.",
+            "tr": "Herkes birlikte yemek yiyor ve yemeğin tadını çıkarıyor.",
+            "fr": "Tout le monde mange ensemble et apprécie la nourriture."
+          },
+          "audio": {
+            "path": "audio/food/food-10-everyone-enjoys-meal.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "food-10-save-fruit-for-later",
+          "type": "sentence",
+          "arabic": "نَحْفَظُ بَعْضَ الْفَاكِهَةِ لِوَجْبَةٍ أُخْرَى",
+          "transliteration": "naḥfaẓu baʿḍa l-fākihati li-wajbatin ukhrā",
+          "audioText": "نَحْفَظُ بَعْضَ الْفَاكِهَةِ لِوَجْبَةٍ أُخْرَى",
+          "meaning": {
+            "en": "We save some fruit for another meal.",
+            "ur": "ہم دوسرے کھانے کے لیے کچھ پھل بچاتے ہیں۔",
+            "id": "Kami menyimpan beberapa buah untuk makanan lain.",
+            "tr": "Başka bir öğün için biraz meyve saklıyoruz.",
+            "fr": "Nous gardons quelques fruits pour un autre repas."
+          },
+          "audio": {
+            "path": "audio/food/food-10-save-fruit-for-later.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    }
+  ]
+}

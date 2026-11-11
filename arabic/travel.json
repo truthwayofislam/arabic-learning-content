@@ -1,0 +1,2385 @@
+{
+  "schemaVersion": 1,
+  "courseId": "arabic",
+  "levelId": "travel",
+  "unitId": "travel",
+  "translationLanguages": [
+    "en",
+    "ur",
+    "id",
+    "tr",
+    "fr"
+  ],
+  "lessons": [
+    {
+      "id": "travel-01",
+      "order": 1,
+      "title": {
+        "en": "Ways to travel",
+        "ur": "سفر کرنے کے طریقے",
+        "id": "Cara untuk bepergian",
+        "tr": "Seyahat yolları",
+        "fr": "Façons de voyager"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Ways to travel.",
+        "ur": "سفر کے طریقوں کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Cara bepergian.",
+        "tr": "Seyahat Yolları ile ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les moyens de voyager."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "travel-01-review-1",
+          "type": "sentence",
+          "arabic": "تُحَضِّرُ أُسْرَتِي وَجْبَةَ الْعَشَاءِ فِي الْمَطْبَخِ",
+          "transliteration": "tuḥaḍḍiru usratī wajbata l-ʿashāʾi fī l-maṭbakhi",
+          "audioText": "تُحَضِّرُ أُسْرَتِي وَجْبَةَ الْعَشَاءِ فِي الْمَطْبَخِ",
+          "meaning": {
+            "en": "My family prepares dinner in the kitchen.",
+            "ur": "میرا خاندان باورچی خانے میں رات کا کھانا تیار کرتا ہے۔",
+            "id": "Keluargaku menyiapkan makan malam di dapur.",
+            "tr": "Ailem mutfakta akşam yemeği hazırlıyor.",
+            "fr": "Ma famille prépare le dîner dans la cuisine."
+          },
+          "audio": {
+            "path": "audio/food/food-10-family-prepares-dinner.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-01-review-2",
+          "type": "sentence",
+          "arabic": "يَغْسِلُ أَبِي الْخَضْرَوَاتِ لِلسَّلَطَةِ",
+          "transliteration": "yaghsilu abī l-khuḍrawāti li-s-salaṭati",
+          "audioText": "يَغْسِلُ أَبِي الْخَضْرَوَاتِ لِلسَّلَطَةِ",
+          "meaning": {
+            "en": "My father washes the vegetables for the salad.",
+            "ur": "میرے والد سلاد کے لیے سبزیاں دھوتے ہیں۔",
+            "id": "Ayahku mencuci sayuran untuk salad.",
+            "tr": "Babam salata için sebzeleri yıkıyor.",
+            "fr": "Mon père lave les légumes pour la salade."
+          },
+          "audio": {
+            "path": "audio/food/food-10-father-washes-salad.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-01-review-3",
+          "type": "sentence",
+          "arabic": "تَطْبُخُ أُخْتِي الْأَرُزَّ فِي قِدْرٍ كَبِيرٍ",
+          "transliteration": "taṭbukhu ukhtī l-aruzza fī qidrin kabīrin",
+          "audioText": "تَطْبُخُ أُخْتِي الْأَرُزَّ فِي قِدْرٍ كَبِيرٍ",
+          "meaning": {
+            "en": "My sister cooks the rice in a large pot.",
+            "ur": "میری بہن ایک بڑے برتن میں چاول پکاتی ہے۔",
+            "id": "Adikku memasak nasi dalam panci besar.",
+            "tr": "Kız kardeşim pirinci büyük bir tencerede pişiriyor.",
+            "fr": "Ma sœur fait cuire le riz dans une grande marmite."
+          },
+          "audio": {
+            "path": "audio/food/food-10-sister-cooks-rice.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-01-review-4",
+          "type": "sentence",
+          "arabic": "يَأْكُلُ الْجَمِيعُ مَعًا وَيَسْتَمْتِعُونَ بِالطَّعَامِ",
+          "transliteration": "yaʾkulu l-jamīʿu maʿan wa-yastamtiʿūna bi-ṭ-ṭaʿāmi",
+          "audioText": "يَأْكُلُ الْجَمِيعُ مَعًا وَيَسْتَمْتِعُونَ بِالطَّعَامِ",
+          "meaning": {
+            "en": "Everyone eats together and enjoys the food.",
+            "ur": "سب مل کر کھاتے ہیں اور کھانے سے لطف اندوز ہوتے ہیں۔",
+            "id": "Semua orang makan bersama dan menikmati makanannya.",
+            "tr": "Herkes birlikte yemek yiyor ve yemeğin tadını çıkarıyor.",
+            "fr": "Tout le monde mange ensemble et apprécie la nourriture."
+          },
+          "audio": {
+            "path": "audio/food/food-10-everyone-enjoys-meal.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-01-review-5",
+          "type": "sentence",
+          "arabic": "نَحْفَظُ بَعْضَ الْفَاكِهَةِ لِوَجْبَةٍ أُخْرَى",
+          "transliteration": "naḥfaẓu baʿḍa l-fākihati li-wajbatin ukhrā",
+          "audioText": "نَحْفَظُ بَعْضَ الْفَاكِهَةِ لِوَجْبَةٍ أُخْرَى",
+          "meaning": {
+            "en": "We save some fruit for another meal.",
+            "ur": "ہم دوسرے کھانے کے لیے کچھ پھل بچاتے ہیں۔",
+            "id": "Kami menyimpan beberapa buah untuk makanan lain.",
+            "tr": "Başka bir öğün için biraz meyve saklıyoruz.",
+            "fr": "Nous gardons quelques fruits pour un autre repas."
+          },
+          "audio": {
+            "path": "audio/food/food-10-save-fruit-for-later.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-01-airport",
+          "type": "word",
+          "arabic": "مَطَارٌ",
+          "transliteration": "maṭārun",
+          "audioText": "مَطَارٌ",
+          "meaning": {
+            "en": "an airport",
+            "ur": "ایک ہوائی اڈے",
+            "id": "sebuah bandara",
+            "tr": "bir havaalanı",
+            "fr": "un aéroport"
+          },
+          "audio": {
+            "path": "audio/travel/travel-01-airport.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-01-train",
+          "type": "word",
+          "arabic": "قِطَارٌ",
+          "transliteration": "qiṭārun",
+          "audioText": "قِطَارٌ",
+          "meaning": {
+            "en": "a train",
+            "ur": "ایک ٹرین",
+            "id": "sebuah kereta api",
+            "tr": "bir tren",
+            "fr": "un train"
+          },
+          "audio": {
+            "path": "audio/travel/travel-01-train.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-01-bus-station",
+          "type": "phrase",
+          "arabic": "مَحَطَّةُ الْحَافِلَاتِ",
+          "transliteration": "maḥaṭṭatu l-ḥāfilāti",
+          "audioText": "مَحَطَّةُ الْحَافِلَاتِ",
+          "meaning": {
+            "en": "a bus station",
+            "ur": "ایک بس اسٹیشن",
+            "id": "sebuah stasiun bus",
+            "tr": "bir otobüs terminali",
+            "fr": "une gare routière"
+          },
+          "audio": {
+            "path": "audio/travel/travel-01-bus-station.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-01-passenger",
+          "type": "word",
+          "arabic": "مُسَافِرٌ",
+          "transliteration": "musāfirun",
+          "audioText": "مُسَافِرٌ",
+          "meaning": {
+            "en": "a male traveler",
+            "ur": "ایک مرد مسافر",
+            "id": "seorang musafir laki-laki",
+            "tr": "erkek gezgin",
+            "fr": "un voyageur masculin"
+          },
+          "audio": {
+            "path": "audio/travel/travel-01-passenger.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-01-platform",
+          "type": "word",
+          "arabic": "رَصِيفٌ",
+          "transliteration": "raṣīfun",
+          "audioText": "رَصِيفٌ",
+          "meaning": {
+            "en": "a platform",
+            "ur": "ایک پلیٹ فارم",
+            "id": "sebuah platform",
+            "tr": "bir platform",
+            "fr": "une plateforme"
+          },
+          "audio": {
+            "path": "audio/travel/travel-01-platform.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "travel-02",
+      "order": 2,
+      "title": {
+        "en": "Planning a journey",
+        "ur": "سفر کی منصوبہ بندی کرنا",
+        "id": "Merencanakan perjalanan",
+        "tr": "Bir yolculuk planlamak",
+        "fr": "Planifier un voyage"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Planning a journey.",
+        "ur": "سفر کی منصوبہ بندی کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Merencanakan perjalanan.",
+        "tr": "Seyahat planlamayla ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur la planification d'un voyage."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "travel-02-review-1",
+          "type": "word",
+          "arabic": "مَطَارٌ",
+          "transliteration": "maṭārun",
+          "audioText": "مَطَارٌ",
+          "meaning": {
+            "en": "an airport",
+            "ur": "ایک ہوائی اڈے",
+            "id": "sebuah bandara",
+            "tr": "bir havaalanı",
+            "fr": "un aéroport"
+          },
+          "audio": {
+            "path": "audio/travel/travel-01-airport.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-02-review-2",
+          "type": "word",
+          "arabic": "قِطَارٌ",
+          "transliteration": "qiṭārun",
+          "audioText": "قِطَارٌ",
+          "meaning": {
+            "en": "a train",
+            "ur": "ایک ٹرین",
+            "id": "sebuah kereta api",
+            "tr": "bir tren",
+            "fr": "un train"
+          },
+          "audio": {
+            "path": "audio/travel/travel-01-train.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-02-review-3",
+          "type": "phrase",
+          "arabic": "مَحَطَّةُ الْحَافِلَاتِ",
+          "transliteration": "maḥaṭṭatu l-ḥāfilāti",
+          "audioText": "مَحَطَّةُ الْحَافِلَاتِ",
+          "meaning": {
+            "en": "a bus station",
+            "ur": "ایک بس اسٹیشن",
+            "id": "sebuah stasiun bus",
+            "tr": "bir otobüs terminali",
+            "fr": "une gare routière"
+          },
+          "audio": {
+            "path": "audio/travel/travel-01-bus-station.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-02-review-4",
+          "type": "word",
+          "arabic": "مُسَافِرٌ",
+          "transliteration": "musāfirun",
+          "audioText": "مُسَافِرٌ",
+          "meaning": {
+            "en": "a male traveler",
+            "ur": "ایک مرد مسافر",
+            "id": "seorang musafir laki-laki",
+            "tr": "erkek gezgin",
+            "fr": "un voyageur masculin"
+          },
+          "audio": {
+            "path": "audio/travel/travel-01-passenger.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-02-review-5",
+          "type": "word",
+          "arabic": "رَصِيفٌ",
+          "transliteration": "raṣīfun",
+          "audioText": "رَصِيفٌ",
+          "meaning": {
+            "en": "a platform",
+            "ur": "ایک پلیٹ فارم",
+            "id": "sebuah platform",
+            "tr": "bir platform",
+            "fr": "une plateforme"
+          },
+          "audio": {
+            "path": "audio/travel/travel-01-platform.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-02-travel-date",
+          "type": "phrase",
+          "arabic": "مَوْعِدُ السَّفَرِ",
+          "transliteration": "mawʿidu s-safari",
+          "audioText": "مَوْعِدُ السَّفَرِ",
+          "meaning": {
+            "en": "the travel date",
+            "ur": "سفر کی تاریخ",
+            "id": "tanggal perjalanan",
+            "tr": "seyahat tarihi",
+            "fr": "la date du voyage"
+          },
+          "audio": {
+            "path": "audio/travel/travel-02-travel-date.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-02-direct-flight",
+          "type": "phrase",
+          "arabic": "رِحْلَةٌ مُبَاشِرَةٌ",
+          "transliteration": "riḥlatun mubāshiratun",
+          "audioText": "رِحْلَةٌ مُبَاشِرَةٌ",
+          "meaning": {
+            "en": "a direct flight",
+            "ur": "ایک براہ راست پرواز",
+            "id": "penerbangan langsung",
+            "tr": "direkt uçuş",
+            "fr": "un vol direct"
+          },
+          "audio": {
+            "path": "audio/travel/travel-02-direct-flight.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-02-return-ticket",
+          "type": "phrase",
+          "arabic": "تَذْكِرَةُ الذَّهَابِ وَالْعَوْدَةِ",
+          "transliteration": "tadhkiratu dh-dhahābi wa-l-ʿawdati",
+          "audioText": "تَذْكِرَةُ الذَّهَابِ وَالْعَوْدَةِ",
+          "meaning": {
+            "en": "a return ticket",
+            "ur": "واپسی کا ٹکٹ",
+            "id": "tiket pulang pergi",
+            "tr": "dönüş bileti",
+            "fr": "un billet aller-retour"
+          },
+          "audio": {
+            "path": "audio/travel/travel-02-return-ticket.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-02-travel-next-month",
+          "type": "sentence",
+          "arabic": "أُسَافِرُ فِي الشَّهْرِ الْقَادِمِ",
+          "transliteration": "usāfiru fī sh-shahri l-qādimi",
+          "audioText": "أُسَافِرُ فِي الشَّهْرِ الْقَادِمِ",
+          "meaning": {
+            "en": "I am traveling next month.",
+            "ur": "میں اگلے مہینے سفر کر رہا ہوں۔",
+            "id": "Saya akan bepergian bulan depan.",
+            "tr": "Gelecek ay seyahat ediyorum.",
+            "fr": "Je voyage le mois prochain."
+          },
+          "audio": {
+            "path": "audio/travel/travel-02-travel-next-month.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-02-check-departure-time",
+          "type": "request",
+          "arabic": "أَرْجُو أَنْ تَتَأَكَّدَ مِنْ وَقْتِ الْمُغَادَرَةِ",
+          "transliteration": "arjū an tataʾakkada min waqti l-mughādarati",
+          "audioText": "أَرْجُو أَنْ تَتَأَكَّدَ مِنْ وَقْتِ الْمُغَادَرَةِ",
+          "meaning": {
+            "en": "Please check the departure time. (to a man)",
+            "ur": "براہ کرم روانگی کا وقت چیک کریں۔ (ایک آدمی کو)",
+            "id": "Silakan periksa waktu keberangkatan. (kepada seorang pria)",
+            "tr": "Lütfen kalkış saatini kontrol edin. (bir erkeğe)",
+            "fr": "Veuillez vérifier l'heure de départ. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/travel/travel-02-check-departure-time.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "travel-03",
+      "order": 3,
+      "title": {
+        "en": "At the airport",
+        "ur": "ہوائی اڈے پر",
+        "id": "Di bandara",
+        "tr": "Havaalanında",
+        "fr": "A l'aéroport"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about At the airport.",
+        "ur": "ہوائی اڈے پر مفید عربی الفاظ اور مختصر فقروں کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Di bandara.",
+        "tr": "Havaalanında ile ilgili faydalı Arapça kelimeleri ve kısa ifadeleri uygulayın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur À l'aéroport."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "travel-03-review-1",
+          "type": "phrase",
+          "arabic": "مَوْعِدُ السَّفَرِ",
+          "transliteration": "mawʿidu s-safari",
+          "audioText": "مَوْعِدُ السَّفَرِ",
+          "meaning": {
+            "en": "the travel date",
+            "ur": "سفر کی تاریخ",
+            "id": "tanggal perjalanan",
+            "tr": "seyahat tarihi",
+            "fr": "la date du voyage"
+          },
+          "audio": {
+            "path": "audio/travel/travel-02-travel-date.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-03-review-2",
+          "type": "phrase",
+          "arabic": "رِحْلَةٌ مُبَاشِرَةٌ",
+          "transliteration": "riḥlatun mubāshiratun",
+          "audioText": "رِحْلَةٌ مُبَاشِرَةٌ",
+          "meaning": {
+            "en": "a direct flight",
+            "ur": "ایک براہ راست پرواز",
+            "id": "penerbangan langsung",
+            "tr": "direkt uçuş",
+            "fr": "un vol direct"
+          },
+          "audio": {
+            "path": "audio/travel/travel-02-direct-flight.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-03-review-3",
+          "type": "phrase",
+          "arabic": "تَذْكِرَةُ الذَّهَابِ وَالْعَوْدَةِ",
+          "transliteration": "tadhkiratu dh-dhahābi wa-l-ʿawdati",
+          "audioText": "تَذْكِرَةُ الذَّهَابِ وَالْعَوْدَةِ",
+          "meaning": {
+            "en": "a return ticket",
+            "ur": "واپسی کا ٹکٹ",
+            "id": "tiket pulang pergi",
+            "tr": "dönüş bileti",
+            "fr": "un billet aller-retour"
+          },
+          "audio": {
+            "path": "audio/travel/travel-02-return-ticket.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-03-review-4",
+          "type": "sentence",
+          "arabic": "أُسَافِرُ فِي الشَّهْرِ الْقَادِمِ",
+          "transliteration": "usāfiru fī sh-shahri l-qādimi",
+          "audioText": "أُسَافِرُ فِي الشَّهْرِ الْقَادِمِ",
+          "meaning": {
+            "en": "I am traveling next month.",
+            "ur": "میں اگلے مہینے سفر کر رہا ہوں۔",
+            "id": "Saya akan bepergian bulan depan.",
+            "tr": "Gelecek ay seyahat ediyorum.",
+            "fr": "Je voyage le mois prochain."
+          },
+          "audio": {
+            "path": "audio/travel/travel-02-travel-next-month.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-03-review-5",
+          "type": "request",
+          "arabic": "أَرْجُو أَنْ تَتَأَكَّدَ مِنْ وَقْتِ الْمُغَادَرَةِ",
+          "transliteration": "arjū an tataʾakkada min waqti l-mughādarati",
+          "audioText": "أَرْجُو أَنْ تَتَأَكَّدَ مِنْ وَقْتِ الْمُغَادَرَةِ",
+          "meaning": {
+            "en": "Please check the departure time. (to a man)",
+            "ur": "براہ کرم روانگی کا وقت چیک کریں۔ (ایک آدمی کو)",
+            "id": "Silakan periksa waktu keberangkatan. (kepada seorang pria)",
+            "tr": "Lütfen kalkış saatini kontrol edin. (bir erkeğe)",
+            "fr": "Veuillez vérifier l'heure de départ. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/travel/travel-02-check-departure-time.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-03-departure-gate",
+          "type": "phrase",
+          "arabic": "بَوَّابَةُ الْمُغَادَرَةِ",
+          "transliteration": "bawwābatu l-mughādarati",
+          "audioText": "بَوَّابَةُ الْمُغَادَرَةِ",
+          "meaning": {
+            "en": "the departure gate",
+            "ur": "روانگی گیٹ",
+            "id": "gerbang keberangkatan",
+            "tr": "kalkış kapısı",
+            "fr": "la porte d'embarquement"
+          },
+          "audio": {
+            "path": "audio/travel/travel-03-departure-gate.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-03-boarding-pass",
+          "type": "phrase",
+          "arabic": "بِطَاقَةُ صُعُودِ الطَّائِرَةِ",
+          "transliteration": "biṭāqatu ṣuʿūdi ṭ-ṭāʾirati",
+          "audioText": "بِطَاقَةُ صُعُودِ الطَّائِرَةِ",
+          "meaning": {
+            "en": "a boarding pass",
+            "ur": "ایک بورڈنگ پاس",
+            "id": "tiket masuk",
+            "tr": "biniş kartı",
+            "fr": "une carte d'embarquement"
+          },
+          "audio": {
+            "path": "audio/travel/travel-03-boarding-pass.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-03-flight-delayed",
+          "type": "sentence",
+          "arabic": "تَأَخَّرَتِ الرِّحْلَةُ نِصْفَ سَاعَةٍ",
+          "transliteration": "taʾakhkharati r-riḥlatu niṣfa sāʿatin",
+          "audioText": "تَأَخَّرَتِ الرِّحْلَةُ نِصْفَ سَاعَةٍ",
+          "meaning": {
+            "en": "The flight is delayed by half an hour.",
+            "ur": "پرواز آدھا گھنٹہ تاخیر کا شکار ہے۔",
+            "id": "Penerbangannya tertunda setengah jam.",
+            "tr": "Uçuş yarım saat rötarlı.",
+            "fr": "Le vol est retardé d'une demi-heure."
+          },
+          "audio": {
+            "path": "audio/travel/travel-03-flight-delayed.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-03-where-check-in",
+          "type": "question",
+          "arabic": "أَيْنَ أُسَجِّلُ حَقِيبَتِي؟",
+          "transliteration": "ayna usajjilu ḥaqībatī?",
+          "audioText": "أَيْنَ أُسَجِّلُ حَقِيبَتِي؟",
+          "meaning": {
+            "en": "Where do I check in my bag?",
+            "ur": "میں اپنے بیگ میں کہاں چیک کروں؟",
+            "id": "Di mana saya bisa check-in tas saya?",
+            "tr": "Çantamı nerede kontrol edeceğim?",
+            "fr": "Où puis-je enregistrer mon sac ?"
+          },
+          "audio": {
+            "path": "audio/travel/travel-03-where-check-in.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-03-window-seat",
+          "type": "request",
+          "arabic": "أُفَضِّلُ مَقْعَدًا بِجِوَارِ النَّافِذَةِ",
+          "transliteration": "ufaḍḍilu maqʿadan bijiwāri n-nāfidhati",
+          "audioText": "أُفَضِّلُ مَقْعَدًا بِجِوَارِ النَّافِذَةِ",
+          "meaning": {
+            "en": "I prefer a seat by the window.",
+            "ur": "میں کھڑکی کے پاس بیٹھنے کو ترجیح دیتا ہوں۔",
+            "id": "Saya lebih suka duduk di dekat jendela.",
+            "tr": "Cam kenarı koltuk tercih ederim.",
+            "fr": "Je préfère une place assise près de la fenêtre."
+          },
+          "audio": {
+            "path": "audio/travel/travel-03-window-seat.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "travel-04",
+      "order": 4,
+      "title": {
+        "en": "At the train station",
+        "ur": "ٹرین اسٹیشن پر",
+        "id": "Di stasiun kereta",
+        "tr": "Tren istasyonunda",
+        "fr": "A la gare"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about At the train station.",
+        "ur": "ٹرین اسٹیشن پر مفید عربی الفاظ اور مختصر فقروں کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Di stasiun kereta.",
+        "tr": "Tren istasyonunda ile ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur À la gare."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "travel-04-review-1",
+          "type": "phrase",
+          "arabic": "بَوَّابَةُ الْمُغَادَرَةِ",
+          "transliteration": "bawwābatu l-mughādarati",
+          "audioText": "بَوَّابَةُ الْمُغَادَرَةِ",
+          "meaning": {
+            "en": "the departure gate",
+            "ur": "روانگی گیٹ",
+            "id": "gerbang keberangkatan",
+            "tr": "kalkış kapısı",
+            "fr": "la porte d'embarquement"
+          },
+          "audio": {
+            "path": "audio/travel/travel-03-departure-gate.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-04-review-2",
+          "type": "phrase",
+          "arabic": "بِطَاقَةُ صُعُودِ الطَّائِرَةِ",
+          "transliteration": "biṭāqatu ṣuʿūdi ṭ-ṭāʾirati",
+          "audioText": "بِطَاقَةُ صُعُودِ الطَّائِرَةِ",
+          "meaning": {
+            "en": "a boarding pass",
+            "ur": "ایک بورڈنگ پاس",
+            "id": "tiket masuk",
+            "tr": "biniş kartı",
+            "fr": "une carte d'embarquement"
+          },
+          "audio": {
+            "path": "audio/travel/travel-03-boarding-pass.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-04-review-3",
+          "type": "sentence",
+          "arabic": "تَأَخَّرَتِ الرِّحْلَةُ نِصْفَ سَاعَةٍ",
+          "transliteration": "taʾakhkharati r-riḥlatu niṣfa sāʿatin",
+          "audioText": "تَأَخَّرَتِ الرِّحْلَةُ نِصْفَ سَاعَةٍ",
+          "meaning": {
+            "en": "The flight is delayed by half an hour.",
+            "ur": "پرواز آدھا گھنٹہ تاخیر کا شکار ہے۔",
+            "id": "Penerbangannya tertunda setengah jam.",
+            "tr": "Uçuş yarım saat rötarlı.",
+            "fr": "Le vol est retardé d'une demi-heure."
+          },
+          "audio": {
+            "path": "audio/travel/travel-03-flight-delayed.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-04-review-4",
+          "type": "question",
+          "arabic": "أَيْنَ أُسَجِّلُ حَقِيبَتِي؟",
+          "transliteration": "ayna usajjilu ḥaqībatī?",
+          "audioText": "أَيْنَ أُسَجِّلُ حَقِيبَتِي؟",
+          "meaning": {
+            "en": "Where do I check in my bag?",
+            "ur": "میں اپنے بیگ میں کہاں چیک کروں؟",
+            "id": "Di mana saya bisa check-in tas saya?",
+            "tr": "Çantamı nerede kontrol edeceğim?",
+            "fr": "Où puis-je enregistrer mon sac ?"
+          },
+          "audio": {
+            "path": "audio/travel/travel-03-where-check-in.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-04-review-5",
+          "type": "request",
+          "arabic": "أُفَضِّلُ مَقْعَدًا بِجِوَارِ النَّافِذَةِ",
+          "transliteration": "ufaḍḍilu maqʿadan bijiwāri n-nāfidhati",
+          "audioText": "أُفَضِّلُ مَقْعَدًا بِجِوَارِ النَّافِذَةِ",
+          "meaning": {
+            "en": "I prefer a seat by the window.",
+            "ur": "میں کھڑکی کے پاس بیٹھنے کو ترجیح دیتا ہوں۔",
+            "id": "Saya lebih suka duduk di dekat jendela.",
+            "tr": "Cam kenarı koltuk tercih ederim.",
+            "fr": "Je préfère une place assise près de la fenêtre."
+          },
+          "audio": {
+            "path": "audio/travel/travel-03-window-seat.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-04-which-platform",
+          "type": "question",
+          "arabic": "مِنْ أَيِّ رَصِيفٍ يَنْطَلِقُ الْقِطَارُ؟",
+          "transliteration": "min ayyi raṣīfin yanṭaliqu l-qiṭāru?",
+          "audioText": "مِنْ أَيِّ رَصِيفٍ يَنْطَلِقُ الْقِطَارُ؟",
+          "meaning": {
+            "en": "Which platform does the train leave from?",
+            "ur": "ٹرین کس پلیٹ فارم سے روانہ ہوتی ہے؟",
+            "id": "Dari peron manakah kereta berangkat?",
+            "tr": "Tren hangi perondan kalkıyor?",
+            "fr": "De quel quai part le train ?"
+          },
+          "audio": {
+            "path": "audio/travel/travel-04-which-platform.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-04-train-leaves-at-nine",
+          "type": "sentence",
+          "arabic": "يَنْطَلِقُ الْقِطَارُ فِي السَّاعَةِ التَّاسِعَةِ",
+          "transliteration": "yanṭaliqu l-qiṭāru fī s-sāʿati t-tāsiʿati",
+          "audioText": "يَنْطَلِقُ الْقِطَارُ فِي السَّاعَةِ التَّاسِعَةِ",
+          "meaning": {
+            "en": "The train leaves at nine o'clock.",
+            "ur": "ٹرین نو بجے نکلتی ہے۔",
+            "id": "Kereta berangkat pukul sembilan.",
+            "tr": "Tren saat dokuzda kalkıyor.",
+            "fr": "Le train part à neuf heures."
+          },
+          "audio": {
+            "path": "audio/travel/travel-04-train-leaves-at-nine.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-04-one-way-ticket",
+          "type": "phrase",
+          "arabic": "تَذْكِرَةُ ذَهَابٍ فَقَطْ",
+          "transliteration": "tadhkiratu dhahābin faqaṭ",
+          "audioText": "تَذْكِرَةُ ذَهَابٍ فَقَطْ",
+          "meaning": {
+            "en": "a one-way ticket",
+            "ur": "ایک ایک طرفہ ٹکٹ",
+            "id": "Tiket sekali jalan",
+            "tr": "Gidiş bileti",
+            "fr": "Un billet aller"
+          },
+          "audio": {
+            "path": "audio/travel/travel-04-one-way-ticket.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-04-need-seat-reservation",
+          "type": "sentence",
+          "arabic": "أَحْتَاجُ إِلَى حَجْزِ مَقْعَدٍ",
+          "transliteration": "aḥtāju ilā ḥajzi maqʿadin",
+          "audioText": "أَحْتَاجُ إِلَى حَجْزِ مَقْعَدٍ",
+          "meaning": {
+            "en": "I need a seat reservation.",
+            "ur": "مجھے سیٹ ریزرویشن کی ضرورت ہے۔",
+            "id": "Saya perlu reservasi kursi.",
+            "tr": "Koltuk rezervasyonuna ihtiyacım var.",
+            "fr": "J'ai besoin d'une réservation de place."
+          },
+          "audio": {
+            "path": "audio/travel/travel-04-need-seat-reservation.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-04-train-is-full",
+          "type": "sentence",
+          "arabic": "الْقِطَارُ مُمْتَلِئٌ هَذَا الْمَسَاءَ",
+          "transliteration": "al-qiṭāru mumtaliʾun hādhā l-masāʾa",
+          "audioText": "الْقِطَارُ مُمْتَلِئٌ هَذَا الْمَسَاءَ",
+          "meaning": {
+            "en": "The train is full this evening.",
+            "ur": "ٹرین آج شام بھری ہوئی ہے۔",
+            "id": "Kereta penuh malam ini.",
+            "tr": "Bu akşam tren tamamen dolu.",
+            "fr": "Le train est plein ce soir."
+          },
+          "audio": {
+            "path": "audio/travel/travel-04-train-is-full.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "travel-05",
+      "order": 5,
+      "title": {
+        "en": "Booking accommodation",
+        "ur": "رہائش کی بکنگ",
+        "id": "Pemesanan akomodasi",
+        "tr": "Konaklama rezervasyonu",
+        "fr": "Réservation d'hébergement"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Booking accommodation.",
+        "ur": "بکنگ رہائش کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Pemesanan akomodasi.",
+        "tr": "Konaklama rezervasyonu ile ilgili faydalı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur la réservation d'un hébergement."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "travel-05-review-1",
+          "type": "question",
+          "arabic": "مِنْ أَيِّ رَصِيفٍ يَنْطَلِقُ الْقِطَارُ؟",
+          "transliteration": "min ayyi raṣīfin yanṭaliqu l-qiṭāru?",
+          "audioText": "مِنْ أَيِّ رَصِيفٍ يَنْطَلِقُ الْقِطَارُ؟",
+          "meaning": {
+            "en": "Which platform does the train leave from?",
+            "ur": "ٹرین کس پلیٹ فارم سے روانہ ہوتی ہے؟",
+            "id": "Dari peron manakah kereta berangkat?",
+            "tr": "Tren hangi perondan kalkıyor?",
+            "fr": "De quel quai part le train ?"
+          },
+          "audio": {
+            "path": "audio/travel/travel-04-which-platform.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-05-review-2",
+          "type": "sentence",
+          "arabic": "يَنْطَلِقُ الْقِطَارُ فِي السَّاعَةِ التَّاسِعَةِ",
+          "transliteration": "yanṭaliqu l-qiṭāru fī s-sāʿati t-tāsiʿati",
+          "audioText": "يَنْطَلِقُ الْقِطَارُ فِي السَّاعَةِ التَّاسِعَةِ",
+          "meaning": {
+            "en": "The train leaves at nine o'clock.",
+            "ur": "ٹرین نو بجے نکلتی ہے۔",
+            "id": "Kereta berangkat pukul sembilan.",
+            "tr": "Tren saat dokuzda kalkıyor.",
+            "fr": "Le train part à neuf heures."
+          },
+          "audio": {
+            "path": "audio/travel/travel-04-train-leaves-at-nine.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-05-review-3",
+          "type": "phrase",
+          "arabic": "تَذْكِرَةُ ذَهَابٍ فَقَطْ",
+          "transliteration": "tadhkiratu dhahābin faqaṭ",
+          "audioText": "تَذْكِرَةُ ذَهَابٍ فَقَطْ",
+          "meaning": {
+            "en": "a one-way ticket",
+            "ur": "ایک ایک طرفہ ٹکٹ",
+            "id": "Tiket sekali jalan",
+            "tr": "Gidiş bileti",
+            "fr": "Un billet aller"
+          },
+          "audio": {
+            "path": "audio/travel/travel-04-one-way-ticket.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-05-review-4",
+          "type": "sentence",
+          "arabic": "أَحْتَاجُ إِلَى حَجْزِ مَقْعَدٍ",
+          "transliteration": "aḥtāju ilā ḥajzi maqʿadin",
+          "audioText": "أَحْتَاجُ إِلَى حَجْزِ مَقْعَدٍ",
+          "meaning": {
+            "en": "I need a seat reservation.",
+            "ur": "مجھے سیٹ ریزرویشن کی ضرورت ہے۔",
+            "id": "Saya perlu reservasi kursi.",
+            "tr": "Koltuk rezervasyonuna ihtiyacım var.",
+            "fr": "J'ai besoin d'une réservation de place."
+          },
+          "audio": {
+            "path": "audio/travel/travel-04-need-seat-reservation.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-05-review-5",
+          "type": "sentence",
+          "arabic": "الْقِطَارُ مُمْتَلِئٌ هَذَا الْمَسَاءَ",
+          "transliteration": "al-qiṭāru mumtaliʾun hādhā l-masāʾa",
+          "audioText": "الْقِطَارُ مُمْتَلِئٌ هَذَا الْمَسَاءَ",
+          "meaning": {
+            "en": "The train is full this evening.",
+            "ur": "ٹرین آج شام بھری ہوئی ہے۔",
+            "id": "Kereta penuh malam ini.",
+            "tr": "Bu akşam tren tamamen dolu.",
+            "fr": "Le train est plein ce soir."
+          },
+          "audio": {
+            "path": "audio/travel/travel-04-train-is-full.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-05-hotel-room",
+          "type": "phrase",
+          "arabic": "غُرْفَةٌ فِي فُنْدُقٍ",
+          "transliteration": "ghurfatun fī funduqin",
+          "audioText": "غُرْفَةٌ فِي فُنْدُقٍ",
+          "meaning": {
+            "en": "a hotel room",
+            "ur": "ایک ہوٹل کا کمرہ",
+            "id": "sebuah kamar hotel",
+            "tr": "bir otel odası",
+            "fr": "une chambre d'hôtel"
+          },
+          "audio": {
+            "path": "audio/travel/travel-05-hotel-room.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-05-book-two-nights",
+          "type": "request",
+          "arabic": "أُرِيدُ حَجْزَ غُرْفَةٍ لِلَيْلَتَيْنِ",
+          "transliteration": "urīdu ḥajza ghurfatin li-laylatayni",
+          "audioText": "أُرِيدُ حَجْزَ غُرْفَةٍ لِلَيْلَتَيْنِ",
+          "meaning": {
+            "en": "I would like to book a room for two nights.",
+            "ur": "میں دو راتوں کے لیے ایک کمرہ بک کروانا چاہتا ہوں۔",
+            "id": "Saya ingin memesan kamar untuk dua malam.",
+            "tr": "İki gecelik bir oda ayırtmak istiyorum.",
+            "fr": "Je voudrais réserver une chambre pour deux nuits."
+          },
+          "audio": {
+            "path": "audio/travel/travel-05-book-two-nights.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-05-room-with-breakfast",
+          "type": "phrase",
+          "arabic": "غُرْفَةٌ مَعَ وَجْبَةِ الْفَطُورِ",
+          "transliteration": "ghurfatun maʿa wajbati l-faṭūri",
+          "audioText": "غُرْفَةٌ مَعَ وَجْبَةِ الْفَطُورِ",
+          "meaning": {
+            "en": "a room with breakfast",
+            "ur": "ناشتے کے ساتھ ایک کمرہ",
+            "id": "kamar dengan sarapan",
+            "tr": "kahvaltılı bir oda",
+            "fr": "une chambre avec petit déjeuner"
+          },
+          "audio": {
+            "path": "audio/travel/travel-05-room-with-breakfast.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-05-reservation-name",
+          "type": "question",
+          "arabic": "بِأَيِّ اسْمٍ سُجِّلَ الْحَجْزُ؟",
+          "transliteration": "bi-ayyi ismin sujjila l-ḥajzu?",
+          "audioText": "بِأَيِّ اسْمٍ سُجِّلَ الْحَجْزُ؟",
+          "meaning": {
+            "en": "Under what name was the reservation made?",
+            "ur": "بکنگ کس نام سے کی گئی؟",
+            "id": "Atas nama apa reservasi tersebut dibuat?",
+            "tr": "Rezervasyon hangi isim altında yapıldı?",
+            "fr": "Sous quel nom la réservation a-t-elle été effectuée ?"
+          },
+          "audio": {
+            "path": "audio/travel/travel-05-reservation-name.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-05-confirm-reservation",
+          "type": "sentence",
+          "arabic": "هَذَا رَقْمُ تَأْكِيدِ حَجْزِي",
+          "transliteration": "hādhā raqmu taʾkīdi ḥajzī",
+          "audioText": "هَذَا رَقْمُ تَأْكِيدِ حَجْزِي",
+          "meaning": {
+            "en": "This is my reservation confirmation number.",
+            "ur": "یہ میرا ریزرویشن کنفرمیشن نمبر ہے۔",
+            "id": "Ini adalah nomor konfirmasi reservasi saya.",
+            "tr": "Bu benim rezervasyon onay numaram.",
+            "fr": "Ceci est mon numéro de confirmation de réservation."
+          },
+          "audio": {
+            "path": "audio/travel/travel-05-confirm-reservation.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "travel-06",
+      "order": 6,
+      "title": {
+        "en": "Checking in",
+        "ur": "چیک ان کر رہا ہے۔",
+        "id": "Memeriksa",
+        "tr": "Giriş yapılıyor",
+        "fr": "Enregistrement"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Checking in.",
+        "ur": "چیک ان کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Check-in.",
+        "tr": "Check-in ile ilgili faydalı Arapça kelimelerin ve kısa ifadelerin alıştırmasını yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur l'enregistrement."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "travel-06-review-1",
+          "type": "phrase",
+          "arabic": "غُرْفَةٌ فِي فُنْدُقٍ",
+          "transliteration": "ghurfatun fī funduqin",
+          "audioText": "غُرْفَةٌ فِي فُنْدُقٍ",
+          "meaning": {
+            "en": "a hotel room",
+            "ur": "ایک ہوٹل کا کمرہ",
+            "id": "sebuah kamar hotel",
+            "tr": "bir otel odası",
+            "fr": "une chambre d'hôtel"
+          },
+          "audio": {
+            "path": "audio/travel/travel-05-hotel-room.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-06-review-2",
+          "type": "request",
+          "arabic": "أُرِيدُ حَجْزَ غُرْفَةٍ لِلَيْلَتَيْنِ",
+          "transliteration": "urīdu ḥajza ghurfatin li-laylatayni",
+          "audioText": "أُرِيدُ حَجْزَ غُرْفَةٍ لِلَيْلَتَيْنِ",
+          "meaning": {
+            "en": "I would like to book a room for two nights.",
+            "ur": "میں دو راتوں کے لیے ایک کمرہ بک کروانا چاہتا ہوں۔",
+            "id": "Saya ingin memesan kamar untuk dua malam.",
+            "tr": "İki gecelik bir oda ayırtmak istiyorum.",
+            "fr": "Je voudrais réserver une chambre pour deux nuits."
+          },
+          "audio": {
+            "path": "audio/travel/travel-05-book-two-nights.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-06-review-3",
+          "type": "phrase",
+          "arabic": "غُرْفَةٌ مَعَ وَجْبَةِ الْفَطُورِ",
+          "transliteration": "ghurfatun maʿa wajbati l-faṭūri",
+          "audioText": "غُرْفَةٌ مَعَ وَجْبَةِ الْفَطُورِ",
+          "meaning": {
+            "en": "a room with breakfast",
+            "ur": "ناشتے کے ساتھ ایک کمرہ",
+            "id": "kamar dengan sarapan",
+            "tr": "kahvaltılı bir oda",
+            "fr": "une chambre avec petit déjeuner"
+          },
+          "audio": {
+            "path": "audio/travel/travel-05-room-with-breakfast.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-06-review-4",
+          "type": "question",
+          "arabic": "بِأَيِّ اسْمٍ سُجِّلَ الْحَجْزُ؟",
+          "transliteration": "bi-ayyi ismin sujjila l-ḥajzu?",
+          "audioText": "بِأَيِّ اسْمٍ سُجِّلَ الْحَجْزُ؟",
+          "meaning": {
+            "en": "Under what name was the reservation made?",
+            "ur": "بکنگ کس نام سے کی گئی؟",
+            "id": "Atas nama apa reservasi tersebut dibuat?",
+            "tr": "Rezervasyon hangi isim altında yapıldı?",
+            "fr": "Sous quel nom la réservation a-t-elle été effectuée ?"
+          },
+          "audio": {
+            "path": "audio/travel/travel-05-reservation-name.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-06-review-5",
+          "type": "sentence",
+          "arabic": "هَذَا رَقْمُ تَأْكِيدِ حَجْزِي",
+          "transliteration": "hādhā raqmu taʾkīdi ḥajzī",
+          "audioText": "هَذَا رَقْمُ تَأْكِيدِ حَجْزِي",
+          "meaning": {
+            "en": "This is my reservation confirmation number.",
+            "ur": "یہ میرا ریزرویشن کنفرمیشن نمبر ہے۔",
+            "id": "Ini adalah nomor konfirmasi reservasi saya.",
+            "tr": "Bu benim rezervasyon onay numaram.",
+            "fr": "Ceci est mon numéro de confirmation de réservation."
+          },
+          "audio": {
+            "path": "audio/travel/travel-05-confirm-reservation.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-06-passport-please",
+          "type": "request",
+          "arabic": "هَلْ أَرَى جَوَازَ سَفَرِكَ؟",
+          "transliteration": "hal arā jawāza safarika?",
+          "audioText": "هَلْ أَرَى جَوَازَ سَفَرِكَ؟",
+          "meaning": {
+            "en": "May I see your passport? (to a man)",
+            "ur": "کیا میں آپ کا پاسپورٹ دیکھ سکتا ہوں؟ (ایک آدمی کو)",
+            "id": "Bolehkah saya melihat paspor Anda? (kepada seorang pria)",
+            "tr": "Pasaportunuzu görebilir miyim? (bir erkeğe)",
+            "fr": "Puis-je voir votre passeport ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/travel/travel-06-passport-please.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-06-reservation-for-two",
+          "type": "sentence",
+          "arabic": "لَدَيَّ حَجْزٌ لِشَخْصَيْنِ",
+          "transliteration": "ladayya ḥajzun li-shakhṣayni",
+          "audioText": "لَدَيَّ حَجْزٌ لِشَخْصَيْنِ",
+          "meaning": {
+            "en": "I have a reservation for two people.",
+            "ur": "میرے پاس دو لوگوں کے لیے ریزرویشن ہے۔",
+            "id": "Saya punya reservasi untuk dua orang.",
+            "tr": "İki kişilik rezervasyonum var.",
+            "fr": "J'ai une réservation pour deux personnes."
+          },
+          "audio": {
+            "path": "audio/travel/travel-06-reservation-for-two.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-06-check-in-time",
+          "type": "question",
+          "arabic": "مَتَى يَبْدَأُ تَسْجِيلُ الدُّخُولِ؟",
+          "transliteration": "matā yabdaʾu tasjīlu d-dukhūli?",
+          "audioText": "مَتَى يَبْدَأُ تَسْجِيلُ الدُّخُولِ؟",
+          "meaning": {
+            "en": "When does check-in begin?",
+            "ur": "چیک ان کب شروع ہوتا ہے؟",
+            "id": "Kapan check-in dimulai?",
+            "tr": "Giriş ne zaman başlıyor?",
+            "fr": "Quand commence l’enregistrement ?"
+          },
+          "audio": {
+            "path": "audio/travel/travel-06-check-in-time.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-06-room-on-third-floor",
+          "type": "sentence",
+          "arabic": "غُرْفَتُكَ فِي الطَّابِقِ الثَّالِثِ",
+          "transliteration": "ghurfatuka fī ṭ-ṭābiqi th-thālithi",
+          "audioText": "غُرْفَتُكَ فِي الطَّابِقِ الثَّالِثِ",
+          "meaning": {
+            "en": "Your room is on the third floor. (to a man)",
+            "ur": "آپ کا کمرہ تیسری منزل پر ہے۔ (ایک آدمی کو)",
+            "id": "Kamarmu ada di lantai tiga. (kepada seorang pria)",
+            "tr": "Odanız üçüncü katta. (bir erkeğe)",
+            "fr": "Votre chambre est au troisième étage. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/travel/travel-06-room-on-third-floor.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-06-ask-for-key",
+          "type": "request",
+          "arabic": "هَلْ تُعْطِينِي مِفْتَاحَ الْغُرْفَةِ؟",
+          "transliteration": "hal tuʿṭīnī miftāḥa l-ghurfati?",
+          "audioText": "هَلْ تُعْطِينِي مِفْتَاحَ الْغُرْفَةِ؟",
+          "meaning": {
+            "en": "Could you give me the room key? (to a man)",
+            "ur": "کیا آپ مجھے کمرے کی چابی دے سکتے ہیں؟ (ایک آدمی کو)",
+            "id": "Bisakah Anda memberi saya kunci kamar? (kepada seorang pria)",
+            "tr": "Odanın anahtarını bana verebilir misin? (bir erkeğe)",
+            "fr": "Pourriez-vous me donner la clé de la chambre ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/travel/travel-06-ask-for-key.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "travel-07",
+      "order": 7,
+      "title": {
+        "en": "Getting around while traveling",
+        "ur": "سفر کے دوران گھومنا پھرنا",
+        "id": "Bepergian saat bepergian",
+        "tr": "Seyahat ederken etrafta dolaşmak",
+        "fr": "Se déplacer en voyage"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Getting around while traveling.",
+        "ur": "سفر کے دوران گھومنے پھرنے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Berkeliling saat bepergian.",
+        "tr": "Seyahat ederken gezinmeyle ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les déplacements en voyage."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "travel-07-review-1",
+          "type": "request",
+          "arabic": "هَلْ أَرَى جَوَازَ سَفَرِكَ؟",
+          "transliteration": "hal arā jawāza safarika?",
+          "audioText": "هَلْ أَرَى جَوَازَ سَفَرِكَ؟",
+          "meaning": {
+            "en": "May I see your passport? (to a man)",
+            "ur": "کیا میں آپ کا پاسپورٹ دیکھ سکتا ہوں؟ (ایک آدمی کو)",
+            "id": "Bolehkah saya melihat paspor Anda? (kepada seorang pria)",
+            "tr": "Pasaportunuzu görebilir miyim? (bir erkeğe)",
+            "fr": "Puis-je voir votre passeport ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/travel/travel-06-passport-please.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-07-review-2",
+          "type": "sentence",
+          "arabic": "لَدَيَّ حَجْزٌ لِشَخْصَيْنِ",
+          "transliteration": "ladayya ḥajzun li-shakhṣayni",
+          "audioText": "لَدَيَّ حَجْزٌ لِشَخْصَيْنِ",
+          "meaning": {
+            "en": "I have a reservation for two people.",
+            "ur": "میرے پاس دو لوگوں کے لیے ریزرویشن ہے۔",
+            "id": "Saya punya reservasi untuk dua orang.",
+            "tr": "İki kişilik rezervasyonum var.",
+            "fr": "J'ai une réservation pour deux personnes."
+          },
+          "audio": {
+            "path": "audio/travel/travel-06-reservation-for-two.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-07-review-3",
+          "type": "question",
+          "arabic": "مَتَى يَبْدَأُ تَسْجِيلُ الدُّخُولِ؟",
+          "transliteration": "matā yabdaʾu tasjīlu d-dukhūli?",
+          "audioText": "مَتَى يَبْدَأُ تَسْجِيلُ الدُّخُولِ؟",
+          "meaning": {
+            "en": "When does check-in begin?",
+            "ur": "چیک ان کب شروع ہوتا ہے؟",
+            "id": "Kapan check-in dimulai?",
+            "tr": "Giriş ne zaman başlıyor?",
+            "fr": "Quand commence l’enregistrement ?"
+          },
+          "audio": {
+            "path": "audio/travel/travel-06-check-in-time.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-07-review-4",
+          "type": "sentence",
+          "arabic": "غُرْفَتُكَ فِي الطَّابِقِ الثَّالِثِ",
+          "transliteration": "ghurfatuka fī ṭ-ṭābiqi th-thālithi",
+          "audioText": "غُرْفَتُكَ فِي الطَّابِقِ الثَّالِثِ",
+          "meaning": {
+            "en": "Your room is on the third floor. (to a man)",
+            "ur": "آپ کا کمرہ تیسری منزل پر ہے۔ (ایک آدمی کو)",
+            "id": "Kamarmu ada di lantai tiga. (kepada seorang pria)",
+            "tr": "Odanız üçüncü katta. (bir erkeğe)",
+            "fr": "Votre chambre est au troisième étage. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/travel/travel-06-room-on-third-floor.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-07-review-5",
+          "type": "request",
+          "arabic": "هَلْ تُعْطِينِي مِفْتَاحَ الْغُرْفَةِ؟",
+          "transliteration": "hal tuʿṭīnī miftāḥa l-ghurfati?",
+          "audioText": "هَلْ تُعْطِينِي مِفْتَاحَ الْغُرْفَةِ؟",
+          "meaning": {
+            "en": "Could you give me the room key? (to a man)",
+            "ur": "کیا آپ مجھے کمرے کی چابی دے سکتے ہیں؟ (ایک آدمی کو)",
+            "id": "Bisakah Anda memberi saya kunci kamar? (kepada seorang pria)",
+            "tr": "Odanın anahtarını bana verebilir misin? (bir erkeğe)",
+            "fr": "Pourriez-vous me donner la clé de la chambre ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/travel/travel-06-ask-for-key.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-07-taxi-to-hotel",
+          "type": "request",
+          "arabic": "أَوْصِلْنِي إِلَى هَذَا الْفُنْدُقِ، مِنْ فَضْلِكَ",
+          "transliteration": "awṣilnī ilā hādhā l-funduqi, min faḍlika",
+          "audioText": "أَوْصِلْنِي إِلَى هَذَا الْفُنْدُقِ، مِنْ فَضْلِكَ",
+          "meaning": {
+            "en": "Take me to this hotel, please. (to a man)",
+            "ur": "پلیز مجھے اس ہوٹل میں لے چلو۔ (ایک آدمی کو)",
+            "id": "Tolong antarkan saya ke hotel ini. (kepada seorang pria)",
+            "tr": "Beni bu otele götür lütfen. (bir erkeğe)",
+            "fr": "Emmenez-moi à cet hôtel, s'il vous plaît. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/travel/travel-07-taxi-to-hotel.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-07-stop-near-entrance",
+          "type": "request",
+          "arabic": "تَوَقَّفْ قُرْبَ الْمَدْخَلِ، مِنْ فَضْلِكَ",
+          "transliteration": "tawaqqaf qurba l-madkhali, min faḍlika",
+          "audioText": "تَوَقَّفْ قُرْبَ الْمَدْخَلِ، مِنْ فَضْلِكَ",
+          "meaning": {
+            "en": "Stop near the entrance, please. (to a man)",
+            "ur": "براہ کرم داخلی دروازے کے قریب رکیں۔ (ایک آدمی کو)",
+            "id": "Tolong berhenti di dekat pintu masuk. (kepada seorang pria)",
+            "tr": "Girişin yakınında durun lütfen. (bir erkeğe)",
+            "fr": "Arrêtez-vous près de l’entrée, s’il vous plaît. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/travel/travel-07-stop-near-entrance.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-07-how-long-journey",
+          "type": "question",
+          "arabic": "كَمْ تَسْتَغْرِقُ الرِّحْلَةُ؟",
+          "transliteration": "kam tastaghriqu r-riḥlatu?",
+          "audioText": "كَمْ تَسْتَغْرِقُ الرِّحْلَةُ؟",
+          "meaning": {
+            "en": "How long does the journey take?",
+            "ur": "سفر میں کتنا وقت لگتا ہے؟",
+            "id": "Berapa lama perjalanannya?",
+            "tr": "Yolculuk ne kadar sürüyor?",
+            "fr": "Combien de temps dure le voyage ?"
+          },
+          "audio": {
+            "path": "audio/travel/travel-07-how-long-journey.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-07-traffic-heavy",
+          "type": "sentence",
+          "arabic": "حَرَكَةُ الْمُرُورِ كَثِيفَةٌ صَبَاحًا",
+          "transliteration": "ḥarakatu l-murūri kathīfatun ṣabāḥan",
+          "audioText": "حَرَكَةُ الْمُرُورِ كَثِيفَةٌ صَبَاحًا",
+          "meaning": {
+            "en": "Traffic is heavy in the morning.",
+            "ur": "صبح کے وقت ٹریفک بہت زیادہ ہے۔",
+            "id": "Lalu lintas padat di pagi hari.",
+            "tr": "Sabah saatlerinde trafik yoğun.",
+            "fr": "La circulation est dense le matin."
+          },
+          "audio": {
+            "path": "audio/travel/travel-07-traffic-heavy.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-07-pay-fare",
+          "type": "request",
+          "arabic": "كَمْ أُجْرَةُ السَّيَّارَةِ؟",
+          "transliteration": "kam ujratu s-sayyārati?",
+          "audioText": "كَمْ أُجْرَةُ السَّيَّارَةِ؟",
+          "meaning": {
+            "en": "How much is the taxi fare?",
+            "ur": "ٹیکسی کا کرایہ کتنا ہے؟",
+            "id": "Berapa tarif taksinya?",
+            "tr": "Taksi ücreti ne kadar?",
+            "fr": "Combien coûte le taxi ?"
+          },
+          "audio": {
+            "path": "audio/travel/travel-07-pay-fare.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "travel-08",
+      "order": 8,
+      "title": {
+        "en": "Travel plans change",
+        "ur": "سفر کے منصوبے بدل جاتے ہیں۔",
+        "id": "Rencana perjalanan berubah",
+        "tr": "Seyahat planları değişiyor",
+        "fr": "Les projets de voyage changent"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Travel plans change.",
+        "ur": "سفری منصوبوں کی تبدیلی کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang perubahan rencana Perjalanan.",
+        "tr": "Seyahat planları değişikliğiyle ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les changements de projets de voyage."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "travel-08-review-1",
+          "type": "request",
+          "arabic": "أَوْصِلْنِي إِلَى هَذَا الْفُنْدُقِ، مِنْ فَضْلِكَ",
+          "transliteration": "awṣilnī ilā hādhā l-funduqi, min faḍlika",
+          "audioText": "أَوْصِلْنِي إِلَى هَذَا الْفُنْدُقِ، مِنْ فَضْلِكَ",
+          "meaning": {
+            "en": "Take me to this hotel, please. (to a man)",
+            "ur": "پلیز مجھے اس ہوٹل میں لے چلو۔ (ایک آدمی کو)",
+            "id": "Tolong antarkan saya ke hotel ini. (kepada seorang pria)",
+            "tr": "Beni bu otele götür lütfen. (bir erkeğe)",
+            "fr": "Emmenez-moi à cet hôtel, s'il vous plaît. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/travel/travel-07-taxi-to-hotel.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-08-review-2",
+          "type": "request",
+          "arabic": "تَوَقَّفْ قُرْبَ الْمَدْخَلِ، مِنْ فَضْلِكَ",
+          "transliteration": "tawaqqaf qurba l-madkhali, min faḍlika",
+          "audioText": "تَوَقَّفْ قُرْبَ الْمَدْخَلِ، مِنْ فَضْلِكَ",
+          "meaning": {
+            "en": "Stop near the entrance, please. (to a man)",
+            "ur": "براہ کرم داخلی دروازے کے قریب رکیں۔ (ایک آدمی کو)",
+            "id": "Tolong berhenti di dekat pintu masuk. (kepada seorang pria)",
+            "tr": "Girişin yakınında durun lütfen. (bir erkeğe)",
+            "fr": "Arrêtez-vous près de l’entrée, s’il vous plaît. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/travel/travel-07-stop-near-entrance.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-08-review-3",
+          "type": "question",
+          "arabic": "كَمْ تَسْتَغْرِقُ الرِّحْلَةُ؟",
+          "transliteration": "kam tastaghriqu r-riḥlatu?",
+          "audioText": "كَمْ تَسْتَغْرِقُ الرِّحْلَةُ؟",
+          "meaning": {
+            "en": "How long does the journey take?",
+            "ur": "سفر میں کتنا وقت لگتا ہے؟",
+            "id": "Berapa lama perjalanannya?",
+            "tr": "Yolculuk ne kadar sürüyor?",
+            "fr": "Combien de temps dure le voyage ?"
+          },
+          "audio": {
+            "path": "audio/travel/travel-07-how-long-journey.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-08-review-4",
+          "type": "sentence",
+          "arabic": "حَرَكَةُ الْمُرُورِ كَثِيفَةٌ صَبَاحًا",
+          "transliteration": "ḥarakatu l-murūri kathīfatun ṣabāḥan",
+          "audioText": "حَرَكَةُ الْمُرُورِ كَثِيفَةٌ صَبَاحًا",
+          "meaning": {
+            "en": "Traffic is heavy in the morning.",
+            "ur": "صبح کے وقت ٹریفک بہت زیادہ ہے۔",
+            "id": "Lalu lintas padat di pagi hari.",
+            "tr": "Sabah saatlerinde trafik yoğun.",
+            "fr": "La circulation est dense le matin."
+          },
+          "audio": {
+            "path": "audio/travel/travel-07-traffic-heavy.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-08-review-5",
+          "type": "request",
+          "arabic": "كَمْ أُجْرَةُ السَّيَّارَةِ؟",
+          "transliteration": "kam ujratu s-sayyārati?",
+          "audioText": "كَمْ أُجْرَةُ السَّيَّارَةِ؟",
+          "meaning": {
+            "en": "How much is the taxi fare?",
+            "ur": "ٹیکسی کا کرایہ کتنا ہے؟",
+            "id": "Berapa tarif taksinya?",
+            "tr": "Taksi ücreti ne kadar?",
+            "fr": "Combien coûte le taxi ?"
+          },
+          "audio": {
+            "path": "audio/travel/travel-07-pay-fare.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-08-missed-connection",
+          "type": "sentence",
+          "arabic": "فَاتَتْنِي الرِّحْلَةُ الْوَاصِلَةُ",
+          "transliteration": "fātatnī r-riḥlatu l-wāṣilatu",
+          "audioText": "فَاتَتْنِي الرِّحْلَةُ الْوَاصِلَةُ",
+          "meaning": {
+            "en": "I missed my connecting flight.",
+            "ur": "میری کنیکٹنگ فلائٹ چھوٹ گئی۔",
+            "id": "Saya ketinggalan penerbangan lanjutan.",
+            "tr": "Bağlantılı uçuşumu kaçırdım.",
+            "fr": "J'ai raté mon vol de correspondance."
+          },
+          "audio": {
+            "path": "audio/travel/travel-08-missed-connection.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-08-change-booking",
+          "type": "request",
+          "arabic": "هَلْ يُمْكِنُ تَغْيِيرُ مَوْعِدِ الْحَجْزِ؟",
+          "transliteration": "hal yumkinu taghyīru mawʿidi l-ḥajzi?",
+          "audioText": "هَلْ يُمْكِنُ تَغْيِيرُ مَوْعِدِ الْحَجْزِ؟",
+          "meaning": {
+            "en": "Can the reservation time be changed?",
+            "ur": "کیا بکنگ کا وقت تبدیل کیا جا سکتا ہے؟",
+            "id": "Bisakah waktu reservasi diubah?",
+            "tr": "Rezervasyon saati değiştirilebilir mi?",
+            "fr": "L'heure de réservation peut-elle être modifiée ?"
+          },
+          "audio": {
+            "path": "audio/travel/travel-08-change-booking.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-08-luggage-not-arrived",
+          "type": "sentence",
+          "arabic": "لَمْ تَصِلْ حَقِيبَتِي بَعْدُ",
+          "transliteration": "lam taṣil ḥaqībatī baʿdu",
+          "audioText": "لَمْ تَصِلْ حَقِيبَتِي بَعْدُ",
+          "meaning": {
+            "en": "My suitcase has not arrived yet.",
+            "ur": "میرا سوٹ کیس ابھی تک نہیں آیا۔",
+            "id": "Koper saya belum sampai.",
+            "tr": "Bavulum henüz gelmedi.",
+            "fr": "Ma valise n'est pas encore arrivée."
+          },
+          "audio": {
+            "path": "audio/travel/travel-08-luggage-not-arrived.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-08-need-information-desk",
+          "type": "sentence",
+          "arabic": "أَحْتَاجُ إِلَى مُسَاعَدَةِ مَكْتَبِ الِاسْتِعْلَامَاتِ",
+          "transliteration": "aḥtāju ilā musāʿadati maktabi l-istilʿāmāti",
+          "audioText": "أَحْتَاجُ إِلَى مُسَاعَدَةِ مَكْتَبِ الِاسْتِعْلَامَاتِ",
+          "meaning": {
+            "en": "I need help from the information desk.",
+            "ur": "مجھے انفارمیشن ڈیسک سے مدد درکار ہے۔",
+            "id": "Saya butuh bantuan dari meja informasi.",
+            "tr": "Bilgi masasının yardımına ihtiyacım var.",
+            "fr": "J'ai besoin d'aide du bureau d'information."
+          },
+          "audio": {
+            "path": "audio/travel/travel-08-need-information-desk.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-08-keep-ticket",
+          "type": "request",
+          "arabic": "اِحْتَفِظْ بِالتَّذْكِرَةِ حَتَّى نَصِلَ",
+          "transliteration": "iḥtafiẓ bi-t-tadhkirati ḥattā naṣila",
+          "audioText": "اِحْتَفِظْ بِالتَّذْكِرَةِ حَتَّى نَصِلَ",
+          "meaning": {
+            "en": "Keep the ticket until we arrive. (to a man)",
+            "ur": "ہمارے آنے تک ٹکٹ رکھیں۔ (ایک آدمی کو)",
+            "id": "Simpan tiketnya sampai kita tiba. (kepada seorang pria)",
+            "tr": "Biz gelene kadar bileti saklayın. (bir erkeğe)",
+            "fr": "Conservez le billet jusqu'à notre arrivée. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/travel/travel-08-keep-ticket.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "travel-09",
+      "order": 9,
+      "title": {
+        "en": "Travel documents and arrivals",
+        "ur": "سفری دستاویزات اور آمد",
+        "id": "Dokumen perjalanan dan kedatangan",
+        "tr": "Seyahat belgeleri ve varışlar",
+        "fr": "Documents de voyage et arrivées"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Travel documents and arrivals.",
+        "ur": "سفری دستاویزات اور آمد کے بارے میں مفید عربی الفاظ اور مختصر فقروں کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang dokumen perjalanan dan kedatangan.",
+        "tr": "Seyahat belgeleri ve varışlar hakkında yararlı Arapça kelimeler ve kısa ifadeler uygulayın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les documents de voyage et les arrivées."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "travel-09-review-1",
+          "type": "sentence",
+          "arabic": "فَاتَتْنِي الرِّحْلَةُ الْوَاصِلَةُ",
+          "transliteration": "fātatnī r-riḥlatu l-wāṣilatu",
+          "audioText": "فَاتَتْنِي الرِّحْلَةُ الْوَاصِلَةُ",
+          "meaning": {
+            "en": "I missed my connecting flight.",
+            "ur": "میری کنیکٹنگ فلائٹ چھوٹ گئی۔",
+            "id": "Saya ketinggalan penerbangan lanjutan.",
+            "tr": "Bağlantılı uçuşumu kaçırdım.",
+            "fr": "J'ai raté mon vol de correspondance."
+          },
+          "audio": {
+            "path": "audio/travel/travel-08-missed-connection.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-09-review-2",
+          "type": "request",
+          "arabic": "هَلْ يُمْكِنُ تَغْيِيرُ مَوْعِدِ الْحَجْزِ؟",
+          "transliteration": "hal yumkinu taghyīru mawʿidi l-ḥajzi?",
+          "audioText": "هَلْ يُمْكِنُ تَغْيِيرُ مَوْعِدِ الْحَجْزِ؟",
+          "meaning": {
+            "en": "Can the reservation time be changed?",
+            "ur": "کیا بکنگ کا وقت تبدیل کیا جا سکتا ہے؟",
+            "id": "Bisakah waktu reservasi diubah?",
+            "tr": "Rezervasyon saati değiştirilebilir mi?",
+            "fr": "L'heure de réservation peut-elle être modifiée ?"
+          },
+          "audio": {
+            "path": "audio/travel/travel-08-change-booking.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-09-review-3",
+          "type": "sentence",
+          "arabic": "لَمْ تَصِلْ حَقِيبَتِي بَعْدُ",
+          "transliteration": "lam taṣil ḥaqībatī baʿdu",
+          "audioText": "لَمْ تَصِلْ حَقِيبَتِي بَعْدُ",
+          "meaning": {
+            "en": "My suitcase has not arrived yet.",
+            "ur": "میرا سوٹ کیس ابھی تک نہیں آیا۔",
+            "id": "Koper saya belum sampai.",
+            "tr": "Bavulum henüz gelmedi.",
+            "fr": "Ma valise n'est pas encore arrivée."
+          },
+          "audio": {
+            "path": "audio/travel/travel-08-luggage-not-arrived.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-09-review-4",
+          "type": "sentence",
+          "arabic": "أَحْتَاجُ إِلَى مُسَاعَدَةِ مَكْتَبِ الِاسْتِعْلَامَاتِ",
+          "transliteration": "aḥtāju ilā musāʿadati maktabi l-istilʿāmāti",
+          "audioText": "أَحْتَاجُ إِلَى مُسَاعَدَةِ مَكْتَبِ الِاسْتِعْلَامَاتِ",
+          "meaning": {
+            "en": "I need help from the information desk.",
+            "ur": "مجھے انفارمیشن ڈیسک سے مدد درکار ہے۔",
+            "id": "Saya butuh bantuan dari meja informasi.",
+            "tr": "Bilgi masasının yardımına ihtiyacım var.",
+            "fr": "J'ai besoin d'aide du bureau d'information."
+          },
+          "audio": {
+            "path": "audio/travel/travel-08-need-information-desk.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-09-review-5",
+          "type": "request",
+          "arabic": "اِحْتَفِظْ بِالتَّذْكِرَةِ حَتَّى نَصِلَ",
+          "transliteration": "iḥtafiẓ bi-t-tadhkirati ḥattā naṣila",
+          "audioText": "اِحْتَفِظْ بِالتَّذْكِرَةِ حَتَّى نَصِلَ",
+          "meaning": {
+            "en": "Keep the ticket until we arrive. (to a man)",
+            "ur": "ہمارے آنے تک ٹکٹ رکھیں۔ (ایک آدمی کو)",
+            "id": "Simpan tiketnya sampai kita tiba. (kepada seorang pria)",
+            "tr": "Biz gelene kadar bileti saklayın. (bir erkeğe)",
+            "fr": "Conservez le billet jusqu'à notre arrivée. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/travel/travel-08-keep-ticket.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-09-visa",
+          "type": "word",
+          "arabic": "تَأْشِيرَةٌ",
+          "transliteration": "taʾshīratun",
+          "audioText": "تَأْشِيرَةٌ",
+          "meaning": {
+            "en": "a visa",
+            "ur": "ایک ویزا",
+            "id": "sebuah visa",
+            "tr": "vize",
+            "fr": "un visa"
+          },
+          "audio": {
+            "path": "audio/travel/travel-09-visa.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-09-customs-form",
+          "type": "phrase",
+          "arabic": "اِسْتِمَارَةُ الْجُمَارِكِ",
+          "transliteration": "istimāratu l-jumāriki",
+          "audioText": "اِسْتِمَارَةُ الْجُمَارِكِ",
+          "meaning": {
+            "en": "a customs form",
+            "ur": "ایک کسٹم فارم",
+            "id": "formulir pabean",
+            "tr": "gümrük formu",
+            "fr": "un formulaire de douane"
+          },
+          "audio": {
+            "path": "audio/travel/travel-09-customs-form.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-09-baggage-claim-area",
+          "type": "phrase",
+          "arabic": "مَكَانُ اسْتِلَامِ الْأَمْتِعَةِ",
+          "transliteration": "makānu istilāmi l-amtiʿati",
+          "audioText": "مَكَانُ اسْتِلَامِ الْأَمْتِعَةِ",
+          "meaning": {
+            "en": "the baggage claim area",
+            "ur": "سامان کے دعوے کا علاقہ",
+            "id": "area pengambilan bagasi",
+            "tr": "bagaj teslim alanı",
+            "fr": "la zone de récupération des bagages"
+          },
+          "audio": {
+            "path": "audio/travel/travel-09-baggage-claim-area.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-09-where-exchange-currency",
+          "type": "question",
+          "arabic": "أَيْنَ يُمْكِنُنِي صَرْفُ الْعُمْلَةِ؟",
+          "transliteration": "ayna yumkinunī ṣarfu l-ʿumlati?",
+          "audioText": "أَيْنَ يُمْكِنُنِي صَرْفُ الْعُمْلَةِ؟",
+          "meaning": {
+            "en": "Where can I exchange currency?",
+            "ur": "میں کرنسی کا تبادلہ کہاں کر سکتا ہوں؟",
+            "id": "Di mana saya bisa menukar mata uang?",
+            "tr": "Nerede döviz bozdurabilirim?",
+            "fr": "Où puis-je échanger des devises ?"
+          },
+          "audio": {
+            "path": "audio/travel/travel-09-where-exchange-currency.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-09-hotel-address",
+          "type": "sentence",
+          "arabic": "هَذَا عُنْوَانُ فُنْدُقِي",
+          "transliteration": "hādhā ʿunwānu funduqī",
+          "audioText": "هَذَا عُنْوَانُ فُنْدُقِي",
+          "meaning": {
+            "en": "This is my hotel's address.",
+            "ur": "یہ میرے ہوٹل کا پتہ ہے۔",
+            "id": "Ini alamat hotelku.",
+            "tr": "Bu benim otelimin adresi.",
+            "fr": "C'est l'adresse de mon hôtel."
+          },
+          "audio": {
+            "path": "audio/travel/travel-09-hotel-address.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "travel-10",
+      "order": 10,
+      "title": {
+        "en": "A journey story",
+        "ur": "ایک سفر کی کہانی",
+        "id": "Sebuah cerita perjalanan",
+        "tr": "Bir yolculuk hikayesi",
+        "fr": "Une histoire de voyage"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about A journey story.",
+        "ur": "ایک سفر کی کہانی کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang kisah perjalanan.",
+        "tr": "Bir Yolculuk Hikayesi ile ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur une histoire de voyage."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "travel-10-review-1",
+          "type": "word",
+          "arabic": "تَأْشِيرَةٌ",
+          "transliteration": "taʾshīratun",
+          "audioText": "تَأْشِيرَةٌ",
+          "meaning": {
+            "en": "a visa",
+            "ur": "ایک ویزا",
+            "id": "sebuah visa",
+            "tr": "vize",
+            "fr": "un visa"
+          },
+          "audio": {
+            "path": "audio/travel/travel-09-visa.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-10-review-2",
+          "type": "phrase",
+          "arabic": "اِسْتِمَارَةُ الْجُمَارِكِ",
+          "transliteration": "istimāratu l-jumāriki",
+          "audioText": "اِسْتِمَارَةُ الْجُمَارِكِ",
+          "meaning": {
+            "en": "a customs form",
+            "ur": "ایک کسٹم فارم",
+            "id": "formulir pabean",
+            "tr": "gümrük formu",
+            "fr": "un formulaire de douane"
+          },
+          "audio": {
+            "path": "audio/travel/travel-09-customs-form.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-10-review-3",
+          "type": "phrase",
+          "arabic": "مَكَانُ اسْتِلَامِ الْأَمْتِعَةِ",
+          "transliteration": "makānu istilāmi l-amtiʿati",
+          "audioText": "مَكَانُ اسْتِلَامِ الْأَمْتِعَةِ",
+          "meaning": {
+            "en": "the baggage claim area",
+            "ur": "سامان کے دعوے کا علاقہ",
+            "id": "area pengambilan bagasi",
+            "tr": "bagaj teslim alanı",
+            "fr": "la zone de récupération des bagages"
+          },
+          "audio": {
+            "path": "audio/travel/travel-09-baggage-claim-area.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-10-review-4",
+          "type": "question",
+          "arabic": "أَيْنَ يُمْكِنُنِي صَرْفُ الْعُمْلَةِ؟",
+          "transliteration": "ayna yumkinunī ṣarfu l-ʿumlati?",
+          "audioText": "أَيْنَ يُمْكِنُنِي صَرْفُ الْعُمْلَةِ؟",
+          "meaning": {
+            "en": "Where can I exchange currency?",
+            "ur": "میں کرنسی کا تبادلہ کہاں کر سکتا ہوں؟",
+            "id": "Di mana saya bisa menukar mata uang?",
+            "tr": "Nerede döviz bozdurabilirim?",
+            "fr": "Où puis-je échanger des devises ?"
+          },
+          "audio": {
+            "path": "audio/travel/travel-09-where-exchange-currency.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-10-review-5",
+          "type": "sentence",
+          "arabic": "هَذَا عُنْوَانُ فُنْدُقِي",
+          "transliteration": "hādhā ʿunwānu funduqī",
+          "audioText": "هَذَا عُنْوَانُ فُنْدُقِي",
+          "meaning": {
+            "en": "This is my hotel's address.",
+            "ur": "یہ میرے ہوٹل کا پتہ ہے۔",
+            "id": "Ini alamat hotelku.",
+            "tr": "Bu benim otelimin adresi.",
+            "fr": "C'est l'adresse de mon hôtel."
+          },
+          "audio": {
+            "path": "audio/travel/travel-09-hotel-address.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-10-leave-home-early",
+          "type": "sentence",
+          "arabic": "غَادَرْنَا الْبَيْتَ مُبَكِّرًا لِنَلْحَقَ بِالْقِطَارِ",
+          "transliteration": "ghādarnā l-bayta mubakkiran li-nalḥaqa bi-l-qiṭāri",
+          "audioText": "غَادَرْنَا الْبَيْتَ مُبَكِّرًا لِنَلْحَقَ بِالْقِطَارِ",
+          "meaning": {
+            "en": "We left home early to catch the train.",
+            "ur": "ہم ٹرین پکڑنے کے لیے جلدی گھر سے نکلے۔",
+            "id": "Kami meninggalkan rumah lebih awal untuk naik kereta.",
+            "tr": "Trene yetişmek için evden erken çıktık.",
+            "fr": "Nous sommes partis tôt de chez nous pour prendre le train."
+          },
+          "audio": {
+            "path": "audio/travel/travel-10-leave-home-early.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-10-station-buy-tickets",
+          "type": "sentence",
+          "arabic": "اِشْتَرَيْنَا التَّذَاكِرَ مِنَ الْمَحَطَّةِ",
+          "transliteration": "ishtaraynā t-tadhākira mina l-maḥaṭṭati",
+          "audioText": "اِشْتَرَيْنَا التَّذَاكِرَ مِنَ الْمَحَطَّةِ",
+          "meaning": {
+            "en": "We bought the tickets at the station.",
+            "ur": "ہم نے اسٹیشن پر ٹکٹ خریدے۔",
+            "id": "Kami membeli tiket di stasiun.",
+            "tr": "Biletleri istasyondan aldık.",
+            "fr": "Nous avons acheté les billets à la gare."
+          },
+          "audio": {
+            "path": "audio/travel/travel-10-station-buy-tickets.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-10-train-was-delayed",
+          "type": "sentence",
+          "arabic": "كَانَ الْقِطَارُ مُتَأَخِّرًا بِسَبَبِ الْمَطَرِ",
+          "transliteration": "kāna l-qiṭāru mutaʾakhkhiran bisababi l-maṭari",
+          "audioText": "كَانَ الْقِطَارُ مُتَأَخِّرًا بِسَبَبِ الْمَطَرِ",
+          "meaning": {
+            "en": "The train was delayed because of the rain.",
+            "ur": "بارش کی وجہ سے ٹرین تاخیر کا شکار ہوئی۔",
+            "id": "Kereta tertunda karena hujan.",
+            "tr": "Yağmur nedeniyle tren rötar yaptı.",
+            "fr": "Le train a été retardé à cause de la pluie."
+          },
+          "audio": {
+            "path": "audio/travel/travel-10-train-was-delayed.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-10-arrive-hotel-evening",
+          "type": "sentence",
+          "arabic": "وَصَلْنَا إِلَى الْفُنْدُقِ فِي الْمَسَاءِ",
+          "transliteration": "waṣalnā ilā l-funduqi fī l-masāʾi",
+          "audioText": "وَصَلْنَا إِلَى الْفُنْدُقِ فِي الْمَسَاءِ",
+          "meaning": {
+            "en": "We arrived at the hotel in the evening.",
+            "ur": "ہم شام کو ہوٹل پہنچے۔",
+            "id": "Kami tiba di hotel pada malam hari.",
+            "tr": "Akşam otele vardık.",
+            "fr": "Nous sommes arrivés à l'hôtel le soir."
+          },
+          "audio": {
+            "path": "audio/travel/travel-10-arrive-hotel-evening.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "travel-10-enjoyed-trip",
+          "type": "sentence",
+          "arabic": "اِسْتَمْتَعْنَا بِالرِّحْلَةِ وَعُدْنَا بِأَمَانٍ",
+          "transliteration": "istamtaʿnā bi-r-riḥlati wa-ʿudnā bi-amānin",
+          "audioText": "اِسْتَمْتَعْنَا بِالرِّحْلَةِ وَعُدْنَا بِأَمَانٍ",
+          "meaning": {
+            "en": "We enjoyed the trip and returned safely.",
+            "ur": "ہم نے سفر کا لطف اٹھایا اور بحفاظت واپس لوٹ گئے۔",
+            "id": "Kami menikmati perjalanan dan kembali dengan selamat.",
+            "tr": "Yolculuktan keyif aldık ve sağ salim geri döndük.",
+            "fr": "Nous avons apprécié le voyage et sommes rentrés sains et saufs."
+          },
+          "audio": {
+            "path": "audio/travel/travel-10-enjoyed-trip.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    }
+  ]
+}

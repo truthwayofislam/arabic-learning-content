@@ -63,5 +63,25 @@ audio directories. This command checks that every clip exists and keeps the
 reused review-item audio paths intact. Finally run
 `python3 tools/build_future_levels.py validate` to check schema, quiz mappings,
 localization, and every audio path.
+
+## Future levels 11–15
+
+`tools/future-levels-11-15-seed.json` contains Levels 11–15 with ten lessons
+per level. Each lesson has five new items and five review items from earlier
+lessons. Generate the localized lessons, quizzes, and review page with
+`python3 tools/build_future_levels.py build --seed tools/future-levels-11-15-seed.json`.
+Translations use the public Google Translate endpoint and should be reviewed
+before publishing.
+
+Generate the 250 new Edge TTS clips with
+`python3 tools/build_future_levels.py audio`. The clips are saved under
+`audio/draft-next-levels/` and listed on `audio/review-next-levels.html`.
+For playback, serve this repository over HTTP from its root:
+`python3 -m http.server 8000`, then open
+`http://localhost:8000/audio/review-next-levels.html`. Opening the HTML directly
+as a `file://` URL may prevent the browser from loading the relative audio
+files. The generated audio remains unmapped until every clip is reviewed and
+approved; only then run `python3 tools/build_future_levels.py map-audio`,
+followed by `python3 tools/build_future_levels.py validate`.
 # arabic-learning-content
 # arabic-learning-content

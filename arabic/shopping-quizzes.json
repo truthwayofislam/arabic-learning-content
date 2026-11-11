@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "courseId": "arabic",
+  "levelId": "shopping",
+  "questionType": "listen_and_choose",
+  "prompts": {
+    "en": "Listen to the Arabic audio, then choose the matching text.",
+    "ur": "عربی آڈیو سنیں، پھر اس سے ملتا ہوا متن منتخب کریں۔",
+    "id": "Dengarkan audio bahasa Arab, lalu pilih teks yang cocok.",
+    "tr": "Arapça sesi dinleyin ve eşleşen metni seçin.",
+    "fr": "Écoutez l’audio arabe, puis choisissez le texte correspondant."
+  },
+  "lessons": [
+    {
+      "lessonId": "shopping-01",
+      "questionCount": 4
+    },
+    {
+      "lessonId": "shopping-02",
+      "questionCount": 4
+    },
+    {
+      "lessonId": "shopping-03",
+      "questionCount": 4
+    },
+    {
+      "lessonId": "shopping-04",
+      "questionCount": 4
+    },
+    {
+      "lessonId": "shopping-05",
+      "questionCount": 4
+    },
+    {
+      "lessonId": "shopping-06",
+      "questionCount": 4
+    },
+    {
+      "lessonId": "shopping-07",
+      "questionCount": 4
+    },
+    {
+      "lessonId": "shopping-08",
+      "questionCount": 4
+    },
+    {
+      "lessonId": "shopping-09",
+      "questionCount": 4
+    },
+    {
+      "lessonId": "shopping-10",
+      "questionCount": 4
+    }
+  ]
+}

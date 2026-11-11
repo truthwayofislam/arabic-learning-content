@@ -1,0 +1,545 @@
+{
+  "schemaVersion": 1,
+  "translationLanguages": ["en", "ur", "id", "tr", "fr"],
+  "practice": {
+    "newItemsPerLesson": 5,
+    "reviewItemsPerLesson": 5
+  },
+  "levels": [
+    {
+      "id": "food",
+      "order": 11,
+      "title": "Food, Meals and Cooking",
+      "lessons": [
+        {
+          "title": "Everyday foods",
+          "items": [
+            ["rice", "word", "أَرُزٌّ", "aruzzun", "rice"],
+            ["bread", "word", "خُبْزٌ", "khubzun", "bread"],
+            ["cheese", "word", "جُبْنٌ", "jubnun", "cheese"],
+            ["eggs", "word", "بَيْضٌ", "bayḍun", "eggs"],
+            ["soup", "word", "حَسَاءٌ", "ḥasāʾun", "soup"]
+          ]
+        },
+        {
+          "title": "Fruit and vegetables",
+          "items": [
+            ["apple", "word", "تُفَّاحَةٌ", "tuffāḥatun", "an apple"],
+            ["orange", "word", "بُرْتُقَالَةٌ", "burtuqālatun", "an orange"],
+            ["cucumber", "word", "خِيَارٌ", "khiyārun", "cucumber"],
+            ["tomato", "word", "طَمَاطِمُ", "ṭamāṭimu", "tomatoes"],
+            ["carrot", "word", "جَزَرٌ", "jazarun", "carrots"]
+          ]
+        },
+        {
+          "title": "Meals and mealtimes",
+          "items": [
+            ["breakfast", "word", "وَجْبَةُ الْفَطُورِ", "wajbatu l-faṭūri", "breakfast"],
+            ["lunch", "word", "وَجْبَةُ الْغَدَاءِ", "wajbatu l-ghadāʾi", "lunch"],
+            ["dinner", "word", "وَجْبَةُ الْعَشَاءِ", "wajbatu l-ʿashāʾi", "dinner"],
+            ["meal-is-ready", "sentence", "الطَّعَامُ جَاهِزٌ الْآنَ", "aṭ-ṭaʿāmu jāhizun al-āna", "The food is ready now."],
+            ["eat-together", "sentence", "نَجْتَمِعُ لِلْغَدَاءِ مَعًا", "najtamiʿu li-l-ghadāʾi maʿan", "We gather for lunch together."]
+          ]
+        },
+        {
+          "title": "Flavours and preferences",
+          "items": [
+            ["sweet", "adjective", "حُلْوٌ", "ḥulwun", "sweet (masculine)"],
+            ["salty", "adjective", "مَالِحٌ", "māliḥun", "salty (masculine)"],
+            ["spicy", "adjective", "حَارٌّ", "ḥārrun", "spicy (masculine)"],
+            ["food-is-delicious", "sentence", "هَذَا الطَّعَامُ لَذِيذٌ", "hādhā aṭ-ṭaʿāmu ladhīdhun", "This food is delicious."],
+            ["prefer-less-salt", "request", "أُفَضِّلُ قَلِيلًا مِنَ الْمِلْحِ", "ufaḍḍilu qalīlan mina l-milḥi", "I prefer a little less salt."]
+          ]
+        },
+        {
+          "title": "Ingredients and amounts",
+          "items": [
+            ["oil", "word", "زَيْتٌ", "zaytun", "oil"],
+            ["flour", "word", "دَقِيقٌ", "daqīqun", "flour"],
+            ["spoon", "word", "مِلْعَقَةٌ", "milʿaqatun", "a spoon"],
+            ["cup-of-milk", "phrase", "كَأْسٌ مِنَ الْحَلِيبِ", "kaʾsun mina l-ḥalībi", "a cup of milk"],
+            ["need-two-tomatoes", "sentence", "أَحْتَاجُ إِلَى حَبَّتَيْنِ مِنَ الطَّمَاطِمِ", "aḥtāju ilā ḥabbatayn mina ṭ-ṭamāṭimi", "I need two tomatoes."]
+          ]
+        },
+        {
+          "title": "Buying food",
+          "items": [
+            ["kilo-of-rice", "phrase", "كِيلُو مِنَ الْأَرُزِّ", "kīlū mina l-aruzzi", "a kilo of rice"],
+            ["fresh-fruit", "phrase", "فَاكِهَةٌ طَازَجَةٌ", "fākihatun ṭāzajatun", "fresh fruit"],
+            ["how-much-cheese", "question", "بِكَمِ الْجُبْنُ الْيَوْمَ؟", "bikami l-jubnu l-yawma?", "How much is the cheese today?"],
+            ["choose-ripe-apples", "request", "أَرْجُو أَنْتَقِيَ تُفَّاحًا نَاضِجًا", "arjū an atanaqqā tuffāḥan nāḍijan", "Please let me choose ripe apples."],
+            ["put-in-bag", "request", "ضَعِ الْخُضْرَوَاتِ فِي كِيسٍ، مِنْ فَضْلِكَ", "ḍaʿi l-khuḍrawāti fī kīsin, min faḍlika", "Put the vegetables in a bag, please. (to a man)"]
+          ]
+        },
+        {
+          "title": "Preparing a meal",
+          "items": [
+            ["wash-vegetables", "request", "اِغْسِلِ الْخُضْرَوَاتِ جَيِّدًا", "ighsili l-khuḍrawāti jayyidan", "Wash the vegetables well. (to a man)"],
+            ["cut-onions", "request", "قَطِّعِ الْبَصَلَ إِلَى قِطَعٍ صَغِيرَةٍ", "qaṭṭiʿi l-baṣala ilā qiṭaʿin ṣaghīratin", "Cut the onion into small pieces. (to a man)"],
+            ["heat-the-oil", "request", "سَخِّنِ الزَّيْتَ فِي الْقِدْرِ", "sakhkhini z-zayta fī l-qidri", "Heat the oil in the pot. (to a man)"],
+            ["add-salt", "request", "أَضِفِ الْمِلْحَ قَلِيلًا قَلِيلًا", "aḍifi l-milḥa qalīlan qalīlan", "Add the salt a little at a time. (to a man)"],
+            ["soup-cooks-slowly", "sentence", "يُطْبَخُ الْحَسَاءُ عَلَى نَارٍ هَادِئَةٍ", "yuṭbakhu l-ḥasāʾu ʿalā nārin hādiʾatin", "The soup is cooked over low heat."]
+          ]
+        },
+        {
+          "title": "Ordering a full meal",
+          "items": [
+            ["menu-please", "request", "هَلْ يُمْكِنُنِي رُؤْيَةُ قَائِمَةِ الطَّعَامِ؟", "hal yumkinunī ruʾyatu qāʾimati ṭ-ṭaʿāmi?", "May I see the menu?"],
+            ["grilled-fish", "phrase", "سَمَكٌ مَشْوِيٌّ مَعَ الْأَرُزِّ", "samakun mashwiyyun maʿa l-aruzzi", "grilled fish with rice"],
+            ["vegetarian-meal", "phrase", "وَجْبَةٌ نَبَاتِيَّةٌ مِنْ فَضْلِكَ", "wajbatun nabātiyyatun min faḍlika", "a vegetarian meal, please"],
+            ["water-no-ice", "request", "أُرِيدُ مَاءً بِلَا ثَلْجٍ، مِنْ فَضْلِكَ", "urīdu māʾan bilā thaljin, min faḍlika", "I would like water without ice, please. (to a man)"],
+            ["bring-bill", "request", "هَلْ تُحْضِرُ الْحِسَابَ لَوْ سَمَحْتَ؟", "hal tuḥḍiru l-ḥisāba law samaḥta?", "Could you bring the bill, please? (to a man)"]
+          ]
+        },
+        {
+          "title": "Food needs and polite requests",
+          "items": [
+            ["no-peanuts", "sentence", "لَا أَسْتَطِيعُ أَكْلَ الْفُولِ السُّودَانِيِّ", "lā astaṭīʿu akla l-fūli s-sūdāniyyi", "I cannot eat peanuts."],
+            ["contains-nuts", "question", "هَلْ يَحْتَوِي هَذَا الطَّعَامُ عَلَى مُكَسَّرَاتٍ؟", "hal yaḥtawī hādhā aṭ-ṭaʿāmu ʿalā mukassarātin?", "Does this food contain nuts?"],
+            ["without-sugar", "request", "أَرْجُو أَنْ يَكُونَ الشَّايُ بِلَا سُكَّرٍ", "arjū an yakūna sh-shāyu bilā sukkarin", "Please make the tea without sugar."],
+            ["extra-plate", "request", "هَلْ تُحْضِرُ لَنَا طَبَقًا إِضَافِيًّا؟", "hal tuḥḍiru lanā ṭabaqan iḍāfiyyan?", "Could you bring us an extra plate? (to a man)"],
+            ["meal-please-warm", "request", "هَلْ يُمْكِنُ تَسْخِينُ هَذِهِ الْوَجْبَةِ؟", "hal yumkinu taskhīnu hādhihi l-wajbati?", "Could this meal be warmed up?"]
+          ]
+        },
+        {
+          "title": "A family meal",
+          "items": [
+            ["family-prepares-dinner", "sentence", "تُحَضِّرُ أُسْرَتِي وَجْبَةَ الْعَشَاءِ فِي الْمَطْبَخِ", "tuḥaḍḍiru usratī wajbata l-ʿashāʾi fī l-maṭbakhi", "My family prepares dinner in the kitchen."],
+            ["father-washes-salad", "sentence", "يَغْسِلُ أَبِي الْخَضْرَوَاتِ لِلسَّلَطَةِ", "yaghsilu abī l-khuḍrawāti li-s-salaṭati", "My father washes the vegetables for the salad."],
+            ["sister-cooks-rice", "sentence", "تَطْبُخُ أُخْتِي الْأَرُزَّ فِي قِدْرٍ كَبِيرٍ", "taṭbukhu ukhtī l-aruzza fī qidrin kabīrin", "My sister cooks the rice in a large pot."],
+            ["everyone-enjoys-meal", "sentence", "يَأْكُلُ الْجَمِيعُ مَعًا وَيَسْتَمْتِعُونَ بِالطَّعَامِ", "yaʾkulu l-jamīʿu maʿan wa-yastamtiʿūna bi-ṭ-ṭaʿāmi", "Everyone eats together and enjoys the food."],
+            ["save-fruit-for-later", "sentence", "نَحْفَظُ بَعْضَ الْفَاكِهَةِ لِوَجْبَةٍ أُخْرَى", "naḥfaẓu baʿḍa l-fākihati li-wajbatin ukhrā", "We save some fruit for another meal."]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "order": 12,
+      "title": "Travel and Accommodation",
+      "lessons": [
+        {
+          "title": "Ways to travel",
+          "items": [
+            ["airport", "word", "مَطَارٌ", "maṭārun", "an airport"],
+            ["train", "word", "قِطَارٌ", "qiṭārun", "a train"],
+            ["bus-station", "phrase", "مَحَطَّةُ الْحَافِلَاتِ", "maḥaṭṭatu l-ḥāfilāti", "a bus station"],
+            ["passenger", "word", "مُسَافِرٌ", "musāfirun", "a male traveler"],
+            ["platform", "word", "رَصِيفٌ", "raṣīfun", "a platform"]
+          ]
+        },
+        {
+          "title": "Planning a journey",
+          "items": [
+            ["travel-date", "phrase", "مَوْعِدُ السَّفَرِ", "mawʿidu s-safari", "the travel date"],
+            ["direct-flight", "phrase", "رِحْلَةٌ مُبَاشِرَةٌ", "riḥlatun mubāshiratun", "a direct flight"],
+            ["return-ticket", "phrase", "تَذْكِرَةُ الذَّهَابِ وَالْعَوْدَةِ", "tadhkiratu dh-dhahābi wa-l-ʿawdati", "a return ticket"],
+            ["travel-next-month", "sentence", "أُسَافِرُ فِي الشَّهْرِ الْقَادِمِ", "usāfiru fī sh-shahri l-qādimi", "I am traveling next month."],
+            ["check-departure-time", "request", "أَرْجُو أَنْ تَتَأَكَّدَ مِنْ وَقْتِ الْمُغَادَرَةِ", "arjū an tataʾakkada min waqti l-mughādarati", "Please check the departure time. (to a man)"]
+          ]
+        },
+        {
+          "title": "At the airport",
+          "items": [
+            ["departure-gate", "phrase", "بَوَّابَةُ الْمُغَادَرَةِ", "bawwābatu l-mughādarati", "the departure gate"],
+            ["boarding-pass", "phrase", "بِطَاقَةُ صُعُودِ الطَّائِرَةِ", "biṭāqatu ṣuʿūdi ṭ-ṭāʾirati", "a boarding pass"],
+            ["flight-delayed", "sentence", "تَأَخَّرَتِ الرِّحْلَةُ نِصْفَ سَاعَةٍ", "taʾakhkharati r-riḥlatu niṣfa sāʿatin", "The flight is delayed by half an hour."],
+            ["where-check-in", "question", "أَيْنَ أُسَجِّلُ حَقِيبَتِي؟", "ayna usajjilu ḥaqībatī?", "Where do I check in my bag?"],
+            ["window-seat", "request", "أُفَضِّلُ مَقْعَدًا بِجِوَارِ النَّافِذَةِ", "ufaḍḍilu maqʿadan bijiwāri n-nāfidhati", "I prefer a seat by the window."]
+          ]
+        },
+        {
+          "title": "At the train station",
+          "items": [
+            ["which-platform", "question", "مِنْ أَيِّ رَصِيفٍ يَنْطَلِقُ الْقِطَارُ؟", "min ayyi raṣīfin yanṭaliqu l-qiṭāru?", "Which platform does the train leave from?"],
+            ["train-leaves-at-nine", "sentence", "يَنْطَلِقُ الْقِطَارُ فِي السَّاعَةِ التَّاسِعَةِ", "yanṭaliqu l-qiṭāru fī s-sāʿati t-tāsiʿati", "The train leaves at nine o'clock."],
+            ["one-way-ticket", "phrase", "تَذْكِرَةُ ذَهَابٍ فَقَطْ", "tadhkiratu dhahābin faqaṭ", "a one-way ticket"],
+            ["need-seat-reservation", "sentence", "أَحْتَاجُ إِلَى حَجْزِ مَقْعَدٍ", "aḥtāju ilā ḥajzi maqʿadin", "I need a seat reservation."],
+            ["train-is-full", "sentence", "الْقِطَارُ مُمْتَلِئٌ هَذَا الْمَسَاءَ", "al-qiṭāru mumtaliʾun hādhā l-masāʾa", "The train is full this evening."]
+          ]
+        },
+        {
+          "title": "Booking accommodation",
+          "items": [
+            ["hotel-room", "phrase", "غُرْفَةٌ فِي فُنْدُقٍ", "ghurfatun fī funduqin", "a hotel room"],
+            ["book-two-nights", "request", "أُرِيدُ حَجْزَ غُرْفَةٍ لِلَيْلَتَيْنِ", "urīdu ḥajza ghurfatin li-laylatayni", "I would like to book a room for two nights."],
+            ["room-with-breakfast", "phrase", "غُرْفَةٌ مَعَ وَجْبَةِ الْفَطُورِ", "ghurfatun maʿa wajbati l-faṭūri", "a room with breakfast"],
+            ["reservation-name", "question", "بِأَيِّ اسْمٍ سُجِّلَ الْحَجْزُ؟", "bi-ayyi ismin sujjila l-ḥajzu?", "Under what name was the reservation made?"],
+            ["confirm-reservation", "sentence", "هَذَا رَقْمُ تَأْكِيدِ حَجْزِي", "hādhā raqmu taʾkīdi ḥajzī", "This is my reservation confirmation number."]
+          ]
+        },
+        {
+          "title": "Checking in",
+          "items": [
+            ["passport-please", "request", "هَلْ أَرَى جَوَازَ سَفَرِكَ؟", "hal arā jawāza safarika?", "May I see your passport? (to a man)"],
+            ["reservation-for-two", "sentence", "لَدَيَّ حَجْزٌ لِشَخْصَيْنِ", "ladayya ḥajzun li-shakhṣayni", "I have a reservation for two people."],
+            ["check-in-time", "question", "مَتَى يَبْدَأُ تَسْجِيلُ الدُّخُولِ؟", "matā yabdaʾu tasjīlu d-dukhūli?", "When does check-in begin?"],
+            ["room-on-third-floor", "sentence", "غُرْفَتُكَ فِي الطَّابِقِ الثَّالِثِ", "ghurfatuka fī ṭ-ṭābiqi th-thālithi", "Your room is on the third floor. (to a man)"],
+            ["ask-for-key", "request", "هَلْ تُعْطِينِي مِفْتَاحَ الْغُرْفَةِ؟", "hal tuʿṭīnī miftāḥa l-ghurfati?", "Could you give me the room key? (to a man)"]
+          ]
+        },
+        {
+          "title": "Getting around while traveling",
+          "items": [
+            ["taxi-to-hotel", "request", "أَوْصِلْنِي إِلَى هَذَا الْفُنْدُقِ، مِنْ فَضْلِكَ", "awṣilnī ilā hādhā l-funduqi, min faḍlika", "Take me to this hotel, please. (to a man)"],
+            ["stop-near-entrance", "request", "تَوَقَّفْ قُرْبَ الْمَدْخَلِ، مِنْ فَضْلِكَ", "tawaqqaf qurba l-madkhali, min faḍlika", "Stop near the entrance, please. (to a man)"],
+            ["how-long-journey", "question", "كَمْ تَسْتَغْرِقُ الرِّحْلَةُ؟", "kam tastaghriqu r-riḥlatu?", "How long does the journey take?"],
+            ["traffic-heavy", "sentence", "حَرَكَةُ الْمُرُورِ كَثِيفَةٌ صَبَاحًا", "ḥarakatu l-murūri kathīfatun ṣabāḥan", "Traffic is heavy in the morning."],
+            ["pay-fare", "request", "كَمْ أُجْرَةُ السَّيَّارَةِ؟", "kam ujratu s-sayyārati?", "How much is the taxi fare?"]
+          ]
+        },
+        {
+          "title": "Travel plans change",
+          "items": [
+            ["missed-connection", "sentence", "فَاتَتْنِي الرِّحْلَةُ الْوَاصِلَةُ", "fātatnī r-riḥlatu l-wāṣilatu", "I missed my connecting flight."],
+            ["change-booking", "request", "هَلْ يُمْكِنُ تَغْيِيرُ مَوْعِدِ الْحَجْزِ؟", "hal yumkinu taghyīru mawʿidi l-ḥajzi?", "Can the reservation time be changed?"],
+            ["luggage-not-arrived", "sentence", "لَمْ تَصِلْ حَقِيبَتِي بَعْدُ", "lam taṣil ḥaqībatī baʿdu", "My suitcase has not arrived yet."],
+            ["need-information-desk", "sentence", "أَحْتَاجُ إِلَى مُسَاعَدَةِ مَكْتَبِ الِاسْتِعْلَامَاتِ", "aḥtāju ilā musāʿadati maktabi l-istilʿāmāti", "I need help from the information desk."],
+            ["keep-ticket", "request", "اِحْتَفِظْ بِالتَّذْكِرَةِ حَتَّى نَصِلَ", "iḥtafiẓ bi-t-tadhkirati ḥattā naṣila", "Keep the ticket until we arrive. (to a man)"]
+          ]
+        },
+        {
+          "title": "Travel documents and arrivals",
+          "items": [
+            ["visa", "word", "تَأْشِيرَةٌ", "taʾshīratun", "a visa"],
+            ["customs-form", "phrase", "اِسْتِمَارَةُ الْجُمَارِكِ", "istimāratu l-jumāriki", "a customs form"],
+            ["baggage-claim-area", "phrase", "مَكَانُ اسْتِلَامِ الْأَمْتِعَةِ", "makānu istilāmi l-amtiʿati", "the baggage claim area"],
+            ["where-exchange-currency", "question", "أَيْنَ يُمْكِنُنِي صَرْفُ الْعُمْلَةِ؟", "ayna yumkinunī ṣarfu l-ʿumlati?", "Where can I exchange currency?"],
+            ["hotel-address", "sentence", "هَذَا عُنْوَانُ فُنْدُقِي", "hādhā ʿunwānu funduqī", "This is my hotel's address."]
+          ]
+        },
+        {
+          "title": "A journey story",
+          "items": [
+            ["leave-home-early", "sentence", "غَادَرْنَا الْبَيْتَ مُبَكِّرًا لِنَلْحَقَ بِالْقِطَارِ", "ghādarnā l-bayta mubakkiran li-nalḥaqa bi-l-qiṭāri", "We left home early to catch the train."],
+            ["station-buy-tickets", "sentence", "اِشْتَرَيْنَا التَّذَاكِرَ مِنَ الْمَحَطَّةِ", "ishtaraynā t-tadhākira mina l-maḥaṭṭati", "We bought the tickets at the station."],
+            ["train-was-delayed", "sentence", "كَانَ الْقِطَارُ مُتَأَخِّرًا بِسَبَبِ الْمَطَرِ", "kāna l-qiṭāru mutaʾakhkhiran bisababi l-maṭari", "The train was delayed because of the rain."],
+            ["arrive-hotel-evening", "sentence", "وَصَلْنَا إِلَى الْفُنْدُقِ فِي الْمَسَاءِ", "waṣalnā ilā l-funduqi fī l-masāʾi", "We arrived at the hotel in the evening."],
+            ["enjoyed-trip", "sentence", "اِسْتَمْتَعْنَا بِالرِّحْلَةِ وَعُدْنَا بِأَمَانٍ", "istamtaʿnā bi-r-riḥlati wa-ʿudnā bi-amānin", "We enjoyed the trip and returned safely."]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "order": 13,
+      "title": "Health and Appointments",
+      "lessons": [
+        {
+          "title": "Parts of the body",
+          "items": [
+            ["head", "word", "رَأْسٌ", "raʾsun", "a head"],
+            ["throat", "word", "حَلْقٌ", "ḥalqun", "a throat"],
+            ["stomach", "word", "مَعِدَةٌ", "miʿdatun", "a stomach"],
+            ["back", "word", "ظَهْرٌ", "ẓahrun", "a back"],
+            ["tooth", "word", "سِنٌّ", "sinnun", "a tooth"]
+          ]
+        },
+        {
+          "title": "Describing how you feel",
+          "items": [
+            ["tired-today", "sentence", "أَشْعُرُ بِالتَّعَبِ الْيَوْمَ", "ashʿuru bi-t-taʿabi l-yawma", "I feel tired today."],
+            ["little-dizzy", "sentence", "أَشْعُرُ بِدُوَارٍ قَلِيلٍ", "ashʿuru biduwārin qalīlin", "I feel a little dizzy."],
+            ["not-feeling-well", "sentence", "لَسْتُ بِخَيْرٍ مُنْذُ الصَّبَاحِ", "lastu bikhayrin mundhu ṣ-ṣabāḥi", "I have not felt well since morning."],
+            ["need-to-rest", "sentence", "أَحْتَاجُ إِلَى الرَّاحَةِ بَعْضَ الْوَقْتِ", "aḥtāju ilā r-rāḥati baʿḍa l-waqti", "I need to rest for a while."],
+            ["pain-is-getting-better", "sentence", "أَشْعُرُ أَنَّ الْأَلَمَ يَخِفُّ", "ashʿuru anna l-alama yakhiffu", "I feel that the pain is easing."]
+          ]
+        },
+        {
+          "title": "Common symptoms",
+          "items": [
+            ["sore-throat", "sentence", "يُؤْلِمُنِي حَلْقِي عِنْدَمَا أَبْلَعُ", "yuʾlimunī ḥalqī ʿindamā ablaʿu", "My throat hurts when I swallow."],
+            ["stomach-hurts", "sentence", "تُؤْلِمُنِي مَعِدَتِي بَعْدَ الطَّعَامِ", "tuʾlimunī miʿdatī baʿda ṭ-ṭaʿāmi", "My stomach hurts after eating."],
+            ["toothache", "sentence", "أُعَانِي مِنْ أَلَمٍ فِي أَحَدِ أَسْنَانِي", "uʿānī min alamin fī aḥadi asnānī", "I have pain in one of my teeth."],
+            ["cough-at-night", "sentence", "أَسْعُلُ كَثِيرًا فِي اللَّيْلِ", "asʿulu kathīran fī l-layli", "I cough a lot at night."],
+            ["headache-since-yesterday", "sentence", "عِنْدِي صُدَاعٌ مُنْذُ أَمْسِ", "ʿindī ṣudāʿun mundhu amsi", "I have had a headache since yesterday."]
+          ]
+        },
+        {
+          "title": "How long and how often",
+          "items": [
+            ["when-did-it-start", "question", "مَتَى بَدَأَ هَذَا الْأَلَمُ؟", "matā badaʾa hādhā l-alamu?", "When did this pain start?"],
+            ["pain-for-two-days", "sentence", "أَشْعُرُ بِهَذَا الْأَلَمِ مُنْذُ يَوْمَيْنِ", "ashʿuru bihādhā l-alami mundhu yawmayni", "I have felt this pain for two days."],
+            ["take-medicine-often", "question", "كَمْ مَرَّةً تَتَنَاوَلُ هَذَا الدَّوَاءَ؟", "kam marratan tatanāwalu hādhā d-dawāʾa?", "How many times do you take this medicine?"],
+            ["symptom-comes-and-goes", "sentence", "يَأْتِي هَذَا الشُّعُورُ وَيَذْهَبُ", "yaʾtī hādhā sh-shuʿūru wa-yadhhabu", "This feeling comes and goes."],
+            ["temperature-normal", "sentence", "دَرَجَةُ حَرَارَتِي طَبِيعِيَّةٌ الْآنَ", "darajatu ḥarāratī ṭabīʿiyyatun al-āna", "My temperature is normal now."]
+          ]
+        },
+        {
+          "title": "Making an appointment",
+          "items": [
+            ["book-doctor-appointment", "request", "أُرِيدُ حَجْزَ مَوْعِدٍ مَعَ الطَّبِيبِ", "urīdu ḥajza mawʿidin maʿa ṭ-ṭabībi", "I would like to make an appointment with the doctor."],
+            ["available-tomorrow", "question", "هَلْ يُوجَدُ مَوْعِدٌ مُتَاحٌ غَدًا؟", "hal yūjadu mawʿidun mutāḥun ghadan?", "Is an appointment available tomorrow?"],
+            ["prefer-afternoon", "sentence", "يُنَاسِبُنِي وَقْتُ بَعْدَ الظُّهْرِ", "yunāsibunī waqtu baʿda ẓ-ẓuhri", "Afternoon works for me."],
+            ["appointment-at-four", "sentence", "مَوْعِدُكَ غَدًا فِي السَّاعَةِ الرَّابِعَةِ", "mawʿiduka ghadan fī s-sāʿati r-rābiʿati", "Your appointment is tomorrow at four o'clock. (to a man)"],
+            ["change-appointment", "request", "هَلْ يُمْكِنُنِي تَغْيِيرُ الْمَوْعِدِ إِلَى يَوْمِ الْخَمِيسِ؟", "hal yumkinunī taghyīru l-mawʿidi ilā yawmi l-khamīsi?", "Can I change the appointment to Thursday?"]
+          ]
+        },
+        {
+          "title": "At the clinic",
+          "items": [
+            ["waiting-room", "phrase", "غُرْفَةُ الِانْتِظَارِ", "ghurfatu l-intiẓāri", "the waiting room"],
+            ["fill-out-form", "request", "اِمْلَأْ هَذِهِ الِاسْتِمَارَةَ، مِنْ فَضْلِكَ", "imlaʾ hādhihi l-istimārata, min faḍlika", "Please fill out this form. (to a man)"],
+            ["have-an-appointment", "sentence", "لَدَيَّ مَوْعِدٌ مَعَ الطَّبِيبِ فِي السَّاعَةِ الثَّالِثَةِ", "ladayya mawʿidun maʿa ṭ-ṭabībi fī s-sāʿati th-thālithati", "I have an appointment with the doctor at three."],
+            ["doctor-will-see-you", "sentence", "سَيَفْحَصُكَ الطَّبِيبُ بَعْدَ قَلِيلٍ", "sayafḥaṣuka ṭ-ṭabību baʿda qalīlin", "The doctor will examine you shortly. (to a man)"],
+            ["bring-medical-record", "request", "أَحْضِرْ سِجِلَّكَ الطِّبِّيَّ فِي الزِّيَارَةِ الْقَادِمَةِ", "aḥḍir sijillaka ṭ-ṭibbiyya fī z-ziyārati l-qādimati", "Bring your medical record to the next visit. (to a man)"]
+          ]
+        },
+        {
+          "title": "Talking with a doctor",
+          "items": [
+            ["where-does-it-hurt", "question", "أَيْنَ يَشْتَدُّ الْأَلَمُ؟", "ayna yashtaddu l-alamu?", "Where is the pain strongest?"],
+            ["hurts-when-walking", "sentence", "يَزْدَادُ الْأَلَمُ عِنْدَمَا أَمْشِي", "yazdādu l-alamu ʿindamā amshī", "The pain gets worse when I walk."],
+            ["allergy-to-medicine", "sentence", "عِنْدِي حَسَاسِيَّةٌ مِنْ بَعْضِ الْأَدْوِيَةِ", "ʿindī ḥasāsiyyatun min baʿḍi l-adwiyati", "I am allergic to some medicines."],
+            ["take-any-medicine", "question", "هَلْ تَتَنَاوَلُ أَيَّ أَدْوِيَةٍ؟", "hal tatanāwalu ayya adwiyatin?", "Are you taking any medicines?"],
+            ["explain-results", "request", "هَلْ يُمْكِنُكَ شَرْحُ هَذِهِ النَّتَائِجِ؟", "hal yumkinuka sharḥu hādhihi n-natāʾiji?", "Could you explain these results? (to a man)"]
+          ]
+        },
+        {
+          "title": "At the pharmacy",
+          "items": [
+            ["pharmacy", "word", "صَيْدَلِيَّةٌ", "ṣaydaliyyatun", "a pharmacy"],
+            ["prescription", "word", "وَصْفَةٌ طِبِّيَّةٌ", "waṣfatun ṭibbiyyatun", "a prescription"],
+            ["follow-label", "request", "اِقْرَأِ التَّعْلِيمَاتِ عَلَى الْعُلْبَةِ", "iqraʾi t-taʿlīmāti ʿalā l-ʿulbati", "Read the instructions on the box. (to a man)"],
+            ["medicine-after-meals", "question", "هَلْ يُؤْخَذُ هَذَا الدَّوَاءُ بَعْدَ الطَّعَامِ؟", "hal yuʾkhadhu hādhā d-dawāʾu baʿda ṭ-ṭaʿāmi?", "Is this medicine taken after meals?"],
+            ["need-small-bandage", "sentence", "أَحْتَاجُ إِلَى ضِمَادٍ صَغِيرٍ لِلْجُرْحِ", "aḥtāju ilā ḍimādin ṣaghīrin li-l-jurḥi", "I need a small bandage for the wound."]
+          ]
+        },
+        {
+          "title": "Following care instructions",
+          "items": [
+            ["drink-water", "request", "اِشْرَبْ مَاءً كَافِيًا خِلَالَ الْيَوْمِ", "ishrab māʾan kāfiyan khilāla l-yawmi", "Drink enough water during the day. (to a man)"],
+            ["rest-at-home", "request", "خُذْ قِسْطًا مِنَ الرَّاحَةِ فِي الْبَيْتِ", "khudh qisṭan mina r-rāḥati fī l-bayti", "Get some rest at home. (to a man)"],
+            ["return-if-worse", "sentence", "اِرْجِعْ إِلَى الْعِيَادَةِ إِذَا زَادَ الْأَلَمُ", "irjiʿ ilā l-ʿiyādati idhā zāda l-alamu", "Return to the clinic if the pain gets worse. (to a man)"],
+            ["follow-up-next-week", "sentence", "لَدَيَّ زِيَارَةُ مُتَابَعَةٍ الْأُسْبُوعَ الْقَادِمَ", "ladayya ziyāratu mutābaʿatin l-usbūʿa l-qādima", "I have a follow-up visit next week."],
+            ["thank-doctor", "sentence", "شُكْرًا لَكَ عَلَى وَقْتِكَ وَمُسَاعَدَتِكَ", "shukran laka ʿalā waqtika wa-musāʿadatika", "Thank you for your time and help. (to a man)"]
+          ]
+        },
+        {
+          "title": "A clinic conversation",
+          "items": [
+            ["patient-arrives", "sentence", "وَصَلَتِ الْمَرِيضَةُ إِلَى الْعِيَادَةِ قَبْلَ مَوْعِدِهَا", "waṣalati l-marīḍatu ilā l-ʿiyādati qabla mawʿidihā", "The patient arrived at the clinic before her appointment."],
+            ["describe-pain", "sentence", "قَالَتْ إِنَّ ظَهْرَهَا يُؤْلِمُهَا مُنْذُ أَيَّامٍ", "qālat inna ẓahrahā yuʾlimuhā mundhu ayyāmin", "She said her back had been hurting for days."],
+            ["doctor-asks-questions", "sentence", "سَأَلَهَا الطَّبِيبُ عَنْ أَعْرَاضِهَا وَدَوَائِهَا", "saʾalahā ṭ-ṭabību ʿan aʿrāḍihā wa-dawāʾihā", "The doctor asked her about her symptoms and medicine."],
+            ["explain-care-plan", "sentence", "شَرَحَ لَهَا الطَّبِيبُ خُطَّةَ الْعِنَايَةِ", "sharaḥa lahā ṭ-ṭabību khuṭṭata l-ʿināyati", "The doctor explained the care plan to her."],
+            ["patient-asks-questions", "sentence", "طَرَحَتِ الْمَرِيضَةُ أَسْئِلَتَهَا قَبْلَ الْعَوْدَةِ إِلَى الْبَيْتِ", "ṭaraḥati l-marīḍatu asʾilatahā qabla l-ʿawdati ilā l-bayti", "The patient asked her questions before returning home."]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shopping",
+      "order": 14,
+      "title": "Shopping, Quantities and Money",
+      "lessons": [
+        {
+          "title": "Quantities and containers",
+          "items": [
+            ["half-kilo", "phrase", "نِصْفُ كِيلُو", "niṣfu kīlū", "half a kilo"],
+            ["bottle-of-water", "phrase", "زُجَاجَةُ مَاءٍ", "zujājatu māʾin", "a bottle of water"],
+            ["piece-of-cloth", "phrase", "قِطْعَةُ قُمَاشٍ", "qiṭʿatu qumāshin", "a piece of fabric"],
+            ["pair-of-shoes", "phrase", "زَوْجٌ مِنَ الْأَحْذِيَةِ", "zawjun mina l-aḥdhiyati", "a pair of shoes"],
+            ["need-three-boxes", "sentence", "أَحْتَاجُ إِلَى ثَلَاثَةِ صَنَادِيقَ صَغِيرَةٍ", "aḥtāju ilā thalāthati ṣanādīqa ṣaghīratin", "I need three small boxes."]
+          ]
+        },
+        {
+          "title": "Clothes and sizes",
+          "items": [
+            ["shirt", "word", "قَمِيصٌ", "qamīṣun", "a shirt"],
+            ["trousers", "word", "سِرْوَالٌ", "sirwālun", "trousers"],
+            ["size", "word", "مَقَاسٌ", "maqāsun", "a size"],
+            ["larger-size", "request", "هَلْ عِنْدَكُمْ مَقَاسٌ أَكْبَرُ؟", "hal ʿindakum maqāsun akbaru?", "Do you have a larger size?"],
+            ["try-on-shirt", "question", "هَلْ يُمْكِنُنِي قِيَاسُ هَذَا الْقَمِيصِ؟", "hal yumkinunī qiyāsu hādhā l-qamīṣi?", "May I try on this shirt?"]
+          ]
+        },
+        {
+          "title": "Describing what you want",
+          "items": [
+            ["cotton-shirt", "phrase", "قَمِيصٌ مِنَ الْقُطْنِ", "qamīṣun mina l-quṭni", "a cotton shirt"],
+            ["comfortable-shoes", "phrase", "حِذَاءٌ مُرِيحٌ", "ḥidhāʾun murīḥun", "comfortable shoes"],
+            ["dark-blue", "adjective", "أَزْرَقُ دَاكِنٌ", "azraqu dākinun", "dark blue (masculine)"],
+            ["looking-for-jacket", "sentence", "أَبْحَثُ عَنْ سُتْرَةٍ خَفِيفَةٍ", "abḥathu ʿan sutratin khafīfatin", "I am looking for a light jacket."],
+            ["prefer-natural-material", "sentence", "أُفَضِّلُ الْمَوَادَّ الطَّبِيعِيَّةَ", "ufaḍḍilu l-mawādda ṭ-ṭabīʿiyyata", "I prefer natural materials."]
+          ]
+        },
+        {
+          "title": "Comparing items",
+          "items": [
+            ["cheaper-than-that", "sentence", "هَذَا أَرْخَصُ مِنْ ذَاكَ", "hādhā arkhaṣu min dhāka", "This is cheaper than that."],
+            ["quality-better", "sentence", "جَوْدَةُ هَذَا الْمُنْتَجِ أَفْضَلُ", "jawdatu hādhā l-muntaji afḍalu", "The quality of this product is better."],
+            ["both-colors", "question", "هَلْ يَتَوَفَّرُ هَذَا اللَّوْنُ أَيْضًا؟", "hal yatawaffaru hādhā l-lawnu ayḍan?", "Is this color available too?"],
+            ["this-one-lighter", "sentence", "هَذِهِ الْحَقِيبَةُ أَخَفُّ مِنَ الْأُخْرَى", "hādhihi l-ḥaqībatu akhaffu mina l-ukhrā", "This bag is lighter than the other one."],
+            ["which-is-more-durable", "question", "أَيُّ هَذَيْنِ أَكْثَرُ مُتَانَةً؟", "ayyu hādhayni aktharu matānatan?", "Which of these two is more durable?"]
+          ]
+        },
+        {
+          "title": "Prices and polite bargaining",
+          "items": [
+            ["final-price", "question", "مَا السِّعْرُ النِّهَائِيُّ؟", "mā s-siʿru n-nihāʾiyyu?", "What is the final price?"],
+            ["price-is-high", "sentence", "السِّعْرُ أَعْلَى مِمَّا تَوَقَّعْتُ", "as-siʿru aʿlā mimmā tawaqqaʿtu", "The price is higher than I expected."],
+            ["any-discount", "question", "هَلْ يُوجَدُ خَصْمٌ عَلَى هَذَا الْمُنْتَجِ؟", "hal yūjadu khaṣmun ʿalā hādhā l-muntaji?", "Is there a discount on this product?"],
+            ["offer-lower-price", "request", "هَلْ تَقْبَلُ سِعْرًا أَقَلَّ قَلِيلًا؟", "hal taqbalu siʿran aqalla qalīlan?", "Would you accept a slightly lower price? (to a man)"],
+            ["thank-for-offer", "sentence", "شُكْرًا عَلَى عَرْضِكَ، سَأَفَكَّرُ فِي الْأَمْرِ", "shukran ʿalā ʿarḍika, saʾafakkaru fī l-amri", "Thank you for your offer; I will think about it. (to a man)"]
+          ]
+        },
+        {
+          "title": "Paying and getting a receipt",
+          "items": [
+            ["cash-or-card", "question", "هَلْ أَدْفَعُ نَقْدًا أَمْ بِالْبِطَاقَةِ؟", "hal adfaʿu naqdan am bi-l-biṭāqati?", "Should I pay in cash or by card?"],
+            ["pay-by-card", "sentence", "سَأَدْفَعُ بِبِطَاقَةِ الِائْتِمَانِ", "saʾadfaʿu bi-biṭāqati l-iʾtimāni", "I will pay by credit card."],
+            ["receipt-please", "request", "أَرْجُو إِعْطَائِي الْإِيصَالَ", "arjū iʿṭāʾiya l-īṣāla", "Please give me the receipt."],
+            ["payment-approved", "sentence", "تَمَّ قَبُولُ الدَّفْعِ بِنَجَاحٍ", "tamma qabūlu d-dafʿi binajāḥin", "The payment was accepted successfully."],
+            ["check-change", "request", "تَأَكَّدْ مِنَ الْبَاقِي، مِنْ فَضْلِكَ", "taʾakkad mina l-bāqī, min faḍlika", "Please check the change. (to a man)"]
+          ]
+        },
+        {
+          "title": "Exchanges and returns",
+          "items": [
+            ["exchange-size", "request", "أُرِيدُ اسْتِبْدَالَ هَذَا الْمَقَاسِ", "urīdu istibdāla hādhā l-maqāsi", "I would like to exchange this size."],
+            ["wrong-color", "sentence", "اِخْتَرْتُ اللَّوْنَ الْخَاطِئَ بِالْخَطَإِ", "ikhtartu l-lawna l-khāṭiʾa bi-l-khaṭaʾi", "I accidentally chose the wrong color."],
+            ["return-policy", "question", "مَا شُرُوطُ إِرْجَاعِ الْبِضَاعَةِ؟", "mā shurūṭu irjāʿi l-biḍāʿati?", "What is the return policy?"],
+            ["item-is-damaged", "sentence", "وَجَدْتُ خَدْشًا عَلَى هَذَا الْمُنْتَجِ", "wajadtu khadshan ʿalā hādhā l-muntaji", "I found a scratch on this product."],
+            ["keep-the-receipt", "request", "اِحْتَفِظْ بِالْإِيصَالِ لِعَمَلِيَّةِ الِاسْتِبْدَالِ", "iḥtafiẓ bi-l-īṣāli li-ʿamaliyyati l-istibdāli", "Keep the receipt for the exchange. (to a man)"]
+          ]
+        },
+        {
+          "title": "Shopping for groceries",
+          "items": [
+            ["shopping-list", "phrase", "قَائِمَةُ الْمُشْتَرَيَاتِ", "qāʾimatu l-mushtarayāti", "a shopping list"],
+            ["fresh-fish-today", "question", "هَلِ السَّمَكُ طَازَجٌ الْيَوْمَ؟", "hali s-samaku ṭāzijun l-yawma?", "Is the fish fresh today?"],
+            ["choose-small-quantity", "sentence", "سَآخُذُ كَمِّيَّةً صَغِيرَةً مِنَ التَّمْرِ", "saʾākhudhu kammiyyatan ṣaghīratan mina t-tamri", "I will take a small quantity of dates."],
+            ["weigh-the-fruit", "request", "زِنِ الْفَاكِهَةَ بَعْدَ اخْتِيَارِهَا، مِنْ فَضْلِكَ", "zini l-fākihata baʿda ikhtiyārihā, min faḍlika", "Please weigh the fruit after choosing it. (to a man)"],
+            ["separate-bags", "request", "ضَعِ الْمُنْتَجَاتِ فِي أَكْيَاسٍ مُنْفَصِلَةٍ", "ḍaʿi l-muntajāti fī akyāsin munfaṣilatin", "Put the products in separate bags. (to a man)"]
+          ]
+        },
+        {
+          "title": "At a clothing shop",
+          "items": [
+            ["looking-for-coat", "sentence", "أَبْحَثُ عَنْ مِعْطَفٍ لِلشِّتَاءِ", "abḥathu ʿan miʿṭafin li-sh-shitāʾi", "I am looking for a coat for winter."],
+            ["size-suits-you", "question", "هَلْ يُنَاسِبُكَ هَذَا الْمَقَاسُ؟", "hal yunāsibuka hādhā l-maqāsu?", "Does this size fit you? (to a man)"],
+            ["sleeves-too-long", "sentence", "كُمَّا هَذَا الْقَمِيصِ طَوِيلَانِ جِدًّا", "kummā hādhā l-qamīṣi ṭawīlāni jiddan", "The sleeves of this shirt are too long."],
+            ["need-something-formal", "sentence", "أَحْتَاجُ إِلَى مَلَابِسَ أَكْثَرَ رَسْمِيَّةً", "aḥtāju ilā malābisa akthara rasmiyyatan", "I need more formal clothes."],
+            ["shop-assistant-finds-color", "sentence", "سَأَبْحَثُ لَكَ عَنْ هَذَا اللَّوْنِ فِي الْمَخْزَنِ", "saʾabḥathu laka ʿan hādhā l-lawni fī l-makhzani", "I will look for this color for you in the stockroom. (to a man)"]
+          ]
+        },
+        {
+          "title": "A shopping conversation",
+          "items": [
+            ["customer-asks-size", "sentence", "سَأَلَ الزَّبُونُ عَنْ مَقَاسٍ أَكْبَرَ", "saʾala z-zabūnu ʿan maqāsin akbara", "The customer asked for a larger size."],
+            ["assistant-brings-shirt", "sentence", "أَحْضَرَ الْبَائِعُ قَمِيصًا بِلَوْنٍ مُخْتَلِفٍ", "aḥḍara l-bāʾiʿu qamīṣan bi-lawni mukhtalifin", "The shopkeeper brought a shirt in a different color."],
+            ["customer-tries-shirt", "sentence", "قَاسَ الزَّبُونُ الْقَمِيصَ وَوَجَدَهُ مُرِيحًا", "qāsa z-zabūnu l-qamīṣa wa-wajadahu murīḥan", "The customer tried on the shirt and found it comfortable."],
+            ["ask-about-discount", "sentence", "سَأَلَ عَنِ الْخَصْمِ وَدَفَعَ بِالْبِطَاقَةِ", "saʾala ʿani l-khaṣmi wa-dafaʿa bi-l-biṭāqati", "He asked about a discount and paid by card."],
+            ["leave-with-receipt", "sentence", "غَادَرَ الْمَتْجَرَ وَمَعَهُ الْإِيصَالُ", "ghādara l-matjara wa-maʿahu l-īṣālu", "He left the shop with the receipt."]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "work",
+      "order": 15,
+      "title": "Work, Study and Communication",
+      "lessons": [
+        {
+          "title": "Professions and workplaces",
+          "items": [
+            ["engineer", "word", "مُهَنْدِسٌ", "muhandisun", "an engineer"],
+            ["nurse", "word", "مُمَرِّضٌ", "mumarriḍun", "a male nurse"],
+            ["office", "word", "مَكْتَبٌ", "maktabun", "an office"],
+            ["colleague", "word", "زَمِيلٌ", "zamīlun", "a male colleague"],
+            ["i-work-as-engineer", "sentence", "أَعْمَلُ مُهَنْدِسًا فِي شَرِكَةٍ صَغِيرَةٍ", "aʿmalu muhandisan fī sharikatin ṣaghīratin", "I work as an engineer in a small company."]
+          ]
+        },
+        {
+          "title": "Work tasks and responsibilities",
+          "items": [
+            ["prepare-report", "phrase", "إِعْدَادُ التَّقْرِيرِ الْأُسْبُوعِيِّ", "iʿdādu t-taqrīri l-usbūʿiyyi", "preparing the weekly report"],
+            ["answer-emails", "sentence", "أَرُدُّ عَلَى رَسَائِلِ الْعُمَلِ كُلَّ صَبَاحٍ", "aruddu ʿalā rasāʾili l-ʿamali kulla ṣabāḥin", "I answer work emails every morning."],
+            ["organize-files", "sentence", "يُنَظِّمُ زَمِيلِي الْمَلَفَّاتِ الْمُشْتَرَكَةَ", "yunaẓẓimu zamīlī l-malafāti l-mushtarakata", "My colleague organizes the shared files."],
+            ["finish-task", "sentence", "أُكْمِلُ هَذِهِ الْمُهِمَّةَ قَبْلَ الِاجْتِمَاعِ", "ukmilu hādhihi l-muhimmata qabla l-ijtimāʿi", "I will finish this task before the meeting."],
+            ["who-is-responsible", "question", "مَنْ مَسْؤُولٌ عَنْ هَذَا الْمَشْرُوعِ؟", "man masʾūlun ʿan hādhā l-mashrūʿi?", "Who is responsible for this project?"]
+          ]
+        },
+        {
+          "title": "Schedules and deadlines",
+          "items": [
+            ["work-shift", "phrase", "وَرْدِيَّةُ الْعَمَلِ", "wardiyyatu l-ʿamali", "a work shift"],
+            ["deadline-friday", "sentence", "مَوْعِدُ تَسْلِيمِ التَّقْرِيرِ يَوْمَ الْجُمُعَةِ", "mawʿidu taslīmi t-taqrīri yawma l-jumuʿati", "The report deadline is Friday."],
+            ["meeting-postponed", "sentence", "تَأَجَّلَ الِاجْتِمَاعُ إِلَى بَعْدَ الظُّهْرِ", "taʾajjala l-ijtimāʿu ilā baʿda ẓ-ẓuhri", "The meeting was postponed until the afternoon."],
+            ["free-at-ten", "question", "هَلْ أَنْتَ مُتَاحٌ فِي السَّاعَةِ الْعَاشِرَةِ؟", "hal anta mutāḥun fī s-sāʿati l-ʿāshirati?", "Are you available at ten o'clock? (to a man)"],
+            ["need-more-time", "sentence", "أَحْتَاجُ إِلَى وَقْتٍ إِضَافِيٍّ لِإِنْهَاءِ الْعَمَلِ", "aḥtāju ilā waqtin iḍāfiyyin li-inhāʾi l-ʿamali", "I need extra time to finish the work."]
+          ]
+        },
+        {
+          "title": "Asking and offering help",
+          "items": [
+            ["help-with-file", "question", "هَلْ يُمْكِنُكَ مُسَاعَدَتِي فِي هَذَا الْمَلَفِّ؟", "hal yumkinuka musāʿadatī fī hādhā l-malaffi?", "Could you help me with this file? (to a man)"],
+            ["show-how-to-use", "request", "أَرِنِي كَيْفَ أَسْتَخْدِمُ هَذَا الْبَرْنَامَجَ", "arinī kayfa astakhdimu hādhā l-barnāmaja", "Show me how to use this program. (to a man)"],
+            ["send-notes", "request", "أَرْسِلْ إِلَيَّ الْمُلَاحَظَاتِ بَعْدَ الْمَحَاضَرَةِ", "arsil ilayya l-mulāḥaẓāti baʿda l-muḥāḍarati", "Send me the notes after the lecture. (to a man)"],
+            ["happy-to-help", "sentence", "يَسُرُّنِي أَنْ أُسَاعِدَكَ فِي الْمَشْرُوعِ", "yasurrunī an usāʿidaka fī l-mashrūʿi", "I am happy to help you with the project. (to a man)"],
+            ["ask-again-politely", "request", "هَلْ يُمْكِنُكَ تَوْضِيحُ النُّقْطَةِ الْأَخِيرَةِ؟", "hal yumkinuka tawḍīḥu n-nuqṭati l-akhīrati?", "Could you clarify the last point? (to a man)"]
+          ]
+        },
+        {
+          "title": "Meetings and discussions",
+          "items": [
+            ["agenda", "word", "جَدْوَلُ الْأَعْمَالِ", "jadwalu l-aʿmāli", "an agenda"],
+            ["start-meeting", "request", "لِنَبْدَأِ الِاجْتِمَاعَ بِمُرَاجَعَةِ الْخُطَّةِ", "linabdaʾi l-ijtimāʿa bi-murājaʿati l-khuṭṭati", "Let's start the meeting by reviewing the plan."],
+            ["agree-with-idea", "sentence", "أَتَّفِقُ مَعَ هَذِهِ الْفِكْرَةِ لِهَذَا السَّبَبِ", "attafiqu maʿa hādhihi l-fikrati li-hādhā s-sababi", "I agree with this idea for this reason."],
+            ["different-suggestion", "sentence", "لَدَيَّ اقْتِرَاحٌ مُخْتَلِفٌ لِلنِّقَاشِ", "ladayya iqtirāḥun mukhtalifun li-n-niqāshi", "I have a different suggestion for discussion."],
+            ["summarize-decisions", "request", "لَخِّصِ الْقَرَارَاتِ قَبْلَ انْتِهَاءِ الِاجْتِمَاعِ", "lakhkhiṣi l-qarārāti qabla intihāʾi l-ijtimāʿi", "Summarize the decisions before the meeting ends. (to a man)"]
+          ]
+        },
+        {
+          "title": "Messages and email",
+          "items": [
+            ["subject-line", "phrase", "مَوْضُوعُ الرِّسَالَةِ", "mawḍūʿu r-risālati", "the subject line"],
+            ["send-attachment", "sentence", "أَرْفَقْتُ الْمَلَفَّ فِي رِسَالَتِي الْإِلِكْتُرُونِيَّةِ", "arfaqtu l-malaffa fī risālatī l-iliktrūniyyati", "I attached the file to my email."],
+            ["check-inbox", "request", "تَفَقَّدْ صُنْدُوقَ الْبَرِيدِ بَعْدَ الظُّهْرِ", "tafaqqad ṣundūqa l-barīdi baʿda ẓ-ẓuhri", "Check the inbox in the afternoon. (to a man)"],
+            ["reply-tomorrow", "sentence", "سَأَرُدُّ عَلَى رِسَالَتِكَ غَدًا", "saʾaruddu ʿalā risālatika ghadan", "I will reply to your message tomorrow. (to a man)"],
+            ["confirm-received", "sentence", "أُؤَكِّدُ أَنَّنِي اسْتَلَمْتُ الْمُلَاحَظَاتِ", "uʾakkidu annanī istalamtu l-mulāḥaẓāti", "I confirm that I received the notes."]
+          ]
+        },
+        {
+          "title": "Skills and experience",
+          "items": [
+            ["language-skills", "phrase", "مَهَارَاتٌ فِي اللُّغَاتِ", "mahārātun fī l-lughāti", "language skills"],
+            ["speak-two-languages", "sentence", "أَتَحَدَّثُ لُغَتَيْنِ وَأَتَعَلَّمُ الثَّالِثَةَ", "ataḥaddathu lughatayni wa-ataʿallamu th-thālithata", "I speak two languages and am learning a third."],
+            ["experience-in-teaching", "phrase", "خِبْرَةٌ فِي التَّدْرِيسِ", "khibratun fī t-tadrīsi", "experience in teaching"],
+            ["learned-new-skill", "sentence", "تَعَلَّمْتُ مَهَارَةً جَدِيدَةً فِي الدَّوْرَةِ", "taʿallamtu mahāratan jadīdatan fī d-dawrati", "I learned a new skill in the course."],
+            ["improve-speaking", "sentence", "أُرِيدُ تَحْسِينَ طَرِيقَةِ تَحَدُّثِي أَمَامَ النَّاسِ", "urīdu taḥsīna ṭarīqati taḥadduthī amāma n-nāsi", "I want to improve the way I speak in front of people."]
+          ]
+        },
+        {
+          "title": "Work and study plans",
+          "items": [
+            ["apply-for-position", "sentence", "سَأُقَدِّمُ طَلَبًا لِهَذِهِ الْوَظِيفَةِ", "saʾuqaddimu ṭalaban li-hādhihi l-waẓīfati", "I will apply for this position."],
+            ["prepare-for-exam", "sentence", "أُرَاجِعُ دُرُوسِي لِلِامْتِحَانِ الْقَادِمِ", "urājiʿu durūsī li-l-imtiḥāni l-qādimi", "I am reviewing my lessons for the next exam."],
+            ["plan-to-study-abroad", "sentence", "أُخَطِّطُ لِلدِّرَاسَةِ فِي الْخَارِجِ بَعْدَ التَّخَرُّجِ", "ukhaṭṭiṭu li-d-dirāsati fī l-khāriji baʿda t-takharruji", "I plan to study abroad after graduation."],
+            ["need-career-advice", "question", "هَلْ يُمْكِنُكَ نَصِيحَتِي بِشَأْنِ الْعَمَلِ؟", "hal yumkinuka naṣīḥatī bishāʾni l-ʿamali?", "Could you advise me about work? (to a man)"],
+            ["goal-for-this-year", "sentence", "هَدَفِي هَذَا الْعَامَ أَنْ أُكْمِلَ دِرَاسَتِي", "hadafī hādhā l-ʿāma an ukmila dirāsatī", "My goal this year is to complete my studies."]
+          ]
+        },
+        {
+          "title": "At work and in class",
+          "items": [
+            ["class-begins-soon", "sentence", "سَتَبْدَأُ الْمُحَاضَرَةُ بَعْدَ خَمْسِ دَقَائِقَ", "satabdaʾu l-muḥāḍaratu baʿda khamsi daqāʾiqa", "The lecture will begin in five minutes."],
+            ["colleague-shares-report", "sentence", "شَارَكَتْ زَمِيلَتِي التَّقْرِيرَ مَعَ الْفَرِيقِ", "shārikat zamīlatī t-taqrīra maʿa l-farīqi", "My colleague shared the report with the team."],
+            ["ask-question-after-class", "sentence", "سَأَسْأَلُ الْمُعَلِّمَ بَعْدَ انْتِهَاءِ الدَّرْسِ", "saʾasʾalu l-muʿallima baʿda intihāʾi d-darsi", "I will ask the teacher after the lesson ends."],
+            ["finish-project-together", "sentence", "نَعْمَلُ مَعًا لِإِنْجَازِ الْمَشْرُوعِ فِي وَقْتِهِ", "naʿmalu maʿan li-injāzi l-mashrūʿi fī waqtihi", "We work together to finish the project on time."],
+            ["tomorrow-schedule", "question", "مَا جَدْوَلُكَ لِلْغَدِ؟", "mā jadwaluka li-l-ghadi?", "What is your schedule for tomorrow? (to a man)"]
+          ]
+        },
+        {
+          "title": "A short professional profile",
+          "items": [
+            ["profile-name-work", "sentence", "اِسْمِي لَيْلَى وَأَعْمَلُ فِي مَكْتَبَةٍ عَامَّةٍ", "ismī Laylā wa-aʿmalu fī maktabatin ʿāmmatin", "My name is Layla and I work in a public library."],
+            ["profile-studies", "sentence", "دَرَسْتُ اللُّغَةَ الْعَرَبِيَّةَ فِي الْجَامِعَةِ", "darastu l-lughata l-ʿarabiyyata fī l-jāmiʿati", "I studied Arabic at the university."],
+            ["profile-uses-languages", "sentence", "أَسْتَخْدِمُ لُغَاتٍ مُخْتَلِفَةً فِي عَمَلِي", "astakhdimu lughātin mukhtalifatin fī ʿamalī", "I use different languages in my work."],
+            ["profile-works-with-team", "sentence", "أَتَعَاوَنُ مَعَ فَرِيقِي لِخِدْمَةِ الزُّوَّارِ", "ataʿāwanu maʿa farīqī li-khidmati z-zuwwāri", "I work with my team to serve visitors."],
+            ["profile-learns-every-day", "sentence", "أَتَعَلَّمُ شَيْئًا جَدِيدًا فِي عَمَلِي كُلَّ يَوْمٍ", "ataʿallamu shayʾan jadīdan fī ʿamalī kulla yawmin", "I learn something new at my job every day."]
+          ]
+        }
+      ]
+    }
+  ]
+}

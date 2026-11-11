@@ -1,0 +1,2385 @@
+{
+  "schemaVersion": 1,
+  "courseId": "arabic",
+  "levelId": "health",
+  "unitId": "health",
+  "translationLanguages": [
+    "en",
+    "ur",
+    "id",
+    "tr",
+    "fr"
+  ],
+  "lessons": [
+    {
+      "id": "health-01",
+      "order": 1,
+      "title": {
+        "en": "Parts of the body",
+        "ur": "جسم کے حصے",
+        "id": "Bagian tubuh",
+        "tr": "Vücudun bölümleri",
+        "fr": "Parties du corps"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Parts of the body.",
+        "ur": "جسم کے حصوں کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Bagian tubuh.",
+        "tr": "Vücudun bölümleri hakkında yararlı Arapça kelimeler ve kısa ifadeler uygulayın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les parties du corps."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "health-01-review-1",
+          "type": "sentence",
+          "arabic": "غَادَرْنَا الْبَيْتَ مُبَكِّرًا لِنَلْحَقَ بِالْقِطَارِ",
+          "transliteration": "ghādarnā l-bayta mubakkiran li-nalḥaqa bi-l-qiṭāri",
+          "audioText": "غَادَرْنَا الْبَيْتَ مُبَكِّرًا لِنَلْحَقَ بِالْقِطَارِ",
+          "meaning": {
+            "en": "We left home early to catch the train.",
+            "ur": "ہم ٹرین پکڑنے کے لیے جلدی گھر سے نکلے۔",
+            "id": "Kami meninggalkan rumah lebih awal untuk naik kereta.",
+            "tr": "Trene yetişmek için evden erken çıktık.",
+            "fr": "Nous sommes partis tôt de chez nous pour prendre le train."
+          },
+          "audio": {
+            "path": "audio/travel/travel-10-leave-home-early.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-01-review-2",
+          "type": "sentence",
+          "arabic": "اِشْتَرَيْنَا التَّذَاكِرَ مِنَ الْمَحَطَّةِ",
+          "transliteration": "ishtaraynā t-tadhākira mina l-maḥaṭṭati",
+          "audioText": "اِشْتَرَيْنَا التَّذَاكِرَ مِنَ الْمَحَطَّةِ",
+          "meaning": {
+            "en": "We bought the tickets at the station.",
+            "ur": "ہم نے اسٹیشن پر ٹکٹ خریدے۔",
+            "id": "Kami membeli tiket di stasiun.",
+            "tr": "Biletleri istasyondan aldık.",
+            "fr": "Nous avons acheté les billets à la gare."
+          },
+          "audio": {
+            "path": "audio/travel/travel-10-station-buy-tickets.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-01-review-3",
+          "type": "sentence",
+          "arabic": "كَانَ الْقِطَارُ مُتَأَخِّرًا بِسَبَبِ الْمَطَرِ",
+          "transliteration": "kāna l-qiṭāru mutaʾakhkhiran bisababi l-maṭari",
+          "audioText": "كَانَ الْقِطَارُ مُتَأَخِّرًا بِسَبَبِ الْمَطَرِ",
+          "meaning": {
+            "en": "The train was delayed because of the rain.",
+            "ur": "بارش کی وجہ سے ٹرین تاخیر کا شکار ہوئی۔",
+            "id": "Kereta tertunda karena hujan.",
+            "tr": "Yağmur nedeniyle tren rötar yaptı.",
+            "fr": "Le train a été retardé à cause de la pluie."
+          },
+          "audio": {
+            "path": "audio/travel/travel-10-train-was-delayed.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-01-review-4",
+          "type": "sentence",
+          "arabic": "وَصَلْنَا إِلَى الْفُنْدُقِ فِي الْمَسَاءِ",
+          "transliteration": "waṣalnā ilā l-funduqi fī l-masāʾi",
+          "audioText": "وَصَلْنَا إِلَى الْفُنْدُقِ فِي الْمَسَاءِ",
+          "meaning": {
+            "en": "We arrived at the hotel in the evening.",
+            "ur": "ہم شام کو ہوٹل پہنچے۔",
+            "id": "Kami tiba di hotel pada malam hari.",
+            "tr": "Akşam otele vardık.",
+            "fr": "Nous sommes arrivés à l'hôtel le soir."
+          },
+          "audio": {
+            "path": "audio/travel/travel-10-arrive-hotel-evening.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-01-review-5",
+          "type": "sentence",
+          "arabic": "اِسْتَمْتَعْنَا بِالرِّحْلَةِ وَعُدْنَا بِأَمَانٍ",
+          "transliteration": "istamtaʿnā bi-r-riḥlati wa-ʿudnā bi-amānin",
+          "audioText": "اِسْتَمْتَعْنَا بِالرِّحْلَةِ وَعُدْنَا بِأَمَانٍ",
+          "meaning": {
+            "en": "We enjoyed the trip and returned safely.",
+            "ur": "ہم نے سفر کا لطف اٹھایا اور بحفاظت واپس لوٹ گئے۔",
+            "id": "Kami menikmati perjalanan dan kembali dengan selamat.",
+            "tr": "Yolculuktan keyif aldık ve sağ salim geri döndük.",
+            "fr": "Nous avons apprécié le voyage et sommes rentrés sains et saufs."
+          },
+          "audio": {
+            "path": "audio/travel/travel-10-enjoyed-trip.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-01-head",
+          "type": "word",
+          "arabic": "رَأْسٌ",
+          "transliteration": "raʾsun",
+          "audioText": "رَأْسٌ",
+          "meaning": {
+            "en": "a head",
+            "ur": "ایک سر",
+            "id": "sebuah kepala",
+            "tr": "bir kafa",
+            "fr": "une tête"
+          },
+          "audio": {
+            "path": "audio/health/health-01-head.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-01-throat",
+          "type": "word",
+          "arabic": "حَلْقٌ",
+          "transliteration": "ḥalqun",
+          "audioText": "حَلْقٌ",
+          "meaning": {
+            "en": "a throat",
+            "ur": "ایک گلا",
+            "id": "tenggorokan",
+            "tr": "bir boğaz",
+            "fr": "une gorge"
+          },
+          "audio": {
+            "path": "audio/health/health-01-throat.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-01-stomach",
+          "type": "word",
+          "arabic": "مَعِدَةٌ",
+          "transliteration": "miʿdatun",
+          "audioText": "مَعِدَةٌ",
+          "meaning": {
+            "en": "a stomach",
+            "ur": "ایک پیٹ",
+            "id": "perut",
+            "tr": "bir mide",
+            "fr": "un estomac"
+          },
+          "audio": {
+            "path": "audio/health/health-01-stomach.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-01-back",
+          "type": "word",
+          "arabic": "ظَهْرٌ",
+          "transliteration": "ẓahrun",
+          "audioText": "ظَهْرٌ",
+          "meaning": {
+            "en": "a back",
+            "ur": "ایک پیٹھ",
+            "id": "punggung",
+            "tr": "bir sırt",
+            "fr": "un dos"
+          },
+          "audio": {
+            "path": "audio/health/health-01-back.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-01-tooth",
+          "type": "word",
+          "arabic": "سِنٌّ",
+          "transliteration": "sinnun",
+          "audioText": "سِنٌّ",
+          "meaning": {
+            "en": "a tooth",
+            "ur": "ایک دانت",
+            "id": "sebuah gigi",
+            "tr": "bir diş",
+            "fr": "une dent"
+          },
+          "audio": {
+            "path": "audio/health/health-01-tooth.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "health-02",
+      "order": 2,
+      "title": {
+        "en": "Describing how you feel",
+        "ur": "بیان کرنا کہ آپ کیسا محسوس کرتے ہیں۔",
+        "id": "Menggambarkan perasaan Anda",
+        "tr": "Nasıl hissettiğinizi açıklamak",
+        "fr": "Décrire ce que vous ressentez"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Describing how you feel.",
+        "ur": "آپ کیسا محسوس کرتے ہیں اس کی وضاحت کرنے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Menggambarkan perasaan Anda.",
+        "tr": "Nasıl hissettiğinizi açıklama konusunda faydalı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Entraînez-vous à utiliser des mots arabes utiles et des phrases courtes pour décrire ce que vous ressentez."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "health-02-review-1",
+          "type": "word",
+          "arabic": "رَأْسٌ",
+          "transliteration": "raʾsun",
+          "audioText": "رَأْسٌ",
+          "meaning": {
+            "en": "a head",
+            "ur": "ایک سر",
+            "id": "sebuah kepala",
+            "tr": "bir kafa",
+            "fr": "une tête"
+          },
+          "audio": {
+            "path": "audio/health/health-01-head.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-02-review-2",
+          "type": "word",
+          "arabic": "حَلْقٌ",
+          "transliteration": "ḥalqun",
+          "audioText": "حَلْقٌ",
+          "meaning": {
+            "en": "a throat",
+            "ur": "ایک گلا",
+            "id": "tenggorokan",
+            "tr": "bir boğaz",
+            "fr": "une gorge"
+          },
+          "audio": {
+            "path": "audio/health/health-01-throat.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-02-review-3",
+          "type": "word",
+          "arabic": "مَعِدَةٌ",
+          "transliteration": "miʿdatun",
+          "audioText": "مَعِدَةٌ",
+          "meaning": {
+            "en": "a stomach",
+            "ur": "ایک پیٹ",
+            "id": "perut",
+            "tr": "bir mide",
+            "fr": "un estomac"
+          },
+          "audio": {
+            "path": "audio/health/health-01-stomach.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-02-review-4",
+          "type": "word",
+          "arabic": "ظَهْرٌ",
+          "transliteration": "ẓahrun",
+          "audioText": "ظَهْرٌ",
+          "meaning": {
+            "en": "a back",
+            "ur": "ایک پیٹھ",
+            "id": "punggung",
+            "tr": "bir sırt",
+            "fr": "un dos"
+          },
+          "audio": {
+            "path": "audio/health/health-01-back.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-02-review-5",
+          "type": "word",
+          "arabic": "سِنٌّ",
+          "transliteration": "sinnun",
+          "audioText": "سِنٌّ",
+          "meaning": {
+            "en": "a tooth",
+            "ur": "ایک دانت",
+            "id": "sebuah gigi",
+            "tr": "bir diş",
+            "fr": "une dent"
+          },
+          "audio": {
+            "path": "audio/health/health-01-tooth.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-02-tired-today",
+          "type": "sentence",
+          "arabic": "أَشْعُرُ بِالتَّعَبِ الْيَوْمَ",
+          "transliteration": "ashʿuru bi-t-taʿabi l-yawma",
+          "audioText": "أَشْعُرُ بِالتَّعَبِ الْيَوْمَ",
+          "meaning": {
+            "en": "I feel tired today.",
+            "ur": "میں آج تھکا ہوا محسوس کر رہا ہوں۔",
+            "id": "Saya merasa lelah hari ini.",
+            "tr": "Bugün kendimi yorgun hissediyorum.",
+            "fr": "Je me sens fatigué aujourd'hui."
+          },
+          "audio": {
+            "path": "audio/health/health-02-tired-today.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-02-little-dizzy",
+          "type": "sentence",
+          "arabic": "أَشْعُرُ بِدُوَارٍ قَلِيلٍ",
+          "transliteration": "ashʿuru biduwārin qalīlin",
+          "audioText": "أَشْعُرُ بِدُوَارٍ قَلِيلٍ",
+          "meaning": {
+            "en": "I feel a little dizzy.",
+            "ur": "مجھے تھوڑا چکر آ رہا ہے۔",
+            "id": "Saya merasa sedikit pusing.",
+            "tr": "Biraz başım dönüyor.",
+            "fr": "Je me sens un peu étourdi."
+          },
+          "audio": {
+            "path": "audio/health/health-02-little-dizzy.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-02-not-feeling-well",
+          "type": "sentence",
+          "arabic": "لَسْتُ بِخَيْرٍ مُنْذُ الصَّبَاحِ",
+          "transliteration": "lastu bikhayrin mundhu ṣ-ṣabāḥi",
+          "audioText": "لَسْتُ بِخَيْرٍ مُنْذُ الصَّبَاحِ",
+          "meaning": {
+            "en": "I have not felt well since morning.",
+            "ur": "صبح سے میری طبیعت ٹھیک نہیں ہے۔",
+            "id": "Saya merasa tidak enak badan sejak pagi.",
+            "tr": "Sabahtan beri kendimi iyi hissetmiyordum.",
+            "fr": "Je ne me sens pas bien depuis le matin."
+          },
+          "audio": {
+            "path": "audio/health/health-02-not-feeling-well.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-02-need-to-rest",
+          "type": "sentence",
+          "arabic": "أَحْتَاجُ إِلَى الرَّاحَةِ بَعْضَ الْوَقْتِ",
+          "transliteration": "aḥtāju ilā r-rāḥati baʿḍa l-waqti",
+          "audioText": "أَحْتَاجُ إِلَى الرَّاحَةِ بَعْضَ الْوَقْتِ",
+          "meaning": {
+            "en": "I need to rest for a while.",
+            "ur": "مجھے تھوڑی دیر آرام کرنے کی ضرورت ہے۔",
+            "id": "Saya perlu istirahat sebentar.",
+            "tr": "Bir süre dinlenmeye ihtiyacım var.",
+            "fr": "J'ai besoin de me reposer un moment."
+          },
+          "audio": {
+            "path": "audio/health/health-02-need-to-rest.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-02-pain-is-getting-better",
+          "type": "sentence",
+          "arabic": "أَشْعُرُ أَنَّ الْأَلَمَ يَخِفُّ",
+          "transliteration": "ashʿuru anna l-alama yakhiffu",
+          "audioText": "أَشْعُرُ أَنَّ الْأَلَمَ يَخِفُّ",
+          "meaning": {
+            "en": "I feel that the pain is easing.",
+            "ur": "مجھے لگتا ہے کہ درد کم ہو رہا ہے۔",
+            "id": "Saya merasa rasa sakitnya berkurang.",
+            "tr": "Acının hafiflediğini hissediyorum.",
+            "fr": "Je sens que la douleur s'atténue."
+          },
+          "audio": {
+            "path": "audio/health/health-02-pain-is-getting-better.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "health-03",
+      "order": 3,
+      "title": {
+        "en": "Common symptoms",
+        "ur": "عام علامات",
+        "id": "Gejala umum",
+        "tr": "Yaygın semptomlar",
+        "fr": "Symptômes courants"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Common symptoms.",
+        "ur": "عام علامات کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang Gejala umum.",
+        "tr": "Yaygın semptomlarla ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les symptômes courants."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "health-03-review-1",
+          "type": "sentence",
+          "arabic": "أَشْعُرُ بِالتَّعَبِ الْيَوْمَ",
+          "transliteration": "ashʿuru bi-t-taʿabi l-yawma",
+          "audioText": "أَشْعُرُ بِالتَّعَبِ الْيَوْمَ",
+          "meaning": {
+            "en": "I feel tired today.",
+            "ur": "میں آج تھکا ہوا محسوس کر رہا ہوں۔",
+            "id": "Saya merasa lelah hari ini.",
+            "tr": "Bugün kendimi yorgun hissediyorum.",
+            "fr": "Je me sens fatigué aujourd'hui."
+          },
+          "audio": {
+            "path": "audio/health/health-02-tired-today.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-03-review-2",
+          "type": "sentence",
+          "arabic": "أَشْعُرُ بِدُوَارٍ قَلِيلٍ",
+          "transliteration": "ashʿuru biduwārin qalīlin",
+          "audioText": "أَشْعُرُ بِدُوَارٍ قَلِيلٍ",
+          "meaning": {
+            "en": "I feel a little dizzy.",
+            "ur": "مجھے تھوڑا چکر آ رہا ہے۔",
+            "id": "Saya merasa sedikit pusing.",
+            "tr": "Biraz başım dönüyor.",
+            "fr": "Je me sens un peu étourdi."
+          },
+          "audio": {
+            "path": "audio/health/health-02-little-dizzy.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-03-review-3",
+          "type": "sentence",
+          "arabic": "لَسْتُ بِخَيْرٍ مُنْذُ الصَّبَاحِ",
+          "transliteration": "lastu bikhayrin mundhu ṣ-ṣabāḥi",
+          "audioText": "لَسْتُ بِخَيْرٍ مُنْذُ الصَّبَاحِ",
+          "meaning": {
+            "en": "I have not felt well since morning.",
+            "ur": "صبح سے میری طبیعت ٹھیک نہیں ہے۔",
+            "id": "Saya merasa tidak enak badan sejak pagi.",
+            "tr": "Sabahtan beri kendimi iyi hissetmiyordum.",
+            "fr": "Je ne me sens pas bien depuis le matin."
+          },
+          "audio": {
+            "path": "audio/health/health-02-not-feeling-well.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-03-review-4",
+          "type": "sentence",
+          "arabic": "أَحْتَاجُ إِلَى الرَّاحَةِ بَعْضَ الْوَقْتِ",
+          "transliteration": "aḥtāju ilā r-rāḥati baʿḍa l-waqti",
+          "audioText": "أَحْتَاجُ إِلَى الرَّاحَةِ بَعْضَ الْوَقْتِ",
+          "meaning": {
+            "en": "I need to rest for a while.",
+            "ur": "مجھے تھوڑی دیر آرام کرنے کی ضرورت ہے۔",
+            "id": "Saya perlu istirahat sebentar.",
+            "tr": "Bir süre dinlenmeye ihtiyacım var.",
+            "fr": "J'ai besoin de me reposer un moment."
+          },
+          "audio": {
+            "path": "audio/health/health-02-need-to-rest.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-03-review-5",
+          "type": "sentence",
+          "arabic": "أَشْعُرُ أَنَّ الْأَلَمَ يَخِفُّ",
+          "transliteration": "ashʿuru anna l-alama yakhiffu",
+          "audioText": "أَشْعُرُ أَنَّ الْأَلَمَ يَخِفُّ",
+          "meaning": {
+            "en": "I feel that the pain is easing.",
+            "ur": "مجھے لگتا ہے کہ درد کم ہو رہا ہے۔",
+            "id": "Saya merasa rasa sakitnya berkurang.",
+            "tr": "Acının hafiflediğini hissediyorum.",
+            "fr": "Je sens que la douleur s'atténue."
+          },
+          "audio": {
+            "path": "audio/health/health-02-pain-is-getting-better.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-03-sore-throat",
+          "type": "sentence",
+          "arabic": "يُؤْلِمُنِي حَلْقِي عِنْدَمَا أَبْلَعُ",
+          "transliteration": "yuʾlimunī ḥalqī ʿindamā ablaʿu",
+          "audioText": "يُؤْلِمُنِي حَلْقِي عِنْدَمَا أَبْلَعُ",
+          "meaning": {
+            "en": "My throat hurts when I swallow.",
+            "ur": "جب میں نگلتا ہوں تو میرے گلے میں درد ہوتا ہے۔",
+            "id": "Tenggorokanku sakit ketika aku menelan.",
+            "tr": "Yutkunurken boğazım ağrıyor.",
+            "fr": "J'ai mal à la gorge quand j'avale."
+          },
+          "audio": {
+            "path": "audio/health/health-03-sore-throat.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-03-stomach-hurts",
+          "type": "sentence",
+          "arabic": "تُؤْلِمُنِي مَعِدَتِي بَعْدَ الطَّعَامِ",
+          "transliteration": "tuʾlimunī miʿdatī baʿda ṭ-ṭaʿāmi",
+          "audioText": "تُؤْلِمُنِي مَعِدَتِي بَعْدَ الطَّعَامِ",
+          "meaning": {
+            "en": "My stomach hurts after eating.",
+            "ur": "کھانے کے بعد پیٹ میں درد ہوتا ہے۔",
+            "id": "Perutku sakit setelah makan.",
+            "tr": "Yemek yedikten sonra midem ağrıyor.",
+            "fr": "J'ai mal au ventre après avoir mangé."
+          },
+          "audio": {
+            "path": "audio/health/health-03-stomach-hurts.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-03-toothache",
+          "type": "sentence",
+          "arabic": "أُعَانِي مِنْ أَلَمٍ فِي أَحَدِ أَسْنَانِي",
+          "transliteration": "uʿānī min alamin fī aḥadi asnānī",
+          "audioText": "أُعَانِي مِنْ أَلَمٍ فِي أَحَدِ أَسْنَانِي",
+          "meaning": {
+            "en": "I have pain in one of my teeth.",
+            "ur": "میرے ایک دانت میں درد ہے۔",
+            "id": "Aku merasakan sakit di salah satu gigiku.",
+            "tr": "Dişlerimden birinde ağrı var.",
+            "fr": "J'ai mal à une dent."
+          },
+          "audio": {
+            "path": "audio/health/health-03-toothache.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-03-cough-at-night",
+          "type": "sentence",
+          "arabic": "أَسْعُلُ كَثِيرًا فِي اللَّيْلِ",
+          "transliteration": "asʿulu kathīran fī l-layli",
+          "audioText": "أَسْعُلُ كَثِيرًا فِي اللَّيْلِ",
+          "meaning": {
+            "en": "I cough a lot at night.",
+            "ur": "مجھے رات کو بہت کھانسی ہوتی ہے۔",
+            "id": "Saya banyak batuk di malam hari.",
+            "tr": "Geceleri çok öksürüyorum.",
+            "fr": "Je tousse beaucoup la nuit."
+          },
+          "audio": {
+            "path": "audio/health/health-03-cough-at-night.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-03-headache-since-yesterday",
+          "type": "sentence",
+          "arabic": "عِنْدِي صُدَاعٌ مُنْذُ أَمْسِ",
+          "transliteration": "ʿindī ṣudāʿun mundhu amsi",
+          "audioText": "عِنْدِي صُدَاعٌ مُنْذُ أَمْسِ",
+          "meaning": {
+            "en": "I have had a headache since yesterday.",
+            "ur": "کل سے میرے سر میں درد ہے۔",
+            "id": "Saya sakit kepala sejak kemarin.",
+            "tr": "Dünden beri başım ağrıyor.",
+            "fr": "J'ai mal à la tête depuis hier."
+          },
+          "audio": {
+            "path": "audio/health/health-03-headache-since-yesterday.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "health-04",
+      "order": 4,
+      "title": {
+        "en": "How long and how often",
+        "ur": "کتنی دیر اور کتنی بار",
+        "id": "Berapa lama dan seberapa sering",
+        "tr": "Ne kadar süreyle ve ne sıklıkta",
+        "fr": "Combien de temps et à quelle fréquence"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about How long and how often.",
+        "ur": "کتنی دیر اور کتنی بار کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang Berapa lama dan seberapa sering.",
+        "tr": "Ne kadar süre ve ne sıklıkla ile ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur la durée et la fréquence."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "health-04-review-1",
+          "type": "sentence",
+          "arabic": "يُؤْلِمُنِي حَلْقِي عِنْدَمَا أَبْلَعُ",
+          "transliteration": "yuʾlimunī ḥalqī ʿindamā ablaʿu",
+          "audioText": "يُؤْلِمُنِي حَلْقِي عِنْدَمَا أَبْلَعُ",
+          "meaning": {
+            "en": "My throat hurts when I swallow.",
+            "ur": "جب میں نگلتا ہوں تو میرے گلے میں درد ہوتا ہے۔",
+            "id": "Tenggorokanku sakit ketika aku menelan.",
+            "tr": "Yutkunurken boğazım ağrıyor.",
+            "fr": "J'ai mal à la gorge quand j'avale."
+          },
+          "audio": {
+            "path": "audio/health/health-03-sore-throat.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-04-review-2",
+          "type": "sentence",
+          "arabic": "تُؤْلِمُنِي مَعِدَتِي بَعْدَ الطَّعَامِ",
+          "transliteration": "tuʾlimunī miʿdatī baʿda ṭ-ṭaʿāmi",
+          "audioText": "تُؤْلِمُنِي مَعِدَتِي بَعْدَ الطَّعَامِ",
+          "meaning": {
+            "en": "My stomach hurts after eating.",
+            "ur": "کھانے کے بعد پیٹ میں درد ہوتا ہے۔",
+            "id": "Perutku sakit setelah makan.",
+            "tr": "Yemek yedikten sonra midem ağrıyor.",
+            "fr": "J'ai mal au ventre après avoir mangé."
+          },
+          "audio": {
+            "path": "audio/health/health-03-stomach-hurts.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-04-review-3",
+          "type": "sentence",
+          "arabic": "أُعَانِي مِنْ أَلَمٍ فِي أَحَدِ أَسْنَانِي",
+          "transliteration": "uʿānī min alamin fī aḥadi asnānī",
+          "audioText": "أُعَانِي مِنْ أَلَمٍ فِي أَحَدِ أَسْنَانِي",
+          "meaning": {
+            "en": "I have pain in one of my teeth.",
+            "ur": "میرے ایک دانت میں درد ہے۔",
+            "id": "Aku merasakan sakit di salah satu gigiku.",
+            "tr": "Dişlerimden birinde ağrı var.",
+            "fr": "J'ai mal à une dent."
+          },
+          "audio": {
+            "path": "audio/health/health-03-toothache.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-04-review-4",
+          "type": "sentence",
+          "arabic": "أَسْعُلُ كَثِيرًا فِي اللَّيْلِ",
+          "transliteration": "asʿulu kathīran fī l-layli",
+          "audioText": "أَسْعُلُ كَثِيرًا فِي اللَّيْلِ",
+          "meaning": {
+            "en": "I cough a lot at night.",
+            "ur": "مجھے رات کو بہت کھانسی ہوتی ہے۔",
+            "id": "Saya banyak batuk di malam hari.",
+            "tr": "Geceleri çok öksürüyorum.",
+            "fr": "Je tousse beaucoup la nuit."
+          },
+          "audio": {
+            "path": "audio/health/health-03-cough-at-night.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-04-review-5",
+          "type": "sentence",
+          "arabic": "عِنْدِي صُدَاعٌ مُنْذُ أَمْسِ",
+          "transliteration": "ʿindī ṣudāʿun mundhu amsi",
+          "audioText": "عِنْدِي صُدَاعٌ مُنْذُ أَمْسِ",
+          "meaning": {
+            "en": "I have had a headache since yesterday.",
+            "ur": "کل سے میرے سر میں درد ہے۔",
+            "id": "Saya sakit kepala sejak kemarin.",
+            "tr": "Dünden beri başım ağrıyor.",
+            "fr": "J'ai mal à la tête depuis hier."
+          },
+          "audio": {
+            "path": "audio/health/health-03-headache-since-yesterday.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-04-when-did-it-start",
+          "type": "question",
+          "arabic": "مَتَى بَدَأَ هَذَا الْأَلَمُ؟",
+          "transliteration": "matā badaʾa hādhā l-alamu?",
+          "audioText": "مَتَى بَدَأَ هَذَا الْأَلَمُ؟",
+          "meaning": {
+            "en": "When did this pain start?",
+            "ur": "یہ درد کب شروع ہوا؟",
+            "id": "Kapan rasa sakit ini dimulai?",
+            "tr": "Bu acı ne zaman başladı?",
+            "fr": "Quand cette douleur a-t-elle commencé ?"
+          },
+          "audio": {
+            "path": "audio/health/health-04-when-did-it-start.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-04-pain-for-two-days",
+          "type": "sentence",
+          "arabic": "أَشْعُرُ بِهَذَا الْأَلَمِ مُنْذُ يَوْمَيْنِ",
+          "transliteration": "ashʿuru bihādhā l-alami mundhu yawmayni",
+          "audioText": "أَشْعُرُ بِهَذَا الْأَلَمِ مُنْذُ يَوْمَيْنِ",
+          "meaning": {
+            "en": "I have felt this pain for two days.",
+            "ur": "میں دو دن سے یہ درد محسوس کر رہا ہوں۔",
+            "id": "Saya sudah merasakan sakit ini selama dua hari.",
+            "tr": "Bu acıyı iki gündür hissediyorum.",
+            "fr": "Je ressens cette douleur depuis deux jours."
+          },
+          "audio": {
+            "path": "audio/health/health-04-pain-for-two-days.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-04-take-medicine-often",
+          "type": "question",
+          "arabic": "كَمْ مَرَّةً تَتَنَاوَلُ هَذَا الدَّوَاءَ؟",
+          "transliteration": "kam marratan tatanāwalu hādhā d-dawāʾa?",
+          "audioText": "كَمْ مَرَّةً تَتَنَاوَلُ هَذَا الدَّوَاءَ؟",
+          "meaning": {
+            "en": "How many times do you take this medicine?",
+            "ur": "آپ یہ دوا کتنی بار لیتے ہیں؟",
+            "id": "Berapa kali Anda meminum obat ini?",
+            "tr": "Bu ilacı kaç kez alıyorsunuz?",
+            "fr": "Combien de fois prenez-vous ce médicament ?"
+          },
+          "audio": {
+            "path": "audio/health/health-04-take-medicine-often.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-04-symptom-comes-and-goes",
+          "type": "sentence",
+          "arabic": "يَأْتِي هَذَا الشُّعُورُ وَيَذْهَبُ",
+          "transliteration": "yaʾtī hādhā sh-shuʿūru wa-yadhhabu",
+          "audioText": "يَأْتِي هَذَا الشُّعُورُ وَيَذْهَبُ",
+          "meaning": {
+            "en": "This feeling comes and goes.",
+            "ur": "یہ احساس آتا ہے اور جاتا ہے۔",
+            "id": "Perasaan ini datang dan pergi.",
+            "tr": "Bu duygu gelir ve gider.",
+            "fr": "Ce sentiment va et vient."
+          },
+          "audio": {
+            "path": "audio/health/health-04-symptom-comes-and-goes.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-04-temperature-normal",
+          "type": "sentence",
+          "arabic": "دَرَجَةُ حَرَارَتِي طَبِيعِيَّةٌ الْآنَ",
+          "transliteration": "darajatu ḥarāratī ṭabīʿiyyatun al-āna",
+          "audioText": "دَرَجَةُ حَرَارَتِي طَبِيعِيَّةٌ الْآنَ",
+          "meaning": {
+            "en": "My temperature is normal now.",
+            "ur": "میرا درجہ حرارت اب نارمل ہے۔",
+            "id": "Suhu tubuhku normal sekarang.",
+            "tr": "Şu anda ateşim normal.",
+            "fr": "Ma température est normale maintenant."
+          },
+          "audio": {
+            "path": "audio/health/health-04-temperature-normal.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "health-05",
+      "order": 5,
+      "title": {
+        "en": "Making an appointment",
+        "ur": "ملاقات کا وقت بنانا",
+        "id": "Membuat janji",
+        "tr": "Randevu alma",
+        "fr": "Prendre rendez-vous"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Making an appointment.",
+        "ur": "ملاقات کے بارے میں مفید عربی الفاظ اور مختصر فقروں کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Membuat janji.",
+        "tr": "Randevu almayla ilgili yararlı Arapça kelimelerin ve kısa ifadelerin alıştırmasını yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur la prise de rendez-vous."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "health-05-review-1",
+          "type": "question",
+          "arabic": "مَتَى بَدَأَ هَذَا الْأَلَمُ؟",
+          "transliteration": "matā badaʾa hādhā l-alamu?",
+          "audioText": "مَتَى بَدَأَ هَذَا الْأَلَمُ؟",
+          "meaning": {
+            "en": "When did this pain start?",
+            "ur": "یہ درد کب شروع ہوا؟",
+            "id": "Kapan rasa sakit ini dimulai?",
+            "tr": "Bu acı ne zaman başladı?",
+            "fr": "Quand cette douleur a-t-elle commencé ?"
+          },
+          "audio": {
+            "path": "audio/health/health-04-when-did-it-start.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-05-review-2",
+          "type": "sentence",
+          "arabic": "أَشْعُرُ بِهَذَا الْأَلَمِ مُنْذُ يَوْمَيْنِ",
+          "transliteration": "ashʿuru bihādhā l-alami mundhu yawmayni",
+          "audioText": "أَشْعُرُ بِهَذَا الْأَلَمِ مُنْذُ يَوْمَيْنِ",
+          "meaning": {
+            "en": "I have felt this pain for two days.",
+            "ur": "میں دو دن سے یہ درد محسوس کر رہا ہوں۔",
+            "id": "Saya sudah merasakan sakit ini selama dua hari.",
+            "tr": "Bu acıyı iki gündür hissediyorum.",
+            "fr": "Je ressens cette douleur depuis deux jours."
+          },
+          "audio": {
+            "path": "audio/health/health-04-pain-for-two-days.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-05-review-3",
+          "type": "question",
+          "arabic": "كَمْ مَرَّةً تَتَنَاوَلُ هَذَا الدَّوَاءَ؟",
+          "transliteration": "kam marratan tatanāwalu hādhā d-dawāʾa?",
+          "audioText": "كَمْ مَرَّةً تَتَنَاوَلُ هَذَا الدَّوَاءَ؟",
+          "meaning": {
+            "en": "How many times do you take this medicine?",
+            "ur": "آپ یہ دوا کتنی بار لیتے ہیں؟",
+            "id": "Berapa kali Anda meminum obat ini?",
+            "tr": "Bu ilacı kaç kez alıyorsunuz?",
+            "fr": "Combien de fois prenez-vous ce médicament ?"
+          },
+          "audio": {
+            "path": "audio/health/health-04-take-medicine-often.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-05-review-4",
+          "type": "sentence",
+          "arabic": "يَأْتِي هَذَا الشُّعُورُ وَيَذْهَبُ",
+          "transliteration": "yaʾtī hādhā sh-shuʿūru wa-yadhhabu",
+          "audioText": "يَأْتِي هَذَا الشُّعُورُ وَيَذْهَبُ",
+          "meaning": {
+            "en": "This feeling comes and goes.",
+            "ur": "یہ احساس آتا ہے اور جاتا ہے۔",
+            "id": "Perasaan ini datang dan pergi.",
+            "tr": "Bu duygu gelir ve gider.",
+            "fr": "Ce sentiment va et vient."
+          },
+          "audio": {
+            "path": "audio/health/health-04-symptom-comes-and-goes.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-05-review-5",
+          "type": "sentence",
+          "arabic": "دَرَجَةُ حَرَارَتِي طَبِيعِيَّةٌ الْآنَ",
+          "transliteration": "darajatu ḥarāratī ṭabīʿiyyatun al-āna",
+          "audioText": "دَرَجَةُ حَرَارَتِي طَبِيعِيَّةٌ الْآنَ",
+          "meaning": {
+            "en": "My temperature is normal now.",
+            "ur": "میرا درجہ حرارت اب نارمل ہے۔",
+            "id": "Suhu tubuhku normal sekarang.",
+            "tr": "Şu anda ateşim normal.",
+            "fr": "Ma température est normale maintenant."
+          },
+          "audio": {
+            "path": "audio/health/health-04-temperature-normal.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-05-book-doctor-appointment",
+          "type": "request",
+          "arabic": "أُرِيدُ حَجْزَ مَوْعِدٍ مَعَ الطَّبِيبِ",
+          "transliteration": "urīdu ḥajza mawʿidin maʿa ṭ-ṭabībi",
+          "audioText": "أُرِيدُ حَجْزَ مَوْعِدٍ مَعَ الطَّبِيبِ",
+          "meaning": {
+            "en": "I would like to make an appointment with the doctor.",
+            "ur": "میں ڈاکٹر سے ملاقات کرنا چاہتا ہوں۔",
+            "id": "Saya ingin membuat janji dengan dokter.",
+            "tr": "Doktorla randevu almak istiyorum.",
+            "fr": "Je souhaite prendre rendez-vous avec le médecin."
+          },
+          "audio": {
+            "path": "audio/health/health-05-book-doctor-appointment.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-05-available-tomorrow",
+          "type": "question",
+          "arabic": "هَلْ يُوجَدُ مَوْعِدٌ مُتَاحٌ غَدًا؟",
+          "transliteration": "hal yūjadu mawʿidun mutāḥun ghadan?",
+          "audioText": "هَلْ يُوجَدُ مَوْعِدٌ مُتَاحٌ غَدًا؟",
+          "meaning": {
+            "en": "Is an appointment available tomorrow?",
+            "ur": "کیا کل ملاقات کا وقت دستیاب ہے؟",
+            "id": "Apakah ada janji temu besok?",
+            "tr": "Yarın için randevu var mı?",
+            "fr": "Un rendez-vous est-il disponible demain ?"
+          },
+          "audio": {
+            "path": "audio/health/health-05-available-tomorrow.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-05-prefer-afternoon",
+          "type": "sentence",
+          "arabic": "يُنَاسِبُنِي وَقْتُ بَعْدَ الظُّهْرِ",
+          "transliteration": "yunāsibunī waqtu baʿda ẓ-ẓuhri",
+          "audioText": "يُنَاسِبُنِي وَقْتُ بَعْدَ الظُّهْرِ",
+          "meaning": {
+            "en": "Afternoon works for me.",
+            "ur": "دوپہر میرے لیے کام کرتی ہے۔",
+            "id": "Sore bekerja untuk saya.",
+            "tr": "Öğleden sonra benim için çalışıyor.",
+            "fr": "L'après-midi me convient."
+          },
+          "audio": {
+            "path": "audio/health/health-05-prefer-afternoon.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-05-appointment-at-four",
+          "type": "sentence",
+          "arabic": "مَوْعِدُكَ غَدًا فِي السَّاعَةِ الرَّابِعَةِ",
+          "transliteration": "mawʿiduka ghadan fī s-sāʿati r-rābiʿati",
+          "audioText": "مَوْعِدُكَ غَدًا فِي السَّاعَةِ الرَّابِعَةِ",
+          "meaning": {
+            "en": "Your appointment is tomorrow at four o'clock. (to a man)",
+            "ur": "آپ کی ملاقات کل چار بجے ہے۔ (ایک آدمی کو)",
+            "id": "Janji temu Anda besok jam empat. (kepada seorang pria)",
+            "tr": "Randevunuz yarın saat dörtte. (bir erkeğe)",
+            "fr": "Votre rendez-vous est demain à quatre heures. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/health/health-05-appointment-at-four.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-05-change-appointment",
+          "type": "request",
+          "arabic": "هَلْ يُمْكِنُنِي تَغْيِيرُ الْمَوْعِدِ إِلَى يَوْمِ الْخَمِيسِ؟",
+          "transliteration": "hal yumkinunī taghyīru l-mawʿidi ilā yawmi l-khamīsi?",
+          "audioText": "هَلْ يُمْكِنُنِي تَغْيِيرُ الْمَوْعِدِ إِلَى يَوْمِ الْخَمِيسِ؟",
+          "meaning": {
+            "en": "Can I change the appointment to Thursday?",
+            "ur": "کیا میں اپوائنٹمنٹ کو جمعرات میں تبدیل کر سکتا ہوں؟",
+            "id": "Bisakah saya mengubah janji temu menjadi hari Kamis?",
+            "tr": "Randevumu Perşembe gününe değiştirebilir miyim?",
+            "fr": "Puis-je changer le rendez-vous au jeudi ?"
+          },
+          "audio": {
+            "path": "audio/health/health-05-change-appointment.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "health-06",
+      "order": 6,
+      "title": {
+        "en": "At the clinic",
+        "ur": "کلینک میں",
+        "id": "Di klinik",
+        "tr": "Klinikte",
+        "fr": "À la clinique"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about At the clinic.",
+        "ur": "کلینک کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Di klinik.",
+        "tr": "Klinikte ile ilgili faydalı Arapça kelimeleri ve kısa cümleleri uygulayın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur À la clinique."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "health-06-review-1",
+          "type": "request",
+          "arabic": "أُرِيدُ حَجْزَ مَوْعِدٍ مَعَ الطَّبِيبِ",
+          "transliteration": "urīdu ḥajza mawʿidin maʿa ṭ-ṭabībi",
+          "audioText": "أُرِيدُ حَجْزَ مَوْعِدٍ مَعَ الطَّبِيبِ",
+          "meaning": {
+            "en": "I would like to make an appointment with the doctor.",
+            "ur": "میں ڈاکٹر سے ملاقات کرنا چاہتا ہوں۔",
+            "id": "Saya ingin membuat janji dengan dokter.",
+            "tr": "Doktorla randevu almak istiyorum.",
+            "fr": "Je souhaite prendre rendez-vous avec le médecin."
+          },
+          "audio": {
+            "path": "audio/health/health-05-book-doctor-appointment.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-06-review-2",
+          "type": "question",
+          "arabic": "هَلْ يُوجَدُ مَوْعِدٌ مُتَاحٌ غَدًا؟",
+          "transliteration": "hal yūjadu mawʿidun mutāḥun ghadan?",
+          "audioText": "هَلْ يُوجَدُ مَوْعِدٌ مُتَاحٌ غَدًا؟",
+          "meaning": {
+            "en": "Is an appointment available tomorrow?",
+            "ur": "کیا کل ملاقات کا وقت دستیاب ہے؟",
+            "id": "Apakah ada janji temu besok?",
+            "tr": "Yarın için randevu var mı?",
+            "fr": "Un rendez-vous est-il disponible demain ?"
+          },
+          "audio": {
+            "path": "audio/health/health-05-available-tomorrow.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-06-review-3",
+          "type": "sentence",
+          "arabic": "يُنَاسِبُنِي وَقْتُ بَعْدَ الظُّهْرِ",
+          "transliteration": "yunāsibunī waqtu baʿda ẓ-ẓuhri",
+          "audioText": "يُنَاسِبُنِي وَقْتُ بَعْدَ الظُّهْرِ",
+          "meaning": {
+            "en": "Afternoon works for me.",
+            "ur": "دوپہر میرے لیے کام کرتی ہے۔",
+            "id": "Sore bekerja untuk saya.",
+            "tr": "Öğleden sonra benim için çalışıyor.",
+            "fr": "L'après-midi me convient."
+          },
+          "audio": {
+            "path": "audio/health/health-05-prefer-afternoon.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-06-review-4",
+          "type": "sentence",
+          "arabic": "مَوْعِدُكَ غَدًا فِي السَّاعَةِ الرَّابِعَةِ",
+          "transliteration": "mawʿiduka ghadan fī s-sāʿati r-rābiʿati",
+          "audioText": "مَوْعِدُكَ غَدًا فِي السَّاعَةِ الرَّابِعَةِ",
+          "meaning": {
+            "en": "Your appointment is tomorrow at four o'clock. (to a man)",
+            "ur": "آپ کی ملاقات کل چار بجے ہے۔ (ایک آدمی کو)",
+            "id": "Janji temu Anda besok jam empat. (kepada seorang pria)",
+            "tr": "Randevunuz yarın saat dörtte. (bir erkeğe)",
+            "fr": "Votre rendez-vous est demain à quatre heures. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/health/health-05-appointment-at-four.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-06-review-5",
+          "type": "request",
+          "arabic": "هَلْ يُمْكِنُنِي تَغْيِيرُ الْمَوْعِدِ إِلَى يَوْمِ الْخَمِيسِ؟",
+          "transliteration": "hal yumkinunī taghyīru l-mawʿidi ilā yawmi l-khamīsi?",
+          "audioText": "هَلْ يُمْكِنُنِي تَغْيِيرُ الْمَوْعِدِ إِلَى يَوْمِ الْخَمِيسِ؟",
+          "meaning": {
+            "en": "Can I change the appointment to Thursday?",
+            "ur": "کیا میں اپوائنٹمنٹ کو جمعرات میں تبدیل کر سکتا ہوں؟",
+            "id": "Bisakah saya mengubah janji temu menjadi hari Kamis?",
+            "tr": "Randevumu Perşembe gününe değiştirebilir miyim?",
+            "fr": "Puis-je changer le rendez-vous au jeudi ?"
+          },
+          "audio": {
+            "path": "audio/health/health-05-change-appointment.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-06-waiting-room",
+          "type": "phrase",
+          "arabic": "غُرْفَةُ الِانْتِظَارِ",
+          "transliteration": "ghurfatu l-intiẓāri",
+          "audioText": "غُرْفَةُ الِانْتِظَارِ",
+          "meaning": {
+            "en": "the waiting room",
+            "ur": "انتظار گاہ",
+            "id": "ruang tunggu",
+            "tr": "bekleme odası",
+            "fr": "la salle d'attente"
+          },
+          "audio": {
+            "path": "audio/health/health-06-waiting-room.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-06-fill-out-form",
+          "type": "request",
+          "arabic": "اِمْلَأْ هَذِهِ الِاسْتِمَارَةَ، مِنْ فَضْلِكَ",
+          "transliteration": "imlaʾ hādhihi l-istimārata, min faḍlika",
+          "audioText": "اِمْلَأْ هَذِهِ الِاسْتِمَارَةَ، مِنْ فَضْلِكَ",
+          "meaning": {
+            "en": "Please fill out this form. (to a man)",
+            "ur": "براہ کرم اس فارم کو پُر کریں۔ (ایک آدمی کو)",
+            "id": "Silakan isi formulir ini. (kepada seorang pria)",
+            "tr": "Lütfen bu formu doldurun. (bir erkeğe)",
+            "fr": "Veuillez remplir ce formulaire. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/health/health-06-fill-out-form.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-06-have-an-appointment",
+          "type": "sentence",
+          "arabic": "لَدَيَّ مَوْعِدٌ مَعَ الطَّبِيبِ فِي السَّاعَةِ الثَّالِثَةِ",
+          "transliteration": "ladayya mawʿidun maʿa ṭ-ṭabībi fī s-sāʿati th-thālithati",
+          "audioText": "لَدَيَّ مَوْعِدٌ مَعَ الطَّبِيبِ فِي السَّاعَةِ الثَّالِثَةِ",
+          "meaning": {
+            "en": "I have an appointment with the doctor at three.",
+            "ur": "میری ڈاکٹر سے تین بجے ملاقات ہے۔",
+            "id": "Saya ada janji dengan dokter jam tiga.",
+            "tr": "Saat üçte doktorla randevum var.",
+            "fr": "J'ai rendez-vous avec le médecin à trois heures."
+          },
+          "audio": {
+            "path": "audio/health/health-06-have-an-appointment.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-06-doctor-will-see-you",
+          "type": "sentence",
+          "arabic": "سَيَفْحَصُكَ الطَّبِيبُ بَعْدَ قَلِيلٍ",
+          "transliteration": "sayafḥaṣuka ṭ-ṭabību baʿda qalīlin",
+          "audioText": "سَيَفْحَصُكَ الطَّبِيبُ بَعْدَ قَلِيلٍ",
+          "meaning": {
+            "en": "The doctor will examine you shortly. (to a man)",
+            "ur": "ڈاکٹر جلد ہی آپ کا معائنہ کرے گا۔ (ایک آدمی کو)",
+            "id": "Dokter akan segera memeriksa Anda. (kepada seorang pria)",
+            "tr": "Doktor birazdan sizi muayene edecek. (bir erkeğe)",
+            "fr": "Le médecin vous examinera sous peu. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/health/health-06-doctor-will-see-you.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-06-bring-medical-record",
+          "type": "request",
+          "arabic": "أَحْضِرْ سِجِلَّكَ الطِّبِّيَّ فِي الزِّيَارَةِ الْقَادِمَةِ",
+          "transliteration": "aḥḍir sijillaka ṭ-ṭibbiyya fī z-ziyārati l-qādimati",
+          "audioText": "أَحْضِرْ سِجِلَّكَ الطِّبِّيَّ فِي الزِّيَارَةِ الْقَادِمَةِ",
+          "meaning": {
+            "en": "Bring your medical record to the next visit. (to a man)",
+            "ur": "اگلے وزٹ پر اپنا میڈیکل ریکارڈ لائیں۔ (ایک آدمی کو)",
+            "id": "Bawalah rekam medis Anda pada kunjungan berikutnya. (kepada seorang pria)",
+            "tr": "Bir sonraki ziyarete tıbbi kayıtlarınızı getirin. (bir erkeğe)",
+            "fr": "Apportez votre dossier médical à la prochaine visite. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/health/health-06-bring-medical-record.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "health-07",
+      "order": 7,
+      "title": {
+        "en": "Talking with a doctor",
+        "ur": "ڈاکٹر سے بات کر رہے ہیں۔",
+        "id": "Berbicara dengan dokter",
+        "tr": "Bir doktorla konuşmak",
+        "fr": "Parler avec un médecin"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Talking with a doctor.",
+        "ur": "ڈاکٹر سے بات کرنے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Berbicara dengan dokter.",
+        "tr": "Bir doktorla konuşmayla ilgili yararlı Arapça kelimelerin ve kısa ifadelerin alıştırmasını yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes pour parler avec un médecin."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "health-07-review-1",
+          "type": "phrase",
+          "arabic": "غُرْفَةُ الِانْتِظَارِ",
+          "transliteration": "ghurfatu l-intiẓāri",
+          "audioText": "غُرْفَةُ الِانْتِظَارِ",
+          "meaning": {
+            "en": "the waiting room",
+            "ur": "انتظار گاہ",
+            "id": "ruang tunggu",
+            "tr": "bekleme odası",
+            "fr": "la salle d'attente"
+          },
+          "audio": {
+            "path": "audio/health/health-06-waiting-room.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-07-review-2",
+          "type": "request",
+          "arabic": "اِمْلَأْ هَذِهِ الِاسْتِمَارَةَ، مِنْ فَضْلِكَ",
+          "transliteration": "imlaʾ hādhihi l-istimārata, min faḍlika",
+          "audioText": "اِمْلَأْ هَذِهِ الِاسْتِمَارَةَ، مِنْ فَضْلِكَ",
+          "meaning": {
+            "en": "Please fill out this form. (to a man)",
+            "ur": "براہ کرم اس فارم کو پُر کریں۔ (ایک آدمی کو)",
+            "id": "Silakan isi formulir ini. (kepada seorang pria)",
+            "tr": "Lütfen bu formu doldurun. (bir erkeğe)",
+            "fr": "Veuillez remplir ce formulaire. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/health/health-06-fill-out-form.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-07-review-3",
+          "type": "sentence",
+          "arabic": "لَدَيَّ مَوْعِدٌ مَعَ الطَّبِيبِ فِي السَّاعَةِ الثَّالِثَةِ",
+          "transliteration": "ladayya mawʿidun maʿa ṭ-ṭabībi fī s-sāʿati th-thālithati",
+          "audioText": "لَدَيَّ مَوْعِدٌ مَعَ الطَّبِيبِ فِي السَّاعَةِ الثَّالِثَةِ",
+          "meaning": {
+            "en": "I have an appointment with the doctor at three.",
+            "ur": "میری ڈاکٹر سے تین بجے ملاقات ہے۔",
+            "id": "Saya ada janji dengan dokter jam tiga.",
+            "tr": "Saat üçte doktorla randevum var.",
+            "fr": "J'ai rendez-vous avec le médecin à trois heures."
+          },
+          "audio": {
+            "path": "audio/health/health-06-have-an-appointment.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-07-review-4",
+          "type": "sentence",
+          "arabic": "سَيَفْحَصُكَ الطَّبِيبُ بَعْدَ قَلِيلٍ",
+          "transliteration": "sayafḥaṣuka ṭ-ṭabību baʿda qalīlin",
+          "audioText": "سَيَفْحَصُكَ الطَّبِيبُ بَعْدَ قَلِيلٍ",
+          "meaning": {
+            "en": "The doctor will examine you shortly. (to a man)",
+            "ur": "ڈاکٹر جلد ہی آپ کا معائنہ کرے گا۔ (ایک آدمی کو)",
+            "id": "Dokter akan segera memeriksa Anda. (kepada seorang pria)",
+            "tr": "Doktor birazdan sizi muayene edecek. (bir erkeğe)",
+            "fr": "Le médecin vous examinera sous peu. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/health/health-06-doctor-will-see-you.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-07-review-5",
+          "type": "request",
+          "arabic": "أَحْضِرْ سِجِلَّكَ الطِّبِّيَّ فِي الزِّيَارَةِ الْقَادِمَةِ",
+          "transliteration": "aḥḍir sijillaka ṭ-ṭibbiyya fī z-ziyārati l-qādimati",
+          "audioText": "أَحْضِرْ سِجِلَّكَ الطِّبِّيَّ فِي الزِّيَارَةِ الْقَادِمَةِ",
+          "meaning": {
+            "en": "Bring your medical record to the next visit. (to a man)",
+            "ur": "اگلے وزٹ پر اپنا میڈیکل ریکارڈ لائیں۔ (ایک آدمی کو)",
+            "id": "Bawalah rekam medis Anda pada kunjungan berikutnya. (kepada seorang pria)",
+            "tr": "Bir sonraki ziyarete tıbbi kayıtlarınızı getirin. (bir erkeğe)",
+            "fr": "Apportez votre dossier médical à la prochaine visite. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/health/health-06-bring-medical-record.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-07-where-does-it-hurt",
+          "type": "question",
+          "arabic": "أَيْنَ يَشْتَدُّ الْأَلَمُ؟",
+          "transliteration": "ayna yashtaddu l-alamu?",
+          "audioText": "أَيْنَ يَشْتَدُّ الْأَلَمُ؟",
+          "meaning": {
+            "en": "Where is the pain strongest?",
+            "ur": "درد سب سے مضبوط کہاں ہے؟",
+            "id": "Di manakah rasa sakit yang paling parah?",
+            "tr": "Ağrı en güçlü nerede?",
+            "fr": "Où la douleur est-elle la plus forte ?"
+          },
+          "audio": {
+            "path": "audio/health/health-07-where-does-it-hurt.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-07-hurts-when-walking",
+          "type": "sentence",
+          "arabic": "يَزْدَادُ الْأَلَمُ عِنْدَمَا أَمْشِي",
+          "transliteration": "yazdādu l-alamu ʿindamā amshī",
+          "audioText": "يَزْدَادُ الْأَلَمُ عِنْدَمَا أَمْشِي",
+          "meaning": {
+            "en": "The pain gets worse when I walk.",
+            "ur": "جب میں چلتا ہوں تو درد بڑھ جاتا ہے۔",
+            "id": "Rasa sakitnya semakin parah saat saya berjalan.",
+            "tr": "Yürüdüğümde ağrı daha da kötüleşiyor.",
+            "fr": "La douleur s'aggrave lorsque je marche."
+          },
+          "audio": {
+            "path": "audio/health/health-07-hurts-when-walking.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-07-allergy-to-medicine",
+          "type": "sentence",
+          "arabic": "عِنْدِي حَسَاسِيَّةٌ مِنْ بَعْضِ الْأَدْوِيَةِ",
+          "transliteration": "ʿindī ḥasāsiyyatun min baʿḍi l-adwiyati",
+          "audioText": "عِنْدِي حَسَاسِيَّةٌ مِنْ بَعْضِ الْأَدْوِيَةِ",
+          "meaning": {
+            "en": "I am allergic to some medicines.",
+            "ur": "مجھے کچھ دوائیوں سے الرجی ہے۔",
+            "id": "Saya alergi terhadap beberapa obat.",
+            "tr": "Bazı ilaçlara alerjim var.",
+            "fr": "Je suis allergique à certains médicaments."
+          },
+          "audio": {
+            "path": "audio/health/health-07-allergy-to-medicine.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-07-take-any-medicine",
+          "type": "question",
+          "arabic": "هَلْ تَتَنَاوَلُ أَيَّ أَدْوِيَةٍ؟",
+          "transliteration": "hal tatanāwalu ayya adwiyatin?",
+          "audioText": "هَلْ تَتَنَاوَلُ أَيَّ أَدْوِيَةٍ؟",
+          "meaning": {
+            "en": "Are you taking any medicines?",
+            "ur": "کیا آپ کوئی دوائیں لے رہے ہیں؟",
+            "id": "Apakah Anda sedang mengonsumsi obat-obatan?",
+            "tr": "Herhangi bir ilaç kullanıyor musun?",
+            "fr": "Prenez-vous des médicaments ?"
+          },
+          "audio": {
+            "path": "audio/health/health-07-take-any-medicine.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-07-explain-results",
+          "type": "request",
+          "arabic": "هَلْ يُمْكِنُكَ شَرْحُ هَذِهِ النَّتَائِجِ؟",
+          "transliteration": "hal yumkinuka sharḥu hādhihi n-natāʾiji?",
+          "audioText": "هَلْ يُمْكِنُكَ شَرْحُ هَذِهِ النَّتَائِجِ؟",
+          "meaning": {
+            "en": "Could you explain these results? (to a man)",
+            "ur": "کیا آپ ان نتائج کی وضاحت کر سکتے ہیں؟ (ایک آدمی کو)",
+            "id": "Bisakah Anda menjelaskan hasil ini? (kepada seorang pria)",
+            "tr": "Bu sonuçları açıklayabilir misiniz? (bir erkeğe)",
+            "fr": "Pourriez-vous expliquer ces résultats ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/health/health-07-explain-results.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "health-08",
+      "order": 8,
+      "title": {
+        "en": "At the pharmacy",
+        "ur": "فارمیسی میں",
+        "id": "Di apotek",
+        "tr": "Eczanede",
+        "fr": "A la pharmacie"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about At the pharmacy.",
+        "ur": "فارمیسی میں مفید عربی الفاظ اور مختصر فقروں کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Di apotek.",
+        "tr": "Eczanede ile ilgili faydalı Arapça kelimeleri ve kısa cümleleri uygulayın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur À la pharmacie."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "health-08-review-1",
+          "type": "question",
+          "arabic": "أَيْنَ يَشْتَدُّ الْأَلَمُ؟",
+          "transliteration": "ayna yashtaddu l-alamu?",
+          "audioText": "أَيْنَ يَشْتَدُّ الْأَلَمُ؟",
+          "meaning": {
+            "en": "Where is the pain strongest?",
+            "ur": "درد سب سے مضبوط کہاں ہے؟",
+            "id": "Di manakah rasa sakit yang paling parah?",
+            "tr": "Ağrı en güçlü nerede?",
+            "fr": "Où la douleur est-elle la plus forte ?"
+          },
+          "audio": {
+            "path": "audio/health/health-07-where-does-it-hurt.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-08-review-2",
+          "type": "sentence",
+          "arabic": "يَزْدَادُ الْأَلَمُ عِنْدَمَا أَمْشِي",
+          "transliteration": "yazdādu l-alamu ʿindamā amshī",
+          "audioText": "يَزْدَادُ الْأَلَمُ عِنْدَمَا أَمْشِي",
+          "meaning": {
+            "en": "The pain gets worse when I walk.",
+            "ur": "جب میں چلتا ہوں تو درد بڑھ جاتا ہے۔",
+            "id": "Rasa sakitnya semakin parah saat saya berjalan.",
+            "tr": "Yürüdüğümde ağrı daha da kötüleşiyor.",
+            "fr": "La douleur s'aggrave lorsque je marche."
+          },
+          "audio": {
+            "path": "audio/health/health-07-hurts-when-walking.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-08-review-3",
+          "type": "sentence",
+          "arabic": "عِنْدِي حَسَاسِيَّةٌ مِنْ بَعْضِ الْأَدْوِيَةِ",
+          "transliteration": "ʿindī ḥasāsiyyatun min baʿḍi l-adwiyati",
+          "audioText": "عِنْدِي حَسَاسِيَّةٌ مِنْ بَعْضِ الْأَدْوِيَةِ",
+          "meaning": {
+            "en": "I am allergic to some medicines.",
+            "ur": "مجھے کچھ دوائیوں سے الرجی ہے۔",
+            "id": "Saya alergi terhadap beberapa obat.",
+            "tr": "Bazı ilaçlara alerjim var.",
+            "fr": "Je suis allergique à certains médicaments."
+          },
+          "audio": {
+            "path": "audio/health/health-07-allergy-to-medicine.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-08-review-4",
+          "type": "question",
+          "arabic": "هَلْ تَتَنَاوَلُ أَيَّ أَدْوِيَةٍ؟",
+          "transliteration": "hal tatanāwalu ayya adwiyatin?",
+          "audioText": "هَلْ تَتَنَاوَلُ أَيَّ أَدْوِيَةٍ؟",
+          "meaning": {
+            "en": "Are you taking any medicines?",
+            "ur": "کیا آپ کوئی دوائیں لے رہے ہیں؟",
+            "id": "Apakah Anda sedang mengonsumsi obat-obatan?",
+            "tr": "Herhangi bir ilaç kullanıyor musun?",
+            "fr": "Prenez-vous des médicaments ?"
+          },
+          "audio": {
+            "path": "audio/health/health-07-take-any-medicine.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-08-review-5",
+          "type": "request",
+          "arabic": "هَلْ يُمْكِنُكَ شَرْحُ هَذِهِ النَّتَائِجِ؟",
+          "transliteration": "hal yumkinuka sharḥu hādhihi n-natāʾiji?",
+          "audioText": "هَلْ يُمْكِنُكَ شَرْحُ هَذِهِ النَّتَائِجِ؟",
+          "meaning": {
+            "en": "Could you explain these results? (to a man)",
+            "ur": "کیا آپ ان نتائج کی وضاحت کر سکتے ہیں؟ (ایک آدمی کو)",
+            "id": "Bisakah Anda menjelaskan hasil ini? (kepada seorang pria)",
+            "tr": "Bu sonuçları açıklayabilir misiniz? (bir erkeğe)",
+            "fr": "Pourriez-vous expliquer ces résultats ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/health/health-07-explain-results.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-08-pharmacy",
+          "type": "word",
+          "arabic": "صَيْدَلِيَّةٌ",
+          "transliteration": "ṣaydaliyyatun",
+          "audioText": "صَيْدَلِيَّةٌ",
+          "meaning": {
+            "en": "a pharmacy",
+            "ur": "ایک فارمیسی",
+            "id": "sebuah apotek",
+            "tr": "bir eczane",
+            "fr": "une pharmacie"
+          },
+          "audio": {
+            "path": "audio/health/health-08-pharmacy.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-08-prescription",
+          "type": "word",
+          "arabic": "وَصْفَةٌ طِبِّيَّةٌ",
+          "transliteration": "waṣfatun ṭibbiyyatun",
+          "audioText": "وَصْفَةٌ طِبِّيَّةٌ",
+          "meaning": {
+            "en": "a prescription",
+            "ur": "ایک نسخہ",
+            "id": "sebuah resep",
+            "tr": "bir reçete",
+            "fr": "une ordonnance"
+          },
+          "audio": {
+            "path": "audio/health/health-08-prescription.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-08-follow-label",
+          "type": "request",
+          "arabic": "اِقْرَأِ التَّعْلِيمَاتِ عَلَى الْعُلْبَةِ",
+          "transliteration": "iqraʾi t-taʿlīmāti ʿalā l-ʿulbati",
+          "audioText": "اِقْرَأِ التَّعْلِيمَاتِ عَلَى الْعُلْبَةِ",
+          "meaning": {
+            "en": "Read the instructions on the box. (to a man)",
+            "ur": "باکس پر دی گئی ہدایات کو پڑھیں۔ (ایک آدمی کو)",
+            "id": "Baca instruksi pada kotak. (kepada seorang pria)",
+            "tr": "Kutudaki talimatları okuyun. (bir erkeğe)",
+            "fr": "Lisez les instructions sur la boîte. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/health/health-08-follow-label.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-08-medicine-after-meals",
+          "type": "question",
+          "arabic": "هَلْ يُؤْخَذُ هَذَا الدَّوَاءُ بَعْدَ الطَّعَامِ؟",
+          "transliteration": "hal yuʾkhadhu hādhā d-dawāʾu baʿda ṭ-ṭaʿāmi?",
+          "audioText": "هَلْ يُؤْخَذُ هَذَا الدَّوَاءُ بَعْدَ الطَّعَامِ؟",
+          "meaning": {
+            "en": "Is this medicine taken after meals?",
+            "ur": "کیا یہ دوا کھانے کے بعد لی جاتی ہے؟",
+            "id": "Apakah obat ini diminum setelah makan?",
+            "tr": "Bu ilaç yemeklerden sonra mı alınır?",
+            "fr": "Ce médicament est-il pris après les repas ?"
+          },
+          "audio": {
+            "path": "audio/health/health-08-medicine-after-meals.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-08-need-small-bandage",
+          "type": "sentence",
+          "arabic": "أَحْتَاجُ إِلَى ضِمَادٍ صَغِيرٍ لِلْجُرْحِ",
+          "transliteration": "aḥtāju ilā ḍimādin ṣaghīrin li-l-jurḥi",
+          "audioText": "أَحْتَاجُ إِلَى ضِمَادٍ صَغِيرٍ لِلْجُرْحِ",
+          "meaning": {
+            "en": "I need a small bandage for the wound.",
+            "ur": "مجھے زخم کے لیے ایک چھوٹی سی پٹی کی ضرورت ہے۔",
+            "id": "Saya perlu perban kecil untuk lukanya.",
+            "tr": "Yara için küçük bir bandaja ihtiyacım var.",
+            "fr": "J'ai besoin d'un petit pansement pour la plaie."
+          },
+          "audio": {
+            "path": "audio/health/health-08-need-small-bandage.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "health-09",
+      "order": 9,
+      "title": {
+        "en": "Following care instructions",
+        "ur": "دیکھ بھال کی ہدایات پر عمل کریں۔",
+        "id": "Mengikuti instruksi perawatan",
+        "tr": "Bakım talimatlarını takip etmek",
+        "fr": "Suivre les instructions d'entretien"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Following care instructions.",
+        "ur": "نگہداشت کی ہدایات پر عمل کرنے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Mengikuti instruksi perawatan.",
+        "tr": "Bakım talimatlarını takip etmeyle ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Entraînez-vous à utiliser des mots arabes utiles et des phrases courtes pour suivre les instructions d'entretien."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "health-09-review-1",
+          "type": "word",
+          "arabic": "صَيْدَلِيَّةٌ",
+          "transliteration": "ṣaydaliyyatun",
+          "audioText": "صَيْدَلِيَّةٌ",
+          "meaning": {
+            "en": "a pharmacy",
+            "ur": "ایک فارمیسی",
+            "id": "sebuah apotek",
+            "tr": "bir eczane",
+            "fr": "une pharmacie"
+          },
+          "audio": {
+            "path": "audio/health/health-08-pharmacy.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-09-review-2",
+          "type": "word",
+          "arabic": "وَصْفَةٌ طِبِّيَّةٌ",
+          "transliteration": "waṣfatun ṭibbiyyatun",
+          "audioText": "وَصْفَةٌ طِبِّيَّةٌ",
+          "meaning": {
+            "en": "a prescription",
+            "ur": "ایک نسخہ",
+            "id": "sebuah resep",
+            "tr": "bir reçete",
+            "fr": "une ordonnance"
+          },
+          "audio": {
+            "path": "audio/health/health-08-prescription.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-09-review-3",
+          "type": "request",
+          "arabic": "اِقْرَأِ التَّعْلِيمَاتِ عَلَى الْعُلْبَةِ",
+          "transliteration": "iqraʾi t-taʿlīmāti ʿalā l-ʿulbati",
+          "audioText": "اِقْرَأِ التَّعْلِيمَاتِ عَلَى الْعُلْبَةِ",
+          "meaning": {
+            "en": "Read the instructions on the box. (to a man)",
+            "ur": "باکس پر دی گئی ہدایات کو پڑھیں۔ (ایک آدمی کو)",
+            "id": "Baca instruksi pada kotak. (kepada seorang pria)",
+            "tr": "Kutudaki talimatları okuyun. (bir erkeğe)",
+            "fr": "Lisez les instructions sur la boîte. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/health/health-08-follow-label.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-09-review-4",
+          "type": "question",
+          "arabic": "هَلْ يُؤْخَذُ هَذَا الدَّوَاءُ بَعْدَ الطَّعَامِ؟",
+          "transliteration": "hal yuʾkhadhu hādhā d-dawāʾu baʿda ṭ-ṭaʿāmi?",
+          "audioText": "هَلْ يُؤْخَذُ هَذَا الدَّوَاءُ بَعْدَ الطَّعَامِ؟",
+          "meaning": {
+            "en": "Is this medicine taken after meals?",
+            "ur": "کیا یہ دوا کھانے کے بعد لی جاتی ہے؟",
+            "id": "Apakah obat ini diminum setelah makan?",
+            "tr": "Bu ilaç yemeklerden sonra mı alınır?",
+            "fr": "Ce médicament est-il pris après les repas ?"
+          },
+          "audio": {
+            "path": "audio/health/health-08-medicine-after-meals.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-09-review-5",
+          "type": "sentence",
+          "arabic": "أَحْتَاجُ إِلَى ضِمَادٍ صَغِيرٍ لِلْجُرْحِ",
+          "transliteration": "aḥtāju ilā ḍimādin ṣaghīrin li-l-jurḥi",
+          "audioText": "أَحْتَاجُ إِلَى ضِمَادٍ صَغِيرٍ لِلْجُرْحِ",
+          "meaning": {
+            "en": "I need a small bandage for the wound.",
+            "ur": "مجھے زخم کے لیے ایک چھوٹی سی پٹی کی ضرورت ہے۔",
+            "id": "Saya perlu perban kecil untuk lukanya.",
+            "tr": "Yara için küçük bir bandaja ihtiyacım var.",
+            "fr": "J'ai besoin d'un petit pansement pour la plaie."
+          },
+          "audio": {
+            "path": "audio/health/health-08-need-small-bandage.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-09-drink-water",
+          "type": "request",
+          "arabic": "اِشْرَبْ مَاءً كَافِيًا خِلَالَ الْيَوْمِ",
+          "transliteration": "ishrab māʾan kāfiyan khilāla l-yawmi",
+          "audioText": "اِشْرَبْ مَاءً كَافِيًا خِلَالَ الْيَوْمِ",
+          "meaning": {
+            "en": "Drink enough water during the day. (to a man)",
+            "ur": "دن کے وقت کافی پانی پیئے۔ (ایک آدمی کو)",
+            "id": "Minumlah air yang cukup di siang hari. (kepada seorang pria)",
+            "tr": "Gün içerisinde yeterince su için. (bir erkeğe)",
+            "fr": "Buvez suffisamment d'eau pendant la journée. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/health/health-09-drink-water.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-09-rest-at-home",
+          "type": "request",
+          "arabic": "خُذْ قِسْطًا مِنَ الرَّاحَةِ فِي الْبَيْتِ",
+          "transliteration": "khudh qisṭan mina r-rāḥati fī l-bayti",
+          "audioText": "خُذْ قِسْطًا مِنَ الرَّاحَةِ فِي الْبَيْتِ",
+          "meaning": {
+            "en": "Get some rest at home. (to a man)",
+            "ur": "گھر میں تھوڑا آرام کریں۔ (ایک آدمی کو)",
+            "id": "Istirahatlah di rumah. (kepada seorang pria)",
+            "tr": "Evde biraz dinlen. (bir erkeğe)",
+            "fr": "Reposez-vous à la maison. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/health/health-09-rest-at-home.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-09-return-if-worse",
+          "type": "sentence",
+          "arabic": "اِرْجِعْ إِلَى الْعِيَادَةِ إِذَا زَادَ الْأَلَمُ",
+          "transliteration": "irjiʿ ilā l-ʿiyādati idhā zāda l-alamu",
+          "audioText": "اِرْجِعْ إِلَى الْعِيَادَةِ إِذَا زَادَ الْأَلَمُ",
+          "meaning": {
+            "en": "Return to the clinic if the pain gets worse. (to a man)",
+            "ur": "اگر درد بڑھ جاتا ہے تو کلینک پر واپس جائیں۔ (ایک آدمی کو)",
+            "id": "Kembalilah ke klinik jika nyeri semakin parah. (kepada seorang pria)",
+            "tr": "Ağrı kötüleşirse kliniğe dönün. (bir erkeğe)",
+            "fr": "Retournez à la clinique si la douleur s'aggrave. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/health/health-09-return-if-worse.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-09-follow-up-next-week",
+          "type": "sentence",
+          "arabic": "لَدَيَّ زِيَارَةُ مُتَابَعَةٍ الْأُسْبُوعَ الْقَادِمَ",
+          "transliteration": "ladayya ziyāratu mutābaʿatin l-usbūʿa l-qādima",
+          "audioText": "لَدَيَّ زِيَارَةُ مُتَابَعَةٍ الْأُسْبُوعَ الْقَادِمَ",
+          "meaning": {
+            "en": "I have a follow-up visit next week.",
+            "ur": "اگلے ہفتے میرا فالو اپ دورہ ہے۔",
+            "id": "Saya ada kunjungan lanjutan minggu depan.",
+            "tr": "Gelecek hafta bir takip ziyaretim var.",
+            "fr": "J'ai une visite de suivi la semaine prochaine."
+          },
+          "audio": {
+            "path": "audio/health/health-09-follow-up-next-week.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-09-thank-doctor",
+          "type": "sentence",
+          "arabic": "شُكْرًا لَكَ عَلَى وَقْتِكَ وَمُسَاعَدَتِكَ",
+          "transliteration": "shukran laka ʿalā waqtika wa-musāʿadatika",
+          "audioText": "شُكْرًا لَكَ عَلَى وَقْتِكَ وَمُسَاعَدَتِكَ",
+          "meaning": {
+            "en": "Thank you for your time and help. (to a man)",
+            "ur": "آپ کے وقت اور مدد کے لیے آپ کا شکریہ۔ (ایک آدمی کو)",
+            "id": "Terima kasih atas waktu dan bantuan Anda. (kepada seorang pria)",
+            "tr": "Zaman ayırdığınız ve yardım ettiğiniz için teşekkür ederiz. (bir erkeğe)",
+            "fr": "Merci pour votre temps et votre aide. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/health/health-09-thank-doctor.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "health-10",
+      "order": 10,
+      "title": {
+        "en": "A clinic conversation",
+        "ur": "ایک کلینک گفتگو",
+        "id": "Percakapan klinik",
+        "tr": "Bir klinik sohbeti",
+        "fr": "Une conversation en clinique"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about A clinic conversation.",
+        "ur": "کلینک گفتگو کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang percakapan klinik.",
+        "tr": "Bir klinik konuşmasıyla ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur une conversation en clinique."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "health-10-review-1",
+          "type": "request",
+          "arabic": "اِشْرَبْ مَاءً كَافِيًا خِلَالَ الْيَوْمِ",
+          "transliteration": "ishrab māʾan kāfiyan khilāla l-yawmi",
+          "audioText": "اِشْرَبْ مَاءً كَافِيًا خِلَالَ الْيَوْمِ",
+          "meaning": {
+            "en": "Drink enough water during the day. (to a man)",
+            "ur": "دن کے وقت کافی پانی پیئے۔ (ایک آدمی کو)",
+            "id": "Minumlah air yang cukup di siang hari. (kepada seorang pria)",
+            "tr": "Gün içerisinde yeterince su için. (bir erkeğe)",
+            "fr": "Buvez suffisamment d'eau pendant la journée. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/health/health-09-drink-water.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-10-review-2",
+          "type": "request",
+          "arabic": "خُذْ قِسْطًا مِنَ الرَّاحَةِ فِي الْبَيْتِ",
+          "transliteration": "khudh qisṭan mina r-rāḥati fī l-bayti",
+          "audioText": "خُذْ قِسْطًا مِنَ الرَّاحَةِ فِي الْبَيْتِ",
+          "meaning": {
+            "en": "Get some rest at home. (to a man)",
+            "ur": "گھر میں تھوڑا آرام کریں۔ (ایک آدمی کو)",
+            "id": "Istirahatlah di rumah. (kepada seorang pria)",
+            "tr": "Evde biraz dinlen. (bir erkeğe)",
+            "fr": "Reposez-vous à la maison. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/health/health-09-rest-at-home.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-10-review-3",
+          "type": "sentence",
+          "arabic": "اِرْجِعْ إِلَى الْعِيَادَةِ إِذَا زَادَ الْأَلَمُ",
+          "transliteration": "irjiʿ ilā l-ʿiyādati idhā zāda l-alamu",
+          "audioText": "اِرْجِعْ إِلَى الْعِيَادَةِ إِذَا زَادَ الْأَلَمُ",
+          "meaning": {
+            "en": "Return to the clinic if the pain gets worse. (to a man)",
+            "ur": "اگر درد بڑھ جاتا ہے تو کلینک پر واپس جائیں۔ (ایک آدمی کو)",
+            "id": "Kembalilah ke klinik jika nyeri semakin parah. (kepada seorang pria)",
+            "tr": "Ağrı kötüleşirse kliniğe dönün. (bir erkeğe)",
+            "fr": "Retournez à la clinique si la douleur s'aggrave. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/health/health-09-return-if-worse.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-10-review-4",
+          "type": "sentence",
+          "arabic": "لَدَيَّ زِيَارَةُ مُتَابَعَةٍ الْأُسْبُوعَ الْقَادِمَ",
+          "transliteration": "ladayya ziyāratu mutābaʿatin l-usbūʿa l-qādima",
+          "audioText": "لَدَيَّ زِيَارَةُ مُتَابَعَةٍ الْأُسْبُوعَ الْقَادِمَ",
+          "meaning": {
+            "en": "I have a follow-up visit next week.",
+            "ur": "اگلے ہفتے میرا فالو اپ دورہ ہے۔",
+            "id": "Saya ada kunjungan lanjutan minggu depan.",
+            "tr": "Gelecek hafta bir takip ziyaretim var.",
+            "fr": "J'ai une visite de suivi la semaine prochaine."
+          },
+          "audio": {
+            "path": "audio/health/health-09-follow-up-next-week.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-10-review-5",
+          "type": "sentence",
+          "arabic": "شُكْرًا لَكَ عَلَى وَقْتِكَ وَمُسَاعَدَتِكَ",
+          "transliteration": "shukran laka ʿalā waqtika wa-musāʿadatika",
+          "audioText": "شُكْرًا لَكَ عَلَى وَقْتِكَ وَمُسَاعَدَتِكَ",
+          "meaning": {
+            "en": "Thank you for your time and help. (to a man)",
+            "ur": "آپ کے وقت اور مدد کے لیے آپ کا شکریہ۔ (ایک آدمی کو)",
+            "id": "Terima kasih atas waktu dan bantuan Anda. (kepada seorang pria)",
+            "tr": "Zaman ayırdığınız ve yardım ettiğiniz için teşekkür ederiz. (bir erkeğe)",
+            "fr": "Merci pour votre temps et votre aide. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/health/health-09-thank-doctor.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-10-patient-arrives",
+          "type": "sentence",
+          "arabic": "وَصَلَتِ الْمَرِيضَةُ إِلَى الْعِيَادَةِ قَبْلَ مَوْعِدِهَا",
+          "transliteration": "waṣalati l-marīḍatu ilā l-ʿiyādati qabla mawʿidihā",
+          "audioText": "وَصَلَتِ الْمَرِيضَةُ إِلَى الْعِيَادَةِ قَبْلَ مَوْعِدِهَا",
+          "meaning": {
+            "en": "The patient arrived at the clinic before her appointment.",
+            "ur": "مریض اپنی ملاقات سے پہلے کلینک پہنچ گیا۔",
+            "id": "Pasien tiba di klinik sebelum janjinya.",
+            "tr": "Hasta randevusundan önce kliniğe geldi.",
+            "fr": "La patiente est arrivée à la clinique avant son rendez-vous."
+          },
+          "audio": {
+            "path": "audio/health/health-10-patient-arrives.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-10-describe-pain",
+          "type": "sentence",
+          "arabic": "قَالَتْ إِنَّ ظَهْرَهَا يُؤْلِمُهَا مُنْذُ أَيَّامٍ",
+          "transliteration": "qālat inna ẓahrahā yuʾlimuhā mundhu ayyāmin",
+          "audioText": "قَالَتْ إِنَّ ظَهْرَهَا يُؤْلِمُهَا مُنْذُ أَيَّامٍ",
+          "meaning": {
+            "en": "She said her back had been hurting for days.",
+            "ur": "اس نے بتایا کہ اس کی کمر میں کئی دنوں سے درد تھا۔",
+            "id": "Dia mengatakan punggungnya sakit selama berhari-hari.",
+            "tr": "Günlerdir belinin ağrıdığını söyledi.",
+            "fr": "Elle a dit que son dos lui faisait mal depuis des jours."
+          },
+          "audio": {
+            "path": "audio/health/health-10-describe-pain.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-10-doctor-asks-questions",
+          "type": "sentence",
+          "arabic": "سَأَلَهَا الطَّبِيبُ عَنْ أَعْرَاضِهَا وَدَوَائِهَا",
+          "transliteration": "saʾalahā ṭ-ṭabību ʿan aʿrāḍihā wa-dawāʾihā",
+          "audioText": "سَأَلَهَا الطَّبِيبُ عَنْ أَعْرَاضِهَا وَدَوَائِهَا",
+          "meaning": {
+            "en": "The doctor asked her about her symptoms and medicine.",
+            "ur": "ڈاکٹر نے اس سے اس کی علامات اور دوا کے بارے میں پوچھا۔",
+            "id": "Dokter bertanya tentang gejala dan obatnya.",
+            "tr": "Doktor ona belirtilerini ve ilaçlarını sordu.",
+            "fr": "Le médecin lui a posé des questions sur ses symptômes et ses médicaments."
+          },
+          "audio": {
+            "path": "audio/health/health-10-doctor-asks-questions.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-10-explain-care-plan",
+          "type": "sentence",
+          "arabic": "شَرَحَ لَهَا الطَّبِيبُ خُطَّةَ الْعِنَايَةِ",
+          "transliteration": "sharaḥa lahā ṭ-ṭabību khuṭṭata l-ʿināyati",
+          "audioText": "شَرَحَ لَهَا الطَّبِيبُ خُطَّةَ الْعِنَايَةِ",
+          "meaning": {
+            "en": "The doctor explained the care plan to her.",
+            "ur": "ڈاکٹر نے اسے دیکھ بھال کے منصوبے کی وضاحت کی۔",
+            "id": "Dokter menjelaskan rencana perawatan kepadanya.",
+            "tr": "Doktor ona bakım planını açıkladı.",
+            "fr": "Le médecin lui a expliqué le plan de soins."
+          },
+          "audio": {
+            "path": "audio/health/health-10-explain-care-plan.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "health-10-patient-asks-questions",
+          "type": "sentence",
+          "arabic": "طَرَحَتِ الْمَرِيضَةُ أَسْئِلَتَهَا قَبْلَ الْعَوْدَةِ إِلَى الْبَيْتِ",
+          "transliteration": "ṭaraḥati l-marīḍatu asʾilatahā qabla l-ʿawdati ilā l-bayti",
+          "audioText": "طَرَحَتِ الْمَرِيضَةُ أَسْئِلَتَهَا قَبْلَ الْعَوْدَةِ إِلَى الْبَيْتِ",
+          "meaning": {
+            "en": "The patient asked her questions before returning home.",
+            "ur": "مریض نے گھر واپس آنے سے پہلے اس سے سوالات پوچھے۔",
+            "id": "Pasien menanyakan pertanyaannya sebelum kembali ke rumah.",
+            "tr": "Hasta eve dönmeden önce sorularını sordu.",
+            "fr": "La patiente lui a posé des questions avant de rentrer chez elle."
+          },
+          "audio": {
+            "path": "audio/health/health-10-patient-asks-questions.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    }
+  ]
+}

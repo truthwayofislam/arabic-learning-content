@@ -1,0 +1,2385 @@
+{
+  "schemaVersion": 1,
+  "courseId": "arabic",
+  "levelId": "work",
+  "unitId": "work",
+  "translationLanguages": [
+    "en",
+    "ur",
+    "id",
+    "tr",
+    "fr"
+  ],
+  "lessons": [
+    {
+      "id": "work-01",
+      "order": 1,
+      "title": {
+        "en": "Professions and workplaces",
+        "ur": "پیشے اور کام کی جگہیں۔",
+        "id": "Profesi dan tempat kerja",
+        "tr": "Meslekler ve işyerleri",
+        "fr": "Professions et lieux de travail"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Professions and workplaces.",
+        "ur": "پیشہ اور کام کی جگہوں کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Profesi dan tempat kerja.",
+        "tr": "Meslekler ve işyerleri hakkında faydalı Arapça kelimeler ve kısa ifadeler üzerinde pratik yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les professions et les lieux de travail."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "work-01-review-1",
+          "type": "sentence",
+          "arabic": "سَأَلَ الزَّبُونُ عَنْ مَقَاسٍ أَكْبَرَ",
+          "transliteration": "saʾala z-zabūnu ʿan maqāsin akbara",
+          "audioText": "سَأَلَ الزَّبُونُ عَنْ مَقَاسٍ أَكْبَرَ",
+          "meaning": {
+            "en": "The customer asked for a larger size.",
+            "ur": "گاہک نے بڑے سائز کا پوچھا۔",
+            "id": "Pelanggan meminta ukuran yang lebih besar.",
+            "tr": "Müşteri daha büyük bir beden istedi.",
+            "fr": "Le client a demandé une taille plus grande."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-10-customer-asks-size.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-01-review-2",
+          "type": "sentence",
+          "arabic": "أَحْضَرَ الْبَائِعُ قَمِيصًا بِلَوْنٍ مُخْتَلِفٍ",
+          "transliteration": "aḥḍara l-bāʾiʿu qamīṣan bi-lawni mukhtalifin",
+          "audioText": "أَحْضَرَ الْبَائِعُ قَمِيصًا بِلَوْنٍ مُخْتَلِفٍ",
+          "meaning": {
+            "en": "The shopkeeper brought a shirt in a different color.",
+            "ur": "دکاندار دوسرے رنگ کی قمیض لے کر آیا۔",
+            "id": "Penjaga toko membawakan kemeja dengan warna berbeda.",
+            "tr": "Dükkan sahibi farklı renkte bir gömlek getirdi.",
+            "fr": "Le commerçant a apporté une chemise d'une couleur différente."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-10-assistant-brings-shirt.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-01-review-3",
+          "type": "sentence",
+          "arabic": "قَاسَ الزَّبُونُ الْقَمِيصَ وَوَجَدَهُ مُرِيحًا",
+          "transliteration": "qāsa z-zabūnu l-qamīṣa wa-wajadahu murīḥan",
+          "audioText": "قَاسَ الزَّبُونُ الْقَمِيصَ وَوَجَدَهُ مُرِيحًا",
+          "meaning": {
+            "en": "The customer tried on the shirt and found it comfortable.",
+            "ur": "گاہک نے قمیض کو آزمایا اور اسے آرام دہ پایا۔",
+            "id": "Pelanggan mencoba kemeja tersebut dan merasa nyaman.",
+            "tr": "Müşteri gömleği denedi ve rahat buldu.",
+            "fr": "Le client a essayé la chemise et l’a trouvée confortable."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-10-customer-tries-shirt.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-01-review-4",
+          "type": "sentence",
+          "arabic": "سَأَلَ عَنِ الْخَصْمِ وَدَفَعَ بِالْبِطَاقَةِ",
+          "transliteration": "saʾala ʿani l-khaṣmi wa-dafaʿa bi-l-biṭāqati",
+          "audioText": "سَأَلَ عَنِ الْخَصْمِ وَدَفَعَ بِالْبِطَاقَةِ",
+          "meaning": {
+            "en": "He asked about a discount and paid by card.",
+            "ur": "اس نے ڈسکاؤنٹ کے بارے میں پوچھا اور کارڈ کے ذریعے ادائیگی کی۔",
+            "id": "Dia bertanya tentang diskon dan membayar dengan kartu.",
+            "tr": "İndirim istedi ve kartla ödedi.",
+            "fr": "Il a demandé une réduction et a payé par carte."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-10-ask-about-discount.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-01-review-5",
+          "type": "sentence",
+          "arabic": "غَادَرَ الْمَتْجَرَ وَمَعَهُ الْإِيصَالُ",
+          "transliteration": "ghādara l-matjara wa-maʿahu l-īṣālu",
+          "audioText": "غَادَرَ الْمَتْجَرَ وَمَعَهُ الْإِيصَالُ",
+          "meaning": {
+            "en": "He left the shop with the receipt.",
+            "ur": "وہ رسید لے کر دکان سے چلا گیا۔",
+            "id": "Dia meninggalkan toko dengan tanda terima.",
+            "tr": "Faturasıyla birlikte mağazadan ayrıldı.",
+            "fr": "Il a quitté le magasin avec le reçu."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-10-leave-with-receipt.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-01-engineer",
+          "type": "word",
+          "arabic": "مُهَنْدِسٌ",
+          "transliteration": "muhandisun",
+          "audioText": "مُهَنْدِسٌ",
+          "meaning": {
+            "en": "an engineer",
+            "ur": "ایک انجینئر",
+            "id": "seorang insinyur",
+            "tr": "bir mühendis",
+            "fr": "un ingénieur"
+          },
+          "audio": {
+            "path": "audio/work/work-01-engineer.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-01-nurse",
+          "type": "word",
+          "arabic": "مُمَرِّضٌ",
+          "transliteration": "mumarriḍun",
+          "audioText": "مُمَرِّضٌ",
+          "meaning": {
+            "en": "a male nurse",
+            "ur": "ایک مرد نرس",
+            "id": "seorang perawat laki-laki",
+            "tr": "erkek hemşire",
+            "fr": "un infirmier"
+          },
+          "audio": {
+            "path": "audio/work/work-01-nurse.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-01-office",
+          "type": "word",
+          "arabic": "مَكْتَبٌ",
+          "transliteration": "maktabun",
+          "audioText": "مَكْتَبٌ",
+          "meaning": {
+            "en": "an office",
+            "ur": "ایک دفتر",
+            "id": "sebuah kantor",
+            "tr": "bir ofis",
+            "fr": "un bureau"
+          },
+          "audio": {
+            "path": "audio/work/work-01-office.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-01-colleague",
+          "type": "word",
+          "arabic": "زَمِيلٌ",
+          "transliteration": "zamīlun",
+          "audioText": "زَمِيلٌ",
+          "meaning": {
+            "en": "a male colleague",
+            "ur": "ایک مرد ساتھی",
+            "id": "seorang rekan laki-laki",
+            "tr": "bir erkek meslektaşım",
+            "fr": "un collègue masculin"
+          },
+          "audio": {
+            "path": "audio/work/work-01-colleague.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-01-i-work-as-engineer",
+          "type": "sentence",
+          "arabic": "أَعْمَلُ مُهَنْدِسًا فِي شَرِكَةٍ صَغِيرَةٍ",
+          "transliteration": "aʿmalu muhandisan fī sharikatin ṣaghīratin",
+          "audioText": "أَعْمَلُ مُهَنْدِسًا فِي شَرِكَةٍ صَغِيرَةٍ",
+          "meaning": {
+            "en": "I work as an engineer in a small company.",
+            "ur": "میں ایک چھوٹی کمپنی میں انجینئر کے طور پر کام کرتا ہوں۔",
+            "id": "Saya bekerja sebagai insinyur di sebuah perusahaan kecil.",
+            "tr": "Küçük bir şirkette mühendis olarak çalışıyorum.",
+            "fr": "Je travaille comme ingénieur dans une petite entreprise."
+          },
+          "audio": {
+            "path": "audio/work/work-01-i-work-as-engineer.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "work-02",
+      "order": 2,
+      "title": {
+        "en": "Work tasks and responsibilities",
+        "ur": "کام کے کام اور ذمہ داریاں",
+        "id": "Tugas dan tanggung jawab pekerjaan",
+        "tr": "İş görevleri ve sorumlulukları",
+        "fr": "Tâches et responsabilités de travail"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Work tasks and responsibilities.",
+        "ur": "کام کے کاموں اور ذمہ داریوں کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang tugas dan tanggung jawab Pekerjaan.",
+        "tr": "İş görevleri ve sorumlulukları hakkında yararlı Arapça kelimeler ve kısa ifadeler uygulayın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les tâches et responsabilités professionnelles."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "work-02-review-1",
+          "type": "word",
+          "arabic": "مُهَنْدِسٌ",
+          "transliteration": "muhandisun",
+          "audioText": "مُهَنْدِسٌ",
+          "meaning": {
+            "en": "an engineer",
+            "ur": "ایک انجینئر",
+            "id": "seorang insinyur",
+            "tr": "bir mühendis",
+            "fr": "un ingénieur"
+          },
+          "audio": {
+            "path": "audio/work/work-01-engineer.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-02-review-2",
+          "type": "word",
+          "arabic": "مُمَرِّضٌ",
+          "transliteration": "mumarriḍun",
+          "audioText": "مُمَرِّضٌ",
+          "meaning": {
+            "en": "a male nurse",
+            "ur": "ایک مرد نرس",
+            "id": "seorang perawat laki-laki",
+            "tr": "erkek hemşire",
+            "fr": "un infirmier"
+          },
+          "audio": {
+            "path": "audio/work/work-01-nurse.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-02-review-3",
+          "type": "word",
+          "arabic": "مَكْتَبٌ",
+          "transliteration": "maktabun",
+          "audioText": "مَكْتَبٌ",
+          "meaning": {
+            "en": "an office",
+            "ur": "ایک دفتر",
+            "id": "sebuah kantor",
+            "tr": "bir ofis",
+            "fr": "un bureau"
+          },
+          "audio": {
+            "path": "audio/work/work-01-office.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-02-review-4",
+          "type": "word",
+          "arabic": "زَمِيلٌ",
+          "transliteration": "zamīlun",
+          "audioText": "زَمِيلٌ",
+          "meaning": {
+            "en": "a male colleague",
+            "ur": "ایک مرد ساتھی",
+            "id": "seorang rekan laki-laki",
+            "tr": "bir erkek meslektaşım",
+            "fr": "un collègue masculin"
+          },
+          "audio": {
+            "path": "audio/work/work-01-colleague.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-02-review-5",
+          "type": "sentence",
+          "arabic": "أَعْمَلُ مُهَنْدِسًا فِي شَرِكَةٍ صَغِيرَةٍ",
+          "transliteration": "aʿmalu muhandisan fī sharikatin ṣaghīratin",
+          "audioText": "أَعْمَلُ مُهَنْدِسًا فِي شَرِكَةٍ صَغِيرَةٍ",
+          "meaning": {
+            "en": "I work as an engineer in a small company.",
+            "ur": "میں ایک چھوٹی کمپنی میں انجینئر کے طور پر کام کرتا ہوں۔",
+            "id": "Saya bekerja sebagai insinyur di sebuah perusahaan kecil.",
+            "tr": "Küçük bir şirkette mühendis olarak çalışıyorum.",
+            "fr": "Je travaille comme ingénieur dans une petite entreprise."
+          },
+          "audio": {
+            "path": "audio/work/work-01-i-work-as-engineer.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-02-prepare-report",
+          "type": "phrase",
+          "arabic": "إِعْدَادُ التَّقْرِيرِ الْأُسْبُوعِيِّ",
+          "transliteration": "iʿdādu t-taqrīri l-usbūʿiyyi",
+          "audioText": "إِعْدَادُ التَّقْرِيرِ الْأُسْبُوعِيِّ",
+          "meaning": {
+            "en": "preparing the weekly report",
+            "ur": "ہفتہ وار رپورٹ کی تیاری",
+            "id": "menyiapkan laporan mingguan",
+            "tr": "haftalık raporun hazırlanması",
+            "fr": "préparer le rapport hebdomadaire"
+          },
+          "audio": {
+            "path": "audio/work/work-02-prepare-report.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-02-answer-emails",
+          "type": "sentence",
+          "arabic": "أَرُدُّ عَلَى رَسَائِلِ الْعُمَلِ كُلَّ صَبَاحٍ",
+          "transliteration": "aruddu ʿalā rasāʾili l-ʿamali kulla ṣabāḥin",
+          "audioText": "أَرُدُّ عَلَى رَسَائِلِ الْعُمَلِ كُلَّ صَبَاحٍ",
+          "meaning": {
+            "en": "I answer work emails every morning.",
+            "ur": "میں ہر صبح کام کی ای میلز کا جواب دیتا ہوں۔",
+            "id": "Saya menjawab email kantor setiap pagi.",
+            "tr": "Her sabah iş e-postalarına cevap veriyorum.",
+            "fr": "Je réponds aux e-mails professionnels tous les matins."
+          },
+          "audio": {
+            "path": "audio/work/work-02-answer-emails.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-02-organize-files",
+          "type": "sentence",
+          "arabic": "يُنَظِّمُ زَمِيلِي الْمَلَفَّاتِ الْمُشْتَرَكَةَ",
+          "transliteration": "yunaẓẓimu zamīlī l-malafāti l-mushtarakata",
+          "audioText": "يُنَظِّمُ زَمِيلِي الْمَلَفَّاتِ الْمُشْتَرَكَةَ",
+          "meaning": {
+            "en": "My colleague organizes the shared files.",
+            "ur": "میرا ساتھی مشترکہ فائلوں کو منظم کرتا ہے۔",
+            "id": "Rekan saya mengatur file yang dibagikan.",
+            "tr": "Meslektaşım paylaşılan dosyaları düzenliyor.",
+            "fr": "Mon collègue organise les fichiers partagés."
+          },
+          "audio": {
+            "path": "audio/work/work-02-organize-files.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-02-finish-task",
+          "type": "sentence",
+          "arabic": "أُكْمِلُ هَذِهِ الْمُهِمَّةَ قَبْلَ الِاجْتِمَاعِ",
+          "transliteration": "ukmilu hādhihi l-muhimmata qabla l-ijtimāʿi",
+          "audioText": "أُكْمِلُ هَذِهِ الْمُهِمَّةَ قَبْلَ الِاجْتِمَاعِ",
+          "meaning": {
+            "en": "I will finish this task before the meeting.",
+            "ur": "میں میٹنگ سے پہلے یہ کام ختم کر دوں گا۔",
+            "id": "Saya akan menyelesaikan tugas ini sebelum pertemuan.",
+            "tr": "Bu görevi toplantıdan önce bitireceğim.",
+            "fr": "Je terminerai cette tâche avant la réunion."
+          },
+          "audio": {
+            "path": "audio/work/work-02-finish-task.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-02-who-is-responsible",
+          "type": "question",
+          "arabic": "مَنْ مَسْؤُولٌ عَنْ هَذَا الْمَشْرُوعِ؟",
+          "transliteration": "man masʾūlun ʿan hādhā l-mashrūʿi?",
+          "audioText": "مَنْ مَسْؤُولٌ عَنْ هَذَا الْمَشْرُوعِ؟",
+          "meaning": {
+            "en": "Who is responsible for this project?",
+            "ur": "اس منصوبے کا ذمہ دار کون ہے؟",
+            "id": "Siapa yang bertanggung jawab atas proyek ini?",
+            "tr": "Bu projenin sorumlusu kim?",
+            "fr": "Qui est responsable de ce projet ?"
+          },
+          "audio": {
+            "path": "audio/work/work-02-who-is-responsible.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "work-03",
+      "order": 3,
+      "title": {
+        "en": "Schedules and deadlines",
+        "ur": "نظام الاوقات اور آخری تاریخ",
+        "id": "Jadwal dan tenggat waktu",
+        "tr": "Programlar ve son tarihler",
+        "fr": "Horaires et délais"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Schedules and deadlines.",
+        "ur": "نظام الاوقات اور آخری تاریخ کے بارے میں مفید عربی الفاظ اور مختصر فقروں کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang Jadwal dan tenggat waktu.",
+        "tr": "Programlar ve son teslim tarihleriyle ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les horaires et les délais."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "work-03-review-1",
+          "type": "phrase",
+          "arabic": "إِعْدَادُ التَّقْرِيرِ الْأُسْبُوعِيِّ",
+          "transliteration": "iʿdādu t-taqrīri l-usbūʿiyyi",
+          "audioText": "إِعْدَادُ التَّقْرِيرِ الْأُسْبُوعِيِّ",
+          "meaning": {
+            "en": "preparing the weekly report",
+            "ur": "ہفتہ وار رپورٹ کی تیاری",
+            "id": "menyiapkan laporan mingguan",
+            "tr": "haftalık raporun hazırlanması",
+            "fr": "préparer le rapport hebdomadaire"
+          },
+          "audio": {
+            "path": "audio/work/work-02-prepare-report.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-03-review-2",
+          "type": "sentence",
+          "arabic": "أَرُدُّ عَلَى رَسَائِلِ الْعُمَلِ كُلَّ صَبَاحٍ",
+          "transliteration": "aruddu ʿalā rasāʾili l-ʿamali kulla ṣabāḥin",
+          "audioText": "أَرُدُّ عَلَى رَسَائِلِ الْعُمَلِ كُلَّ صَبَاحٍ",
+          "meaning": {
+            "en": "I answer work emails every morning.",
+            "ur": "میں ہر صبح کام کی ای میلز کا جواب دیتا ہوں۔",
+            "id": "Saya menjawab email kantor setiap pagi.",
+            "tr": "Her sabah iş e-postalarına cevap veriyorum.",
+            "fr": "Je réponds aux e-mails professionnels tous les matins."
+          },
+          "audio": {
+            "path": "audio/work/work-02-answer-emails.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-03-review-3",
+          "type": "sentence",
+          "arabic": "يُنَظِّمُ زَمِيلِي الْمَلَفَّاتِ الْمُشْتَرَكَةَ",
+          "transliteration": "yunaẓẓimu zamīlī l-malafāti l-mushtarakata",
+          "audioText": "يُنَظِّمُ زَمِيلِي الْمَلَفَّاتِ الْمُشْتَرَكَةَ",
+          "meaning": {
+            "en": "My colleague organizes the shared files.",
+            "ur": "میرا ساتھی مشترکہ فائلوں کو منظم کرتا ہے۔",
+            "id": "Rekan saya mengatur file yang dibagikan.",
+            "tr": "Meslektaşım paylaşılan dosyaları düzenliyor.",
+            "fr": "Mon collègue organise les fichiers partagés."
+          },
+          "audio": {
+            "path": "audio/work/work-02-organize-files.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-03-review-4",
+          "type": "sentence",
+          "arabic": "أُكْمِلُ هَذِهِ الْمُهِمَّةَ قَبْلَ الِاجْتِمَاعِ",
+          "transliteration": "ukmilu hādhihi l-muhimmata qabla l-ijtimāʿi",
+          "audioText": "أُكْمِلُ هَذِهِ الْمُهِمَّةَ قَبْلَ الِاجْتِمَاعِ",
+          "meaning": {
+            "en": "I will finish this task before the meeting.",
+            "ur": "میں میٹنگ سے پہلے یہ کام ختم کر دوں گا۔",
+            "id": "Saya akan menyelesaikan tugas ini sebelum pertemuan.",
+            "tr": "Bu görevi toplantıdan önce bitireceğim.",
+            "fr": "Je terminerai cette tâche avant la réunion."
+          },
+          "audio": {
+            "path": "audio/work/work-02-finish-task.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-03-review-5",
+          "type": "question",
+          "arabic": "مَنْ مَسْؤُولٌ عَنْ هَذَا الْمَشْرُوعِ؟",
+          "transliteration": "man masʾūlun ʿan hādhā l-mashrūʿi?",
+          "audioText": "مَنْ مَسْؤُولٌ عَنْ هَذَا الْمَشْرُوعِ؟",
+          "meaning": {
+            "en": "Who is responsible for this project?",
+            "ur": "اس منصوبے کا ذمہ دار کون ہے؟",
+            "id": "Siapa yang bertanggung jawab atas proyek ini?",
+            "tr": "Bu projenin sorumlusu kim?",
+            "fr": "Qui est responsable de ce projet ?"
+          },
+          "audio": {
+            "path": "audio/work/work-02-who-is-responsible.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-03-work-shift",
+          "type": "phrase",
+          "arabic": "وَرْدِيَّةُ الْعَمَلِ",
+          "transliteration": "wardiyyatu l-ʿamali",
+          "audioText": "وَرْدِيَّةُ الْعَمَلِ",
+          "meaning": {
+            "en": "a work shift",
+            "ur": "ایک کام کی شفٹ",
+            "id": "sebuah shift kerja",
+            "tr": "iş vardiyası",
+            "fr": "un quart de travail"
+          },
+          "audio": {
+            "path": "audio/work/work-03-work-shift.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-03-deadline-friday",
+          "type": "sentence",
+          "arabic": "مَوْعِدُ تَسْلِيمِ التَّقْرِيرِ يَوْمَ الْجُمُعَةِ",
+          "transliteration": "mawʿidu taslīmi t-taqrīri yawma l-jumuʿati",
+          "audioText": "مَوْعِدُ تَسْلِيمِ التَّقْرِيرِ يَوْمَ الْجُمُعَةِ",
+          "meaning": {
+            "en": "The report deadline is Friday.",
+            "ur": "رپورٹ کی آخری تاریخ جمعہ ہے۔",
+            "id": "Batas waktu laporan adalah hari Jumat.",
+            "tr": "Raporun son teslim tarihi Cuma günüdür.",
+            "fr": "La date limite du rapport est vendredi."
+          },
+          "audio": {
+            "path": "audio/work/work-03-deadline-friday.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-03-meeting-postponed",
+          "type": "sentence",
+          "arabic": "تَأَجَّلَ الِاجْتِمَاعُ إِلَى بَعْدَ الظُّهْرِ",
+          "transliteration": "taʾajjala l-ijtimāʿu ilā baʿda ẓ-ẓuhri",
+          "audioText": "تَأَجَّلَ الِاجْتِمَاعُ إِلَى بَعْدَ الظُّهْرِ",
+          "meaning": {
+            "en": "The meeting was postponed until the afternoon.",
+            "ur": "اجلاس سہ پہر تک ملتوی کر دیا گیا۔",
+            "id": "Pertemuan itu ditunda hingga sore hari.",
+            "tr": "Toplantı öğleden sonraya ertelendi.",
+            "fr": "La réunion a été reportée à l'après-midi."
+          },
+          "audio": {
+            "path": "audio/work/work-03-meeting-postponed.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-03-free-at-ten",
+          "type": "question",
+          "arabic": "هَلْ أَنْتَ مُتَاحٌ فِي السَّاعَةِ الْعَاشِرَةِ؟",
+          "transliteration": "hal anta mutāḥun fī s-sāʿati l-ʿāshirati?",
+          "audioText": "هَلْ أَنْتَ مُتَاحٌ فِي السَّاعَةِ الْعَاشِرَةِ؟",
+          "meaning": {
+            "en": "Are you available at ten o'clock? (to a man)",
+            "ur": "کیا آپ دس بجے دستیاب ہیں؟ (ایک آدمی کو)",
+            "id": "Apakah Anda tersedia pada jam sepuluh? (kepada seorang pria)",
+            "tr": "Saat onda müsait misin? (bir erkeğe)",
+            "fr": "Êtes-vous disponible à dix heures ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/work/work-03-free-at-ten.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-03-need-more-time",
+          "type": "sentence",
+          "arabic": "أَحْتَاجُ إِلَى وَقْتٍ إِضَافِيٍّ لِإِنْهَاءِ الْعَمَلِ",
+          "transliteration": "aḥtāju ilā waqtin iḍāfiyyin li-inhāʾi l-ʿamali",
+          "audioText": "أَحْتَاجُ إِلَى وَقْتٍ إِضَافِيٍّ لِإِنْهَاءِ الْعَمَلِ",
+          "meaning": {
+            "en": "I need extra time to finish the work.",
+            "ur": "مجھے کام ختم کرنے کے لیے اضافی وقت درکار ہے۔",
+            "id": "Saya memerlukan waktu ekstra untuk menyelesaikan pekerjaan.",
+            "tr": "İşi bitirmek için ekstra zamana ihtiyacım var.",
+            "fr": "J'ai besoin de plus de temps pour terminer le travail."
+          },
+          "audio": {
+            "path": "audio/work/work-03-need-more-time.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "work-04",
+      "order": 4,
+      "title": {
+        "en": "Asking and offering help",
+        "ur": "مدد مانگنا اور پیش کرنا",
+        "id": "Meminta dan menawarkan bantuan",
+        "tr": "Yardım istemek ve teklif etmek",
+        "fr": "Demander et offrir de l'aide"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Asking and offering help.",
+        "ur": "مدد مانگنے اور پیش کرنے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Meminta dan menawarkan bantuan.",
+        "tr": "Yardım istemek ve teklif etmekle ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Entraînez-vous à utiliser des mots arabes utiles et des phrases courtes pour demander et offrir de l'aide."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "work-04-review-1",
+          "type": "phrase",
+          "arabic": "وَرْدِيَّةُ الْعَمَلِ",
+          "transliteration": "wardiyyatu l-ʿamali",
+          "audioText": "وَرْدِيَّةُ الْعَمَلِ",
+          "meaning": {
+            "en": "a work shift",
+            "ur": "ایک کام کی شفٹ",
+            "id": "sebuah shift kerja",
+            "tr": "iş vardiyası",
+            "fr": "un quart de travail"
+          },
+          "audio": {
+            "path": "audio/work/work-03-work-shift.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-04-review-2",
+          "type": "sentence",
+          "arabic": "مَوْعِدُ تَسْلِيمِ التَّقْرِيرِ يَوْمَ الْجُمُعَةِ",
+          "transliteration": "mawʿidu taslīmi t-taqrīri yawma l-jumuʿati",
+          "audioText": "مَوْعِدُ تَسْلِيمِ التَّقْرِيرِ يَوْمَ الْجُمُعَةِ",
+          "meaning": {
+            "en": "The report deadline is Friday.",
+            "ur": "رپورٹ کی آخری تاریخ جمعہ ہے۔",
+            "id": "Batas waktu laporan adalah hari Jumat.",
+            "tr": "Raporun son teslim tarihi Cuma günüdür.",
+            "fr": "La date limite du rapport est vendredi."
+          },
+          "audio": {
+            "path": "audio/work/work-03-deadline-friday.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-04-review-3",
+          "type": "sentence",
+          "arabic": "تَأَجَّلَ الِاجْتِمَاعُ إِلَى بَعْدَ الظُّهْرِ",
+          "transliteration": "taʾajjala l-ijtimāʿu ilā baʿda ẓ-ẓuhri",
+          "audioText": "تَأَجَّلَ الِاجْتِمَاعُ إِلَى بَعْدَ الظُّهْرِ",
+          "meaning": {
+            "en": "The meeting was postponed until the afternoon.",
+            "ur": "اجلاس سہ پہر تک ملتوی کر دیا گیا۔",
+            "id": "Pertemuan itu ditunda hingga sore hari.",
+            "tr": "Toplantı öğleden sonraya ertelendi.",
+            "fr": "La réunion a été reportée à l'après-midi."
+          },
+          "audio": {
+            "path": "audio/work/work-03-meeting-postponed.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-04-review-4",
+          "type": "question",
+          "arabic": "هَلْ أَنْتَ مُتَاحٌ فِي السَّاعَةِ الْعَاشِرَةِ؟",
+          "transliteration": "hal anta mutāḥun fī s-sāʿati l-ʿāshirati?",
+          "audioText": "هَلْ أَنْتَ مُتَاحٌ فِي السَّاعَةِ الْعَاشِرَةِ؟",
+          "meaning": {
+            "en": "Are you available at ten o'clock? (to a man)",
+            "ur": "کیا آپ دس بجے دستیاب ہیں؟ (ایک آدمی کو)",
+            "id": "Apakah Anda tersedia pada jam sepuluh? (kepada seorang pria)",
+            "tr": "Saat onda müsait misin? (bir erkeğe)",
+            "fr": "Êtes-vous disponible à dix heures ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/work/work-03-free-at-ten.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-04-review-5",
+          "type": "sentence",
+          "arabic": "أَحْتَاجُ إِلَى وَقْتٍ إِضَافِيٍّ لِإِنْهَاءِ الْعَمَلِ",
+          "transliteration": "aḥtāju ilā waqtin iḍāfiyyin li-inhāʾi l-ʿamali",
+          "audioText": "أَحْتَاجُ إِلَى وَقْتٍ إِضَافِيٍّ لِإِنْهَاءِ الْعَمَلِ",
+          "meaning": {
+            "en": "I need extra time to finish the work.",
+            "ur": "مجھے کام ختم کرنے کے لیے اضافی وقت درکار ہے۔",
+            "id": "Saya memerlukan waktu ekstra untuk menyelesaikan pekerjaan.",
+            "tr": "İşi bitirmek için ekstra zamana ihtiyacım var.",
+            "fr": "J'ai besoin de plus de temps pour terminer le travail."
+          },
+          "audio": {
+            "path": "audio/work/work-03-need-more-time.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-04-help-with-file",
+          "type": "question",
+          "arabic": "هَلْ يُمْكِنُكَ مُسَاعَدَتِي فِي هَذَا الْمَلَفِّ؟",
+          "transliteration": "hal yumkinuka musāʿadatī fī hādhā l-malaffi?",
+          "audioText": "هَلْ يُمْكِنُكَ مُسَاعَدَتِي فِي هَذَا الْمَلَفِّ؟",
+          "meaning": {
+            "en": "Could you help me with this file? (to a man)",
+            "ur": "کیا آپ اس فائل میں میری مدد کر سکتے ہیں؟ (ایک آدمی کو)",
+            "id": "Bisakah Anda membantu saya dengan file ini? (kepada seorang pria)",
+            "tr": "Bu dosya konusunda bana yardımcı olabilir misiniz? (bir erkeğe)",
+            "fr": "Pourriez-vous m'aider avec ce fichier ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/work/work-04-help-with-file.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-04-show-how-to-use",
+          "type": "request",
+          "arabic": "أَرِنِي كَيْفَ أَسْتَخْدِمُ هَذَا الْبَرْنَامَجَ",
+          "transliteration": "arinī kayfa astakhdimu hādhā l-barnāmaja",
+          "audioText": "أَرِنِي كَيْفَ أَسْتَخْدِمُ هَذَا الْبَرْنَامَجَ",
+          "meaning": {
+            "en": "Show me how to use this program. (to a man)",
+            "ur": "مجھے اس پروگرام کو استعمال کرنے کا طریقہ دکھائیں۔ (ایک آدمی کو)",
+            "id": "Tunjukkan pada saya cara menggunakan program ini. (kepada seorang pria)",
+            "tr": "Bana bu programın nasıl kullanılacağını göster. (bir erkeğe)",
+            "fr": "Montre-moi comment utiliser ce programme. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/work/work-04-show-how-to-use.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-04-send-notes",
+          "type": "request",
+          "arabic": "أَرْسِلْ إِلَيَّ الْمُلَاحَظَاتِ بَعْدَ الْمَحَاضَرَةِ",
+          "transliteration": "arsil ilayya l-mulāḥaẓāti baʿda l-muḥāḍarati",
+          "audioText": "أَرْسِلْ إِلَيَّ الْمُلَاحَظَاتِ بَعْدَ الْمَحَاضَرَةِ",
+          "meaning": {
+            "en": "Send me the notes after the lecture. (to a man)",
+            "ur": "لیکچر کے بعد مجھے نوٹس بھیجیں۔ (ایک آدمی کو)",
+            "id": "Kirimkan saya catatan setelah ceramah. (kepada seorang pria)",
+            "tr": "Dersten sonra notları bana gönder. (bir erkeğe)",
+            "fr": "Envoyez-moi les notes après la conférence. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/work/work-04-send-notes.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-04-happy-to-help",
+          "type": "sentence",
+          "arabic": "يَسُرُّنِي أَنْ أُسَاعِدَكَ فِي الْمَشْرُوعِ",
+          "transliteration": "yasurrunī an usāʿidaka fī l-mashrūʿi",
+          "audioText": "يَسُرُّنِي أَنْ أُسَاعِدَكَ فِي الْمَشْرُوعِ",
+          "meaning": {
+            "en": "I am happy to help you with the project. (to a man)",
+            "ur": "میں اس منصوبے کے ساتھ آپ کی مدد کرنے کے لئے خوش ہوں. (ایک آدمی کو)",
+            "id": "Saya dengan senang hati membantu Anda dengan proyek ini. (kepada seorang pria)",
+            "tr": "Projede size yardımcı olmaktan mutluluk duyarım. (bir erkeğe)",
+            "fr": "Je suis heureux de vous aider avec le projet. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/work/work-04-happy-to-help.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-04-ask-again-politely",
+          "type": "request",
+          "arabic": "هَلْ يُمْكِنُكَ تَوْضِيحُ النُّقْطَةِ الْأَخِيرَةِ؟",
+          "transliteration": "hal yumkinuka tawḍīḥu n-nuqṭati l-akhīrati?",
+          "audioText": "هَلْ يُمْكِنُكَ تَوْضِيحُ النُّقْطَةِ الْأَخِيرَةِ؟",
+          "meaning": {
+            "en": "Could you clarify the last point? (to a man)",
+            "ur": "کیا آپ آخری نکتہ واضح کر سکتے ہیں؟ (ایک آدمی کو)",
+            "id": "Bisakah Anda memperjelas poin terakhir? (kepada seorang pria)",
+            "tr": "Son noktayı açıklayabilir misiniz? (bir erkeğe)",
+            "fr": "Pourriez-vous clarifier le dernier point ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/work/work-04-ask-again-politely.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "work-05",
+      "order": 5,
+      "title": {
+        "en": "Meetings and discussions",
+        "ur": "ملاقاتیں اور گفتگو",
+        "id": "Pertemuan dan diskusi",
+        "tr": "Toplantılar ve tartışmalar",
+        "fr": "Rencontres et discussions"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Meetings and discussions.",
+        "ur": "ملاقاتوں اور مباحثوں کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Rapat dan diskusi.",
+        "tr": "Toplantılar ve tartışmalarla ilgili faydalı Arapça kelimelerin ve kısa ifadelerin alıştırmasını yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les réunions et les discussions."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "work-05-review-1",
+          "type": "question",
+          "arabic": "هَلْ يُمْكِنُكَ مُسَاعَدَتِي فِي هَذَا الْمَلَفِّ؟",
+          "transliteration": "hal yumkinuka musāʿadatī fī hādhā l-malaffi?",
+          "audioText": "هَلْ يُمْكِنُكَ مُسَاعَدَتِي فِي هَذَا الْمَلَفِّ؟",
+          "meaning": {
+            "en": "Could you help me with this file? (to a man)",
+            "ur": "کیا آپ اس فائل میں میری مدد کر سکتے ہیں؟ (ایک آدمی کو)",
+            "id": "Bisakah Anda membantu saya dengan file ini? (kepada seorang pria)",
+            "tr": "Bu dosya konusunda bana yardımcı olabilir misiniz? (bir erkeğe)",
+            "fr": "Pourriez-vous m'aider avec ce fichier ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/work/work-04-help-with-file.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-05-review-2",
+          "type": "request",
+          "arabic": "أَرِنِي كَيْفَ أَسْتَخْدِمُ هَذَا الْبَرْنَامَجَ",
+          "transliteration": "arinī kayfa astakhdimu hādhā l-barnāmaja",
+          "audioText": "أَرِنِي كَيْفَ أَسْتَخْدِمُ هَذَا الْبَرْنَامَجَ",
+          "meaning": {
+            "en": "Show me how to use this program. (to a man)",
+            "ur": "مجھے اس پروگرام کو استعمال کرنے کا طریقہ دکھائیں۔ (ایک آدمی کو)",
+            "id": "Tunjukkan pada saya cara menggunakan program ini. (kepada seorang pria)",
+            "tr": "Bana bu programın nasıl kullanılacağını göster. (bir erkeğe)",
+            "fr": "Montre-moi comment utiliser ce programme. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/work/work-04-show-how-to-use.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-05-review-3",
+          "type": "request",
+          "arabic": "أَرْسِلْ إِلَيَّ الْمُلَاحَظَاتِ بَعْدَ الْمَحَاضَرَةِ",
+          "transliteration": "arsil ilayya l-mulāḥaẓāti baʿda l-muḥāḍarati",
+          "audioText": "أَرْسِلْ إِلَيَّ الْمُلَاحَظَاتِ بَعْدَ الْمَحَاضَرَةِ",
+          "meaning": {
+            "en": "Send me the notes after the lecture. (to a man)",
+            "ur": "لیکچر کے بعد مجھے نوٹس بھیجیں۔ (ایک آدمی کو)",
+            "id": "Kirimkan saya catatan setelah ceramah. (kepada seorang pria)",
+            "tr": "Dersten sonra notları bana gönder. (bir erkeğe)",
+            "fr": "Envoyez-moi les notes après la conférence. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/work/work-04-send-notes.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-05-review-4",
+          "type": "sentence",
+          "arabic": "يَسُرُّنِي أَنْ أُسَاعِدَكَ فِي الْمَشْرُوعِ",
+          "transliteration": "yasurrunī an usāʿidaka fī l-mashrūʿi",
+          "audioText": "يَسُرُّنِي أَنْ أُسَاعِدَكَ فِي الْمَشْرُوعِ",
+          "meaning": {
+            "en": "I am happy to help you with the project. (to a man)",
+            "ur": "میں اس منصوبے کے ساتھ آپ کی مدد کرنے کے لئے خوش ہوں. (ایک آدمی کو)",
+            "id": "Saya dengan senang hati membantu Anda dengan proyek ini. (kepada seorang pria)",
+            "tr": "Projede size yardımcı olmaktan mutluluk duyarım. (bir erkeğe)",
+            "fr": "Je suis heureux de vous aider avec le projet. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/work/work-04-happy-to-help.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-05-review-5",
+          "type": "request",
+          "arabic": "هَلْ يُمْكِنُكَ تَوْضِيحُ النُّقْطَةِ الْأَخِيرَةِ؟",
+          "transliteration": "hal yumkinuka tawḍīḥu n-nuqṭati l-akhīrati?",
+          "audioText": "هَلْ يُمْكِنُكَ تَوْضِيحُ النُّقْطَةِ الْأَخِيرَةِ؟",
+          "meaning": {
+            "en": "Could you clarify the last point? (to a man)",
+            "ur": "کیا آپ آخری نکتہ واضح کر سکتے ہیں؟ (ایک آدمی کو)",
+            "id": "Bisakah Anda memperjelas poin terakhir? (kepada seorang pria)",
+            "tr": "Son noktayı açıklayabilir misiniz? (bir erkeğe)",
+            "fr": "Pourriez-vous clarifier le dernier point ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/work/work-04-ask-again-politely.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-05-agenda",
+          "type": "word",
+          "arabic": "جَدْوَلُ الْأَعْمَالِ",
+          "transliteration": "jadwalu l-aʿmāli",
+          "audioText": "جَدْوَلُ الْأَعْمَالِ",
+          "meaning": {
+            "en": "an agenda",
+            "ur": "ایک ایجنڈا",
+            "id": "sebuah agenda",
+            "tr": "bir gündem",
+            "fr": "un ordre du jour"
+          },
+          "audio": {
+            "path": "audio/work/work-05-agenda.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-05-start-meeting",
+          "type": "request",
+          "arabic": "لِنَبْدَأِ الِاجْتِمَاعَ بِمُرَاجَعَةِ الْخُطَّةِ",
+          "transliteration": "linabdaʾi l-ijtimāʿa bi-murājaʿati l-khuṭṭati",
+          "audioText": "لِنَبْدَأِ الِاجْتِمَاعَ بِمُرَاجَعَةِ الْخُطَّةِ",
+          "meaning": {
+            "en": "Let's start the meeting by reviewing the plan.",
+            "ur": "آئیے پلان کا جائزہ لے کر میٹنگ کا آغاز کرتے ہیں۔",
+            "id": "Mari kita mulai rapat dengan meninjau rencananya.",
+            "tr": "Toplantıya planı gözden geçirerek başlayalım.",
+            "fr": "Commençons la réunion en examinant le plan."
+          },
+          "audio": {
+            "path": "audio/work/work-05-start-meeting.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-05-agree-with-idea",
+          "type": "sentence",
+          "arabic": "أَتَّفِقُ مَعَ هَذِهِ الْفِكْرَةِ لِهَذَا السَّبَبِ",
+          "transliteration": "attafiqu maʿa hādhihi l-fikrati li-hādhā s-sababi",
+          "audioText": "أَتَّفِقُ مَعَ هَذِهِ الْفِكْرَةِ لِهَذَا السَّبَبِ",
+          "meaning": {
+            "en": "I agree with this idea for this reason.",
+            "ur": "میں اس وجہ سے اس خیال سے متفق ہوں۔",
+            "id": "Saya setuju dengan ide ini karena alasan ini.",
+            "tr": "Bu düşünceye bu sebepten dolayı katılıyorum.",
+            "fr": "Je suis d'accord avec cette idée pour cette raison."
+          },
+          "audio": {
+            "path": "audio/work/work-05-agree-with-idea.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-05-different-suggestion",
+          "type": "sentence",
+          "arabic": "لَدَيَّ اقْتِرَاحٌ مُخْتَلِفٌ لِلنِّقَاشِ",
+          "transliteration": "ladayya iqtirāḥun mukhtalifun li-n-niqāshi",
+          "audioText": "لَدَيَّ اقْتِرَاحٌ مُخْتَلِفٌ لِلنِّقَاشِ",
+          "meaning": {
+            "en": "I have a different suggestion for discussion.",
+            "ur": "میرے پاس بحث کے لیے ایک مختلف تجویز ہے۔",
+            "id": "Saya punya saran berbeda untuk diskusi.",
+            "tr": "Tartışma için farklı bir önerim var.",
+            "fr": "J'ai une suggestion différente pour la discussion."
+          },
+          "audio": {
+            "path": "audio/work/work-05-different-suggestion.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-05-summarize-decisions",
+          "type": "request",
+          "arabic": "لَخِّصِ الْقَرَارَاتِ قَبْلَ انْتِهَاءِ الِاجْتِمَاعِ",
+          "transliteration": "lakhkhiṣi l-qarārāti qabla intihāʾi l-ijtimāʿi",
+          "audioText": "لَخِّصِ الْقَرَارَاتِ قَبْلَ انْتِهَاءِ الِاجْتِمَاعِ",
+          "meaning": {
+            "en": "Summarize the decisions before the meeting ends. (to a man)",
+            "ur": "اجلاس ختم ہونے سے پہلے فیصلوں کا خلاصہ کریں۔ (ایک آدمی کو)",
+            "id": "Meringkas keputusan sebelum rapat berakhir. (kepada seorang pria)",
+            "tr": "Toplantı bitmeden kararları özetleyin. (bir erkeğe)",
+            "fr": "Résumez les décisions avant la fin de la réunion. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/work/work-05-summarize-decisions.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "work-06",
+      "order": 6,
+      "title": {
+        "en": "Messages and email",
+        "ur": "پیغامات اور ای میل",
+        "id": "Pesan dan email",
+        "tr": "Mesajlar ve e-posta",
+        "fr": "Messages et e-mails"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Messages and email.",
+        "ur": "پیغامات اور ای میل کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Pesan dan email.",
+        "tr": "Mesajlar ve e-postayla ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les messages et les e-mails."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "work-06-review-1",
+          "type": "word",
+          "arabic": "جَدْوَلُ الْأَعْمَالِ",
+          "transliteration": "jadwalu l-aʿmāli",
+          "audioText": "جَدْوَلُ الْأَعْمَالِ",
+          "meaning": {
+            "en": "an agenda",
+            "ur": "ایک ایجنڈا",
+            "id": "sebuah agenda",
+            "tr": "bir gündem",
+            "fr": "un ordre du jour"
+          },
+          "audio": {
+            "path": "audio/work/work-05-agenda.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-06-review-2",
+          "type": "request",
+          "arabic": "لِنَبْدَأِ الِاجْتِمَاعَ بِمُرَاجَعَةِ الْخُطَّةِ",
+          "transliteration": "linabdaʾi l-ijtimāʿa bi-murājaʿati l-khuṭṭati",
+          "audioText": "لِنَبْدَأِ الِاجْتِمَاعَ بِمُرَاجَعَةِ الْخُطَّةِ",
+          "meaning": {
+            "en": "Let's start the meeting by reviewing the plan.",
+            "ur": "آئیے پلان کا جائزہ لے کر میٹنگ کا آغاز کرتے ہیں۔",
+            "id": "Mari kita mulai rapat dengan meninjau rencananya.",
+            "tr": "Toplantıya planı gözden geçirerek başlayalım.",
+            "fr": "Commençons la réunion en examinant le plan."
+          },
+          "audio": {
+            "path": "audio/work/work-05-start-meeting.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-06-review-3",
+          "type": "sentence",
+          "arabic": "أَتَّفِقُ مَعَ هَذِهِ الْفِكْرَةِ لِهَذَا السَّبَبِ",
+          "transliteration": "attafiqu maʿa hādhihi l-fikrati li-hādhā s-sababi",
+          "audioText": "أَتَّفِقُ مَعَ هَذِهِ الْفِكْرَةِ لِهَذَا السَّبَبِ",
+          "meaning": {
+            "en": "I agree with this idea for this reason.",
+            "ur": "میں اس وجہ سے اس خیال سے متفق ہوں۔",
+            "id": "Saya setuju dengan ide ini karena alasan ini.",
+            "tr": "Bu düşünceye bu sebepten dolayı katılıyorum.",
+            "fr": "Je suis d'accord avec cette idée pour cette raison."
+          },
+          "audio": {
+            "path": "audio/work/work-05-agree-with-idea.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-06-review-4",
+          "type": "sentence",
+          "arabic": "لَدَيَّ اقْتِرَاحٌ مُخْتَلِفٌ لِلنِّقَاشِ",
+          "transliteration": "ladayya iqtirāḥun mukhtalifun li-n-niqāshi",
+          "audioText": "لَدَيَّ اقْتِرَاحٌ مُخْتَلِفٌ لِلنِّقَاشِ",
+          "meaning": {
+            "en": "I have a different suggestion for discussion.",
+            "ur": "میرے پاس بحث کے لیے ایک مختلف تجویز ہے۔",
+            "id": "Saya punya saran berbeda untuk diskusi.",
+            "tr": "Tartışma için farklı bir önerim var.",
+            "fr": "J'ai une suggestion différente pour la discussion."
+          },
+          "audio": {
+            "path": "audio/work/work-05-different-suggestion.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-06-review-5",
+          "type": "request",
+          "arabic": "لَخِّصِ الْقَرَارَاتِ قَبْلَ انْتِهَاءِ الِاجْتِمَاعِ",
+          "transliteration": "lakhkhiṣi l-qarārāti qabla intihāʾi l-ijtimāʿi",
+          "audioText": "لَخِّصِ الْقَرَارَاتِ قَبْلَ انْتِهَاءِ الِاجْتِمَاعِ",
+          "meaning": {
+            "en": "Summarize the decisions before the meeting ends. (to a man)",
+            "ur": "اجلاس ختم ہونے سے پہلے فیصلوں کا خلاصہ کریں۔ (ایک آدمی کو)",
+            "id": "Meringkas keputusan sebelum rapat berakhir. (kepada seorang pria)",
+            "tr": "Toplantı bitmeden kararları özetleyin. (bir erkeğe)",
+            "fr": "Résumez les décisions avant la fin de la réunion. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/work/work-05-summarize-decisions.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-06-subject-line",
+          "type": "phrase",
+          "arabic": "مَوْضُوعُ الرِّسَالَةِ",
+          "transliteration": "mawḍūʿu r-risālati",
+          "audioText": "مَوْضُوعُ الرِّسَالَةِ",
+          "meaning": {
+            "en": "the subject line",
+            "ur": "موضوع لائن",
+            "id": "baris subjek",
+            "tr": "konu satırı",
+            "fr": "la ligne d'objet"
+          },
+          "audio": {
+            "path": "audio/work/work-06-subject-line.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-06-send-attachment",
+          "type": "sentence",
+          "arabic": "أَرْفَقْتُ الْمَلَفَّ فِي رِسَالَتِي الْإِلِكْتُرُونِيَّةِ",
+          "transliteration": "arfaqtu l-malaffa fī risālatī l-iliktrūniyyati",
+          "audioText": "أَرْفَقْتُ الْمَلَفَّ فِي رِسَالَتِي الْإِلِكْتُرُونِيَّةِ",
+          "meaning": {
+            "en": "I attached the file to my email.",
+            "ur": "میں نے فائل کو اپنے ای میل کے ساتھ منسلک کیا۔",
+            "id": "Saya melampirkan file tersebut ke email saya.",
+            "tr": "Dosyayı e-postama ekledim.",
+            "fr": "J'ai joint le fichier à mon email."
+          },
+          "audio": {
+            "path": "audio/work/work-06-send-attachment.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-06-check-inbox",
+          "type": "request",
+          "arabic": "تَفَقَّدْ صُنْدُوقَ الْبَرِيدِ بَعْدَ الظُّهْرِ",
+          "transliteration": "tafaqqad ṣundūqa l-barīdi baʿda ẓ-ẓuhri",
+          "audioText": "تَفَقَّدْ صُنْدُوقَ الْبَرِيدِ بَعْدَ الظُّهْرِ",
+          "meaning": {
+            "en": "Check the inbox in the afternoon. (to a man)",
+            "ur": "دوپہر میں ان باکس چیک کریں۔ (ایک آدمی کو)",
+            "id": "Periksa kotak masuk di sore hari. (kepada seorang pria)",
+            "tr": "Öğleden sonra gelen kutusunu kontrol edin. (bir erkeğe)",
+            "fr": "Vérifiez la boîte de réception dans l'après-midi. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/work/work-06-check-inbox.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-06-reply-tomorrow",
+          "type": "sentence",
+          "arabic": "سَأَرُدُّ عَلَى رِسَالَتِكَ غَدًا",
+          "transliteration": "saʾaruddu ʿalā risālatika ghadan",
+          "audioText": "سَأَرُدُّ عَلَى رِسَالَتِكَ غَدًا",
+          "meaning": {
+            "en": "I will reply to your message tomorrow. (to a man)",
+            "ur": "میں کل آپ کے پیغام کا جواب دوں گا۔ (ایک آدمی کو)",
+            "id": "Saya akan membalas pesan Anda besok. (kepada seorang pria)",
+            "tr": "Mesajınıza yarın cevap vereceğim. (bir erkeğe)",
+            "fr": "Je répondrai à votre message demain. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/work/work-06-reply-tomorrow.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-06-confirm-received",
+          "type": "sentence",
+          "arabic": "أُؤَكِّدُ أَنَّنِي اسْتَلَمْتُ الْمُلَاحَظَاتِ",
+          "transliteration": "uʾakkidu annanī istalamtu l-mulāḥaẓāti",
+          "audioText": "أُؤَكِّدُ أَنَّنِي اسْتَلَمْتُ الْمُلَاحَظَاتِ",
+          "meaning": {
+            "en": "I confirm that I received the notes.",
+            "ur": "میں تصدیق کرتا ہوں کہ مجھے نوٹس موصول ہوئے ہیں۔",
+            "id": "Saya mengonfirmasi bahwa saya menerima catatan tersebut.",
+            "tr": "Notları aldığımı onaylıyorum.",
+            "fr": "Je confirme que j'ai reçu les notes."
+          },
+          "audio": {
+            "path": "audio/work/work-06-confirm-received.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "work-07",
+      "order": 7,
+      "title": {
+        "en": "Skills and experience",
+        "ur": "ہنر اور تجربہ",
+        "id": "Keterampilan dan pengalaman",
+        "tr": "Beceri ve deneyim",
+        "fr": "Compétences et expérience"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Skills and experience.",
+        "ur": "ہنر اور تجربے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang Keterampilan dan pengalaman.",
+        "tr": "Beceriler ve deneyimlerle ilgili faydalı Arapça kelimelerin ve kısa ifadelerin alıştırmasını yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les compétences et l'expérience."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "work-07-review-1",
+          "type": "phrase",
+          "arabic": "مَوْضُوعُ الرِّسَالَةِ",
+          "transliteration": "mawḍūʿu r-risālati",
+          "audioText": "مَوْضُوعُ الرِّسَالَةِ",
+          "meaning": {
+            "en": "the subject line",
+            "ur": "موضوع لائن",
+            "id": "baris subjek",
+            "tr": "konu satırı",
+            "fr": "la ligne d'objet"
+          },
+          "audio": {
+            "path": "audio/work/work-06-subject-line.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-07-review-2",
+          "type": "sentence",
+          "arabic": "أَرْفَقْتُ الْمَلَفَّ فِي رِسَالَتِي الْإِلِكْتُرُونِيَّةِ",
+          "transliteration": "arfaqtu l-malaffa fī risālatī l-iliktrūniyyati",
+          "audioText": "أَرْفَقْتُ الْمَلَفَّ فِي رِسَالَتِي الْإِلِكْتُرُونِيَّةِ",
+          "meaning": {
+            "en": "I attached the file to my email.",
+            "ur": "میں نے فائل کو اپنے ای میل کے ساتھ منسلک کیا۔",
+            "id": "Saya melampirkan file tersebut ke email saya.",
+            "tr": "Dosyayı e-postama ekledim.",
+            "fr": "J'ai joint le fichier à mon email."
+          },
+          "audio": {
+            "path": "audio/work/work-06-send-attachment.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-07-review-3",
+          "type": "request",
+          "arabic": "تَفَقَّدْ صُنْدُوقَ الْبَرِيدِ بَعْدَ الظُّهْرِ",
+          "transliteration": "tafaqqad ṣundūqa l-barīdi baʿda ẓ-ẓuhri",
+          "audioText": "تَفَقَّدْ صُنْدُوقَ الْبَرِيدِ بَعْدَ الظُّهْرِ",
+          "meaning": {
+            "en": "Check the inbox in the afternoon. (to a man)",
+            "ur": "دوپہر میں ان باکس چیک کریں۔ (ایک آدمی کو)",
+            "id": "Periksa kotak masuk di sore hari. (kepada seorang pria)",
+            "tr": "Öğleden sonra gelen kutusunu kontrol edin. (bir erkeğe)",
+            "fr": "Vérifiez la boîte de réception dans l'après-midi. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/work/work-06-check-inbox.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-07-review-4",
+          "type": "sentence",
+          "arabic": "سَأَرُدُّ عَلَى رِسَالَتِكَ غَدًا",
+          "transliteration": "saʾaruddu ʿalā risālatika ghadan",
+          "audioText": "سَأَرُدُّ عَلَى رِسَالَتِكَ غَدًا",
+          "meaning": {
+            "en": "I will reply to your message tomorrow. (to a man)",
+            "ur": "میں کل آپ کے پیغام کا جواب دوں گا۔ (ایک آدمی کو)",
+            "id": "Saya akan membalas pesan Anda besok. (kepada seorang pria)",
+            "tr": "Mesajınıza yarın cevap vereceğim. (bir erkeğe)",
+            "fr": "Je répondrai à votre message demain. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/work/work-06-reply-tomorrow.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-07-review-5",
+          "type": "sentence",
+          "arabic": "أُؤَكِّدُ أَنَّنِي اسْتَلَمْتُ الْمُلَاحَظَاتِ",
+          "transliteration": "uʾakkidu annanī istalamtu l-mulāḥaẓāti",
+          "audioText": "أُؤَكِّدُ أَنَّنِي اسْتَلَمْتُ الْمُلَاحَظَاتِ",
+          "meaning": {
+            "en": "I confirm that I received the notes.",
+            "ur": "میں تصدیق کرتا ہوں کہ مجھے نوٹس موصول ہوئے ہیں۔",
+            "id": "Saya mengonfirmasi bahwa saya menerima catatan tersebut.",
+            "tr": "Notları aldığımı onaylıyorum.",
+            "fr": "Je confirme que j'ai reçu les notes."
+          },
+          "audio": {
+            "path": "audio/work/work-06-confirm-received.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-07-language-skills",
+          "type": "phrase",
+          "arabic": "مَهَارَاتٌ فِي اللُّغَاتِ",
+          "transliteration": "mahārātun fī l-lughāti",
+          "audioText": "مَهَارَاتٌ فِي اللُّغَاتِ",
+          "meaning": {
+            "en": "language skills",
+            "ur": "زبان کی مہارت",
+            "id": "keterampilan bahasa",
+            "tr": "dil becerileri",
+            "fr": "compétences linguistiques"
+          },
+          "audio": {
+            "path": "audio/work/work-07-language-skills.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-07-speak-two-languages",
+          "type": "sentence",
+          "arabic": "أَتَحَدَّثُ لُغَتَيْنِ وَأَتَعَلَّمُ الثَّالِثَةَ",
+          "transliteration": "ataḥaddathu lughatayni wa-ataʿallamu th-thālithata",
+          "audioText": "أَتَحَدَّثُ لُغَتَيْنِ وَأَتَعَلَّمُ الثَّالِثَةَ",
+          "meaning": {
+            "en": "I speak two languages and am learning a third.",
+            "ur": "میں دو زبانیں بولتا ہوں اور تیسری سیکھ رہا ہوں۔",
+            "id": "Saya berbicara dua bahasa dan sedang mempelajari bahasa ketiga.",
+            "tr": "İki dil konuşuyorum ve üçüncüsünü öğreniyorum.",
+            "fr": "Je parle deux langues et j'en apprends une troisième."
+          },
+          "audio": {
+            "path": "audio/work/work-07-speak-two-languages.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-07-experience-in-teaching",
+          "type": "phrase",
+          "arabic": "خِبْرَةٌ فِي التَّدْرِيسِ",
+          "transliteration": "khibratun fī t-tadrīsi",
+          "audioText": "خِبْرَةٌ فِي التَّدْرِيسِ",
+          "meaning": {
+            "en": "experience in teaching",
+            "ur": "تدریس میں تجربہ",
+            "id": "pengalaman dalam mengajar",
+            "tr": "öğretmenlik deneyimi",
+            "fr": "expérience dans l'enseignement"
+          },
+          "audio": {
+            "path": "audio/work/work-07-experience-in-teaching.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-07-learned-new-skill",
+          "type": "sentence",
+          "arabic": "تَعَلَّمْتُ مَهَارَةً جَدِيدَةً فِي الدَّوْرَةِ",
+          "transliteration": "taʿallamtu mahāratan jadīdatan fī d-dawrati",
+          "audioText": "تَعَلَّمْتُ مَهَارَةً جَدِيدَةً فِي الدَّوْرَةِ",
+          "meaning": {
+            "en": "I learned a new skill in the course.",
+            "ur": "میں نے کورس میں ایک نیا ہنر سیکھا۔",
+            "id": "Saya mempelajari keterampilan baru dalam kursus tersebut.",
+            "tr": "Kursta yeni bir beceri öğrendim.",
+            "fr": "J'ai appris une nouvelle compétence pendant le cours."
+          },
+          "audio": {
+            "path": "audio/work/work-07-learned-new-skill.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-07-improve-speaking",
+          "type": "sentence",
+          "arabic": "أُرِيدُ تَحْسِينَ طَرِيقَةِ تَحَدُّثِي أَمَامَ النَّاسِ",
+          "transliteration": "urīdu taḥsīna ṭarīqati taḥadduthī amāma n-nāsi",
+          "audioText": "أُرِيدُ تَحْسِينَ طَرِيقَةِ تَحَدُّثِي أَمَامَ النَّاسِ",
+          "meaning": {
+            "en": "I want to improve the way I speak in front of people.",
+            "ur": "میں لوگوں کے سامنے بولنے کے انداز کو بہتر بنانا چاہتا ہوں۔",
+            "id": "Saya ingin meningkatkan cara saya berbicara di depan orang-orang.",
+            "tr": "İnsanların önünde konuşma şeklimi geliştirmek istiyorum.",
+            "fr": "Je veux améliorer ma façon de parler devant les gens."
+          },
+          "audio": {
+            "path": "audio/work/work-07-improve-speaking.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "work-08",
+      "order": 8,
+      "title": {
+        "en": "Work and study plans",
+        "ur": "کام اور مطالعہ کے منصوبے",
+        "id": "Rencana kerja dan belajar",
+        "tr": "Çalışma ve çalışma planları",
+        "fr": "Plans de travail et d'études"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Work and study plans.",
+        "ur": "کام اور مطالعہ کے منصوبوں کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang rencana Kerja dan belajar.",
+        "tr": "İş ve çalışma planlarıyla ilgili yararlı Arapça kelimelerin ve kısa ifadelerin alıştırmasını yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les projets de travail et d'études."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "work-08-review-1",
+          "type": "phrase",
+          "arabic": "مَهَارَاتٌ فِي اللُّغَاتِ",
+          "transliteration": "mahārātun fī l-lughāti",
+          "audioText": "مَهَارَاتٌ فِي اللُّغَاتِ",
+          "meaning": {
+            "en": "language skills",
+            "ur": "زبان کی مہارت",
+            "id": "keterampilan bahasa",
+            "tr": "dil becerileri",
+            "fr": "compétences linguistiques"
+          },
+          "audio": {
+            "path": "audio/work/work-07-language-skills.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-08-review-2",
+          "type": "sentence",
+          "arabic": "أَتَحَدَّثُ لُغَتَيْنِ وَأَتَعَلَّمُ الثَّالِثَةَ",
+          "transliteration": "ataḥaddathu lughatayni wa-ataʿallamu th-thālithata",
+          "audioText": "أَتَحَدَّثُ لُغَتَيْنِ وَأَتَعَلَّمُ الثَّالِثَةَ",
+          "meaning": {
+            "en": "I speak two languages and am learning a third.",
+            "ur": "میں دو زبانیں بولتا ہوں اور تیسری سیکھ رہا ہوں۔",
+            "id": "Saya berbicara dua bahasa dan sedang mempelajari bahasa ketiga.",
+            "tr": "İki dil konuşuyorum ve üçüncüsünü öğreniyorum.",
+            "fr": "Je parle deux langues et j'en apprends une troisième."
+          },
+          "audio": {
+            "path": "audio/work/work-07-speak-two-languages.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-08-review-3",
+          "type": "phrase",
+          "arabic": "خِبْرَةٌ فِي التَّدْرِيسِ",
+          "transliteration": "khibratun fī t-tadrīsi",
+          "audioText": "خِبْرَةٌ فِي التَّدْرِيسِ",
+          "meaning": {
+            "en": "experience in teaching",
+            "ur": "تدریس میں تجربہ",
+            "id": "pengalaman dalam mengajar",
+            "tr": "öğretmenlik deneyimi",
+            "fr": "expérience dans l'enseignement"
+          },
+          "audio": {
+            "path": "audio/work/work-07-experience-in-teaching.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-08-review-4",
+          "type": "sentence",
+          "arabic": "تَعَلَّمْتُ مَهَارَةً جَدِيدَةً فِي الدَّوْرَةِ",
+          "transliteration": "taʿallamtu mahāratan jadīdatan fī d-dawrati",
+          "audioText": "تَعَلَّمْتُ مَهَارَةً جَدِيدَةً فِي الدَّوْرَةِ",
+          "meaning": {
+            "en": "I learned a new skill in the course.",
+            "ur": "میں نے کورس میں ایک نیا ہنر سیکھا۔",
+            "id": "Saya mempelajari keterampilan baru dalam kursus tersebut.",
+            "tr": "Kursta yeni bir beceri öğrendim.",
+            "fr": "J'ai appris une nouvelle compétence pendant le cours."
+          },
+          "audio": {
+            "path": "audio/work/work-07-learned-new-skill.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-08-review-5",
+          "type": "sentence",
+          "arabic": "أُرِيدُ تَحْسِينَ طَرِيقَةِ تَحَدُّثِي أَمَامَ النَّاسِ",
+          "transliteration": "urīdu taḥsīna ṭarīqati taḥadduthī amāma n-nāsi",
+          "audioText": "أُرِيدُ تَحْسِينَ طَرِيقَةِ تَحَدُّثِي أَمَامَ النَّاسِ",
+          "meaning": {
+            "en": "I want to improve the way I speak in front of people.",
+            "ur": "میں لوگوں کے سامنے بولنے کے انداز کو بہتر بنانا چاہتا ہوں۔",
+            "id": "Saya ingin meningkatkan cara saya berbicara di depan orang-orang.",
+            "tr": "İnsanların önünde konuşma şeklimi geliştirmek istiyorum.",
+            "fr": "Je veux améliorer ma façon de parler devant les gens."
+          },
+          "audio": {
+            "path": "audio/work/work-07-improve-speaking.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-08-apply-for-position",
+          "type": "sentence",
+          "arabic": "سَأُقَدِّمُ طَلَبًا لِهَذِهِ الْوَظِيفَةِ",
+          "transliteration": "saʾuqaddimu ṭalaban li-hādhihi l-waẓīfati",
+          "audioText": "سَأُقَدِّمُ طَلَبًا لِهَذِهِ الْوَظِيفَةِ",
+          "meaning": {
+            "en": "I will apply for this position.",
+            "ur": "میں اس عہدے کے لیے درخواست دوں گا۔",
+            "id": "Saya akan melamar posisi ini.",
+            "tr": "Bu pozisyona başvuracağım.",
+            "fr": "Je vais postuler pour ce poste."
+          },
+          "audio": {
+            "path": "audio/work/work-08-apply-for-position.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-08-prepare-for-exam",
+          "type": "sentence",
+          "arabic": "أُرَاجِعُ دُرُوسِي لِلِامْتِحَانِ الْقَادِمِ",
+          "transliteration": "urājiʿu durūsī li-l-imtiḥāni l-qādimi",
+          "audioText": "أُرَاجِعُ دُرُوسِي لِلِامْتِحَانِ الْقَادِمِ",
+          "meaning": {
+            "en": "I am reviewing my lessons for the next exam.",
+            "ur": "میں اگلے امتحان کے لیے اپنے اسباق کا جائزہ لے رہا ہوں۔",
+            "id": "Saya meninjau pelajaran saya untuk ujian berikutnya.",
+            "tr": "Bir sonraki sınav için derslerimi gözden geçiriyorum.",
+            "fr": "Je révise mes cours pour le prochain examen."
+          },
+          "audio": {
+            "path": "audio/work/work-08-prepare-for-exam.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-08-plan-to-study-abroad",
+          "type": "sentence",
+          "arabic": "أُخَطِّطُ لِلدِّرَاسَةِ فِي الْخَارِجِ بَعْدَ التَّخَرُّجِ",
+          "transliteration": "ukhaṭṭiṭu li-d-dirāsati fī l-khāriji baʿda t-takharruji",
+          "audioText": "أُخَطِّطُ لِلدِّرَاسَةِ فِي الْخَارِجِ بَعْدَ التَّخَرُّجِ",
+          "meaning": {
+            "en": "I plan to study abroad after graduation.",
+            "ur": "میں گریجویشن کے بعد بیرون ملک تعلیم حاصل کرنے کا ارادہ رکھتا ہوں۔",
+            "id": "Saya berencana untuk belajar di luar negeri setelah lulus.",
+            "tr": "Mezun olduktan sonra yurt dışında okumayı planlıyorum.",
+            "fr": "J'ai l'intention d'étudier à l'étranger après l'obtention de mon diplôme."
+          },
+          "audio": {
+            "path": "audio/work/work-08-plan-to-study-abroad.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-08-need-career-advice",
+          "type": "question",
+          "arabic": "هَلْ يُمْكِنُكَ نَصِيحَتِي بِشَأْنِ الْعَمَلِ؟",
+          "transliteration": "hal yumkinuka naṣīḥatī bishāʾni l-ʿamali?",
+          "audioText": "هَلْ يُمْكِنُكَ نَصِيحَتِي بِشَأْنِ الْعَمَلِ؟",
+          "meaning": {
+            "en": "Could you advise me about work? (to a man)",
+            "ur": "کیا آپ مجھے کام کے بارے میں مشورہ دے سکتے ہیں؟ (ایک آدمی کو)",
+            "id": "Bisakah Anda memberi tahu saya tentang pekerjaan? (kepada seorang pria)",
+            "tr": "Bana iş konusunda tavsiyelerde bulunabilir misiniz? (bir erkeğe)",
+            "fr": "Pourriez-vous me conseiller sur le travail ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/work/work-08-need-career-advice.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-08-goal-for-this-year",
+          "type": "sentence",
+          "arabic": "هَدَفِي هَذَا الْعَامَ أَنْ أُكْمِلَ دِرَاسَتِي",
+          "transliteration": "hadafī hādhā l-ʿāma an ukmila dirāsatī",
+          "audioText": "هَدَفِي هَذَا الْعَامَ أَنْ أُكْمِلَ دِرَاسَتِي",
+          "meaning": {
+            "en": "My goal this year is to complete my studies.",
+            "ur": "اس سال میرا مقصد اپنی تعلیم مکمل کرنا ہے۔",
+            "id": "Tujuan saya tahun ini adalah menyelesaikan studi saya.",
+            "tr": "Bu seneki hedefim eğitimimi tamamlamak.",
+            "fr": "Mon objectif cette année est de terminer mes études."
+          },
+          "audio": {
+            "path": "audio/work/work-08-goal-for-this-year.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "work-09",
+      "order": 9,
+      "title": {
+        "en": "At work and in class",
+        "ur": "کام پر اور کلاس میں",
+        "id": "Di tempat kerja dan di kelas",
+        "tr": "İşyerinde ve sınıfta",
+        "fr": "Au travail et en classe"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about At work and in class.",
+        "ur": "کام پر اور کلاس کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Di tempat kerja dan di kelas.",
+        "tr": "İş yerinde ve sınıfta ilgili faydalı Arapça kelimelerin ve kısa ifadelerin alıştırmasını yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur le travail et en classe."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "work-09-review-1",
+          "type": "sentence",
+          "arabic": "سَأُقَدِّمُ طَلَبًا لِهَذِهِ الْوَظِيفَةِ",
+          "transliteration": "saʾuqaddimu ṭalaban li-hādhihi l-waẓīfati",
+          "audioText": "سَأُقَدِّمُ طَلَبًا لِهَذِهِ الْوَظِيفَةِ",
+          "meaning": {
+            "en": "I will apply for this position.",
+            "ur": "میں اس عہدے کے لیے درخواست دوں گا۔",
+            "id": "Saya akan melamar posisi ini.",
+            "tr": "Bu pozisyona başvuracağım.",
+            "fr": "Je vais postuler pour ce poste."
+          },
+          "audio": {
+            "path": "audio/work/work-08-apply-for-position.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-09-review-2",
+          "type": "sentence",
+          "arabic": "أُرَاجِعُ دُرُوسِي لِلِامْتِحَانِ الْقَادِمِ",
+          "transliteration": "urājiʿu durūsī li-l-imtiḥāni l-qādimi",
+          "audioText": "أُرَاجِعُ دُرُوسِي لِلِامْتِحَانِ الْقَادِمِ",
+          "meaning": {
+            "en": "I am reviewing my lessons for the next exam.",
+            "ur": "میں اگلے امتحان کے لیے اپنے اسباق کا جائزہ لے رہا ہوں۔",
+            "id": "Saya meninjau pelajaran saya untuk ujian berikutnya.",
+            "tr": "Bir sonraki sınav için derslerimi gözden geçiriyorum.",
+            "fr": "Je révise mes cours pour le prochain examen."
+          },
+          "audio": {
+            "path": "audio/work/work-08-prepare-for-exam.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-09-review-3",
+          "type": "sentence",
+          "arabic": "أُخَطِّطُ لِلدِّرَاسَةِ فِي الْخَارِجِ بَعْدَ التَّخَرُّجِ",
+          "transliteration": "ukhaṭṭiṭu li-d-dirāsati fī l-khāriji baʿda t-takharruji",
+          "audioText": "أُخَطِّطُ لِلدِّرَاسَةِ فِي الْخَارِجِ بَعْدَ التَّخَرُّجِ",
+          "meaning": {
+            "en": "I plan to study abroad after graduation.",
+            "ur": "میں گریجویشن کے بعد بیرون ملک تعلیم حاصل کرنے کا ارادہ رکھتا ہوں۔",
+            "id": "Saya berencana untuk belajar di luar negeri setelah lulus.",
+            "tr": "Mezun olduktan sonra yurt dışında okumayı planlıyorum.",
+            "fr": "J'ai l'intention d'étudier à l'étranger après l'obtention de mon diplôme."
+          },
+          "audio": {
+            "path": "audio/work/work-08-plan-to-study-abroad.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-09-review-4",
+          "type": "question",
+          "arabic": "هَلْ يُمْكِنُكَ نَصِيحَتِي بِشَأْنِ الْعَمَلِ؟",
+          "transliteration": "hal yumkinuka naṣīḥatī bishāʾni l-ʿamali?",
+          "audioText": "هَلْ يُمْكِنُكَ نَصِيحَتِي بِشَأْنِ الْعَمَلِ؟",
+          "meaning": {
+            "en": "Could you advise me about work? (to a man)",
+            "ur": "کیا آپ مجھے کام کے بارے میں مشورہ دے سکتے ہیں؟ (ایک آدمی کو)",
+            "id": "Bisakah Anda memberi tahu saya tentang pekerjaan? (kepada seorang pria)",
+            "tr": "Bana iş konusunda tavsiyelerde bulunabilir misiniz? (bir erkeğe)",
+            "fr": "Pourriez-vous me conseiller sur le travail ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/work/work-08-need-career-advice.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-09-review-5",
+          "type": "sentence",
+          "arabic": "هَدَفِي هَذَا الْعَامَ أَنْ أُكْمِلَ دِرَاسَتِي",
+          "transliteration": "hadafī hādhā l-ʿāma an ukmila dirāsatī",
+          "audioText": "هَدَفِي هَذَا الْعَامَ أَنْ أُكْمِلَ دِرَاسَتِي",
+          "meaning": {
+            "en": "My goal this year is to complete my studies.",
+            "ur": "اس سال میرا مقصد اپنی تعلیم مکمل کرنا ہے۔",
+            "id": "Tujuan saya tahun ini adalah menyelesaikan studi saya.",
+            "tr": "Bu seneki hedefim eğitimimi tamamlamak.",
+            "fr": "Mon objectif cette année est de terminer mes études."
+          },
+          "audio": {
+            "path": "audio/work/work-08-goal-for-this-year.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-09-class-begins-soon",
+          "type": "sentence",
+          "arabic": "سَتَبْدَأُ الْمُحَاضَرَةُ بَعْدَ خَمْسِ دَقَائِقَ",
+          "transliteration": "satabdaʾu l-muḥāḍaratu baʿda khamsi daqāʾiqa",
+          "audioText": "سَتَبْدَأُ الْمُحَاضَرَةُ بَعْدَ خَمْسِ دَقَائِقَ",
+          "meaning": {
+            "en": "The lecture will begin in five minutes.",
+            "ur": "لیکچر پانچ منٹ میں شروع ہوگا۔",
+            "id": "Kuliah akan dimulai dalam lima menit.",
+            "tr": "Ders beş dakika sonra başlayacak.",
+            "fr": "La conférence commencera dans cinq minutes."
+          },
+          "audio": {
+            "path": "audio/work/work-09-class-begins-soon.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-09-colleague-shares-report",
+          "type": "sentence",
+          "arabic": "شَارَكَتْ زَمِيلَتِي التَّقْرِيرَ مَعَ الْفَرِيقِ",
+          "transliteration": "shārikat zamīlatī t-taqrīra maʿa l-farīqi",
+          "audioText": "شَارَكَتْ زَمِيلَتِي التَّقْرِيرَ مَعَ الْفَرِيقِ",
+          "meaning": {
+            "en": "My colleague shared the report with the team.",
+            "ur": "میرے ساتھی نے ٹیم کے ساتھ رپورٹ شیئر کی۔",
+            "id": "Rekan saya membagikan laporan tersebut kepada tim.",
+            "tr": "Meslektaşım raporu ekiple paylaştı.",
+            "fr": "Mon collègue a partagé le rapport avec l'équipe."
+          },
+          "audio": {
+            "path": "audio/work/work-09-colleague-shares-report.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-09-ask-question-after-class",
+          "type": "sentence",
+          "arabic": "سَأَسْأَلُ الْمُعَلِّمَ بَعْدَ انْتِهَاءِ الدَّرْسِ",
+          "transliteration": "saʾasʾalu l-muʿallima baʿda intihāʾi d-darsi",
+          "audioText": "سَأَسْأَلُ الْمُعَلِّمَ بَعْدَ انْتِهَاءِ الدَّرْسِ",
+          "meaning": {
+            "en": "I will ask the teacher after the lesson ends.",
+            "ur": "میں سبق ختم ہونے کے بعد استاد سے پوچھوں گا۔",
+            "id": "Saya akan bertanya kepada guru setelah pelajaran berakhir.",
+            "tr": "Ders bittikten sonra öğretmene soracağım.",
+            "fr": "Je demanderai au professeur après la fin du cours."
+          },
+          "audio": {
+            "path": "audio/work/work-09-ask-question-after-class.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-09-finish-project-together",
+          "type": "sentence",
+          "arabic": "نَعْمَلُ مَعًا لِإِنْجَازِ الْمَشْرُوعِ فِي وَقْتِهِ",
+          "transliteration": "naʿmalu maʿan li-injāzi l-mashrūʿi fī waqtihi",
+          "audioText": "نَعْمَلُ مَعًا لِإِنْجَازِ الْمَشْرُوعِ فِي وَقْتِهِ",
+          "meaning": {
+            "en": "We work together to finish the project on time.",
+            "ur": "ہم پروجیکٹ کو وقت پر مکمل کرنے کے لیے مل کر کام کرتے ہیں۔",
+            "id": "Kami bekerja sama untuk menyelesaikan proyek tepat waktu.",
+            "tr": "Projeyi zamanında bitirmek için birlikte çalışıyoruz.",
+            "fr": "Nous travaillons ensemble pour terminer le projet à temps."
+          },
+          "audio": {
+            "path": "audio/work/work-09-finish-project-together.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-09-tomorrow-schedule",
+          "type": "question",
+          "arabic": "مَا جَدْوَلُكَ لِلْغَدِ؟",
+          "transliteration": "mā jadwaluka li-l-ghadi?",
+          "audioText": "مَا جَدْوَلُكَ لِلْغَدِ؟",
+          "meaning": {
+            "en": "What is your schedule for tomorrow? (to a man)",
+            "ur": "آپ کا کل کا شیڈول کیا ہے؟ (ایک آدمی کو)",
+            "id": "Apa jadwalmu besok? (kepada seorang pria)",
+            "tr": "Yarınki programınız nedir? (bir erkeğe)",
+            "fr": "Quel est ton programme pour demain ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/work/work-09-tomorrow-schedule.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "work-10",
+      "order": 10,
+      "title": {
+        "en": "A short professional profile",
+        "ur": "ایک مختصر پیشہ ورانہ پروفائل",
+        "id": "Profil profesional singkat",
+        "tr": "Kısa bir profesyonel profil",
+        "fr": "Un bref profil professionnel"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about A short professional profile.",
+        "ur": "ایک مختصر پیشہ ورانہ پروفائل کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa pendek tentang profil profesional singkat.",
+        "tr": "Kısa bir profesyonel profil hakkında yararlı Arapça kelimeler ve kısa ifadeler uygulayın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur un court profil professionnel."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "work-10-review-1",
+          "type": "sentence",
+          "arabic": "سَتَبْدَأُ الْمُحَاضَرَةُ بَعْدَ خَمْسِ دَقَائِقَ",
+          "transliteration": "satabdaʾu l-muḥāḍaratu baʿda khamsi daqāʾiqa",
+          "audioText": "سَتَبْدَأُ الْمُحَاضَرَةُ بَعْدَ خَمْسِ دَقَائِقَ",
+          "meaning": {
+            "en": "The lecture will begin in five minutes.",
+            "ur": "لیکچر پانچ منٹ میں شروع ہوگا۔",
+            "id": "Kuliah akan dimulai dalam lima menit.",
+            "tr": "Ders beş dakika sonra başlayacak.",
+            "fr": "La conférence commencera dans cinq minutes."
+          },
+          "audio": {
+            "path": "audio/work/work-09-class-begins-soon.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-10-review-2",
+          "type": "sentence",
+          "arabic": "شَارَكَتْ زَمِيلَتِي التَّقْرِيرَ مَعَ الْفَرِيقِ",
+          "transliteration": "shārikat zamīlatī t-taqrīra maʿa l-farīqi",
+          "audioText": "شَارَكَتْ زَمِيلَتِي التَّقْرِيرَ مَعَ الْفَرِيقِ",
+          "meaning": {
+            "en": "My colleague shared the report with the team.",
+            "ur": "میرے ساتھی نے ٹیم کے ساتھ رپورٹ شیئر کی۔",
+            "id": "Rekan saya membagikan laporan tersebut kepada tim.",
+            "tr": "Meslektaşım raporu ekiple paylaştı.",
+            "fr": "Mon collègue a partagé le rapport avec l'équipe."
+          },
+          "audio": {
+            "path": "audio/work/work-09-colleague-shares-report.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-10-review-3",
+          "type": "sentence",
+          "arabic": "سَأَسْأَلُ الْمُعَلِّمَ بَعْدَ انْتِهَاءِ الدَّرْسِ",
+          "transliteration": "saʾasʾalu l-muʿallima baʿda intihāʾi d-darsi",
+          "audioText": "سَأَسْأَلُ الْمُعَلِّمَ بَعْدَ انْتِهَاءِ الدَّرْسِ",
+          "meaning": {
+            "en": "I will ask the teacher after the lesson ends.",
+            "ur": "میں سبق ختم ہونے کے بعد استاد سے پوچھوں گا۔",
+            "id": "Saya akan bertanya kepada guru setelah pelajaran berakhir.",
+            "tr": "Ders bittikten sonra öğretmene soracağım.",
+            "fr": "Je demanderai au professeur après la fin du cours."
+          },
+          "audio": {
+            "path": "audio/work/work-09-ask-question-after-class.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-10-review-4",
+          "type": "sentence",
+          "arabic": "نَعْمَلُ مَعًا لِإِنْجَازِ الْمَشْرُوعِ فِي وَقْتِهِ",
+          "transliteration": "naʿmalu maʿan li-injāzi l-mashrūʿi fī waqtihi",
+          "audioText": "نَعْمَلُ مَعًا لِإِنْجَازِ الْمَشْرُوعِ فِي وَقْتِهِ",
+          "meaning": {
+            "en": "We work together to finish the project on time.",
+            "ur": "ہم پروجیکٹ کو وقت پر مکمل کرنے کے لیے مل کر کام کرتے ہیں۔",
+            "id": "Kami bekerja sama untuk menyelesaikan proyek tepat waktu.",
+            "tr": "Projeyi zamanında bitirmek için birlikte çalışıyoruz.",
+            "fr": "Nous travaillons ensemble pour terminer le projet à temps."
+          },
+          "audio": {
+            "path": "audio/work/work-09-finish-project-together.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-10-review-5",
+          "type": "question",
+          "arabic": "مَا جَدْوَلُكَ لِلْغَدِ؟",
+          "transliteration": "mā jadwaluka li-l-ghadi?",
+          "audioText": "مَا جَدْوَلُكَ لِلْغَدِ؟",
+          "meaning": {
+            "en": "What is your schedule for tomorrow? (to a man)",
+            "ur": "آپ کا کل کا شیڈول کیا ہے؟ (ایک آدمی کو)",
+            "id": "Apa jadwalmu besok? (kepada seorang pria)",
+            "tr": "Yarınki programınız nedir? (bir erkeğe)",
+            "fr": "Quel est ton programme pour demain ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/work/work-09-tomorrow-schedule.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-10-profile-name-work",
+          "type": "sentence",
+          "arabic": "اِسْمِي لَيْلَى وَأَعْمَلُ فِي مَكْتَبَةٍ عَامَّةٍ",
+          "transliteration": "ismī Laylā wa-aʿmalu fī maktabatin ʿāmmatin",
+          "audioText": "اِسْمِي لَيْلَى وَأَعْمَلُ فِي مَكْتَبَةٍ عَامَّةٍ",
+          "meaning": {
+            "en": "My name is Layla and I work in a public library.",
+            "ur": "میرا نام لیلیٰ ہے اور میں ایک پبلک لائبریری میں کام کرتی ہوں۔",
+            "id": "Nama saya Layla dan saya bekerja di perpustakaan umum.",
+            "tr": "Adım Layla ve bir halk kütüphanesinde çalışıyorum.",
+            "fr": "Je m'appelle Layla et je travaille dans une bibliothèque publique."
+          },
+          "audio": {
+            "path": "audio/work/work-10-profile-name-work.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-10-profile-studies",
+          "type": "sentence",
+          "arabic": "دَرَسْتُ اللُّغَةَ الْعَرَبِيَّةَ فِي الْجَامِعَةِ",
+          "transliteration": "darastu l-lughata l-ʿarabiyyata fī l-jāmiʿati",
+          "audioText": "دَرَسْتُ اللُّغَةَ الْعَرَبِيَّةَ فِي الْجَامِعَةِ",
+          "meaning": {
+            "en": "I studied Arabic at the university.",
+            "ur": "میں نے یونیورسٹی میں عربی پڑھی۔",
+            "id": "Saya belajar bahasa Arab di universitas.",
+            "tr": "Üniversitede Arapça okudum.",
+            "fr": "J'ai étudié l'arabe à l'université."
+          },
+          "audio": {
+            "path": "audio/work/work-10-profile-studies.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-10-profile-uses-languages",
+          "type": "sentence",
+          "arabic": "أَسْتَخْدِمُ لُغَاتٍ مُخْتَلِفَةً فِي عَمَلِي",
+          "transliteration": "astakhdimu lughātin mukhtalifatin fī ʿamalī",
+          "audioText": "أَسْتَخْدِمُ لُغَاتٍ مُخْتَلِفَةً فِي عَمَلِي",
+          "meaning": {
+            "en": "I use different languages in my work.",
+            "ur": "میں اپنے کام میں مختلف زبانیں استعمال کرتا ہوں۔",
+            "id": "Saya menggunakan bahasa yang berbeda dalam pekerjaan saya.",
+            "tr": "İşimde farklı diller kullanıyorum.",
+            "fr": "J'utilise différentes langues dans mon travail."
+          },
+          "audio": {
+            "path": "audio/work/work-10-profile-uses-languages.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-10-profile-works-with-team",
+          "type": "sentence",
+          "arabic": "أَتَعَاوَنُ مَعَ فَرِيقِي لِخِدْمَةِ الزُّوَّارِ",
+          "transliteration": "ataʿāwanu maʿa farīqī li-khidmati z-zuwwāri",
+          "audioText": "أَتَعَاوَنُ مَعَ فَرِيقِي لِخِدْمَةِ الزُّوَّارِ",
+          "meaning": {
+            "en": "I work with my team to serve visitors.",
+            "ur": "میں زائرین کی خدمت کے لیے اپنی ٹیم کے ساتھ کام کرتا ہوں۔",
+            "id": "Saya bekerja dengan tim saya untuk melayani pengunjung.",
+            "tr": "Ziyaretçilere hizmet vermek için ekibimle birlikte çalışıyorum.",
+            "fr": "Je travaille avec mon équipe pour servir les visiteurs."
+          },
+          "audio": {
+            "path": "audio/work/work-10-profile-works-with-team.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "work-10-profile-learns-every-day",
+          "type": "sentence",
+          "arabic": "أَتَعَلَّمُ شَيْئًا جَدِيدًا فِي عَمَلِي كُلَّ يَوْمٍ",
+          "transliteration": "ataʿallamu shayʾan jadīdan fī ʿamalī kulla yawmin",
+          "audioText": "أَتَعَلَّمُ شَيْئًا جَدِيدًا فِي عَمَلِي كُلَّ يَوْمٍ",
+          "meaning": {
+            "en": "I learn something new at my job every day.",
+            "ur": "میں ہر روز اپنے کام میں کچھ نیا سیکھتا ہوں۔",
+            "id": "Saya belajar sesuatu yang baru di pekerjaan saya setiap hari.",
+            "tr": "İşimde her gün yeni bir şeyler öğreniyorum.",
+            "fr": "J'apprends chaque jour quelque chose de nouveau dans mon travail."
+          },
+          "audio": {
+            "path": "audio/work/work-10-profile-learns-every-day.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    }
+  ]
+}

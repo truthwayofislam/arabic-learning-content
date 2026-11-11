@@ -167,6 +167,81 @@
       "lessonFiles": [
         "arabic/dialogues.json"
       ]
+    },
+    {
+      "id": "food",
+      "order": 11,
+      "title": {
+        "en": "Food, Meals and Cooking",
+        "ur": "کھانا، کھانا اور کھانا پکانا",
+        "id": "Makanan, Makanan dan Masakan",
+        "tr": "Yiyecek, Yemekler ve Yemek Pişirme",
+        "fr": "Nourriture, repas et cuisine"
+      },
+      "quizFile": "arabic/food-quizzes.json",
+      "lessonFiles": [
+        "arabic/food.json"
+      ]
+    },
+    {
+      "id": "travel",
+      "order": 12,
+      "title": {
+        "en": "Travel and Accommodation",
+        "ur": "سفر اور رہائش",
+        "id": "Perjalanan dan Akomodasi",
+        "tr": "Seyahat ve Konaklama",
+        "fr": "Voyage et hébergement"
+      },
+      "quizFile": "arabic/travel-quizzes.json",
+      "lessonFiles": [
+        "arabic/travel.json"
+      ]
+    },
+    {
+      "id": "health",
+      "order": 13,
+      "title": {
+        "en": "Health and Appointments",
+        "ur": "صحت اور تقرری",
+        "id": "Kesehatan dan Janji Temu",
+        "tr": "Sağlık ve Randevular",
+        "fr": "Santé et rendez-vous"
+      },
+      "quizFile": "arabic/health-quizzes.json",
+      "lessonFiles": [
+        "arabic/health.json"
+      ]
+    },
+    {
+      "id": "shopping",
+      "order": 14,
+      "title": {
+        "en": "Shopping, Quantities and Money",
+        "ur": "خریداری، مقدار اور رقم",
+        "id": "Belanja, Kuantitas dan Uang",
+        "tr": "Alışveriş, Miktarlar ve Para",
+        "fr": "Achats, quantités et argent"
+      },
+      "quizFile": "arabic/shopping-quizzes.json",
+      "lessonFiles": [
+        "arabic/shopping.json"
+      ]
+    },
+    {
+      "id": "work",
+      "order": 15,
+      "title": {
+        "en": "Work, Study and Communication",
+        "ur": "کام، مطالعہ اور مواصلات",
+        "id": "Bekerja, Belajar dan Komunikasi",
+        "tr": "Çalışma, Eğitim ve İletişim",
+        "fr": "Travail, études et communication"
+      },
+      "quizFile": "arabic/work-quizzes.json",
+      "lessonFiles": [
+        "arabic/work.json"
+      ]
     }
   ]
 }

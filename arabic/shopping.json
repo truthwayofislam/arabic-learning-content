@@ -1,0 +1,2385 @@
+{
+  "schemaVersion": 1,
+  "courseId": "arabic",
+  "levelId": "shopping",
+  "unitId": "shopping",
+  "translationLanguages": [
+    "en",
+    "ur",
+    "id",
+    "tr",
+    "fr"
+  ],
+  "lessons": [
+    {
+      "id": "shopping-01",
+      "order": 1,
+      "title": {
+        "en": "Quantities and containers",
+        "ur": "مقدار اور کنٹینرز",
+        "id": "Jumlah dan wadah",
+        "tr": "Miktarlar ve kaplar",
+        "fr": "Quantités et contenants"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Quantities and containers.",
+        "ur": "مقدار اور کنٹینرز کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Kuantitas dan wadah.",
+        "tr": "Nicelikler ve kapsayıcılar hakkında yararlı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les quantités et les conteneurs."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "shopping-01-review-1",
+          "type": "sentence",
+          "arabic": "وَصَلَتِ الْمَرِيضَةُ إِلَى الْعِيَادَةِ قَبْلَ مَوْعِدِهَا",
+          "transliteration": "waṣalati l-marīḍatu ilā l-ʿiyādati qabla mawʿidihā",
+          "audioText": "وَصَلَتِ الْمَرِيضَةُ إِلَى الْعِيَادَةِ قَبْلَ مَوْعِدِهَا",
+          "meaning": {
+            "en": "The patient arrived at the clinic before her appointment.",
+            "ur": "مریض اپنی ملاقات سے پہلے کلینک پہنچ گیا۔",
+            "id": "Pasien tiba di klinik sebelum janjinya.",
+            "tr": "Hasta randevusundan önce kliniğe geldi.",
+            "fr": "La patiente est arrivée à la clinique avant son rendez-vous."
+          },
+          "audio": {
+            "path": "audio/health/health-10-patient-arrives.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-01-review-2",
+          "type": "sentence",
+          "arabic": "قَالَتْ إِنَّ ظَهْرَهَا يُؤْلِمُهَا مُنْذُ أَيَّامٍ",
+          "transliteration": "qālat inna ẓahrahā yuʾlimuhā mundhu ayyāmin",
+          "audioText": "قَالَتْ إِنَّ ظَهْرَهَا يُؤْلِمُهَا مُنْذُ أَيَّامٍ",
+          "meaning": {
+            "en": "She said her back had been hurting for days.",
+            "ur": "اس نے بتایا کہ اس کی کمر میں کئی دنوں سے درد تھا۔",
+            "id": "Dia mengatakan punggungnya sakit selama berhari-hari.",
+            "tr": "Günlerdir belinin ağrıdığını söyledi.",
+            "fr": "Elle a dit que son dos lui faisait mal depuis des jours."
+          },
+          "audio": {
+            "path": "audio/health/health-10-describe-pain.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-01-review-3",
+          "type": "sentence",
+          "arabic": "سَأَلَهَا الطَّبِيبُ عَنْ أَعْرَاضِهَا وَدَوَائِهَا",
+          "transliteration": "saʾalahā ṭ-ṭabību ʿan aʿrāḍihā wa-dawāʾihā",
+          "audioText": "سَأَلَهَا الطَّبِيبُ عَنْ أَعْرَاضِهَا وَدَوَائِهَا",
+          "meaning": {
+            "en": "The doctor asked her about her symptoms and medicine.",
+            "ur": "ڈاکٹر نے اس سے اس کی علامات اور دوا کے بارے میں پوچھا۔",
+            "id": "Dokter bertanya tentang gejala dan obatnya.",
+            "tr": "Doktor ona belirtilerini ve ilaçlarını sordu.",
+            "fr": "Le médecin lui a posé des questions sur ses symptômes et ses médicaments."
+          },
+          "audio": {
+            "path": "audio/health/health-10-doctor-asks-questions.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-01-review-4",
+          "type": "sentence",
+          "arabic": "شَرَحَ لَهَا الطَّبِيبُ خُطَّةَ الْعِنَايَةِ",
+          "transliteration": "sharaḥa lahā ṭ-ṭabību khuṭṭata l-ʿināyati",
+          "audioText": "شَرَحَ لَهَا الطَّبِيبُ خُطَّةَ الْعِنَايَةِ",
+          "meaning": {
+            "en": "The doctor explained the care plan to her.",
+            "ur": "ڈاکٹر نے اسے دیکھ بھال کے منصوبے کی وضاحت کی۔",
+            "id": "Dokter menjelaskan rencana perawatan kepadanya.",
+            "tr": "Doktor ona bakım planını açıkladı.",
+            "fr": "Le médecin lui a expliqué le plan de soins."
+          },
+          "audio": {
+            "path": "audio/health/health-10-explain-care-plan.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-01-review-5",
+          "type": "sentence",
+          "arabic": "طَرَحَتِ الْمَرِيضَةُ أَسْئِلَتَهَا قَبْلَ الْعَوْدَةِ إِلَى الْبَيْتِ",
+          "transliteration": "ṭaraḥati l-marīḍatu asʾilatahā qabla l-ʿawdati ilā l-bayti",
+          "audioText": "طَرَحَتِ الْمَرِيضَةُ أَسْئِلَتَهَا قَبْلَ الْعَوْدَةِ إِلَى الْبَيْتِ",
+          "meaning": {
+            "en": "The patient asked her questions before returning home.",
+            "ur": "مریض نے گھر واپس آنے سے پہلے اس سے سوالات پوچھے۔",
+            "id": "Pasien menanyakan pertanyaannya sebelum kembali ke rumah.",
+            "tr": "Hasta eve dönmeden önce sorularını sordu.",
+            "fr": "La patiente lui a posé des questions avant de rentrer chez elle."
+          },
+          "audio": {
+            "path": "audio/health/health-10-patient-asks-questions.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-01-half-kilo",
+          "type": "phrase",
+          "arabic": "نِصْفُ كِيلُو",
+          "transliteration": "niṣfu kīlū",
+          "audioText": "نِصْفُ كِيلُو",
+          "meaning": {
+            "en": "half a kilo",
+            "ur": "آدھا کلو",
+            "id": "setengah kilo",
+            "tr": "yarım kilo",
+            "fr": "un demi-kilo"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-01-half-kilo.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-01-bottle-of-water",
+          "type": "phrase",
+          "arabic": "زُجَاجَةُ مَاءٍ",
+          "transliteration": "zujājatu māʾin",
+          "audioText": "زُجَاجَةُ مَاءٍ",
+          "meaning": {
+            "en": "a bottle of water",
+            "ur": "پانی کی ایک بوتل",
+            "id": "sebotol air",
+            "tr": "bir şişe su",
+            "fr": "une bouteille d'eau"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-01-bottle-of-water.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-01-piece-of-cloth",
+          "type": "phrase",
+          "arabic": "قِطْعَةُ قُمَاشٍ",
+          "transliteration": "qiṭʿatu qumāshin",
+          "audioText": "قِطْعَةُ قُمَاشٍ",
+          "meaning": {
+            "en": "a piece of fabric",
+            "ur": "کپڑے کا ایک ٹکڑا",
+            "id": "sepotong kain",
+            "tr": "bir parça kumaş",
+            "fr": "un morceau de tissu"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-01-piece-of-cloth.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-01-pair-of-shoes",
+          "type": "phrase",
+          "arabic": "زَوْجٌ مِنَ الْأَحْذِيَةِ",
+          "transliteration": "zawjun mina l-aḥdhiyati",
+          "audioText": "زَوْجٌ مِنَ الْأَحْذِيَةِ",
+          "meaning": {
+            "en": "a pair of shoes",
+            "ur": "جوتے کا ایک جوڑا",
+            "id": "sepasang sepatu",
+            "tr": "bir çift ayakkabı",
+            "fr": "une paire de chaussures"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-01-pair-of-shoes.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-01-need-three-boxes",
+          "type": "sentence",
+          "arabic": "أَحْتَاجُ إِلَى ثَلَاثَةِ صَنَادِيقَ صَغِيرَةٍ",
+          "transliteration": "aḥtāju ilā thalāthati ṣanādīqa ṣaghīratin",
+          "audioText": "أَحْتَاجُ إِلَى ثَلَاثَةِ صَنَادِيقَ صَغِيرَةٍ",
+          "meaning": {
+            "en": "I need three small boxes.",
+            "ur": "مجھے تین چھوٹے ڈبوں کی ضرورت ہے۔",
+            "id": "Saya butuh tiga kotak kecil.",
+            "tr": "Üç küçük kutuya ihtiyacım var.",
+            "fr": "J'ai besoin de trois petites boîtes."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-01-need-three-boxes.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "shopping-02",
+      "order": 2,
+      "title": {
+        "en": "Clothes and sizes",
+        "ur": "کپڑے اور سائز",
+        "id": "Pakaian dan ukuran",
+        "tr": "Giysiler ve bedenler",
+        "fr": "Vêtements et tailles"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Clothes and sizes.",
+        "ur": "کپڑوں اور سائز کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Pakaian dan ukuran.",
+        "tr": "Kıyafetler ve bedenler hakkında yararlı Arapça kelimeler ve kısa ifadeler uygulayın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les vêtements et les tailles."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "shopping-02-review-1",
+          "type": "phrase",
+          "arabic": "نِصْفُ كِيلُو",
+          "transliteration": "niṣfu kīlū",
+          "audioText": "نِصْفُ كِيلُو",
+          "meaning": {
+            "en": "half a kilo",
+            "ur": "آدھا کلو",
+            "id": "setengah kilo",
+            "tr": "yarım kilo",
+            "fr": "un demi-kilo"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-01-half-kilo.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-02-review-2",
+          "type": "phrase",
+          "arabic": "زُجَاجَةُ مَاءٍ",
+          "transliteration": "zujājatu māʾin",
+          "audioText": "زُجَاجَةُ مَاءٍ",
+          "meaning": {
+            "en": "a bottle of water",
+            "ur": "پانی کی ایک بوتل",
+            "id": "sebotol air",
+            "tr": "bir şişe su",
+            "fr": "une bouteille d'eau"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-01-bottle-of-water.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-02-review-3",
+          "type": "phrase",
+          "arabic": "قِطْعَةُ قُمَاشٍ",
+          "transliteration": "qiṭʿatu qumāshin",
+          "audioText": "قِطْعَةُ قُمَاشٍ",
+          "meaning": {
+            "en": "a piece of fabric",
+            "ur": "کپڑے کا ایک ٹکڑا",
+            "id": "sepotong kain",
+            "tr": "bir parça kumaş",
+            "fr": "un morceau de tissu"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-01-piece-of-cloth.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-02-review-4",
+          "type": "phrase",
+          "arabic": "زَوْجٌ مِنَ الْأَحْذِيَةِ",
+          "transliteration": "zawjun mina l-aḥdhiyati",
+          "audioText": "زَوْجٌ مِنَ الْأَحْذِيَةِ",
+          "meaning": {
+            "en": "a pair of shoes",
+            "ur": "جوتے کا ایک جوڑا",
+            "id": "sepasang sepatu",
+            "tr": "bir çift ayakkabı",
+            "fr": "une paire de chaussures"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-01-pair-of-shoes.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-02-review-5",
+          "type": "sentence",
+          "arabic": "أَحْتَاجُ إِلَى ثَلَاثَةِ صَنَادِيقَ صَغِيرَةٍ",
+          "transliteration": "aḥtāju ilā thalāthati ṣanādīqa ṣaghīratin",
+          "audioText": "أَحْتَاجُ إِلَى ثَلَاثَةِ صَنَادِيقَ صَغِيرَةٍ",
+          "meaning": {
+            "en": "I need three small boxes.",
+            "ur": "مجھے تین چھوٹے ڈبوں کی ضرورت ہے۔",
+            "id": "Saya butuh tiga kotak kecil.",
+            "tr": "Üç küçük kutuya ihtiyacım var.",
+            "fr": "J'ai besoin de trois petites boîtes."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-01-need-three-boxes.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-02-shirt",
+          "type": "word",
+          "arabic": "قَمِيصٌ",
+          "transliteration": "qamīṣun",
+          "audioText": "قَمِيصٌ",
+          "meaning": {
+            "en": "a shirt",
+            "ur": "ایک قمیض",
+            "id": "sebuah kemeja",
+            "tr": "bir gömlek",
+            "fr": "une chemise"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-02-shirt.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-02-trousers",
+          "type": "word",
+          "arabic": "سِرْوَالٌ",
+          "transliteration": "sirwālun",
+          "audioText": "سِرْوَالٌ",
+          "meaning": {
+            "en": "trousers",
+            "ur": "پتلون",
+            "id": "celana panjang",
+            "tr": "pantolon",
+            "fr": "pantalon"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-02-trousers.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-02-size",
+          "type": "word",
+          "arabic": "مَقَاسٌ",
+          "transliteration": "maqāsun",
+          "audioText": "مَقَاسٌ",
+          "meaning": {
+            "en": "a size",
+            "ur": "ایک سائز",
+            "id": "sebuah ukuran",
+            "tr": "bir boyut",
+            "fr": "une taille"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-02-size.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-02-larger-size",
+          "type": "request",
+          "arabic": "هَلْ عِنْدَكُمْ مَقَاسٌ أَكْبَرُ؟",
+          "transliteration": "hal ʿindakum maqāsun akbaru?",
+          "audioText": "هَلْ عِنْدَكُمْ مَقَاسٌ أَكْبَرُ؟",
+          "meaning": {
+            "en": "Do you have a larger size?",
+            "ur": "کیا آپ کا سائز بڑا ہے؟",
+            "id": "Apakah Anda memiliki ukuran yang lebih besar?",
+            "tr": "Daha büyük bir bedeniniz var mı?",
+            "fr": "Avez-vous une taille plus grande ?"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-02-larger-size.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-02-try-on-shirt",
+          "type": "question",
+          "arabic": "هَلْ يُمْكِنُنِي قِيَاسُ هَذَا الْقَمِيصِ؟",
+          "transliteration": "hal yumkinunī qiyāsu hādhā l-qamīṣi?",
+          "audioText": "هَلْ يُمْكِنُنِي قِيَاسُ هَذَا الْقَمِيصِ؟",
+          "meaning": {
+            "en": "May I try on this shirt?",
+            "ur": "کیا میں اس قمیض کو آزما سکتا ہوں؟",
+            "id": "Bolehkah saya mencoba baju ini?",
+            "tr": "Bu gömleği deneyebilir miyim?",
+            "fr": "Puis-je essayer cette chemise ?"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-02-try-on-shirt.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "shopping-03",
+      "order": 3,
+      "title": {
+        "en": "Describing what you want",
+        "ur": "آپ جو چاہتے ہیں بیان کرنا",
+        "id": "Menjelaskan apa yang Anda inginkan",
+        "tr": "Ne istediğini açıklayan",
+        "fr": "Décrire ce que vous voulez"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Describing what you want.",
+        "ur": "آپ کیا چاہتے ہیں بیان کرنے کے بارے میں مفید عربی الفاظ اور مختصر فقروں کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Mendeskripsikan apa yang Anda inginkan.",
+        "tr": "Ne istediğinizi açıklama konusunda faydalı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Entraînez-vous à utiliser des mots arabes utiles et des phrases courtes pour décrire ce que vous voulez."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "shopping-03-review-1",
+          "type": "word",
+          "arabic": "قَمِيصٌ",
+          "transliteration": "qamīṣun",
+          "audioText": "قَمِيصٌ",
+          "meaning": {
+            "en": "a shirt",
+            "ur": "ایک قمیض",
+            "id": "sebuah kemeja",
+            "tr": "bir gömlek",
+            "fr": "une chemise"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-02-shirt.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-03-review-2",
+          "type": "word",
+          "arabic": "سِرْوَالٌ",
+          "transliteration": "sirwālun",
+          "audioText": "سِرْوَالٌ",
+          "meaning": {
+            "en": "trousers",
+            "ur": "پتلون",
+            "id": "celana panjang",
+            "tr": "pantolon",
+            "fr": "pantalon"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-02-trousers.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-03-review-3",
+          "type": "word",
+          "arabic": "مَقَاسٌ",
+          "transliteration": "maqāsun",
+          "audioText": "مَقَاسٌ",
+          "meaning": {
+            "en": "a size",
+            "ur": "ایک سائز",
+            "id": "sebuah ukuran",
+            "tr": "bir boyut",
+            "fr": "une taille"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-02-size.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-03-review-4",
+          "type": "request",
+          "arabic": "هَلْ عِنْدَكُمْ مَقَاسٌ أَكْبَرُ؟",
+          "transliteration": "hal ʿindakum maqāsun akbaru?",
+          "audioText": "هَلْ عِنْدَكُمْ مَقَاسٌ أَكْبَرُ؟",
+          "meaning": {
+            "en": "Do you have a larger size?",
+            "ur": "کیا آپ کا سائز بڑا ہے؟",
+            "id": "Apakah Anda memiliki ukuran yang lebih besar?",
+            "tr": "Daha büyük bir bedeniniz var mı?",
+            "fr": "Avez-vous une taille plus grande ?"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-02-larger-size.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-03-review-5",
+          "type": "question",
+          "arabic": "هَلْ يُمْكِنُنِي قِيَاسُ هَذَا الْقَمِيصِ؟",
+          "transliteration": "hal yumkinunī qiyāsu hādhā l-qamīṣi?",
+          "audioText": "هَلْ يُمْكِنُنِي قِيَاسُ هَذَا الْقَمِيصِ؟",
+          "meaning": {
+            "en": "May I try on this shirt?",
+            "ur": "کیا میں اس قمیض کو آزما سکتا ہوں؟",
+            "id": "Bolehkah saya mencoba baju ini?",
+            "tr": "Bu gömleği deneyebilir miyim?",
+            "fr": "Puis-je essayer cette chemise ?"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-02-try-on-shirt.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-03-cotton-shirt",
+          "type": "phrase",
+          "arabic": "قَمِيصٌ مِنَ الْقُطْنِ",
+          "transliteration": "qamīṣun mina l-quṭni",
+          "audioText": "قَمِيصٌ مِنَ الْقُطْنِ",
+          "meaning": {
+            "en": "a cotton shirt",
+            "ur": "ایک سوتی قمیض",
+            "id": "kemeja katun",
+            "tr": "pamuklu bir gömlek",
+            "fr": "une chemise en coton"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-03-cotton-shirt.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-03-comfortable-shoes",
+          "type": "phrase",
+          "arabic": "حِذَاءٌ مُرِيحٌ",
+          "transliteration": "ḥidhāʾun murīḥun",
+          "audioText": "حِذَاءٌ مُرِيحٌ",
+          "meaning": {
+            "en": "comfortable shoes",
+            "ur": "آرام دہ اور پرسکون جوتے",
+            "id": "sepatu yang nyaman",
+            "tr": "rahat ayakkabılar",
+            "fr": "chaussures confortables"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-03-comfortable-shoes.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-03-dark-blue",
+          "type": "adjective",
+          "arabic": "أَزْرَقُ دَاكِنٌ",
+          "transliteration": "azraqu dākinun",
+          "audioText": "أَزْرَقُ دَاكِنٌ",
+          "meaning": {
+            "en": "dark blue (masculine)",
+            "ur": "گہرا نیلا (مرد)",
+            "id": "biru tua (maskulin)",
+            "tr": "koyu mavi (eril)",
+            "fr": "bleu foncé (masculin)"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-03-dark-blue.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-03-looking-for-jacket",
+          "type": "sentence",
+          "arabic": "أَبْحَثُ عَنْ سُتْرَةٍ خَفِيفَةٍ",
+          "transliteration": "abḥathu ʿan sutratin khafīfatin",
+          "audioText": "أَبْحَثُ عَنْ سُتْرَةٍ خَفِيفَةٍ",
+          "meaning": {
+            "en": "I am looking for a light jacket.",
+            "ur": "میں ہلکی جیکٹ کی تلاش میں ہوں۔",
+            "id": "Saya mencari jaket ringan.",
+            "tr": "Hafif bir ceket arıyorum.",
+            "fr": "Je recherche une veste légère."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-03-looking-for-jacket.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-03-prefer-natural-material",
+          "type": "sentence",
+          "arabic": "أُفَضِّلُ الْمَوَادَّ الطَّبِيعِيَّةَ",
+          "transliteration": "ufaḍḍilu l-mawādda ṭ-ṭabīʿiyyata",
+          "audioText": "أُفَضِّلُ الْمَوَادَّ الطَّبِيعِيَّةَ",
+          "meaning": {
+            "en": "I prefer natural materials.",
+            "ur": "میں قدرتی مواد کو ترجیح دیتا ہوں۔",
+            "id": "Saya lebih suka bahan alami.",
+            "tr": "Doğal malzemeleri tercih ediyorum.",
+            "fr": "Je préfère les matières naturelles."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-03-prefer-natural-material.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "shopping-04",
+      "order": 4,
+      "title": {
+        "en": "Comparing items",
+        "ur": "اشیاء کا موازنہ کرنا",
+        "id": "Membandingkan item",
+        "tr": "Öğeleri karşılaştırma",
+        "fr": "Comparer des éléments"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Comparing items.",
+        "ur": "اشیاء کا موازنہ کرنے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Membandingkan item.",
+        "tr": "Öğeleri karşılaştırmayla ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur la comparaison d'éléments."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "shopping-04-review-1",
+          "type": "phrase",
+          "arabic": "قَمِيصٌ مِنَ الْقُطْنِ",
+          "transliteration": "qamīṣun mina l-quṭni",
+          "audioText": "قَمِيصٌ مِنَ الْقُطْنِ",
+          "meaning": {
+            "en": "a cotton shirt",
+            "ur": "ایک سوتی قمیض",
+            "id": "kemeja katun",
+            "tr": "pamuklu bir gömlek",
+            "fr": "une chemise en coton"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-03-cotton-shirt.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-04-review-2",
+          "type": "phrase",
+          "arabic": "حِذَاءٌ مُرِيحٌ",
+          "transliteration": "ḥidhāʾun murīḥun",
+          "audioText": "حِذَاءٌ مُرِيحٌ",
+          "meaning": {
+            "en": "comfortable shoes",
+            "ur": "آرام دہ اور پرسکون جوتے",
+            "id": "sepatu yang nyaman",
+            "tr": "rahat ayakkabılar",
+            "fr": "chaussures confortables"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-03-comfortable-shoes.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-04-review-3",
+          "type": "adjective",
+          "arabic": "أَزْرَقُ دَاكِنٌ",
+          "transliteration": "azraqu dākinun",
+          "audioText": "أَزْرَقُ دَاكِنٌ",
+          "meaning": {
+            "en": "dark blue (masculine)",
+            "ur": "گہرا نیلا (مرد)",
+            "id": "biru tua (maskulin)",
+            "tr": "koyu mavi (eril)",
+            "fr": "bleu foncé (masculin)"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-03-dark-blue.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-04-review-4",
+          "type": "sentence",
+          "arabic": "أَبْحَثُ عَنْ سُتْرَةٍ خَفِيفَةٍ",
+          "transliteration": "abḥathu ʿan sutratin khafīfatin",
+          "audioText": "أَبْحَثُ عَنْ سُتْرَةٍ خَفِيفَةٍ",
+          "meaning": {
+            "en": "I am looking for a light jacket.",
+            "ur": "میں ہلکی جیکٹ کی تلاش میں ہوں۔",
+            "id": "Saya mencari jaket ringan.",
+            "tr": "Hafif bir ceket arıyorum.",
+            "fr": "Je recherche une veste légère."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-03-looking-for-jacket.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-04-review-5",
+          "type": "sentence",
+          "arabic": "أُفَضِّلُ الْمَوَادَّ الطَّبِيعِيَّةَ",
+          "transliteration": "ufaḍḍilu l-mawādda ṭ-ṭabīʿiyyata",
+          "audioText": "أُفَضِّلُ الْمَوَادَّ الطَّبِيعِيَّةَ",
+          "meaning": {
+            "en": "I prefer natural materials.",
+            "ur": "میں قدرتی مواد کو ترجیح دیتا ہوں۔",
+            "id": "Saya lebih suka bahan alami.",
+            "tr": "Doğal malzemeleri tercih ediyorum.",
+            "fr": "Je préfère les matières naturelles."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-03-prefer-natural-material.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-04-cheaper-than-that",
+          "type": "sentence",
+          "arabic": "هَذَا أَرْخَصُ مِنْ ذَاكَ",
+          "transliteration": "hādhā arkhaṣu min dhāka",
+          "audioText": "هَذَا أَرْخَصُ مِنْ ذَاكَ",
+          "meaning": {
+            "en": "This is cheaper than that.",
+            "ur": "یہ اس سے سستا ہے۔",
+            "id": "Ini lebih murah dari itu.",
+            "tr": "Bu ondan daha ucuz.",
+            "fr": "C'est moins cher que ça."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-04-cheaper-than-that.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-04-quality-better",
+          "type": "sentence",
+          "arabic": "جَوْدَةُ هَذَا الْمُنْتَجِ أَفْضَلُ",
+          "transliteration": "jawdatu hādhā l-muntaji afḍalu",
+          "audioText": "جَوْدَةُ هَذَا الْمُنْتَجِ أَفْضَلُ",
+          "meaning": {
+            "en": "The quality of this product is better.",
+            "ur": "اس پروڈکٹ کا معیار بہتر ہے۔",
+            "id": "Kualitas produk ini lebih baik.",
+            "tr": "Bu ürünün kalitesi daha iyi.",
+            "fr": "La qualité de ce produit est meilleure."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-04-quality-better.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-04-both-colors",
+          "type": "question",
+          "arabic": "هَلْ يَتَوَفَّرُ هَذَا اللَّوْنُ أَيْضًا؟",
+          "transliteration": "hal yatawaffaru hādhā l-lawnu ayḍan?",
+          "audioText": "هَلْ يَتَوَفَّرُ هَذَا اللَّوْنُ أَيْضًا؟",
+          "meaning": {
+            "en": "Is this color available too?",
+            "ur": "کیا یہ رنگ بھی دستیاب ہے؟",
+            "id": "Apakah warna ini tersedia juga?",
+            "tr": "Bu renk de mevcut mu?",
+            "fr": "Cette couleur est-elle également disponible ?"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-04-both-colors.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-04-this-one-lighter",
+          "type": "sentence",
+          "arabic": "هَذِهِ الْحَقِيبَةُ أَخَفُّ مِنَ الْأُخْرَى",
+          "transliteration": "hādhihi l-ḥaqībatu akhaffu mina l-ukhrā",
+          "audioText": "هَذِهِ الْحَقِيبَةُ أَخَفُّ مِنَ الْأُخْرَى",
+          "meaning": {
+            "en": "This bag is lighter than the other one.",
+            "ur": "یہ بیگ دوسرے سے ہلکا ہے۔",
+            "id": "Tas ini lebih ringan dibandingkan tas lainnya.",
+            "tr": "Bu çanta diğerine göre daha hafiftir.",
+            "fr": "Ce sac est plus léger que l'autre."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-04-this-one-lighter.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-04-which-is-more-durable",
+          "type": "question",
+          "arabic": "أَيُّ هَذَيْنِ أَكْثَرُ مُتَانَةً؟",
+          "transliteration": "ayyu hādhayni aktharu matānatan?",
+          "audioText": "أَيُّ هَذَيْنِ أَكْثَرُ مُتَانَةً؟",
+          "meaning": {
+            "en": "Which of these two is more durable?",
+            "ur": "ان دونوں میں سے کون زیادہ پائیدار ہے؟",
+            "id": "Manakah dari keduanya yang lebih tahan lama?",
+            "tr": "Bu ikisinden hangisi daha dayanıklıdır?",
+            "fr": "Lequel de ces deux est le plus durable ?"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-04-which-is-more-durable.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "shopping-05",
+      "order": 5,
+      "title": {
+        "en": "Prices and polite bargaining",
+        "ur": "قیمتیں اور شائستہ سودے بازی",
+        "id": "Harga dan tawar-menawar yang sopan",
+        "tr": "Fiyatlar ve kibar pazarlık",
+        "fr": "Prix ​​et négociation polie"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Prices and polite bargaining.",
+        "ur": "قیمتوں اور شائستہ سودے بازی کے بارے میں مفید عربی الفاظ اور مختصر فقروں کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Harga dan tawar-menawar yang sopan.",
+        "tr": "Fiyatlar ve kibar pazarlık hakkında yararlı Arapça kelimeler ve kısa ifadeler uygulayın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les prix et les négociations polies."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "shopping-05-review-1",
+          "type": "sentence",
+          "arabic": "هَذَا أَرْخَصُ مِنْ ذَاكَ",
+          "transliteration": "hādhā arkhaṣu min dhāka",
+          "audioText": "هَذَا أَرْخَصُ مِنْ ذَاكَ",
+          "meaning": {
+            "en": "This is cheaper than that.",
+            "ur": "یہ اس سے سستا ہے۔",
+            "id": "Ini lebih murah dari itu.",
+            "tr": "Bu ondan daha ucuz.",
+            "fr": "C'est moins cher que ça."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-04-cheaper-than-that.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-05-review-2",
+          "type": "sentence",
+          "arabic": "جَوْدَةُ هَذَا الْمُنْتَجِ أَفْضَلُ",
+          "transliteration": "jawdatu hādhā l-muntaji afḍalu",
+          "audioText": "جَوْدَةُ هَذَا الْمُنْتَجِ أَفْضَلُ",
+          "meaning": {
+            "en": "The quality of this product is better.",
+            "ur": "اس پروڈکٹ کا معیار بہتر ہے۔",
+            "id": "Kualitas produk ini lebih baik.",
+            "tr": "Bu ürünün kalitesi daha iyi.",
+            "fr": "La qualité de ce produit est meilleure."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-04-quality-better.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-05-review-3",
+          "type": "question",
+          "arabic": "هَلْ يَتَوَفَّرُ هَذَا اللَّوْنُ أَيْضًا؟",
+          "transliteration": "hal yatawaffaru hādhā l-lawnu ayḍan?",
+          "audioText": "هَلْ يَتَوَفَّرُ هَذَا اللَّوْنُ أَيْضًا؟",
+          "meaning": {
+            "en": "Is this color available too?",
+            "ur": "کیا یہ رنگ بھی دستیاب ہے؟",
+            "id": "Apakah warna ini tersedia juga?",
+            "tr": "Bu renk de mevcut mu?",
+            "fr": "Cette couleur est-elle également disponible ?"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-04-both-colors.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-05-review-4",
+          "type": "sentence",
+          "arabic": "هَذِهِ الْحَقِيبَةُ أَخَفُّ مِنَ الْأُخْرَى",
+          "transliteration": "hādhihi l-ḥaqībatu akhaffu mina l-ukhrā",
+          "audioText": "هَذِهِ الْحَقِيبَةُ أَخَفُّ مِنَ الْأُخْرَى",
+          "meaning": {
+            "en": "This bag is lighter than the other one.",
+            "ur": "یہ بیگ دوسرے سے ہلکا ہے۔",
+            "id": "Tas ini lebih ringan dibandingkan tas lainnya.",
+            "tr": "Bu çanta diğerine göre daha hafiftir.",
+            "fr": "Ce sac est plus léger que l'autre."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-04-this-one-lighter.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-05-review-5",
+          "type": "question",
+          "arabic": "أَيُّ هَذَيْنِ أَكْثَرُ مُتَانَةً؟",
+          "transliteration": "ayyu hādhayni aktharu matānatan?",
+          "audioText": "أَيُّ هَذَيْنِ أَكْثَرُ مُتَانَةً؟",
+          "meaning": {
+            "en": "Which of these two is more durable?",
+            "ur": "ان دونوں میں سے کون زیادہ پائیدار ہے؟",
+            "id": "Manakah dari keduanya yang lebih tahan lama?",
+            "tr": "Bu ikisinden hangisi daha dayanıklıdır?",
+            "fr": "Lequel de ces deux est le plus durable ?"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-04-which-is-more-durable.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-05-final-price",
+          "type": "question",
+          "arabic": "مَا السِّعْرُ النِّهَائِيُّ؟",
+          "transliteration": "mā s-siʿru n-nihāʾiyyu?",
+          "audioText": "مَا السِّعْرُ النِّهَائِيُّ؟",
+          "meaning": {
+            "en": "What is the final price?",
+            "ur": "حتمی قیمت کیا ہے؟",
+            "id": "Berapa harga akhirnya?",
+            "tr": "Son fiyat nedir?",
+            "fr": "Quel est le prix final ?"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-05-final-price.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-05-price-is-high",
+          "type": "sentence",
+          "arabic": "السِّعْرُ أَعْلَى مِمَّا تَوَقَّعْتُ",
+          "transliteration": "as-siʿru aʿlā mimmā tawaqqaʿtu",
+          "audioText": "السِّعْرُ أَعْلَى مِمَّا تَوَقَّعْتُ",
+          "meaning": {
+            "en": "The price is higher than I expected.",
+            "ur": "قیمت میری توقع سے زیادہ ہے۔",
+            "id": "Harganya lebih tinggi dari perkiraan saya.",
+            "tr": "Fiyatı beklediğimden yüksek.",
+            "fr": "Le prix est plus élevé que prévu."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-05-price-is-high.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-05-any-discount",
+          "type": "question",
+          "arabic": "هَلْ يُوجَدُ خَصْمٌ عَلَى هَذَا الْمُنْتَجِ؟",
+          "transliteration": "hal yūjadu khaṣmun ʿalā hādhā l-muntaji?",
+          "audioText": "هَلْ يُوجَدُ خَصْمٌ عَلَى هَذَا الْمُنْتَجِ؟",
+          "meaning": {
+            "en": "Is there a discount on this product?",
+            "ur": "کیا اس پروڈکٹ پر کوئی رعایت ہے؟",
+            "id": "Apakah ada diskon untuk produk ini?",
+            "tr": "Bu üründe indirim var mı?",
+            "fr": "Y a-t-il une réduction sur ce produit ?"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-05-any-discount.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-05-offer-lower-price",
+          "type": "request",
+          "arabic": "هَلْ تَقْبَلُ سِعْرًا أَقَلَّ قَلِيلًا؟",
+          "transliteration": "hal taqbalu siʿran aqalla qalīlan?",
+          "audioText": "هَلْ تَقْبَلُ سِعْرًا أَقَلَّ قَلِيلًا؟",
+          "meaning": {
+            "en": "Would you accept a slightly lower price? (to a man)",
+            "ur": "کیا آپ قدرے کم قیمت قبول کریں گے؟ (ایک آدمی کو)",
+            "id": "Apakah Anda menerima harga yang sedikit lebih rendah? (kepada seorang pria)",
+            "tr": "Biraz daha düşük bir fiyatı kabul eder misiniz? (bir erkeğe)",
+            "fr": "Accepteriez-vous un prix légèrement inférieur ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-05-offer-lower-price.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-05-thank-for-offer",
+          "type": "sentence",
+          "arabic": "شُكْرًا عَلَى عَرْضِكَ، سَأَفَكَّرُ فِي الْأَمْرِ",
+          "transliteration": "shukran ʿalā ʿarḍika, saʾafakkaru fī l-amri",
+          "audioText": "شُكْرًا عَلَى عَرْضِكَ، سَأَفَكَّرُ فِي الْأَمْرِ",
+          "meaning": {
+            "en": "Thank you for your offer; I will think about it. (to a man)",
+            "ur": "آپ کی پیشکش کے لیے آپ کا شکریہ؛ میں اس کے بارے میں سوچوں گا۔ (ایک آدمی کو)",
+            "id": "Terima kasih atas tawaran Anda; Saya akan memikirkannya. (kepada seorang pria)",
+            "tr": "Teklifiniz için teşekkür ederiz; Bunu düşüneceğim. (bir erkeğe)",
+            "fr": "Merci pour votre offre; Je vais y réfléchir. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-05-thank-for-offer.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "shopping-06",
+      "order": 6,
+      "title": {
+        "en": "Paying and getting a receipt",
+        "ur": "ادائیگی اور رسید حاصل کرنا",
+        "id": "Membayar dan mendapatkan tanda terima",
+        "tr": "Ödeme yapmak ve makbuz almak",
+        "fr": "Payer et obtenir un reçu"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Paying and getting a receipt.",
+        "ur": "ادائیگی کرنے اور رسید حاصل کرنے کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Membayar dan mendapatkan tanda terima.",
+        "tr": "Ödeme yapma ve makbuz alma ile ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur le paiement et l'obtention d'un reçu."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "shopping-06-review-1",
+          "type": "question",
+          "arabic": "مَا السِّعْرُ النِّهَائِيُّ؟",
+          "transliteration": "mā s-siʿru n-nihāʾiyyu?",
+          "audioText": "مَا السِّعْرُ النِّهَائِيُّ؟",
+          "meaning": {
+            "en": "What is the final price?",
+            "ur": "حتمی قیمت کیا ہے؟",
+            "id": "Berapa harga akhirnya?",
+            "tr": "Son fiyat nedir?",
+            "fr": "Quel est le prix final ?"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-05-final-price.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-06-review-2",
+          "type": "sentence",
+          "arabic": "السِّعْرُ أَعْلَى مِمَّا تَوَقَّعْتُ",
+          "transliteration": "as-siʿru aʿlā mimmā tawaqqaʿtu",
+          "audioText": "السِّعْرُ أَعْلَى مِمَّا تَوَقَّعْتُ",
+          "meaning": {
+            "en": "The price is higher than I expected.",
+            "ur": "قیمت میری توقع سے زیادہ ہے۔",
+            "id": "Harganya lebih tinggi dari perkiraan saya.",
+            "tr": "Fiyatı beklediğimden yüksek.",
+            "fr": "Le prix est plus élevé que prévu."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-05-price-is-high.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-06-review-3",
+          "type": "question",
+          "arabic": "هَلْ يُوجَدُ خَصْمٌ عَلَى هَذَا الْمُنْتَجِ؟",
+          "transliteration": "hal yūjadu khaṣmun ʿalā hādhā l-muntaji?",
+          "audioText": "هَلْ يُوجَدُ خَصْمٌ عَلَى هَذَا الْمُنْتَجِ؟",
+          "meaning": {
+            "en": "Is there a discount on this product?",
+            "ur": "کیا اس پروڈکٹ پر کوئی رعایت ہے؟",
+            "id": "Apakah ada diskon untuk produk ini?",
+            "tr": "Bu üründe indirim var mı?",
+            "fr": "Y a-t-il une réduction sur ce produit ?"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-05-any-discount.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-06-review-4",
+          "type": "request",
+          "arabic": "هَلْ تَقْبَلُ سِعْرًا أَقَلَّ قَلِيلًا؟",
+          "transliteration": "hal taqbalu siʿran aqalla qalīlan?",
+          "audioText": "هَلْ تَقْبَلُ سِعْرًا أَقَلَّ قَلِيلًا؟",
+          "meaning": {
+            "en": "Would you accept a slightly lower price? (to a man)",
+            "ur": "کیا آپ قدرے کم قیمت قبول کریں گے؟ (ایک آدمی کو)",
+            "id": "Apakah Anda menerima harga yang sedikit lebih rendah? (kepada seorang pria)",
+            "tr": "Biraz daha düşük bir fiyatı kabul eder misiniz? (bir erkeğe)",
+            "fr": "Accepteriez-vous un prix légèrement inférieur ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-05-offer-lower-price.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-06-review-5",
+          "type": "sentence",
+          "arabic": "شُكْرًا عَلَى عَرْضِكَ، سَأَفَكَّرُ فِي الْأَمْرِ",
+          "transliteration": "shukran ʿalā ʿarḍika, saʾafakkaru fī l-amri",
+          "audioText": "شُكْرًا عَلَى عَرْضِكَ، سَأَفَكَّرُ فِي الْأَمْرِ",
+          "meaning": {
+            "en": "Thank you for your offer; I will think about it. (to a man)",
+            "ur": "آپ کی پیشکش کے لیے آپ کا شکریہ؛ میں اس کے بارے میں سوچوں گا۔ (ایک آدمی کو)",
+            "id": "Terima kasih atas tawaran Anda; Saya akan memikirkannya. (kepada seorang pria)",
+            "tr": "Teklifiniz için teşekkür ederiz; Bunu düşüneceğim. (bir erkeğe)",
+            "fr": "Merci pour votre offre; Je vais y réfléchir. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-05-thank-for-offer.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-06-cash-or-card",
+          "type": "question",
+          "arabic": "هَلْ أَدْفَعُ نَقْدًا أَمْ بِالْبِطَاقَةِ؟",
+          "transliteration": "hal adfaʿu naqdan am bi-l-biṭāqati?",
+          "audioText": "هَلْ أَدْفَعُ نَقْدًا أَمْ بِالْبِطَاقَةِ؟",
+          "meaning": {
+            "en": "Should I pay in cash or by card?",
+            "ur": "کیا مجھے نقد ادائیگی کرنی چاہیے یا کارڈ کے ذریعے؟",
+            "id": "Haruskah saya membayar tunai atau dengan kartu?",
+            "tr": "Ödemeyi nakit mi yoksa kartla mı yapmalıyım?",
+            "fr": "Dois-je payer en espèces ou par carte ?"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-06-cash-or-card.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-06-pay-by-card",
+          "type": "sentence",
+          "arabic": "سَأَدْفَعُ بِبِطَاقَةِ الِائْتِمَانِ",
+          "transliteration": "saʾadfaʿu bi-biṭāqati l-iʾtimāni",
+          "audioText": "سَأَدْفَعُ بِبِطَاقَةِ الِائْتِمَانِ",
+          "meaning": {
+            "en": "I will pay by credit card.",
+            "ur": "میں کریڈٹ کارڈ سے ادائیگی کروں گا۔",
+            "id": "Saya akan membayar dengan kartu kredit.",
+            "tr": "Kredi kartıyla ödeyeceğim.",
+            "fr": "Je paierai par carte bancaire."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-06-pay-by-card.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-06-receipt-please",
+          "type": "request",
+          "arabic": "أَرْجُو إِعْطَائِي الْإِيصَالَ",
+          "transliteration": "arjū iʿṭāʾiya l-īṣāla",
+          "audioText": "أَرْجُو إِعْطَائِي الْإِيصَالَ",
+          "meaning": {
+            "en": "Please give me the receipt.",
+            "ur": "براہ کرم مجھے رسید دیں۔",
+            "id": "Tolong berikan saya tanda terimanya.",
+            "tr": "Lütfen bana makbuzu ver.",
+            "fr": "S'il vous plaît, donnez-moi le reçu."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-06-receipt-please.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-06-payment-approved",
+          "type": "sentence",
+          "arabic": "تَمَّ قَبُولُ الدَّفْعِ بِنَجَاحٍ",
+          "transliteration": "tamma qabūlu d-dafʿi binajāḥin",
+          "audioText": "تَمَّ قَبُولُ الدَّفْعِ بِنَجَاحٍ",
+          "meaning": {
+            "en": "The payment was accepted successfully.",
+            "ur": "ادائیگی کامیابی کے ساتھ قبول کر لی گئی۔",
+            "id": "Pembayaran berhasil diterima.",
+            "tr": "Ödeme başarıyla kabul edildi.",
+            "fr": "Le paiement a été accepté avec succès."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-06-payment-approved.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-06-check-change",
+          "type": "request",
+          "arabic": "تَأَكَّدْ مِنَ الْبَاقِي، مِنْ فَضْلِكَ",
+          "transliteration": "taʾakkad mina l-bāqī, min faḍlika",
+          "audioText": "تَأَكَّدْ مِنَ الْبَاقِي، مِنْ فَضْلِكَ",
+          "meaning": {
+            "en": "Please check the change. (to a man)",
+            "ur": "براہ کرم تبدیلی کو چیک کریں۔ (ایک آدمی کو)",
+            "id": "Silakan periksa perubahannya. (kepada seorang pria)",
+            "tr": "Lütfen değişikliği kontrol edin. (bir erkeğe)",
+            "fr": "Veuillez vérifier le changement. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-06-check-change.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "shopping-07",
+      "order": 7,
+      "title": {
+        "en": "Exchanges and returns",
+        "ur": "تبادلے اور واپسی",
+        "id": "Pertukaran dan pengembalian",
+        "tr": "Değişimler ve iadeler",
+        "fr": "Échanges et retours"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Exchanges and returns.",
+        "ur": "تبادلے اور واپسی کے بارے میں مفید عربی الفاظ اور مختصر فقروں کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Penukaran dan pengembalian.",
+        "tr": "Değişimler ve iadeler hakkında yararlı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les échanges et les retours."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "shopping-07-review-1",
+          "type": "question",
+          "arabic": "هَلْ أَدْفَعُ نَقْدًا أَمْ بِالْبِطَاقَةِ؟",
+          "transliteration": "hal adfaʿu naqdan am bi-l-biṭāqati?",
+          "audioText": "هَلْ أَدْفَعُ نَقْدًا أَمْ بِالْبِطَاقَةِ؟",
+          "meaning": {
+            "en": "Should I pay in cash or by card?",
+            "ur": "کیا مجھے نقد ادائیگی کرنی چاہیے یا کارڈ کے ذریعے؟",
+            "id": "Haruskah saya membayar tunai atau dengan kartu?",
+            "tr": "Ödemeyi nakit mi yoksa kartla mı yapmalıyım?",
+            "fr": "Dois-je payer en espèces ou par carte ?"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-06-cash-or-card.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-07-review-2",
+          "type": "sentence",
+          "arabic": "سَأَدْفَعُ بِبِطَاقَةِ الِائْتِمَانِ",
+          "transliteration": "saʾadfaʿu bi-biṭāqati l-iʾtimāni",
+          "audioText": "سَأَدْفَعُ بِبِطَاقَةِ الِائْتِمَانِ",
+          "meaning": {
+            "en": "I will pay by credit card.",
+            "ur": "میں کریڈٹ کارڈ سے ادائیگی کروں گا۔",
+            "id": "Saya akan membayar dengan kartu kredit.",
+            "tr": "Kredi kartıyla ödeyeceğim.",
+            "fr": "Je paierai par carte bancaire."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-06-pay-by-card.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-07-review-3",
+          "type": "request",
+          "arabic": "أَرْجُو إِعْطَائِي الْإِيصَالَ",
+          "transliteration": "arjū iʿṭāʾiya l-īṣāla",
+          "audioText": "أَرْجُو إِعْطَائِي الْإِيصَالَ",
+          "meaning": {
+            "en": "Please give me the receipt.",
+            "ur": "براہ کرم مجھے رسید دیں۔",
+            "id": "Tolong berikan saya tanda terimanya.",
+            "tr": "Lütfen bana makbuzu ver.",
+            "fr": "S'il vous plaît, donnez-moi le reçu."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-06-receipt-please.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-07-review-4",
+          "type": "sentence",
+          "arabic": "تَمَّ قَبُولُ الدَّفْعِ بِنَجَاحٍ",
+          "transliteration": "tamma qabūlu d-dafʿi binajāḥin",
+          "audioText": "تَمَّ قَبُولُ الدَّفْعِ بِنَجَاحٍ",
+          "meaning": {
+            "en": "The payment was accepted successfully.",
+            "ur": "ادائیگی کامیابی کے ساتھ قبول کر لی گئی۔",
+            "id": "Pembayaran berhasil diterima.",
+            "tr": "Ödeme başarıyla kabul edildi.",
+            "fr": "Le paiement a été accepté avec succès."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-06-payment-approved.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-07-review-5",
+          "type": "request",
+          "arabic": "تَأَكَّدْ مِنَ الْبَاقِي، مِنْ فَضْلِكَ",
+          "transliteration": "taʾakkad mina l-bāqī, min faḍlika",
+          "audioText": "تَأَكَّدْ مِنَ الْبَاقِي، مِنْ فَضْلِكَ",
+          "meaning": {
+            "en": "Please check the change. (to a man)",
+            "ur": "براہ کرم تبدیلی کو چیک کریں۔ (ایک آدمی کو)",
+            "id": "Silakan periksa perubahannya. (kepada seorang pria)",
+            "tr": "Lütfen değişikliği kontrol edin. (bir erkeğe)",
+            "fr": "Veuillez vérifier le changement. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-06-check-change.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-07-exchange-size",
+          "type": "request",
+          "arabic": "أُرِيدُ اسْتِبْدَالَ هَذَا الْمَقَاسِ",
+          "transliteration": "urīdu istibdāla hādhā l-maqāsi",
+          "audioText": "أُرِيدُ اسْتِبْدَالَ هَذَا الْمَقَاسِ",
+          "meaning": {
+            "en": "I would like to exchange this size.",
+            "ur": "میں اس سائز کا تبادلہ کرنا چاہوں گا۔",
+            "id": "Saya ingin menukar ukuran ini.",
+            "tr": "Bu bedeni değiştirmek istiyorum.",
+            "fr": "J'aimerais échanger cette taille."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-07-exchange-size.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-07-wrong-color",
+          "type": "sentence",
+          "arabic": "اِخْتَرْتُ اللَّوْنَ الْخَاطِئَ بِالْخَطَإِ",
+          "transliteration": "ikhtartu l-lawna l-khāṭiʾa bi-l-khaṭaʾi",
+          "audioText": "اِخْتَرْتُ اللَّوْنَ الْخَاطِئَ بِالْخَطَإِ",
+          "meaning": {
+            "en": "I accidentally chose the wrong color.",
+            "ur": "میں نے غلطی سے غلط رنگ کا انتخاب کیا۔",
+            "id": "Saya tidak sengaja memilih warna yang salah.",
+            "tr": "Yanlışlıkla yanlış rengi seçtim.",
+            "fr": "J'ai accidentellement choisi la mauvaise couleur."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-07-wrong-color.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-07-return-policy",
+          "type": "question",
+          "arabic": "مَا شُرُوطُ إِرْجَاعِ الْبِضَاعَةِ؟",
+          "transliteration": "mā shurūṭu irjāʿi l-biḍāʿati?",
+          "audioText": "مَا شُرُوطُ إِرْجَاعِ الْبِضَاعَةِ؟",
+          "meaning": {
+            "en": "What is the return policy?",
+            "ur": "واپسی کی پالیسی کیا ہے؟",
+            "id": "Apa kebijakan pengembaliannya?",
+            "tr": "İade politikası nedir?",
+            "fr": "Quelle est la politique de retour ?"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-07-return-policy.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-07-item-is-damaged",
+          "type": "sentence",
+          "arabic": "وَجَدْتُ خَدْشًا عَلَى هَذَا الْمُنْتَجِ",
+          "transliteration": "wajadtu khadshan ʿalā hādhā l-muntaji",
+          "audioText": "وَجَدْتُ خَدْشًا عَلَى هَذَا الْمُنْتَجِ",
+          "meaning": {
+            "en": "I found a scratch on this product.",
+            "ur": "مجھے اس پروڈکٹ پر ایک خراش ملی۔",
+            "id": "Saya menemukan goresan pada produk ini.",
+            "tr": "Bu üründe bir çizik buldum.",
+            "fr": "J'ai trouvé une égratignure sur ce produit."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-07-item-is-damaged.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-07-keep-the-receipt",
+          "type": "request",
+          "arabic": "اِحْتَفِظْ بِالْإِيصَالِ لِعَمَلِيَّةِ الِاسْتِبْدَالِ",
+          "transliteration": "iḥtafiẓ bi-l-īṣāli li-ʿamaliyyati l-istibdāli",
+          "audioText": "اِحْتَفِظْ بِالْإِيصَالِ لِعَمَلِيَّةِ الِاسْتِبْدَالِ",
+          "meaning": {
+            "en": "Keep the receipt for the exchange. (to a man)",
+            "ur": "تبادلے کی رسید اپنے پاس رکھیں۔ (ایک آدمی کو)",
+            "id": "Simpan tanda terima penukaran. (kepada seorang pria)",
+            "tr": "Değişim için makbuzunuzu saklayın. (bir erkeğe)",
+            "fr": "Conservez le reçu de l’échange. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-07-keep-the-receipt.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "shopping-08",
+      "order": 8,
+      "title": {
+        "en": "Shopping for groceries",
+        "ur": "گروسری کی خریداری",
+        "id": "Belanja bahan makanan",
+        "tr": "Market alışverişi",
+        "fr": "Faire les courses"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about Shopping for groceries.",
+        "ur": "گروسری کی خریداری کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Belanja bahan makanan.",
+        "tr": "Market alışverişi hakkında yararlı Arapça kelimeler ve kısa ifadeler üzerinde alıştırma yapın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur les courses."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "shopping-08-review-1",
+          "type": "request",
+          "arabic": "أُرِيدُ اسْتِبْدَالَ هَذَا الْمَقَاسِ",
+          "transliteration": "urīdu istibdāla hādhā l-maqāsi",
+          "audioText": "أُرِيدُ اسْتِبْدَالَ هَذَا الْمَقَاسِ",
+          "meaning": {
+            "en": "I would like to exchange this size.",
+            "ur": "میں اس سائز کا تبادلہ کرنا چاہوں گا۔",
+            "id": "Saya ingin menukar ukuran ini.",
+            "tr": "Bu bedeni değiştirmek istiyorum.",
+            "fr": "J'aimerais échanger cette taille."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-07-exchange-size.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-08-review-2",
+          "type": "sentence",
+          "arabic": "اِخْتَرْتُ اللَّوْنَ الْخَاطِئَ بِالْخَطَإِ",
+          "transliteration": "ikhtartu l-lawna l-khāṭiʾa bi-l-khaṭaʾi",
+          "audioText": "اِخْتَرْتُ اللَّوْنَ الْخَاطِئَ بِالْخَطَإِ",
+          "meaning": {
+            "en": "I accidentally chose the wrong color.",
+            "ur": "میں نے غلطی سے غلط رنگ کا انتخاب کیا۔",
+            "id": "Saya tidak sengaja memilih warna yang salah.",
+            "tr": "Yanlışlıkla yanlış rengi seçtim.",
+            "fr": "J'ai accidentellement choisi la mauvaise couleur."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-07-wrong-color.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-08-review-3",
+          "type": "question",
+          "arabic": "مَا شُرُوطُ إِرْجَاعِ الْبِضَاعَةِ؟",
+          "transliteration": "mā shurūṭu irjāʿi l-biḍāʿati?",
+          "audioText": "مَا شُرُوطُ إِرْجَاعِ الْبِضَاعَةِ؟",
+          "meaning": {
+            "en": "What is the return policy?",
+            "ur": "واپسی کی پالیسی کیا ہے؟",
+            "id": "Apa kebijakan pengembaliannya?",
+            "tr": "İade politikası nedir?",
+            "fr": "Quelle est la politique de retour ?"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-07-return-policy.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-08-review-4",
+          "type": "sentence",
+          "arabic": "وَجَدْتُ خَدْشًا عَلَى هَذَا الْمُنْتَجِ",
+          "transliteration": "wajadtu khadshan ʿalā hādhā l-muntaji",
+          "audioText": "وَجَدْتُ خَدْشًا عَلَى هَذَا الْمُنْتَجِ",
+          "meaning": {
+            "en": "I found a scratch on this product.",
+            "ur": "مجھے اس پروڈکٹ پر ایک خراش ملی۔",
+            "id": "Saya menemukan goresan pada produk ini.",
+            "tr": "Bu üründe bir çizik buldum.",
+            "fr": "J'ai trouvé une égratignure sur ce produit."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-07-item-is-damaged.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-08-review-5",
+          "type": "request",
+          "arabic": "اِحْتَفِظْ بِالْإِيصَالِ لِعَمَلِيَّةِ الِاسْتِبْدَالِ",
+          "transliteration": "iḥtafiẓ bi-l-īṣāli li-ʿamaliyyati l-istibdāli",
+          "audioText": "اِحْتَفِظْ بِالْإِيصَالِ لِعَمَلِيَّةِ الِاسْتِبْدَالِ",
+          "meaning": {
+            "en": "Keep the receipt for the exchange. (to a man)",
+            "ur": "تبادلے کی رسید اپنے پاس رکھیں۔ (ایک آدمی کو)",
+            "id": "Simpan tanda terima penukaran. (kepada seorang pria)",
+            "tr": "Değişim için makbuzunuzu saklayın. (bir erkeğe)",
+            "fr": "Conservez le reçu de l’échange. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-07-keep-the-receipt.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-08-shopping-list",
+          "type": "phrase",
+          "arabic": "قَائِمَةُ الْمُشْتَرَيَاتِ",
+          "transliteration": "qāʾimatu l-mushtarayāti",
+          "audioText": "قَائِمَةُ الْمُشْتَرَيَاتِ",
+          "meaning": {
+            "en": "a shopping list",
+            "ur": "ایک خریداری کی فہرست",
+            "id": "daftar belanjaan",
+            "tr": "alışveriş listesi",
+            "fr": "une liste de courses"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-08-shopping-list.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-08-fresh-fish-today",
+          "type": "question",
+          "arabic": "هَلِ السَّمَكُ طَازَجٌ الْيَوْمَ؟",
+          "transliteration": "hali s-samaku ṭāzijun l-yawma?",
+          "audioText": "هَلِ السَّمَكُ طَازَجٌ الْيَوْمَ؟",
+          "meaning": {
+            "en": "Is the fish fresh today?",
+            "ur": "کیا آج مچھلی تازہ ہے؟",
+            "id": "Apakah ikannya segar hari ini?",
+            "tr": "Bugün balıklar taze mi?",
+            "fr": "Le poisson est-il frais aujourd'hui ?"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-08-fresh-fish-today.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-08-choose-small-quantity",
+          "type": "sentence",
+          "arabic": "سَآخُذُ كَمِّيَّةً صَغِيرَةً مِنَ التَّمْرِ",
+          "transliteration": "saʾākhudhu kammiyyatan ṣaghīratan mina t-tamri",
+          "audioText": "سَآخُذُ كَمِّيَّةً صَغِيرَةً مِنَ التَّمْرِ",
+          "meaning": {
+            "en": "I will take a small quantity of dates.",
+            "ur": "میں تھوڑی مقدار میں کھجور لوں گا۔",
+            "id": "Saya akan mengambil sedikit kurma.",
+            "tr": "Az miktarda hurma alacağım.",
+            "fr": "Je prendrai une petite quantité de dattes."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-08-choose-small-quantity.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-08-weigh-the-fruit",
+          "type": "request",
+          "arabic": "زِنِ الْفَاكِهَةَ بَعْدَ اخْتِيَارِهَا، مِنْ فَضْلِكَ",
+          "transliteration": "zini l-fākihata baʿda ikhtiyārihā, min faḍlika",
+          "audioText": "زِنِ الْفَاكِهَةَ بَعْدَ اخْتِيَارِهَا، مِنْ فَضْلِكَ",
+          "meaning": {
+            "en": "Please weigh the fruit after choosing it. (to a man)",
+            "ur": "براہ کرم پھل کو منتخب کرنے کے بعد اس کا وزن کریں۔ (ایک آدمی کو)",
+            "id": "Harap menimbang buah setelah memilihnya. (kepada seorang pria)",
+            "tr": "Lütfen meyveyi seçtikten sonra tartın. (bir erkeğe)",
+            "fr": "Veuillez peser le fruit après l'avoir choisi. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-08-weigh-the-fruit.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-08-separate-bags",
+          "type": "request",
+          "arabic": "ضَعِ الْمُنْتَجَاتِ فِي أَكْيَاسٍ مُنْفَصِلَةٍ",
+          "transliteration": "ḍaʿi l-muntajāti fī akyāsin munfaṣilatin",
+          "audioText": "ضَعِ الْمُنْتَجَاتِ فِي أَكْيَاسٍ مُنْفَصِلَةٍ",
+          "meaning": {
+            "en": "Put the products in separate bags. (to a man)",
+            "ur": "مصنوعات کو الگ الگ بیگ میں رکھیں۔ (ایک آدمی کو)",
+            "id": "Masukkan produk ke dalam kantong terpisah. (kepada seorang pria)",
+            "tr": "Ürünleri ayrı poşetlere koyun. (bir erkeğe)",
+            "fr": "Mettez les produits dans des sacs séparés. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-08-separate-bags.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "shopping-09",
+      "order": 9,
+      "title": {
+        "en": "At a clothing shop",
+        "ur": "کپڑے کی دکان پر",
+        "id": "Di toko pakaian",
+        "tr": "Bir giyim mağazasında",
+        "fr": "Dans un magasin de vêtements"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about At a clothing shop.",
+        "ur": "کپڑے کی دکان پر مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang Di toko pakaian.",
+        "tr": "Bir giyim mağazasında ile ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur Dans un magasin de vêtements."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "shopping-09-review-1",
+          "type": "phrase",
+          "arabic": "قَائِمَةُ الْمُشْتَرَيَاتِ",
+          "transliteration": "qāʾimatu l-mushtarayāti",
+          "audioText": "قَائِمَةُ الْمُشْتَرَيَاتِ",
+          "meaning": {
+            "en": "a shopping list",
+            "ur": "ایک خریداری کی فہرست",
+            "id": "daftar belanjaan",
+            "tr": "alışveriş listesi",
+            "fr": "une liste de courses"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-08-shopping-list.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-09-review-2",
+          "type": "question",
+          "arabic": "هَلِ السَّمَكُ طَازَجٌ الْيَوْمَ؟",
+          "transliteration": "hali s-samaku ṭāzijun l-yawma?",
+          "audioText": "هَلِ السَّمَكُ طَازَجٌ الْيَوْمَ؟",
+          "meaning": {
+            "en": "Is the fish fresh today?",
+            "ur": "کیا آج مچھلی تازہ ہے؟",
+            "id": "Apakah ikannya segar hari ini?",
+            "tr": "Bugün balıklar taze mi?",
+            "fr": "Le poisson est-il frais aujourd'hui ?"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-08-fresh-fish-today.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-09-review-3",
+          "type": "sentence",
+          "arabic": "سَآخُذُ كَمِّيَّةً صَغِيرَةً مِنَ التَّمْرِ",
+          "transliteration": "saʾākhudhu kammiyyatan ṣaghīratan mina t-tamri",
+          "audioText": "سَآخُذُ كَمِّيَّةً صَغِيرَةً مِنَ التَّمْرِ",
+          "meaning": {
+            "en": "I will take a small quantity of dates.",
+            "ur": "میں تھوڑی مقدار میں کھجور لوں گا۔",
+            "id": "Saya akan mengambil sedikit kurma.",
+            "tr": "Az miktarda hurma alacağım.",
+            "fr": "Je prendrai une petite quantité de dattes."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-08-choose-small-quantity.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-09-review-4",
+          "type": "request",
+          "arabic": "زِنِ الْفَاكِهَةَ بَعْدَ اخْتِيَارِهَا، مِنْ فَضْلِكَ",
+          "transliteration": "zini l-fākihata baʿda ikhtiyārihā, min faḍlika",
+          "audioText": "زِنِ الْفَاكِهَةَ بَعْدَ اخْتِيَارِهَا، مِنْ فَضْلِكَ",
+          "meaning": {
+            "en": "Please weigh the fruit after choosing it. (to a man)",
+            "ur": "براہ کرم پھل کو منتخب کرنے کے بعد اس کا وزن کریں۔ (ایک آدمی کو)",
+            "id": "Harap menimbang buah setelah memilihnya. (kepada seorang pria)",
+            "tr": "Lütfen meyveyi seçtikten sonra tartın. (bir erkeğe)",
+            "fr": "Veuillez peser le fruit après l'avoir choisi. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-08-weigh-the-fruit.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-09-review-5",
+          "type": "request",
+          "arabic": "ضَعِ الْمُنْتَجَاتِ فِي أَكْيَاسٍ مُنْفَصِلَةٍ",
+          "transliteration": "ḍaʿi l-muntajāti fī akyāsin munfaṣilatin",
+          "audioText": "ضَعِ الْمُنْتَجَاتِ فِي أَكْيَاسٍ مُنْفَصِلَةٍ",
+          "meaning": {
+            "en": "Put the products in separate bags. (to a man)",
+            "ur": "مصنوعات کو الگ الگ بیگ میں رکھیں۔ (ایک آدمی کو)",
+            "id": "Masukkan produk ke dalam kantong terpisah. (kepada seorang pria)",
+            "tr": "Ürünleri ayrı poşetlere koyun. (bir erkeğe)",
+            "fr": "Mettez les produits dans des sacs séparés. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-08-separate-bags.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-09-looking-for-coat",
+          "type": "sentence",
+          "arabic": "أَبْحَثُ عَنْ مِعْطَفٍ لِلشِّتَاءِ",
+          "transliteration": "abḥathu ʿan miʿṭafin li-sh-shitāʾi",
+          "audioText": "أَبْحَثُ عَنْ مِعْطَفٍ لِلشِّتَاءِ",
+          "meaning": {
+            "en": "I am looking for a coat for winter.",
+            "ur": "میں سردیوں کے لیے کوٹ تلاش کر رہا ہوں۔",
+            "id": "Saya mencari mantel untuk musim dingin.",
+            "tr": "Kışlık mont arıyorum.",
+            "fr": "Je cherche un manteau pour l'hiver."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-09-looking-for-coat.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-09-size-suits-you",
+          "type": "question",
+          "arabic": "هَلْ يُنَاسِبُكَ هَذَا الْمَقَاسُ؟",
+          "transliteration": "hal yunāsibuka hādhā l-maqāsu?",
+          "audioText": "هَلْ يُنَاسِبُكَ هَذَا الْمَقَاسُ؟",
+          "meaning": {
+            "en": "Does this size fit you? (to a man)",
+            "ur": "کیا یہ سائز آپ کے لیے موزوں ہے؟ (ایک آدمی کو)",
+            "id": "Apakah ukuran ini cocok untuk Anda? (kepada seorang pria)",
+            "tr": "Bu beden size uygun mu? (bir erkeğe)",
+            "fr": "Cette taille vous convient-elle ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-09-size-suits-you.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-09-sleeves-too-long",
+          "type": "sentence",
+          "arabic": "كُمَّا هَذَا الْقَمِيصِ طَوِيلَانِ جِدًّا",
+          "transliteration": "kummā hādhā l-qamīṣi ṭawīlāni jiddan",
+          "audioText": "كُمَّا هَذَا الْقَمِيصِ طَوِيلَانِ جِدًّا",
+          "meaning": {
+            "en": "The sleeves of this shirt are too long.",
+            "ur": "اس قمیض کی آستینیں بہت لمبی ہیں۔",
+            "id": "Lengan baju ini terlalu panjang.",
+            "tr": "Bu gömleğin kolları çok uzun.",
+            "fr": "Les manches de cette chemise sont trop longues."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-09-sleeves-too-long.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-09-need-something-formal",
+          "type": "sentence",
+          "arabic": "أَحْتَاجُ إِلَى مَلَابِسَ أَكْثَرَ رَسْمِيَّةً",
+          "transliteration": "aḥtāju ilā malābisa akthara rasmiyyatan",
+          "audioText": "أَحْتَاجُ إِلَى مَلَابِسَ أَكْثَرَ رَسْمِيَّةً",
+          "meaning": {
+            "en": "I need more formal clothes.",
+            "ur": "مجھے مزید رسمی کپڑوں کی ضرورت ہے۔",
+            "id": "Saya membutuhkan lebih banyak pakaian formal.",
+            "tr": "Daha resmi kıyafetlere ihtiyacım var.",
+            "fr": "J'ai besoin de vêtements plus formels."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-09-need-something-formal.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-09-shop-assistant-finds-color",
+          "type": "sentence",
+          "arabic": "سَأَبْحَثُ لَكَ عَنْ هَذَا اللَّوْنِ فِي الْمَخْزَنِ",
+          "transliteration": "saʾabḥathu laka ʿan hādhā l-lawni fī l-makhzani",
+          "audioText": "سَأَبْحَثُ لَكَ عَنْ هَذَا اللَّوْنِ فِي الْمَخْزَنِ",
+          "meaning": {
+            "en": "I will look for this color for you in the stockroom. (to a man)",
+            "ur": "میں آپ کے لیے یہ رنگ سٹاک روم میں تلاش کروں گا۔ (ایک آدمی کو)",
+            "id": "Saya akan mencari warna ini untuk Anda di ruang stok. (kepada seorang pria)",
+            "tr": "Senin için bu rengi depoda arayacağım. (bir erkeğe)",
+            "fr": "Je chercherai cette couleur pour vous dans la réserve. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-09-shop-assistant-finds-color.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "shopping-10",
+      "order": 10,
+      "title": {
+        "en": "A shopping conversation",
+        "ur": "ایک شاپنگ گفتگو",
+        "id": "Percakapan belanja",
+        "tr": "Bir alışveriş sohbeti",
+        "fr": "Une conversation de magasinage"
+      },
+      "objective": {
+        "en": "Practice useful Arabic words and short phrases about A shopping conversation.",
+        "ur": "شاپنگ گفتگو کے بارے میں مفید عربی الفاظ اور مختصر جملے کی مشق کریں۔",
+        "id": "Latih kata-kata Arab yang berguna dan frasa singkat tentang percakapan belanja.",
+        "tr": "Bir alışveriş sohbeti ile ilgili yararlı Arapça kelimeler ve kısa ifadeler üzerinde çalışın.",
+        "fr": "Pratiquez des mots arabes utiles et des phrases courtes sur une conversation de shopping."
+      },
+      "instruction": {
+        "en": "Listen to each item, repeat it aloud, then use the review items to recall earlier lessons.",
+        "ur": "ہر آئٹم کو سنیں، اسے اونچی آواز میں دہرائیں، پھر پہلے کے اسباق کو یاد کرنے کے لیے جائزہ لینے والے آئٹمز کا استعمال کریں۔",
+        "id": "Dengarkan setiap item, ulangi dengan lantang, lalu gunakan item ulasan untuk mengingat pelajaran sebelumnya.",
+        "tr": "Her bir öğeyi dinleyin, yüksek sesle tekrarlayın ve ardından daha önceki dersleri hatırlamak için öğelerin gözden geçirilmesini kullanın.",
+        "fr": "Écoutez chaque élément, répétez-le à voix haute, puis utilisez les éléments de révision pour rappeler les leçons précédentes."
+      },
+      "items": [
+        {
+          "id": "shopping-10-review-1",
+          "type": "sentence",
+          "arabic": "أَبْحَثُ عَنْ مِعْطَفٍ لِلشِّتَاءِ",
+          "transliteration": "abḥathu ʿan miʿṭafin li-sh-shitāʾi",
+          "audioText": "أَبْحَثُ عَنْ مِعْطَفٍ لِلشِّتَاءِ",
+          "meaning": {
+            "en": "I am looking for a coat for winter.",
+            "ur": "میں سردیوں کے لیے کوٹ تلاش کر رہا ہوں۔",
+            "id": "Saya mencari mantel untuk musim dingin.",
+            "tr": "Kışlık mont arıyorum.",
+            "fr": "Je cherche un manteau pour l'hiver."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-09-looking-for-coat.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-10-review-2",
+          "type": "question",
+          "arabic": "هَلْ يُنَاسِبُكَ هَذَا الْمَقَاسُ؟",
+          "transliteration": "hal yunāsibuka hādhā l-maqāsu?",
+          "audioText": "هَلْ يُنَاسِبُكَ هَذَا الْمَقَاسُ؟",
+          "meaning": {
+            "en": "Does this size fit you? (to a man)",
+            "ur": "کیا یہ سائز آپ کے لیے موزوں ہے؟ (ایک آدمی کو)",
+            "id": "Apakah ukuran ini cocok untuk Anda? (kepada seorang pria)",
+            "tr": "Bu beden size uygun mu? (bir erkeğe)",
+            "fr": "Cette taille vous convient-elle ? (à un homme)"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-09-size-suits-you.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-10-review-3",
+          "type": "sentence",
+          "arabic": "كُمَّا هَذَا الْقَمِيصِ طَوِيلَانِ جِدًّا",
+          "transliteration": "kummā hādhā l-qamīṣi ṭawīlāni jiddan",
+          "audioText": "كُمَّا هَذَا الْقَمِيصِ طَوِيلَانِ جِدًّا",
+          "meaning": {
+            "en": "The sleeves of this shirt are too long.",
+            "ur": "اس قمیض کی آستینیں بہت لمبی ہیں۔",
+            "id": "Lengan baju ini terlalu panjang.",
+            "tr": "Bu gömleğin kolları çok uzun.",
+            "fr": "Les manches de cette chemise sont trop longues."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-09-sleeves-too-long.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-10-review-4",
+          "type": "sentence",
+          "arabic": "أَحْتَاجُ إِلَى مَلَابِسَ أَكْثَرَ رَسْمِيَّةً",
+          "transliteration": "aḥtāju ilā malābisa akthara rasmiyyatan",
+          "audioText": "أَحْتَاجُ إِلَى مَلَابِسَ أَكْثَرَ رَسْمِيَّةً",
+          "meaning": {
+            "en": "I need more formal clothes.",
+            "ur": "مجھے مزید رسمی کپڑوں کی ضرورت ہے۔",
+            "id": "Saya membutuhkan lebih banyak pakaian formal.",
+            "tr": "Daha resmi kıyafetlere ihtiyacım var.",
+            "fr": "J'ai besoin de vêtements plus formels."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-09-need-something-formal.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-10-review-5",
+          "type": "sentence",
+          "arabic": "سَأَبْحَثُ لَكَ عَنْ هَذَا اللَّوْنِ فِي الْمَخْزَنِ",
+          "transliteration": "saʾabḥathu laka ʿan hādhā l-lawni fī l-makhzani",
+          "audioText": "سَأَبْحَثُ لَكَ عَنْ هَذَا اللَّوْنِ فِي الْمَخْزَنِ",
+          "meaning": {
+            "en": "I will look for this color for you in the stockroom. (to a man)",
+            "ur": "میں آپ کے لیے یہ رنگ سٹاک روم میں تلاش کروں گا۔ (ایک آدمی کو)",
+            "id": "Saya akan mencari warna ini untuk Anda di ruang stok. (kepada seorang pria)",
+            "tr": "Senin için bu rengi depoda arayacağım. (bir erkeğe)",
+            "fr": "Je chercherai cette couleur pour vous dans la réserve. (à un homme)"
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-09-shop-assistant-finds-color.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-10-customer-asks-size",
+          "type": "sentence",
+          "arabic": "سَأَلَ الزَّبُونُ عَنْ مَقَاسٍ أَكْبَرَ",
+          "transliteration": "saʾala z-zabūnu ʿan maqāsin akbara",
+          "audioText": "سَأَلَ الزَّبُونُ عَنْ مَقَاسٍ أَكْبَرَ",
+          "meaning": {
+            "en": "The customer asked for a larger size.",
+            "ur": "گاہک نے بڑے سائز کا پوچھا۔",
+            "id": "Pelanggan meminta ukuran yang lebih besar.",
+            "tr": "Müşteri daha büyük bir beden istedi.",
+            "fr": "Le client a demandé une taille plus grande."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-10-customer-asks-size.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-10-assistant-brings-shirt",
+          "type": "sentence",
+          "arabic": "أَحْضَرَ الْبَائِعُ قَمِيصًا بِلَوْنٍ مُخْتَلِفٍ",
+          "transliteration": "aḥḍara l-bāʾiʿu qamīṣan bi-lawni mukhtalifin",
+          "audioText": "أَحْضَرَ الْبَائِعُ قَمِيصًا بِلَوْنٍ مُخْتَلِفٍ",
+          "meaning": {
+            "en": "The shopkeeper brought a shirt in a different color.",
+            "ur": "دکاندار دوسرے رنگ کی قمیض لے کر آیا۔",
+            "id": "Penjaga toko membawakan kemeja dengan warna berbeda.",
+            "tr": "Dükkan sahibi farklı renkte bir gömlek getirdi.",
+            "fr": "Le commerçant a apporté une chemise d'une couleur différente."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-10-assistant-brings-shirt.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-10-customer-tries-shirt",
+          "type": "sentence",
+          "arabic": "قَاسَ الزَّبُونُ الْقَمِيصَ وَوَجَدَهُ مُرِيحًا",
+          "transliteration": "qāsa z-zabūnu l-qamīṣa wa-wajadahu murīḥan",
+          "audioText": "قَاسَ الزَّبُونُ الْقَمِيصَ وَوَجَدَهُ مُرِيحًا",
+          "meaning": {
+            "en": "The customer tried on the shirt and found it comfortable.",
+            "ur": "گاہک نے قمیض کو آزمایا اور اسے آرام دہ پایا۔",
+            "id": "Pelanggan mencoba kemeja tersebut dan merasa nyaman.",
+            "tr": "Müşteri gömleği denedi ve rahat buldu.",
+            "fr": "Le client a essayé la chemise et l’a trouvée confortable."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-10-customer-tries-shirt.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-10-ask-about-discount",
+          "type": "sentence",
+          "arabic": "سَأَلَ عَنِ الْخَصْمِ وَدَفَعَ بِالْبِطَاقَةِ",
+          "transliteration": "saʾala ʿani l-khaṣmi wa-dafaʿa bi-l-biṭāqati",
+          "audioText": "سَأَلَ عَنِ الْخَصْمِ وَدَفَعَ بِالْبِطَاقَةِ",
+          "meaning": {
+            "en": "He asked about a discount and paid by card.",
+            "ur": "اس نے ڈسکاؤنٹ کے بارے میں پوچھا اور کارڈ کے ذریعے ادائیگی کی۔",
+            "id": "Dia bertanya tentang diskon dan membayar dengan kartu.",
+            "tr": "İndirim istedi ve kartla ödedi.",
+            "fr": "Il a demandé une réduction et a payé par carte."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-10-ask-about-discount.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        },
+        {
+          "id": "shopping-10-leave-with-receipt",
+          "type": "sentence",
+          "arabic": "غَادَرَ الْمَتْجَرَ وَمَعَهُ الْإِيصَالُ",
+          "transliteration": "ghādara l-matjara wa-maʿahu l-īṣālu",
+          "audioText": "غَادَرَ الْمَتْجَرَ وَمَعَهُ الْإِيصَالُ",
+          "meaning": {
+            "en": "He left the shop with the receipt.",
+            "ur": "وہ رسید لے کر دکان سے چلا گیا۔",
+            "id": "Dia meninggalkan toko dengan tanda terima.",
+            "tr": "Faturasıyla birlikte mağazadan ayrıldı.",
+            "fr": "Il a quitté le magasin avec le reçu."
+          },
+          "audio": {
+            "path": "audio/shopping/shopping-10-leave-with-receipt.mp3",
+            "format": "mp3",
+            "provider": "edge-tts",
+            "voice": "ar-SA-HamedNeural",
+            "volumeBoostDb": 2
+          }
+        }
+      ]
+    }
+  ]
+}
